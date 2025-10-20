@@ -1,0 +1,16 @@
+#The number of ticks needed to reload a musket. 20 ticks = 1 second.
+# Default: 30
+# Range: 20 ~ 80
+"Musket reload time" = 30
+#The number of ticks needed to aim a musket. 20 ticks = 1 second.
+# Default: 30
+# Range: 20 ~ 80
+"Musket aim time" = 30
+#The amount of damage dealt by bullets.
+# Default: 16.0
+# Range: 16.0 ~ 24.0
+"Bullet damage" = 16.0
+#Damage multiplier applied to bullets fired by mobs.
+# Default: 0.45
+# Range: 0.45 ~ 1.0
+"Mob bullet damage multiplier" = 0.45
