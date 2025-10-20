@@ -1,0 +1,30 @@
+
+{
+    "diamond_in_the_rough": {
+        "title": "Diamond in the Rough",
+        "frame": {
+            "type": "advancement",
+            "data": {
+                "frame": "task"
+            }
+        },
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "minecraft:diamond"
+            }
+        },
+        "description": "You are able to craft and use armor and tools made of diamond.",
+        "extra_description": "'Armor' encompasses helmets, chestplates, leggings and boots. 'Tools' encompasses axes, hoes, pickaxes, shovels, swords and spears.",
+        "rewards": [
+            {
+                "type": "astages:stage_reward",
+                "data": {
+                    "stage": "phis_stage_diamond",
+                    "operation": "add"
+                }
+            }
+        ],
+        "required_skills": 0
+    }
+}
