@@ -1,0 +1,8 @@
+[serverConfig]
+slimeBucketingEnabled = true
+magmaCubeBucketingEnabled = true
+enableSlimeChunkDetection = true
+magmaCubeBucketHurts = true
+maxBucketableSlimeSize = 1
+[clientConfig]
+enableTrails = true

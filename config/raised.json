@@ -22,6 +22,17 @@
       },
       "sync": "artifacts:helium_flamingo_charge"
     },
+    "dsurround:layer/overlaymanager": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "dsurround:layer/overlaymanager"
+    },
     "farmersdelight:comfort": {
       "displacement": {
         "x": 0,
@@ -120,6 +131,17 @@
         "y": "NONE"
       },
       "sync": "immersiveoverlays:temperature"
+    },
+    "incapacitated:down_counter": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "incapacitated:down_counter"
     },
     "irons_spellbooks:cast_bar": {
       "displacement": {
@@ -318,6 +340,17 @@
         "y": "DOWN"
       },
       "sync": "minecraft:toasts"
+    },
+    "moreoffhandslots:offhand_hud": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "moreoffhandslots:offhand_hud"
     },
     "overflowingbars:toughness_level": {
       "displacement": {

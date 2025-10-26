@@ -1,11 +1,11 @@
-const tiers = ["gold", "iron", "diamond", "netherite"];
+const tiersUsingRestriction = ["golden", "iron", "diamond", "netherite"];
 
 // Vanilla
-for (const tier of tiers) {
+for (const tier of tiersUsingRestriction) {
   let stage = `phis_stage_${tier}`;
-    if (tier == "gold") {
-      stage = "phis_stage_copper_and_gold";
-    }
+  if (tier == "golden") {
+    stage = "phis_stage_copper_and_gold";
+  }
   AStages.addRestrictionForArmor(
     `phis/use_${tier}_armor`,
     stage,
@@ -29,25 +29,25 @@ for (const tier of tiers) {
 }
 
 // Copper
-  AStages.addRestrictionForArmor(
-    "phis/use_copper_armor",
-    "phis_stage_copper_and_gold",
-    "leafscopperbackport:copper_helmet",
-    "leafscopperbackport:copper_chestplate",
-    "leafscopperbackport:copper_boots",
-    "leafscopperbackport:$copper_leggings"
-  );
-  AStages.addRestrictionForItem(
-    "phis/use_copper_tools",
-    "phis_stage_copper_and_gold",
-    "leafscopperbackport:copper_pickaxe",
-    "leafscopperbackport:copper_shovel",
-    "leafscopperbackport:copper_axe",
-    "leafscopperbackport:copper_hoe",
-    "leafscopperbackport:copper_sword"
-  )
-    .setCanBeStoredInInventory(true)
-    .setCanBeStoredInContainers(true)
-    .setCanPickedUp(true);
+AStages.addRestrictionForArmor(
+  "phis/use_copper_armor",
+  "phis_stage_copper_and_gold",
+  "leafscopperbackport:copper_armor_helmet",
+  "leafscopperbackport:copper_armor_chestplate",
+  "leafscopperbackport:copper_armor_boots",
+  "leafscopperbackport:$copper_armor_leggings"
+);
+AStages.addRestrictionForItem(
+  "phis/use_copper_tools",
+  "phis_stage_copper_and_gold",
+  "leafscopperbackport:copper_pickaxe",
+  "leafscopperbackport:copper_shovel",
+  "leafscopperbackport:copper_axe",
+  "leafscopperbackport:copper_hoe",
+  "leafscopperbackport:copper_sword"
+)
+  .setCanBeStoredInInventory(true)
+  .setCanBeStoredInContainers(true)
+  .setCanPickedUp(true);
 
 // Deeper and Darker

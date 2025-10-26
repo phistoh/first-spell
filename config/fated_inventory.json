@@ -1,0 +1,14 @@
+{
+  "CONFIG_VERSION_DO_NOT_TOUCH_PLS": "1.2.0",
+  "COMMENT": "Further customization is possible through datapacks - see Modrinth page",
+  "fateStoresXp": true,
+  "fateStoresItems": true,
+  "fatedAltarRequiresCharges": false,
+  "runningOutOfChargesClearsFate": true,
+  "showMessageOnRespawn": true,
+  "generateAltarBuildingsInVillages": true,
+  "villageAltarBuildingWeight": 2,
+  "anyNonstackableAllowsModifiedComponents": false,
+  "anyDurabilityItemAllowsModifiedComponents": true,
+  "experimentalFlattenContainerItems": false
+}

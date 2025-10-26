@@ -1,13 +1,13 @@
 // Restrict crafting
-const tiers = ["copper", "gold", "iron", "diamond", "netherite", "warden"];
+const tiersCraftingRestriction = ["copper", "golden", "iron", "diamond", "netherite", "warden"];
 const tools = ["pickaxe", "shovel", "axe", "hoe", "sword"];
 const armors = ["helmet", "chestplate", "leggings", "boots"];
 
-for (const tier of tiers) {
+for (const tier of tiersCraftingRestriction) {
   for (const item of tools.concat(armors)) {
     let restriction = `phis/crafting_${tier}_${item}`;
     let stage = `phis_stage_${tier}`;
-    if (tier == "copper" || tier == "gold") {
+    if (tier == "copper" || tier == "golden") {
       stage = "phis_stage_copper_and_gold";
     }
     let recipeID = `minecraft:${tier}_${item}`;
