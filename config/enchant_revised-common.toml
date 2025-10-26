@@ -1,0 +1,32 @@
+provideStartingLoot = true
+
+[experience]
+	disableXP = true
+	enableBottleOfEnchant = false
+
+[enchanting]
+	enableEnchantAltar = true
+	enableEnchantTable = false
+	enableEnchantTableXPCosts = false
+
+[anvil]
+	enableAnvilXPCosts = false
+	enableBookUpgrading = false
+
+[mending]
+	replaceMending = true
+	# Default: 200
+	# Range: 1 ~ 9999999
+	repairDelayTicks = 200
+	# Default: 40
+	# Range: 1 ~ 9999999
+	repairDelayTicksPerLevel = 40
+
+[villager]
+	enableLapisTrade = true
+	enableEchoingBookTrade = true
+	enableEnchantedBookTrade = false
+
+[netherite_tools]
+	repairNetheriteWithDiamonds = true
+	repairNetheriteWithScrap = false

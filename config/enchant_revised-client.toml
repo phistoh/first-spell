@@ -1,0 +1,5 @@
+enableRecipeBook = true
+enableXPBar = false
+# Default: 33
+# Range: 0 ~ 10000
+guiHeight = 33
