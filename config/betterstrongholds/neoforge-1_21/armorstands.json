@@ -2,9 +2,9 @@
   "commonHelmets": {
     "entries": {
       "minecraft:chainmail_helmet": 0.3,
-      "minecraft:iron_helmet": 0.3,
       "minecraft:leather_helmet": 0.1,
-      "minecraft:carved_pumpkin": 0.01
+      "minecraft:carved_pumpkin": 0.01,
+      "minecraft:iron_helmet": 0.3
     },
     "defaultItem": "minecraft:air"
   },
@@ -31,9 +31,9 @@
   },
   "commonLeggings": {
     "entries": {
-      "minecraft:leather_leggings": 0.1,
+      "minecraft:iron_leggings": 0.3,
       "minecraft:chainmail_leggings": 0.3,
-      "minecraft:iron_leggings": 0.3
+      "minecraft:leather_leggings": 0.1
     },
     "defaultItem": "minecraft:air"
   },

@@ -15,8 +15,8 @@
   },
   "armoryChestplates": {
     "entries": {
-      "minecraft:golden_chestplate": 0.2,
-      "minecraft:chainmail_chestplate": 0.3
+      "minecraft:chainmail_chestplate": 0.3,
+      "minecraft:golden_chestplate": 0.2
     },
     "defaultItem": "minecraft:air"
   },
@@ -36,8 +36,8 @@
   },
   "wardrobeLeggings": {
     "entries": {
-      "minecraft:leather_leggings": 0.4,
-      "minecraft:chainmail_leggings": 0.2
+      "minecraft:chainmail_leggings": 0.2,
+      "minecraft:leather_leggings": 0.4
     },
     "defaultItem": "minecraft:air"
   },
