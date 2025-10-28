@@ -1,7 +1,5 @@
 {
-	"version": 3,
+  "version": 3,
 
-	"categories": [
-		"example"
-	]
+  "categories": ["first_spell", "eternal_turn_of_the_wheel"]
 }

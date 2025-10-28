@@ -1,0 +1,15 @@
+{
+  "title": "Eternal Turn of the Wheel",
+  "icon": {
+    "type": "item",
+    "data": {
+      "item": "diamond_sword"
+    }
+  },
+  "background": {
+    "texture": "phis:textures/first_spell_bg.png",
+    "width": 1920,
+    "height": 1080,
+    "position": "fill"
+  }
+}

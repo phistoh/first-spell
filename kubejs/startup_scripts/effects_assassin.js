@@ -119,7 +119,7 @@ StartupEvents.registry("mob_effect", (event) => {
     .effectTick((entity, lvl) => {
       if (!entity || entity.level.isClientSide()) return;
       if (entity.server.tickCount % 20 == 0) {
-        entity.attack(entity.damageSources().wither(), 2);
+        entity.attack(entity.damageSources().void(), 2 + lvl);
       }
     });
 });

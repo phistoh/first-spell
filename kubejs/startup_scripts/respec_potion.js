@@ -6,6 +6,7 @@ StartupEvents.registry('item', event => {
     .use((level, player, hand) => true)
     .finishUsing((itemstack, level, entity) => {
       itemstack.shrink(1)
+      // if (!entity || level.clientSide) return;
       if (entity.player) {
         entity.runCommand(`puffish_skills skills reset @s phis:example`)
         // event.server.runCommand(`execute as ${player.uuid} run puffish_skills skills reset @s example`)

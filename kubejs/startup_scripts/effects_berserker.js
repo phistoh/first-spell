@@ -25,7 +25,7 @@ StartupEvents.registry("mob_effect", (event) => {
     .effectTick((entity, lvl) => {
       if (!entity || entity.level.isClientSide()) return;
       if (entity.server.tickCount % 20 == 0) {
-        const damageAmount = entity.getMaxHealth() * 0.05;
+        const damageAmount = entity.getMaxHealth() * (0.05 + lvl/100);
         entity.attack(entity.damageSources().generic(), damageAmount);
       }
     });

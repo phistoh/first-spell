@@ -1,0 +1,15 @@
+{
+  "title": "First Spell",
+  "icon": {
+    "type": "item",
+    "data": {
+      "item": "iron_sword"
+    }
+  },
+  "background": {
+    "texture": "phis:textures/first_spell_bg.png",
+    "width": 1920,
+    "height": 1080,
+    "position": "fill"
+  }
+}
