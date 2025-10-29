@@ -7,7 +7,7 @@
     }
   },
   "background": {
-    "texture": "phis:textures/first_spell_bg.png",
+    "texture": "textures/gui/title/background/panorama_1.png",
     "width": 1920,
     "height": 1080,
     "position": "fill"

@@ -1,16 +1,24 @@
-StartupEvents.registry('item', event => {
-  event.create('respec_potion')
-    .tooltip('Respec your skills!')
-    .useAnimation('drink')
-    .useDuration(itemstack => 64)
+StartupEvents.registry("item", (event) => {
+  event
+    .create("respec_potion")
+    .tooltip("Respec your skills!")
+    .useAnimation("drink")
+    .useDuration((itemstack) => 64)
     .use((level, player, hand) => true)
     .finishUsing((itemstack, level, entity) => {
-      itemstack.shrink(1)
-      // if (!entity || level.clientSide) return;
-      if (entity.player) {
-        entity.runCommand(`puffish_skills skills reset @s phis:example`)
-        // event.server.runCommand(`execute as ${player.uuid} run puffish_skills skills reset @s example`)
+      itemstack.shrink(1);
+      if (level.isClientSide()) {
+        entity.runCommandSilent(
+          `title @s subtitle {"text": "Don't forget to reassign them.", "color": "dark_aqua"}`
+        );
+        entity.runCommandSilent(
+          `title @s title {"text": "Your skills are reset!", "color": "aqua"}`
+        );
+      } else {
+        entity.runCommandSilent(
+          `puffish_skills skills reset @s phis:first_spell`
+        );
       }
-      return itemstack
-    })
-})
+      return itemstack;
+    });
+});

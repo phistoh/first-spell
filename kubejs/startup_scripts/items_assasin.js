@@ -6,9 +6,10 @@ StartupEvents.registry('item', event => {
     .useDuration(itemstack => 64)
     .use((level, player, hand) => true)
     .finishUsing((itemstack, level, entity) => {
-      itemstack.shrink(1)
-      // if (!entity || level.clientSide) return;
-      if (entity.player) {
+      itemstack.shrink(1);
+      if (level.isClientSide()) {
+        // do nothing?
+      } else {
         // check if other offensive poison effect is active
         // if yes: clear it
         // apply effect
