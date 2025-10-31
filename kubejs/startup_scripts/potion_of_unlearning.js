@@ -1,7 +1,10 @@
 StartupEvents.registry("item", (event) => {
   event
-    .create("respec_potion")
-    .tooltip("Respec your skills!")
+    .create("potion_of_unlearning")
+    .displayName("Potion of Unlearning")
+    .rarity("Uncommon")
+    .tooltip("Drinking this lets you reassign your skills.")
+    .texture('phis:item/potion_of_unlearning')
     .useAnimation("drink")
     .useDuration((itemstack) => 64)
     .use((level, player, hand) => true)
