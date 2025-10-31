@@ -1,0 +1,116 @@
+{
+	"elements": [
+		{
+			"data": {
+				"fluidName": "irons_spellbooks:uncommon_ink"
+			},
+			"weight": 1.0,
+			"key": "minecraft:air"
+		},
+		{
+			"data": {
+				"fluidName": "irons_spellbooks:invisibility_elixir"
+			},
+			"weight": 1.0,
+			"key": "minecraft:air"
+		},
+		{
+			"data": {
+				"fluidName": "irons_spellbooks:greater_evasion_elixir"
+			},
+			"weight": 1.0,
+			"key": "minecraft:air"
+		},
+		{
+			"data": {
+				"fluidName": "irons_spellbooks:greater_healing_elixir"
+			},
+			"weight": 1.0,
+			"key": "minecraft:air"
+		},
+		{
+			"data": {
+				"fluidName": "irons_spellbooks:oakskin_elixir"
+			},
+			"weight": 1.0,
+			"key": "minecraft:air"
+		},
+		{
+			"data": {
+				"fluidName": "irons_spellbooks:rare_ink"
+			},
+			"weight": 1.0,
+			"key": "minecraft:air"
+		},
+		{
+			"data": {
+				"fluidName": "irons_spellbooks:evasion_elixir"
+			},
+			"weight": 1.0,
+			"key": "minecraft:air"
+		},
+		{
+			"data": {
+				"fluidName": "irons_spellbooks:greater_oakskin_elixir"
+			},
+			"weight": 1.0,
+			"key": "minecraft:air"
+		},
+		{
+			"data": {
+				"fluidName": "irons_spellbooks:ice_venom"
+			},
+			"weight": 1.0,
+			"key": "minecraft:air"
+		},
+		{
+			"data": {
+				"fluidName": "irons_spellbooks:greater_invisibility_elixir"
+			},
+			"weight": 1.0,
+			"key": "minecraft:air"
+		},
+		{
+			"data": {
+				"fluidName": "irons_spellbooks:blood"
+			},
+			"weight": 1.0,
+			"key": "minecraft:air"
+		},
+		{
+			"data": {
+				"fluidName": "irons_spellbooks:legendary_ink"
+			},
+			"weight": 1.0,
+			"key": "minecraft:air"
+		},
+		{
+			"data": {
+				"fluidName": "irons_spellbooks:potion"
+			},
+			"weight": 1.0,
+			"key": "minecraft:air"
+		},
+		{
+			"data": {
+				"fluidName": "irons_spellbooks:epic_ink"
+			},
+			"weight": 1.0,
+			"key": "minecraft:air"
+		},
+		{
+			"data": {
+				"fluidName": "irons_spellbooks:common_ink"
+			},
+			"weight": 1.0,
+			"key": "minecraft:air"
+		},
+		{
+			"data": {
+				"fluidName": "irons_spellbooks:timeless_slurry"
+			},
+			"weight": 1.0,
+			"key": "minecraft:air"
+		}
+	]
+}

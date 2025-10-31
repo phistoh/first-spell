@@ -1,0 +1,339 @@
+{
+	"elements": [
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "amendments:carpet_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "amendments:carpet_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "amendments:cauldron_hack"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_black"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_blue"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_brown"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_cyan"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_gray"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_green"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_light_blue"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_light_gray"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_lime"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_magenta"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_orange"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_pink"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_purple"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_red"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_white"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_yellow"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "amendments:directional_cake"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "amendments:double_cake"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "amendments:dye_cauldron"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "amendments:hanging_flower_pot"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "amendments:liquid_cauldron"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "amendments:skull_candle"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "amendments:skull_candle_soul"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "amendments:skull_candle_soul_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "amendments:skull_candle_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "amendments:skull_pile"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "amendments:tool_hook"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "amendments:wall_lantern"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "amendments:water_lily_pad"
+		}
+	]
+}

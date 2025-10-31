@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "hoppergadgetry:chute"
+		},
+		{
+			"weight": 1.0,
+			"key": "hoppergadgetry:chute_minecart"
+		},
+		{
+			"weight": 1.0,
+			"key": "hoppergadgetry:duct"
+		},
+		{
+			"weight": 1.0,
+			"key": "hoppergadgetry:grated_hopper"
+		},
+		{
+			"weight": 1.0,
+			"key": "hoppergadgetry:grated_hopper_minecart"
+		}
+	]
+}

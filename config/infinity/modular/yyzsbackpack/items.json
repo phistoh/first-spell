@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "yyzsbackpack:diamond_backpack"
+		},
+		{
+			"weight": 1.0,
+			"key": "yyzsbackpack:gold_backpack"
+		},
+		{
+			"weight": 1.0,
+			"key": "yyzsbackpack:iron_backpack"
+		},
+		{
+			"weight": 1.0,
+			"key": "yyzsbackpack:netherite_backpack"
+		}
+	]
+}

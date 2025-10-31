@@ -1,0 +1,40 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": -6628754,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "luminous_beasts:antidote"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": -7071720,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "luminous_beasts:infection"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": -8987828,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "luminous_beasts:universal_poison"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": -15623291,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "luminous_beasts:warped_infection"
+		}
+	]
+}

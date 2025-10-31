@@ -1,0 +1,316 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "suppsquared:biomesoplenty/item_shelf_dead"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:biomesoplenty/item_shelf_empyreal"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:biomesoplenty/item_shelf_fir"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:biomesoplenty/item_shelf_hellbark"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:biomesoplenty/item_shelf_jacaranda"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:biomesoplenty/item_shelf_magic"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:biomesoplenty/item_shelf_mahogany"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:biomesoplenty/item_shelf_maple"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:biomesoplenty/item_shelf_palm"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:biomesoplenty/item_shelf_pine"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:biomesoplenty/item_shelf_redwood"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:biomesoplenty/item_shelf_umbran"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:biomesoplenty/item_shelf_willow"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:brass_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:copper_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:copper_plaque"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:crimson_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:daub_frame_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:daub_frame_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:daub_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:daub_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:deeperdarker/item_shelf_bloom"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:deeperdarker/item_shelf_echo"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:gardens_of_the_dead/item_shelf_soulblight"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:gardens_of_the_dead/item_shelf_whistlecane"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:gold_candle_holder"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:gold_candle_holder_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:gold_candle_holder_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:gold_candle_holder_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:gold_candle_holder_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:gold_candle_holder_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:gold_candle_holder_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:gold_candle_holder_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:gold_candle_holder_light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:gold_candle_holder_lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:gold_candle_holder_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:gold_candle_holder_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:gold_candle_holder_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:gold_candle_holder_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:gold_candle_holder_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:gold_candle_holder_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:gold_candle_holder_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:gold_plaque"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:heavy_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:iron_plaque"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:item_shelf_acacia"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:item_shelf_bamboo"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:item_shelf_birch"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:item_shelf_cherry"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:item_shelf_crimson"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:item_shelf_dark_oak"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:item_shelf_jungle"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:item_shelf_mangrove"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:item_shelf_spruce"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:item_shelf_warped"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:metal_brace"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:metal_cross_brace"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:metal_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:moresnifferflowers/item_shelf_corrupted"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:moresnifferflowers/item_shelf_vivicus"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:mynethersdelight/item_shelf_powdery"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:sack_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:sack_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:sack_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:sack_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:sack_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:sack_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:sack_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:sack_light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:sack_lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:sack_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:sack_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:sack_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:sack_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:sack_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:sack_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:sack_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:vanillabackport/item_shelf_pale_oak"
+		}
+	]
+}

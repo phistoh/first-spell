@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:copper_buttons"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:crab_burrow_spot_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:crabs_spawnable_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:glares_spawnable_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:lightning_rods"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:maulers_spawnable_on"
+		}
+	]
+}

@@ -1,0 +1,1439 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/ash"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/ash_bricks"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/ash_bricks_slab"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/ash_bricks_stairs"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/ash_bricks_wall"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/ashen_basalt"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/awning"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/awning_black"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/awning_blue"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/awning_brown"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/awning_cyan"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/awning_gray"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/awning_green"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/awning_light_blue"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/awning_light_gray"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/awning_lime"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/awning_magenta"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/awning_orange"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/awning_pink"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/awning_purple"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/awning_red"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/awning_white"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/awning_yellow"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/bellows"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/blackboard"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/blackstone_lamp"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/blackstone_tile"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/blackstone_tile_slab"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/blackstone_tile_stairs"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/blackstone_tile_wall"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/bunting_black"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/bunting_blue"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/bunting_brown"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/bunting_cyan"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/bunting_gray"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/bunting_green"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/bunting_light_blue"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/bunting_light_gray"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/bunting_lime"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/bunting_magenta"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/bunting_orange"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/bunting_pink"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/bunting_purple"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/bunting_red"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/bunting_wall_black"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/bunting_wall_blue"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/bunting_wall_brown"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/bunting_wall_cyan"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/bunting_wall_gray"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/bunting_wall_green"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/bunting_wall_light_blue"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/bunting_wall_light_gray"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/bunting_wall_lime"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/bunting_wall_magenta"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/bunting_wall_orange"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/bunting_wall_pink"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/bunting_wall_purple"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/bunting_wall_red"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/bunting_wall_white"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/bunting_wall_yellow"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/bunting_white"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/bunting_yellow"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/candle_holder"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/candle_holder_black"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/candle_holder_blue"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/candle_holder_brown"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/candle_holder_cyan"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/candle_holder_gray"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/candle_holder_green"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/candle_holder_light_blue"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/candle_holder_light_gray"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/candle_holder_lime"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/candle_holder_magenta"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/candle_holder_orange"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/candle_holder_pink"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/candle_holder_purple"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/candle_holder_red"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/candle_holder_white"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/candle_holder_yellow"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/cannon"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/cannonball"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/checker_block"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/checker_slab"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/clock_block"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/cog_block"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/crank"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/crystal_display"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/daub"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/daub_brace"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/daub_cross_brace"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/daub_frame"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/deepslate_lamp"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/doormat"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/end_stone_lamp"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/enderman_head"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/enderman_wall_head"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/faucet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/feather_block"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/fine_wood"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/fine_wood_slab"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/fine_wood_stairs"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/flag_black"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/flag_blue"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/flag_brown"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/flag_cyan"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/flag_gray"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/flag_green"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/flag_light_blue"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/flag_light_gray"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/flag_lime"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/flag_magenta"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/flag_orange"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/flag_pink"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/flag_purple"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/flag_red"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/flag_white"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/flag_yellow"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/flax"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/flax_block"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/flint_block"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/flower_box"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/fodder"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/globe"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/globe_sepia"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/goblet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/gold_door"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/gold_gate"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/gold_trapdoor"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/gravel_bricks"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/gunpowder"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/hourglass"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/iron_gate"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/item_shelf"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/jar_boat"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/lapis_bricks"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/lapis_bricks_slab"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/lapis_bricks_stairs"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/lapis_bricks_wall"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/lock_block"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/netherite_door"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/netherite_trapdoor"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/notice_board"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/pedestal"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/planter"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/potted_flax"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/pulley_block"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/raked_gravel"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/redstone_illuminator"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/relayer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/rope"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/rope_knot"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/sack"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/safe"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/sconce"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/sconce_ender"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/sconce_glow"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/sconce_green"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/sconce_lever"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/sconce_nether_brass"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/sconce_soul"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/slidy_block"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/soap_block"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/speaker_block"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/spring_launcher"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/statue"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/stone_lamp"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/stone_tile"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/stone_tile_slab"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/stone_tile_stairs"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/stone_tile_wall"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/sugar_cube"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/timber_brace"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/timber_cross_brace"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/timber_frame"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/turn_table"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/urn"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/urn_loot/common"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/urn_loot/epic"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/urn_loot/rare"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/urn_loot/uncommon"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/urn_loot/urn_loot"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/wicker_fence"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/wild_flax"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:blocks/wind_vane"
+		},
+		{
+			"data": {
+				"Type": "generic"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:inject/dungeon_blue_bomb"
+		},
+		{
+			"data": {
+				"Type": "generic"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:inject/dungeon_flax"
+		},
+		{
+			"data": {
+				"Type": "generic"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:inject/dungeon_quiver"
+		},
+		{
+			"data": {
+				"Type": "generic"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:inject/end_city_stasis"
+		},
+		{
+			"data": {
+				"Type": "generic"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:inject/fishing_treasure_antique_ink"
+		},
+		{
+			"data": {
+				"Type": "generic"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:inject/fortress_blue_bomb"
+		},
+		{
+			"data": {
+				"Type": "generic"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:inject/fortress_bomb"
+		},
+		{
+			"data": {
+				"Type": "generic"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:inject/mansion_quiver"
+		},
+		{
+			"data": {
+				"Type": "generic"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:inject/mineshaft_blue_bomb"
+		},
+		{
+			"data": {
+				"Type": "generic"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:inject/mineshaft_bomb"
+		},
+		{
+			"data": {
+				"Type": "generic"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:inject/mineshaft_flax"
+		},
+		{
+			"data": {
+				"Type": "generic"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:inject/mineshaft_rope"
+		},
+		{
+			"data": {
+				"Type": "generic"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:inject/pillager_flax"
+		},
+		{
+			"data": {
+				"Type": "generic"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:inject/shipwreck_storage_flax"
+		},
+		{
+			"data": {
+				"Type": "generic"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:inject/shipwreck_treasure_globe"
+		},
+		{
+			"data": {
+				"Type": "generic"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:inject/stronghold_blue_bomb"
+		},
+		{
+			"data": {
+				"Type": "generic"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:inject/stronghold_bomb"
+		},
+		{
+			"data": {
+				"Type": "generic"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:inject/temple_blue_bomb"
+		},
+		{
+			"data": {
+				"Type": "generic"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:inject/temple_bomb"
+		},
+		{
+			"data": {
+				"Type": "generic"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:inject/temple_spikes"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "supplementaries:inject/test"
+		}
+	]
+}

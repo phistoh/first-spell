@@ -1,0 +1,224 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:block.creaking_heart.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:block.creaking_heart.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:block.creaking_heart.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:block.creaking_heart.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:block.creaking_heart.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:block.creaking_heart.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:block.creaking_heart.spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:block.creaking_heart.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:block.dried_ghast.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:block.dried_ghast.ambient_water"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:block.dried_ghast.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:block.dried_ghast.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:block.dried_ghast.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:block.dried_ghast.place_in_water"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:block.dried_ghast.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:block.dried_ghast.transition"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:block.eyeblossom.close"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:block.eyeblossom.close_long"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:block.eyeblossom.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:block.eyeblossom.open"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:block.eyeblossom.open_long"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:block.pale_hanging_moss.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:block.resin.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:block.resin.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:block.resin.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:block.resin.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:block.resin_bricks.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:block.resin_bricks.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:block.resin_bricks.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:block.resin_bricks.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:block.resin_bricks.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:entity.creaking.activate"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:entity.creaking.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:entity.creaking.attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:entity.creaking.deactivate"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:entity.creaking.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:entity.creaking.freeze"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:entity.creaking.spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:entity.creaking.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:entity.creaking.sway"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:entity.creaking.twitch"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:entity.creaking.unfreeze"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:entity.ghastling.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:entity.ghastling.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:entity.ghastling.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:entity.ghastling.spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:entity.happy_ghast.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:entity.happy_ghast.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:entity.happy_ghast.equip"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:entity.happy_ghast.harness_goggles_down"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:entity.happy_ghast.harness_goggles_up"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:entity.happy_ghast.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:entity.happy_ghast.riding"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:entity.happy_ghast.unequip"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:entity.parrot.imitate.creaking"
+		}
+	]
+}

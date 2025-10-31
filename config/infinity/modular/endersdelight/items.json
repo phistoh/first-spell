@@ -1,0 +1,132 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "endersdelight:amberveil"
+		},
+		{
+			"weight": 1.0,
+			"key": "endersdelight:amberveil_stew"
+		},
+		{
+			"weight": 1.0,
+			"key": "endersdelight:amberveiled_curry"
+		},
+		{
+			"weight": 1.0,
+			"key": "endersdelight:chicken_curry"
+		},
+		{
+			"weight": 1.0,
+			"key": "endersdelight:chorus_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "endersdelight:chorus_juice"
+		},
+		{
+			"weight": 1.0,
+			"key": "endersdelight:chorus_pie"
+		},
+		{
+			"weight": 1.0,
+			"key": "endersdelight:chorus_pie_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "endersdelight:chorus_stew"
+		},
+		{
+			"weight": 1.0,
+			"key": "endersdelight:chorusflame"
+		},
+		{
+			"weight": 1.0,
+			"key": "endersdelight:crawling_sandwich"
+		},
+		{
+			"weight": 1.0,
+			"key": "endersdelight:crispy_skewer"
+		},
+		{
+			"weight": 1.0,
+			"key": "endersdelight:ender_paella"
+		},
+		{
+			"weight": 1.0,
+			"key": "endersdelight:ender_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "endersdelight:enderman_sight"
+		},
+		{
+			"weight": 1.0,
+			"key": "endersdelight:endermite_stew"
+		},
+		{
+			"weight": 1.0,
+			"key": "endersdelight:endstone_stove"
+		},
+		{
+			"weight": 1.0,
+			"key": "endersdelight:ethereal_saffron"
+		},
+		{
+			"weight": 1.0,
+			"key": "endersdelight:mite_crust"
+		},
+		{
+			"weight": 1.0,
+			"key": "endersdelight:pearl_pasta"
+		},
+		{
+			"weight": 1.0,
+			"key": "endersdelight:shulker_bowl"
+		},
+		{
+			"weight": 1.0,
+			"key": "endersdelight:shulker_filet"
+		},
+		{
+			"weight": 1.0,
+			"key": "endersdelight:shulker_mollusk"
+		},
+		{
+			"weight": 1.0,
+			"key": "endersdelight:sight_fragments"
+		},
+		{
+			"weight": 1.0,
+			"key": "endersdelight:steak_fries"
+		},
+		{
+			"weight": 1.0,
+			"key": "endersdelight:strange_eclair"
+		},
+		{
+			"weight": 1.0,
+			"key": "endersdelight:stuffed_shulker"
+		},
+		{
+			"weight": 1.0,
+			"key": "endersdelight:stuffed_shulker_bowl"
+		},
+		{
+			"weight": 1.0,
+			"key": "endersdelight:twisted_cereal"
+		},
+		{
+			"weight": 1.0,
+			"key": "endersdelight:uncanny_cookies"
+		},
+		{
+			"weight": 1.0,
+			"key": "endersdelight:veil_of_flames_risotto"
+		},
+		{
+			"weight": 1.0,
+			"key": "endersdelight:voidpepper"
+		}
+	]
+}

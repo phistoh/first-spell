@@ -1,0 +1,25 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "hoppergadgetry:blocks/chute"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "hoppergadgetry:blocks/duct"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "hoppergadgetry:blocks/grated_hopper"
+		}
+	]
+}

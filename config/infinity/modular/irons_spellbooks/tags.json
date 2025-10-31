@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:citadel_can_decay"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:guarded_by_wizards"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:ice_spider_den_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:pocket_dimension_prevent_placement"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:spectral_hammer_mineable"
+		}
+	]
+}

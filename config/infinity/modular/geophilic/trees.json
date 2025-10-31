@@ -1,0 +1,410 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:_legacy/swamp_mini_oak"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:_legacy/trees/acacia/bush"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:_legacy/trees/acacia/stump"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:_legacy/trees/birch/fancy"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:_legacy/trees/birch/stump"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:_legacy/trees/desert/dead_oak"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:_legacy/trees/oak/bush"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:_legacy/trees/oak/stump"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:biome_specific/cherry_grove/azalea_bush"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:bush/acacia"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:bush/azalea"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:bush/birch"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:bush/jungle"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:bush/oak"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:bush/spruce"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree/acacia/classic"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree/acacia/modified"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree/acacia/modified_2"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree/birch/classic"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree/birch/exp"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree/birch/exp2"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree/birch/meadow"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree/birch/tall"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree/birch/tall_modified"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree/birch/young"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree/cherry/big"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree/cherry/classic"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree/dark_oak/classic"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree/dark_oak/huge"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree/dark_oak/modern"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree/dark_oak/slim"
+		},
+		{
+			"data": {
+				"Type": "huge_brown_mushroom"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree/huge_mushroom/brown"
+		},
+		{
+			"data": {
+				"Type": "huge_red_mushroom"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree/huge_mushroom/red"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree/oak/classic"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree/oak/elder"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree/oak/fancy"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree/oak/swamp/classic"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree/oak/swamp/modern"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree/oak/swamp/young"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree/oak/tall"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree/oak/young"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree/spruce/classic"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree/spruce/mega"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree/spruce/mega/grand_mega"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree/spruce/mega/mega"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree/spruce/pine/grand_mega"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree/spruce/pine/mega"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree/spruce/pine/normal"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree/spruce/short"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree/spruce/tall"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree/spruce/young"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree_stump/acacia"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree_stump/birch"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree_stump/cherry"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree_stump/dark_oak"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree_stump/jungle"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree_stump/oak"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "geophilic:tree_stump/spruce"
+		}
+	]
+}

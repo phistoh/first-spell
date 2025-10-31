@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:happy_ghast_avoids"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:pale_oak_logs"
+		}
+	]
+}

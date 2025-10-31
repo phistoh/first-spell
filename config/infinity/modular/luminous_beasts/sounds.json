@@ -1,0 +1,64 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:adayinthenether"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:aerie"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:amethystdisc"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:blizzard"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:creakingwoods"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:farlands"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:gator"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:modulo"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:mummydisc"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:null"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:phoenix"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:ritual"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:submerged"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:sunrise"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:sunset"
+		}
+	]
+}

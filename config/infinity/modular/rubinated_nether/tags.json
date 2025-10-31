@@ -1,0 +1,40 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:coldest_ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:crystallization_catalyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:lit_soul_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:mineable_with_drill"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:rainbow_laser"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:ruby_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:ruby_glass_panes"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:ruby_laser_no_signal"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:ruby_laser_transparent"
+		}
+	]
+}

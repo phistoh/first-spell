@@ -1,0 +1,456 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_42"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_activate"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_aether"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_aggressionegression"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_alternatedimension"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_amethyzied"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_anchores"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_ancientruins"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_ancienttheme"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_anti"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_antiremake"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_avian"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_axcktale"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_azometrall"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_becomeadestructor"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_before"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_blazetrap"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_castle"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_chill"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_chop"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_chorus"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_clouds"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_corrupte"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_dear_diary"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_deeperhouses"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_desert"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_dive"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_dreams"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_droopylovesjean"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_dropclouds"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_drowned_anthem"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_enderwalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_extrauoser"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_extrauosert"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_flight_of_the_voids_ship"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_flyingship"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_forest"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_galacticloose"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_glitshymonum"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_hue"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_intothejungle"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_jungle"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_jungler"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_justyhebeginning"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_krushearz"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_krushearzt"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_left_shift"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_lgm"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_mangrove_swamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_mesa_depth"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_mush_roam"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_nostalg"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_omen"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_passion"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_phonikpace"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_planettech"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_potion_of_swiftness"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_quithere"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_raid"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_rain"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_rainbows"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_range"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_ravage"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_reloaded"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_retri"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_scopophobia"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_scorched"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_shallow"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_shroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_silence"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_sky"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_sleepz"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_sound"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_spiral"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_squidly"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_squiggles"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_stowchip"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_stridehop"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_strikethemdown"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_submerge"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_tall"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_tearsofjoy"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_technobladeneverdiesatleastinourhearts"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_test"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_thebrightside"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_thedarkside"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_thelostsoul"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_thespeedrunner"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_thesyndicate"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_theunfinishedsymphony"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_tide"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_tragicdecision"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_turfufact"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_ucrism"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_usbefore"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_vengeful"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_victory"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_vixized"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_void"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_warden"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_wardensprize"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_warped_forest"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_waves"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_weepingsouls"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_witherdance"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_wuird"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_xziniron"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_yarona"
+		},
+		{
+			"weight": 1.0,
+			"key": "morediscs:music_disc_zayz"
+		}
+	]
+}

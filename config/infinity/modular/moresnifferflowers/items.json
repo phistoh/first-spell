@@ -1,0 +1,648 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:acidripia_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:amber_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:amber_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:amber_mosaic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:amber_mosaic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:amber_mosaic_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:amber_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:ambush_banner_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:ambush_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:aroma_armor_trim_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:beat_armor_trim_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:belt_piece"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:beroot_cauldron"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:beroot_cook_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:block_pattern_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:block_pattern_bubbles"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:block_pattern_clouds"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:block_pattern_cover"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:block_pattern_deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:block_pattern_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:block_pattern_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:block_pattern_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:block_pattern_focus"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:block_pattern_hearts"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:block_pattern_honeycomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:block_pattern_paws"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:block_pattern_pipes"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:block_pattern_prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:block_pattern_sprouts"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:block_pattern_stars"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:bobling_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:bobling_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:bondripia_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:bonmeelia_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:bonwiltia_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:broken_rebrewing_stand"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:burned_slot"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:carnage_armor_trim_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:carotene_armor_trim_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:caulorflower_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:chiseled_amber"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:chiseled_amber_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:chiseled_garnet"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:chiseled_garnet_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:corrupted_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:corrupted_bobling_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:corrupted_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:corrupted_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:corrupted_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:corrupted_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:corrupted_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:corrupted_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:corrupted_grass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:corrupted_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:corrupted_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:corrupted_leaves_bush"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:corrupted_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:corrupted_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:corrupted_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:corrupted_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:corrupted_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:corrupted_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:corrupted_slime_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:corrupted_slime_layer"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:corrupted_sludge"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:corrupted_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:corrupted_tall_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:corrupted_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:corrupted_wart"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:corrupted_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:cracked_amber"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:cracked_garnet"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:creative_tab_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:cropressed_beetroot"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:cropressed_carrot"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:cropressed_nether_wart"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:cropressed_potato"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:cropressed_wheat"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:cropressor"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:cured_grass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:dawnberry"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:dawnberry_vine_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:debug_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:decayed_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:dragonfly"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:dripsalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:dyescrapia"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:dyespria"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:dyespria_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:engine_piece"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:evil_banner_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:extracted_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:extraction_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:fiery_spice"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:flavorful_roots"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:garbush_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:garnet_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:garnet_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:garnet_mosaic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:garnet_mosaic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:garnet_mosaic_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:garnet_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:giant_beetroot"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:giant_cabbage"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:giant_carrot"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:giant_netherwart"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:giant_onion"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:giant_potato"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:giant_rice"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:giant_tomato"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:giant_wheat"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:gloomberry"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:gloomberry_vine_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:grain_armor_trim_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:jar_of_acid"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:jar_of_bonmeel"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:nether_wart_armor_trim_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:patternflower_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:patternspria"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:placeholder"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:press_piece"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:rebrewed_lingering_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:rebrewed_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:rebrewed_splash_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:rebrewing_stand"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:rooted_soup"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:saltemone_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:salty_spice"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:scrap_piece"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:sour_spice"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:sourlemone_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:stripped_corrupted_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:stripped_corrupted_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:stripped_vivicus_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:stripped_vivicus_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:sweet_spice"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:tater_armor_trim_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:torchewflower"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:torchflame"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:torchflower_aflame"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:tube_piece"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:vivicus_antidote"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:vivicus_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:vivicus_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:vivicus_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:vivicus_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:vivicus_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:vivicus_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:vivicus_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:vivicus_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:vivicus_leaves_sprout"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:vivicus_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:vivicus_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:vivicus_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:vivicus_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:vivicus_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:vivicus_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:vivicus_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:vivicus_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:vivicus_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:wand_of_cubing"
+		}
+	]
+}

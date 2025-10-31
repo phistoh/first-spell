@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "variantsandventures:gelid_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "variantsandventures:murk_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "variantsandventures:thicket_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "variantsandventures:verdant_spawn_egg"
+		}
+	]
+}

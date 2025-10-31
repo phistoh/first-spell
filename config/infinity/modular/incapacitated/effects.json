@@ -1,0 +1,22 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 4587519,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "incapacitated:incap_slow"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 4587519,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "incapacitated:incap_weak"
+		}
+	]
+}

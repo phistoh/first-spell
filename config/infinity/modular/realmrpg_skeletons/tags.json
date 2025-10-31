@@ -1,0 +1,56 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "realmrpg_skeletons:crimson_skeletons_can_generate_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "realmrpg_skeletons:deep_underground_chamber_can_generate_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "realmrpg_skeletons:dripstone_skeletons_can_generate_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "realmrpg_skeletons:lava_skeletons_can_generate_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "realmrpg_skeletons:monument_skeletons_can_generate_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "realmrpg_skeletons:sand_skeletons_can_generate_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "realmrpg_skeletons:skeletons_cannot_generate_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "realmrpg_skeletons:snow_skeletons_can_generate_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "realmrpg_skeletons:snow_skeletons_can_replace"
+		},
+		{
+			"weight": 1.0,
+			"key": "realmrpg_skeletons:surface_skeletons_can_generate_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "realmrpg_skeletons:underground_chamber_can_generate_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "realmrpg_skeletons:warped_skeletons_can_generate_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "realmrpg_skeletons:webbed_skeletons_can_replace"
+		}
+	]
+}

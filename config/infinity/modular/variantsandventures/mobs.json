@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "variantsandventures:gelid"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "variantsandventures:murk"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "variantsandventures:thicket"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "variantsandventures:verdant"
+		}
+	]
+}

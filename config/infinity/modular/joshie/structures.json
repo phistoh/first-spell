@@ -1,0 +1,312 @@
+{
+	"elements": [
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 1,
+								"minCount": 2,
+								"type": "minecraft:guardian",
+								"maxCount": 4
+							},
+							{
+								"weight": 2,
+								"minCount": 1,
+								"type": "minecraft:drowned",
+								"maxCount": 3
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "joshie:sunken_spires/colossuem"
+			},
+			"weight": 1.0,
+			"key": "joshie:sunken_spires/colossuem"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 1,
+								"minCount": 1,
+								"type": "minecraft:guardian",
+								"maxCount": 2
+							},
+							{
+								"weight": 2,
+								"minCount": 1,
+								"type": "minecraft:drowned",
+								"maxCount": 3
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "joshie:sunken_spires/conduit_ruins"
+			},
+			"weight": 1.0,
+			"key": "joshie:sunken_spires/conduit_ruins"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 1,
+								"minCount": 3,
+								"type": "minecraft:guardian",
+								"maxCount": 5
+							},
+							{
+								"weight": 2,
+								"minCount": 3,
+								"type": "minecraft:drowned",
+								"maxCount": 5
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "joshie:sunken_spires/floating_spikes"
+			},
+			"weight": 1.0,
+			"key": "joshie:sunken_spires/floating_spikes"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 1,
+								"minCount": 2,
+								"type": "minecraft:guardian",
+								"maxCount": 4
+							},
+							{
+								"weight": 2,
+								"minCount": 1,
+								"type": "minecraft:drowned",
+								"maxCount": 3
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "joshie:sunken_spires/large_fossil"
+			},
+			"weight": 1.0,
+			"key": "joshie:sunken_spires/large_fossil"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 1,
+								"minCount": 3,
+								"type": "minecraft:guardian",
+								"maxCount": 5
+							},
+							{
+								"weight": 2,
+								"minCount": 3,
+								"type": "minecraft:drowned",
+								"maxCount": 5
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "joshie:sunken_spires/ocean_temple"
+			},
+			"weight": 1.0,
+			"key": "joshie:sunken_spires/ocean_temple"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 1,
+								"minCount": 3,
+								"type": "minecraft:guardian",
+								"maxCount": 8
+							},
+							{
+								"weight": 2,
+								"minCount": 2,
+								"type": "minecraft:drowned",
+								"maxCount": 4
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "joshie:sunken_spires/prismarine_forge"
+			},
+			"weight": 1.0,
+			"key": "joshie:sunken_spires/prismarine_forge"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 1,
+								"minCount": 2,
+								"type": "minecraft:guardian",
+								"maxCount": 4
+							},
+							{
+								"weight": 2,
+								"minCount": 1,
+								"type": "minecraft:drowned",
+								"maxCount": 3
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "joshie:sunken_spires/prismarine_trial_chamber"
+			},
+			"weight": 1.0,
+			"key": "joshie:sunken_spires/prismarine_trial_chamber"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 1,
+								"minCount": 2,
+								"type": "minecraft:guardian",
+								"maxCount": 4
+							},
+							{
+								"weight": 2,
+								"minCount": 1,
+								"type": "minecraft:drowned",
+								"maxCount": 3
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "joshie:sunken_spires/small_fossil"
+			},
+			"weight": 1.0,
+			"key": "joshie:sunken_spires/small_fossil"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 1,
+								"minCount": 3,
+								"type": "minecraft:guardian",
+								"maxCount": 5
+							},
+							{
+								"weight": 2,
+								"minCount": 3,
+								"type": "minecraft:drowned",
+								"maxCount": 5
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "joshie:sunken_spires/spires"
+			},
+			"weight": 1.0,
+			"key": "joshie:sunken_spires/spires"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 120,
+								"minCount": 3,
+								"type": "minecraft:guardian",
+								"maxCount": 5
+							},
+							{
+								"weight": 220,
+								"minCount": 3,
+								"type": "minecraft:drowned",
+								"maxCount": 5
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "joshie:sunken_spires/sunken_city"
+			},
+			"weight": 1.0,
+			"key": "joshie:sunken_spires/sunken_city"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 1,
+								"minCount": 3,
+								"type": "minecraft:guardian",
+								"maxCount": 5
+							},
+							{
+								"weight": 2,
+								"minCount": 3,
+								"type": "minecraft:drowned",
+								"maxCount": 5
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "joshie:sunken_spires/trident_shrine"
+			},
+			"weight": 1.0,
+			"key": "joshie:sunken_spires/trident_shrine"
+		}
+	]
+}

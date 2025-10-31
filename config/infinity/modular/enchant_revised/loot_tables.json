@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "enchant_revised:blocks/enchant_altar"
+		},
+		{
+			"data": {
+				"Type": "generic"
+			},
+			"weight": 1.0,
+			"key": "enchant_revised:starter_items"
+		}
+	]
+}

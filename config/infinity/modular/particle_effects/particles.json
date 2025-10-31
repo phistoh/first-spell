@@ -1,0 +1,160 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "particle_effects:absorption"
+		},
+		{
+			"weight": 1.0,
+			"key": "particle_effects:bad_omen"
+		},
+		{
+			"weight": 1.0,
+			"key": "particle_effects:blindness"
+		},
+		{
+			"weight": 1.0,
+			"key": "particle_effects:conduit_power"
+		},
+		{
+			"weight": 1.0,
+			"key": "particle_effects:darkness"
+		},
+		{
+			"weight": 1.0,
+			"key": "particle_effects:dolphins_grace"
+		},
+		{
+			"weight": 1.0,
+			"key": "particle_effects:fire_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "particle_effects:glowing"
+		},
+		{
+			"weight": 1.0,
+			"key": "particle_effects:haste"
+		},
+		{
+			"weight": 1.0,
+			"key": "particle_effects:health_boost"
+		},
+		{
+			"weight": 1.0,
+			"key": "particle_effects:hero_of_the_village"
+		},
+		{
+			"weight": 1.0,
+			"key": "particle_effects:hunger"
+		},
+		{
+			"weight": 1.0,
+			"key": "particle_effects:infested_new"
+		},
+		{
+			"weight": 1.0,
+			"key": "particle_effects:instant_damage"
+		},
+		{
+			"weight": 1.0,
+			"key": "particle_effects:instant_health"
+		},
+		{
+			"weight": 1.0,
+			"key": "particle_effects:invisibility"
+		},
+		{
+			"weight": 1.0,
+			"key": "particle_effects:jump_boost"
+		},
+		{
+			"weight": 1.0,
+			"key": "particle_effects:levitation"
+		},
+		{
+			"weight": 1.0,
+			"key": "particle_effects:luck"
+		},
+		{
+			"weight": 1.0,
+			"key": "particle_effects:mining_fatigue"
+		},
+		{
+			"weight": 1.0,
+			"key": "particle_effects:nausea"
+		},
+		{
+			"weight": 1.0,
+			"key": "particle_effects:night_vision"
+		},
+		{
+			"weight": 1.0,
+			"key": "particle_effects:oozing_new"
+		},
+		{
+			"weight": 1.0,
+			"key": "particle_effects:poison"
+		},
+		{
+			"weight": 1.0,
+			"key": "particle_effects:raid_omen_new"
+		},
+		{
+			"weight": 1.0,
+			"key": "particle_effects:regeneration"
+		},
+		{
+			"weight": 1.0,
+			"key": "particle_effects:resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "particle_effects:saturation"
+		},
+		{
+			"weight": 1.0,
+			"key": "particle_effects:slow_falling"
+		},
+		{
+			"weight": 1.0,
+			"key": "particle_effects:slowness"
+		},
+		{
+			"weight": 1.0,
+			"key": "particle_effects:speed"
+		},
+		{
+			"weight": 1.0,
+			"key": "particle_effects:strength"
+		},
+		{
+			"weight": 1.0,
+			"key": "particle_effects:trial_omen_new"
+		},
+		{
+			"weight": 1.0,
+			"key": "particle_effects:unluck"
+		},
+		{
+			"weight": 1.0,
+			"key": "particle_effects:water_breathing"
+		},
+		{
+			"weight": 1.0,
+			"key": "particle_effects:weakness"
+		},
+		{
+			"weight": 1.0,
+			"key": "particle_effects:weaving_new"
+		},
+		{
+			"weight": 1.0,
+			"key": "particle_effects:wind_charged_new"
+		},
+		{
+			"weight": 1.0,
+			"key": "particle_effects:wither"
+		}
+	]
+}

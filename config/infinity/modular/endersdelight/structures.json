@@ -1,0 +1,15 @@
+{
+	"elements": [
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "endersdelight:end_house"
+			},
+			"weight": 1.0,
+			"key": "endersdelight:end_house"
+		}
+	]
+}

@@ -1,0 +1,116 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "creeperoverhaul:badlands_creeper"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "creeperoverhaul:bamboo_creeper"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "creeperoverhaul:beach_creeper"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "creeperoverhaul:birch_creeper"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "creeperoverhaul:cave_creeper"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "creeperoverhaul:dark_oak_creeper"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "creeperoverhaul:desert_creeper"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "creeperoverhaul:dripstone_creeper"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "creeperoverhaul:hills_creeper"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "creeperoverhaul:jungle_creeper"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "creeperoverhaul:mushroom_creeper"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "creeperoverhaul:ocean_creeper"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "creeperoverhaul:savannah_creeper"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "creeperoverhaul:snowy_creeper"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "creeperoverhaul:spruce_creeper"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "creeperoverhaul:swamp_creeper"
+		}
+	]
+}

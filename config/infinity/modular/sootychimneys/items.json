@@ -1,0 +1,60 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "sootychimneys:brick_chimney"
+		},
+		{
+			"weight": 1.0,
+			"key": "sootychimneys:cobblestone_chimney"
+		},
+		{
+			"weight": 1.0,
+			"key": "sootychimneys:copper_chimney"
+		},
+		{
+			"weight": 1.0,
+			"key": "sootychimneys:dirty_brick_chimney"
+		},
+		{
+			"weight": 1.0,
+			"key": "sootychimneys:dirty_cobblestone_chimney"
+		},
+		{
+			"weight": 1.0,
+			"key": "sootychimneys:dirty_copper_chimney"
+		},
+		{
+			"weight": 1.0,
+			"key": "sootychimneys:dirty_iron_chimney"
+		},
+		{
+			"weight": 1.0,
+			"key": "sootychimneys:dirty_mud_brick_chimney"
+		},
+		{
+			"weight": 1.0,
+			"key": "sootychimneys:dirty_stone_brick_chimney"
+		},
+		{
+			"weight": 1.0,
+			"key": "sootychimneys:dirty_terracotta_chimney"
+		},
+		{
+			"weight": 1.0,
+			"key": "sootychimneys:iron_chimney"
+		},
+		{
+			"weight": 1.0,
+			"key": "sootychimneys:mud_brick_chimney"
+		},
+		{
+			"weight": 1.0,
+			"key": "sootychimneys:stone_brick_chimney"
+		},
+		{
+			"weight": 1.0,
+			"key": "sootychimneys:terracotta_chimney"
+		}
+	]
+}

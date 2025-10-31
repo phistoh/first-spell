@@ -1,0 +1,165 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "endermanoverhaul:axolotl_pet_enderman"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "endermanoverhaul:badlands_enderman"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "endermanoverhaul:cave_enderman"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "endermanoverhaul:coral_enderman"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "endermanoverhaul:crimson_forest_enderman"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "endermanoverhaul:dark_oak_enderman"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "endermanoverhaul:desert_enderman"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "endermanoverhaul:end_enderman"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "endermanoverhaul:end_islands_enderman"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "endermanoverhaul:flower_fields_enderman"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "endermanoverhaul:hammerhead_pet_enderman"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "endermanoverhaul:ice_spikes_enderman"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "endermanoverhaul:mushroom_fields_enderman"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "endermanoverhaul:nether_wastes_enderman"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "endermanoverhaul:pet_enderman"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "endermanoverhaul:savanna_enderman"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "endermanoverhaul:scarab"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "endermanoverhaul:snowy_enderman"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "endermanoverhaul:soulsand_valley_enderman"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "endermanoverhaul:spirit"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "endermanoverhaul:swamp_enderman"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "endermanoverhaul:warped_forest_enderman"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "endermanoverhaul:windswept_hills_enderman"
+		}
+	]
+}

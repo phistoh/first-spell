@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "spring_to_life:block.dry_grass.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "spring_to_life:block.firefly_bush.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "spring_to_life:block.leaf_litter.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "spring_to_life:block.leaf_litter.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "spring_to_life:block.leaf_litter.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "spring_to_life:block.leaf_litter.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "spring_to_life:block.leaf_litter.step"
+		}
+	]
+}

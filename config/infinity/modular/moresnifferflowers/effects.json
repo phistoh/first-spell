@@ -1,0 +1,112 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 8029316,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "moresnifferflowers:bland"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 15919578,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "moresnifferflowers:combo_meal"
+		},
+		{
+			"data": {
+				"Category": "neutral",
+				"Color": 14058905,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "moresnifferflowers:extracted"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 8797331,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "moresnifferflowers:glued"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 14714040,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "moresnifferflowers:gluing_touch"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 12937506,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "moresnifferflowers:hardened_mouth"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 4083092,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "moresnifferflowers:pants_on_fire"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 13283756,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "moresnifferflowers:salty"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 16764160,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "moresnifferflowers:slippery"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 10708892,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "moresnifferflowers:sticky"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 16775774,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "moresnifferflowers:untouchable"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 12953404,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "moresnifferflowers:well_balanced"
+		}
+	]
+}

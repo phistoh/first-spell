@@ -1,0 +1,102 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "sootychimneys:blocks/brick_chimney"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "sootychimneys:blocks/cobblestone_chimney"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "sootychimneys:blocks/copper_chimney"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "sootychimneys:blocks/dirty_brick_chimney"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "sootychimneys:blocks/dirty_cobblestone_chimney"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "sootychimneys:blocks/dirty_copper_chimney"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "sootychimneys:blocks/dirty_iron_chimney"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "sootychimneys:blocks/dirty_mud_brick_chimney"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "sootychimneys:blocks/dirty_stone_brick_chimney"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "sootychimneys:blocks/dirty_terracotta_chimney"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "sootychimneys:blocks/iron_chimney"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "sootychimneys:blocks/mud_brick_chimney"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "sootychimneys:blocks/stone_brick_chimney"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "sootychimneys:blocks/terracotta_chimney"
+		}
+	]
+}

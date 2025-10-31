@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ditr:dragon_made_ores"
+		},
+		{
+			"weight": 1.0,
+			"key": "ditr:obsidian_ore_replaceables"
+		}
+	]
+}

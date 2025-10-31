@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:beast_pit"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:beast_pit_off"
+		}
+	]
+}

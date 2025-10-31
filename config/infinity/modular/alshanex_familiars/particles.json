@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:black_note"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:destruction_symphony"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:harp_explosion"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:musical_note"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:vibration"
+		}
+	]
+}

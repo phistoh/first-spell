@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:blackstone_bricks_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:nether_bricks_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:powdery_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:red_nether_bricks_cabinet"
+		}
+	]
+}

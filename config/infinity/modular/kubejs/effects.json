@@ -1,0 +1,130 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 1135889,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "kubejs:amplifying_poison"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 1135889,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "kubejs:amplifying_poison_indicator"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 6693512,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "kubejs:atrophic_poison"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 6693512,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "kubejs:atrophic_poison_indicator"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 3342336,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "kubejs:bleeding"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 2245632,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "kubejs:crippling_poison"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 2245632,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "kubejs:crippling_poison_indicator"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 43605,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "kubejs:deadly_poison"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 43605,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "kubejs:deadly_poison_indicator"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 60928,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "kubejs:leeching_poison"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 15623680,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "kubejs:numbing_poison"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 15623680,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "kubejs:numbing_poison_indicator"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 30583,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "kubejs:one_by_one"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 5570560,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "kubejs:speed_of_blood"
+		}
+	]
+}

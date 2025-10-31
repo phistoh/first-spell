@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "nightosphere:basalt_column_breaches"
+		},
+		{
+			"weight": 1.0,
+			"key": "nightosphere:basalt_delta_surface"
+		}
+	]
+}

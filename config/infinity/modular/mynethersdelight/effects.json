@@ -1,0 +1,22 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 9127187,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:b_pungent"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 16766720,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:g_pungent"
+		}
+	]
+}

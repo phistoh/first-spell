@@ -1,0 +1,136 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "timm:badlands"
+		},
+		{
+			"weight": 1.0,
+			"key": "timm:bamboo_jungle"
+		},
+		{
+			"weight": 1.0,
+			"key": "timm:basalt_deltas"
+		},
+		{
+			"weight": 1.0,
+			"key": "timm:beach"
+		},
+		{
+			"weight": 1.0,
+			"key": "timm:birch_forest"
+		},
+		{
+			"weight": 1.0,
+			"key": "timm:cherry_grove"
+		},
+		{
+			"weight": 1.0,
+			"key": "timm:cold_ocean"
+		},
+		{
+			"weight": 1.0,
+			"key": "timm:crimson_forest"
+		},
+		{
+			"weight": 1.0,
+			"key": "timm:dark_forest"
+		},
+		{
+			"weight": 1.0,
+			"key": "timm:deep_dark"
+		},
+		{
+			"weight": 1.0,
+			"key": "timm:desert"
+		},
+		{
+			"weight": 1.0,
+			"key": "timm:dripstone_caves"
+		},
+		{
+			"weight": 1.0,
+			"key": "timm:end"
+		},
+		{
+			"weight": 1.0,
+			"key": "timm:flower_forest"
+		},
+		{
+			"weight": 1.0,
+			"key": "timm:forest"
+		},
+		{
+			"weight": 1.0,
+			"key": "timm:ice_spikes"
+		},
+		{
+			"weight": 1.0,
+			"key": "timm:jungle"
+		},
+		{
+			"weight": 1.0,
+			"key": "timm:lush_caves"
+		},
+		{
+			"weight": 1.0,
+			"key": "timm:meadow"
+		},
+		{
+			"weight": 1.0,
+			"key": "timm:menu"
+		},
+		{
+			"weight": 1.0,
+			"key": "timm:mountains"
+		},
+		{
+			"weight": 1.0,
+			"key": "timm:mushroom_fields"
+		},
+		{
+			"weight": 1.0,
+			"key": "timm:nether_wastes"
+		},
+		{
+			"weight": 1.0,
+			"key": "timm:ocean"
+		},
+		{
+			"weight": 1.0,
+			"key": "timm:plains"
+		},
+		{
+			"weight": 1.0,
+			"key": "timm:river"
+		},
+		{
+			"weight": 1.0,
+			"key": "timm:savanna"
+		},
+		{
+			"weight": 1.0,
+			"key": "timm:snow_plains"
+		},
+		{
+			"weight": 1.0,
+			"key": "timm:soul_sand_valley"
+		},
+		{
+			"weight": 1.0,
+			"key": "timm:swamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "timm:taiga"
+		},
+		{
+			"weight": 1.0,
+			"key": "timm:warm_ocean"
+		},
+		{
+			"weight": 1.0,
+			"key": "timm:windy_hills"
+		}
+	]
+}

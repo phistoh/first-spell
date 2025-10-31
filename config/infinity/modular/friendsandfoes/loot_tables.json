@@ -1,0 +1,319 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:barrels/citadel"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:barrels/iceologer_cabin"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:barrels/illusioner_shack_attic"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:barrels/illusioner_shack_basement"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:blocks/acacia_beehive"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:blocks/bamboo_beehive"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:blocks/birch_beehive"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:blocks/buttercup"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:blocks/cherry_beehive"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:blocks/copper_button"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:blocks/crab_egg"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:blocks/crimson_beehive"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:blocks/dark_oak_beehive"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:blocks/exposed_copper_button"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:blocks/exposed_lightning_rod"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:blocks/jungle_beehive"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:blocks/mangrove_beehive"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:blocks/oxidized_copper_button"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:blocks/oxidized_lightning_rod"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:blocks/potted_buttercup"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:blocks/spruce_beehive"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:blocks/warped_beehive"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:blocks/waxed_copper_button"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:blocks/waxed_exposed_copper_button"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:blocks/waxed_exposed_lightning_rod"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:blocks/waxed_lightning_rod"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:blocks/waxed_oxidized_copper_button"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:blocks/waxed_oxidized_lightning_rod"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:blocks/waxed_weathered_copper_button"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:blocks/waxed_weathered_lightning_rod"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:blocks/weathered_copper_button"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:blocks/weathered_lightning_rod"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:chests/abandoned_mineshaft_music_disc"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:chests/iceologer_cabin"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:chests/illusioner_shack"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:entities/copper_golem"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:entities/crab"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:entities/glare"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:entities/iceologer"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:entities/illusioner"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:entities/moobloom"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:entities/rascal"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:entities/tuff_golem"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:entities/wildfire"
+		},
+		{
+			"data": {
+				"Type": "empty"
+			},
+			"weight": 1.0,
+			"key": "friendsandfoes:rewards/rascal_good_reward"
+		}
+	]
+}

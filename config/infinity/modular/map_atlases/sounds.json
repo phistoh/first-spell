@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "map_atlases:atlas_create_map"
+		},
+		{
+			"weight": 1.0,
+			"key": "map_atlases:atlas_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "map_atlases:atlas_page_turn"
+		}
+	]
+}

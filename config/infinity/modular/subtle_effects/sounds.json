@@ -1,0 +1,108 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:block.amethyst_cluster.chime"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:block.campfire.sizzle"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:block.cauldron.clean_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:block.lava.drip"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:block.lava.drip_into_fluid"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:block.water.drip"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:block.water.drip_into_fluid"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:entity.axolotl.eat"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:entity.bee.eat"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:entity.chicken.eat"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:entity.cow.eat"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:entity.egg.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:entity.hoglin.eat"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:entity.ocelot.eat"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:entity.player.heartbeat"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:entity.player.snore"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:entity.player.stomach_growl"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:entity.rabbit.eat"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:entity.sheep.eat"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:entity.snowball.poof"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:entity.tadpole.eat"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:entity.turtle.eat"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:entity.villager.snore"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:environment.firefly.buzz"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:environment.geyser.hiss"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:environment.geyser.whoosh"
+		}
+	]
+}

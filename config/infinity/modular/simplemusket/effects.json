@@ -1,0 +1,13 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 4595487,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "simplemusket:armor_decrease"
+		}
+	]
+}

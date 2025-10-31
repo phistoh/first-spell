@@ -1,0 +1,384 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:baby_phoenix_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:beast_pit"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:beast_pit_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:bone_rattle"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:bone_stalker_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:bone_stalker_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:bone_stalker_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:crimson_spitter_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:crimson_spitter_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:crimsonshot"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:dirt_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:ember_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:executioner_cowl_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:executioner_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:executioner_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:furnace_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:furnace_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:gator_tooth"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:gilded_ent_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:gilded_ent_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:hatch"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:headsman_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:hermit_king_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:hermit_king_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:hermit_king_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:horseless_headsman_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:horseless_headsman_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:magic_root"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:molten_coal"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:mummy_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:mummy_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:mummy_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:mummy_wraps_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:phoenix_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:phoenix_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:phoenix_feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:phoenix_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:phoenixbird_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:piglin_executioner_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:pumpkin_helmet_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:pumpkin_minion_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:rare_baby_phoenix_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:rare_bone_stalker_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:rare_bone_stalker_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:rare_crimson_spitter_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:rare_executioner_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:rare_executioner_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:rare_hermit_king_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:rare_hermit_king_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:rare_mummy_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:rare_mummy_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:rare_phoenix_bird_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:rare_phoenix_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:rare_sea_viper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:rare_spitter_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:rare_stalker_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:rare_tree_ent_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:rare_tree_ent_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:rare_vile_gator_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:rare_vile_gator_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:rare_viper_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:rare_viper_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:rare_yeti_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:rare_yeti_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:sand_crab_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:scarecrow_minion_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:scarecrow_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:sea_viper_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:sea_viper_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:sea_viper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:shellmet_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:soul_ember_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:soul_furnace_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:soul_furnace_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:spitter_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:spore_bundle"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:stalker_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:the_furnace_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:the_scarecrow_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:tree_ent_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:tree_ent_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:tree_ent_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:ultimate_bestiary"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:vile_gator_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:vile_gator_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:vile_gator_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:viper_tooth"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:viper_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:warped_shot"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:wind_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:wind_phoenix_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:yeti_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:yeti_horn"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:yeti_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:yeti_trophy"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"elements": [
+		{
+			"data": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "enchantencore:rise"
+			},
+			"weight": 1.0,
+			"key": "enchantencore:rise"
+		}
+	]
+}

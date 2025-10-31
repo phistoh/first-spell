@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:totem_of_freezing"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:totem_of_illusion"
+		}
+	]
+}

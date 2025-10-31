@@ -1,0 +1,25 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Type": "archaeology"
+			},
+			"weight": 1.0,
+			"key": "betterjungletemples:archaeology/emerald"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "betterjungletemples:chests/campsite"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "betterjungletemples:chests/treasure"
+		}
+	]
+}

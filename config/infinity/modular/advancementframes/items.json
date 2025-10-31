@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "advancementframes:advancement_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "advancementframes:stat_frame"
+		}
+	]
+}

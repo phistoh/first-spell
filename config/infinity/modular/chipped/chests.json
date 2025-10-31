@@ -1,0 +1,152 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "chipped:acacia_barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:acacia_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:bamboo_barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:birch_barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:birch_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:coal_barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:copper_barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:crimson_barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:crimson_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:dark_oak_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:fish_barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:fruit_barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:gilded_barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:gold_barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:iron_barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:jungle_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:mangrove_brick_barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:mangrove_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:mangrove_tile_barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:metal_barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:mushroom_barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:netherite_safe"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:oak_barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:oak_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:reinforced_acacia_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:reinforced_birch_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:reinforced_crimson_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:reinforced_dark_oak_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:reinforced_jungle_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:reinforced_mangrove_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:reinforced_oak_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:reinforced_spruce_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:reinforced_warped_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:spruce_barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:spruce_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:varnished_barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:warped_crate"
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "chimes:amethyst_chimes"
+		},
+		{
+			"weight": 1.0,
+			"key": "chimes:bamboo_chimes"
+		},
+		{
+			"weight": 1.0,
+			"key": "chimes:carved_bamboo_chimes"
+		},
+		{
+			"weight": 1.0,
+			"key": "chimes:copper_chimes"
+		},
+		{
+			"weight": 1.0,
+			"key": "chimes:glass_bells"
+		},
+		{
+			"weight": 1.0,
+			"key": "chimes:iron_chimes"
+		}
+	]
+}

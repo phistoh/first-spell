@@ -1,0 +1,130 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "irons_spellbooks:apothecarist"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "irons_spellbooks:archevoker"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "irons_spellbooks:catacombs_zombie"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "irons_spellbooks:citadel_keeper"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "irons_spellbooks:cryomancer"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "irons_spellbooks:cultist"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "irons_spellbooks:cursed_armor_stand"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "irons_spellbooks:dead_king"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "irons_spellbooks:debug_wizard"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "irons_spellbooks:fire_boss"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "irons_spellbooks:ice_spider"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "irons_spellbooks:magehunter_vindicator"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "irons_spellbooks:necromancer"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "irons_spellbooks:priest"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "irons_spellbooks:pyromancer"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "irons_spellbooks:spectral_steed"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "irons_spellbooks:summoned_polar_bear"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "irons_spellbooks:summoned_vex"
+		}
+	]
+}

@@ -1,0 +1,284 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.copper_golem.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.copper_golem.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.copper_golem.oxidation"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.copper_golem.repair"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.copper_golem.spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.copper_golem.spin"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.copper_golem.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.copper_golem_oxidized.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.copper_golem_oxidized.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.copper_golem_oxidized.spin"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.copper_golem_oxidized.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.copper_golem_weathered.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.copper_golem_weathered.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.copper_golem_weathered.spin"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.copper_golem_weathered.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.crab.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.crab.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.crab.lay_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.crab.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.glare.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.glare.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.glare.eat"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.glare.grumpiness"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.glare.grumpiness_short"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.glare.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.glare.rustle"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.glare.shake"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.ice_chunk.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.ice_chunk.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.ice_chunk.summon"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.iceologer.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.iceologer.cast_spell"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.iceologer.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.iceologer.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.iceologer.prepare_slowness"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.iceologer.prepare_summon"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.mauler.bite"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.mauler.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.mauler.growl"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.mauler.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.moobloom.convert"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.moobloom.shear"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.player.mirror_move"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.rascal.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.rascal.disappear"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.rascal.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.rascal.nod"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.rascal.reappear"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.rascal.reward"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.rascal.reward_bad"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.shield_debris.impact"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.tuff_golem.drop_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.tuff_golem.glue_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.tuff_golem.glue_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.tuff_golem.hold_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.tuff_golem.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.tuff_golem.move"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.tuff_golem.repair"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.tuff_golem.sleep"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.tuff_golem.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.tuff_golem.wake"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.wildfire.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.wildfire.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.wildfire.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.wildfire.shield_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.wildfire.shockwave"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.wildfire.shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.wildfire.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:entity.wildfire.summon_blaze"
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:item.armor.equip_wildfire_crown"
+		}
+	]
+}

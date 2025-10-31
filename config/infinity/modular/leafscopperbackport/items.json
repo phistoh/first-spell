@@ -1,0 +1,48 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "leafscopperbackport:copper_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "leafscopperbackport:copper_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "leafscopperbackport:copper_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "leafscopperbackport:copper_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "leafscopperbackport:copper_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "leafscopperbackport:copper_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "leafscopperbackport:copper_horn"
+		},
+		{
+			"weight": 1.0,
+			"key": "leafscopperbackport:copper_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "leafscopperbackport:copper_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "leafscopperbackport:copper_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "leafscopperbackport:copper_sword"
+		}
+	]
+}

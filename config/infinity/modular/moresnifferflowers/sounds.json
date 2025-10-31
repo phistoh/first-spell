@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:block.cropressor.belt"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:item.dyespria.paint"
+		}
+	]
+}

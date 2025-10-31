@@ -1,0 +1,144 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "rocks:acacia_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "rocks:andesite_rock"
+		},
+		{
+			"weight": 1.0,
+			"key": "rocks:andesite_splitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "rocks:bamboo_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "rocks:birch_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "rocks:cherry_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "rocks:cobblestone_splitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "rocks:crimson_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "rocks:dark_oak_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "rocks:diorite_rock"
+		},
+		{
+			"weight": 1.0,
+			"key": "rocks:diorite_splitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "rocks:end_stone_rock"
+		},
+		{
+			"weight": 1.0,
+			"key": "rocks:end_stone_splitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "rocks:geyser"
+		},
+		{
+			"weight": 1.0,
+			"key": "rocks:granite_rock"
+		},
+		{
+			"weight": 1.0,
+			"key": "rocks:granite_splitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "rocks:gravel_rock"
+		},
+		{
+			"weight": 1.0,
+			"key": "rocks:jungle_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "rocks:mangrove_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "rocks:nether_geyser"
+		},
+		{
+			"weight": 1.0,
+			"key": "rocks:netherrack_rock"
+		},
+		{
+			"weight": 1.0,
+			"key": "rocks:netherrack_splitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "rocks:oak_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "rocks:pinecone"
+		},
+		{
+			"weight": 1.0,
+			"key": "rocks:red_sand_rock"
+		},
+		{
+			"weight": 1.0,
+			"key": "rocks:red_sandstone_splitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "rocks:rock"
+		},
+		{
+			"weight": 1.0,
+			"key": "rocks:sand_rock"
+		},
+		{
+			"weight": 1.0,
+			"key": "rocks:sandstone_splitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "rocks:seashell"
+		},
+		{
+			"weight": 1.0,
+			"key": "rocks:soul_soil_rock"
+		},
+		{
+			"weight": 1.0,
+			"key": "rocks:soul_soil_splitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "rocks:spruce_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "rocks:starfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "rocks:warped_stick"
+		}
+	]
+}

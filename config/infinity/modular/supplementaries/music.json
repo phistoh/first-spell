@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "supplementaries:music_disc.heave_ho"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:music_disc.pancake"
+		}
+	]
+}

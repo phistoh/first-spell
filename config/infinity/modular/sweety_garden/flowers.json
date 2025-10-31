@@ -1,0 +1,36 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "sweety_garden:baileya"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweety_garden:busy_lizzie"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweety_garden:cyan_poppy"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweety_garden:edelweiss"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweety_garden:heather"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweety_garden:pontederia"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweety_garden:shaggy_purslane"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweety_garden:snowdrop"
+		}
+	]
+}

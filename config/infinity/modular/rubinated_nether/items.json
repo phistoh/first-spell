@@ -1,0 +1,520 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:acedia_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:ardenter_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:bleeding_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:bronze_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:bronze_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:bronze_drill"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:bronze_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:bronze_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:bronze_shot"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:bronze_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:chiseled_shrine_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:corroded_bronze_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:corroded_bronze_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:corroded_cut_bronze_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:corroded_cut_bronze_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:corroded_cut_bronze_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:corroded_cut_bronze_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:crystallized_bronze_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:crystallized_bronze_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:crystallized_cut_bronze_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:crystallized_cut_bronze_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:crystallized_cut_bronze_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:crystallized_cut_bronze_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:cut_bronze_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:cut_bronze_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:cut_bronze_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:cut_bronze_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:discolored_bronze_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:discolored_bronze_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:discolored_cut_bronze_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:discolored_cut_bronze_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:discolored_cut_bronze_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:discolored_cut_bronze_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:dry_ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:envy_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:freezer"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:frosted_ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:gluttony_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:grand_ritual_offering"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:greed_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:insidiae_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:lava_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:luxuria_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:molten_ruby"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:molten_ruby_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:molten_ruby_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:molten_ruby_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:molten_ruby_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:molten_ruby_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:music_disc_shimmer"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:nether_ruby_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:nimis_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:ornate_ruby_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:ornate_ruby_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:polished_shrine_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:polished_shrine_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:polished_shrine_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:polished_shrine_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:powder_snow"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:pride_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:ritual_offering"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:rubinated_blackstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:rubinated_chiseled_shrine_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:rubinated_shrine_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:rubination_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:ruby"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:ruby_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:ruby_brazier"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:ruby_chandelier"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:ruby_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:ruby_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:ruby_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:ruby_laser"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:ruby_lens"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:ruby_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:runestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:shrine_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:shrine_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:shrine_stone_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:shrine_stone_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:shrine_stone_bricks_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:shrine_stone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:shrine_stone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:shrine_stone_tiles_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:shrine_stone_tiles_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:shrine_stone_tiles_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:sloth_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:soakstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:studiose_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:superbia_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:tarnished_bronze_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:tarnished_bronze_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:tarnished_cut_bronze_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:tarnished_cut_bronze_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:tarnished_cut_bronze_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:tarnished_cut_bronze_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:tristia_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:vainglory_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:waxed_bronze_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:waxed_bronze_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:waxed_corroded_bronze_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:waxed_corroded_bronze_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:waxed_corroded_cut_bronze_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:waxed_corroded_cut_bronze_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:waxed_corroded_cut_bronze_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:waxed_corroded_cut_bronze_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:waxed_crystallized_bronze_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:waxed_crystallized_bronze_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:waxed_crystallized_cut_bronze_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:waxed_crystallized_cut_bronze_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:waxed_crystallized_cut_bronze_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:waxed_crystallized_cut_bronze_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:waxed_cut_bronze_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:waxed_cut_bronze_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:waxed_cut_bronze_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:waxed_cut_bronze_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:waxed_discolored_bronze_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:waxed_discolored_bronze_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:waxed_discolored_cut_bronze_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:waxed_discolored_cut_bronze_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:waxed_discolored_cut_bronze_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:waxed_discolored_cut_bronze_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:waxed_tarnished_bronze_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:waxed_tarnished_bronze_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:waxed_tarnished_cut_bronze_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:waxed_tarnished_cut_bronze_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:waxed_tarnished_cut_bronze_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:waxed_tarnished_cut_bronze_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:wrath_rune"
+		}
+	]
+}

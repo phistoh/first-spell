@@ -1,0 +1,64 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "spring_to_life:blue_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "spring_to_life:brown_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "spring_to_life:bush"
+		},
+		{
+			"weight": 1.0,
+			"key": "spring_to_life:cactus_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "spring_to_life:cold_chicken_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "spring_to_life:cold_cow_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "spring_to_life:cold_pig_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "spring_to_life:firefly_bush"
+		},
+		{
+			"weight": 1.0,
+			"key": "spring_to_life:leaf_litter"
+		},
+		{
+			"weight": 1.0,
+			"key": "spring_to_life:short_dry_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "spring_to_life:tall_dry_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "spring_to_life:warm_chicken_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "spring_to_life:warm_cow_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "spring_to_life:warm_pig_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "spring_to_life:wildflowers"
+		}
+	]
+}

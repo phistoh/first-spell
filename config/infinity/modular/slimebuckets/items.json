@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "slimebuckets:magma_cube_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "slimebuckets:slime_bucket"
+		}
+	]
+}

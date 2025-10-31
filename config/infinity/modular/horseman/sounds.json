@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "horseman:item.lead.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "horseman:item.lead.untied"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "fireproofboats:crimson_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "fireproofboats:crimson_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "fireproofboats:warped_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "fireproofboats:warped_chest_boat"
+		}
+	]
+}

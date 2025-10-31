@@ -1,0 +1,52 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:bone_stalker_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:crimson_spitter_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:executioner_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:furnace_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:headsman_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:hermit_king_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:mummy_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:phoenix_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:sea_viper_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:tree_ent_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:vile_gator_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:yeti_disc"
+		}
+	]
+}

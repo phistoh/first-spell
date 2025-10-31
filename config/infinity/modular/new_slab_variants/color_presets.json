@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "new_slab_variants:$_concrete_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "new_slab_variants:$_glazed_terracotta_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "new_slab_variants:$_stained_glass_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "new_slab_variants:$_terracotta_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "new_slab_variants:$_wool_slab"
+		}
+	]
+}

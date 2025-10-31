@@ -1,0 +1,40 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:above_propagate_plant"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:below_propagate_plant"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:letios_activators"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:letios_flames"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:powdery_cane"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:powdery_cannon_plantable_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:resurgent_soil_plant"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:showcase_activators"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:showcase_flames"
+		}
+	]
+}

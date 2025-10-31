@@ -1,0 +1,70 @@
+{
+	"elements": [
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "alshanex_familiars:end_laboratory"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:end_laboratory"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"weight": 1,
+								"minCount": 1,
+								"type": "alshanex_familiars:necromancer_pet",
+								"maxCount": 1
+							}
+						]
+					}
+				},
+				"step": "underground_decoration",
+				"id": "alshanex_familiars:graveyard"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:graveyard"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "alshanex_familiars:hunter_campsite"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:hunter_campsite"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 1,
+								"minCount": 1,
+								"type": "alshanex_familiars:soul_entity",
+								"maxCount": 1
+							}
+						]
+					}
+				},
+				"step": "top_layer_modification",
+				"id": "alshanex_familiars:origin_island"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:origin_island"
+		}
+	]
+}

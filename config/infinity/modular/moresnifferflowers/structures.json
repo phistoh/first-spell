@@ -1,0 +1,37 @@
+{
+	"elements": [
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "moresnifferflowers:dessert_sniffer_temple"
+			},
+			"weight": 1.0,
+			"key": "moresnifferflowers:dessert_sniffer_temple"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "moresnifferflowers:snow_sniffer_temple"
+			},
+			"weight": 1.0,
+			"key": "moresnifferflowers:snow_sniffer_temple"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "moresnifferflowers:swamp_sniffer_temple"
+			},
+			"weight": 1.0,
+			"key": "moresnifferflowers:swamp_sniffer_temple"
+		}
+	]
+}

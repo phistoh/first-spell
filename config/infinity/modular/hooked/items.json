@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "hooked:custom_hook"
+		},
+		{
+			"weight": 1.0,
+			"key": "hooked:diamond_hook"
+		},
+		{
+			"weight": 1.0,
+			"key": "hooked:ender_hook"
+		},
+		{
+			"weight": 1.0,
+			"key": "hooked:iron_hook"
+		},
+		{
+			"weight": 1.0,
+			"key": "hooked:redstone_hook"
+		},
+		{
+			"weight": 1.0,
+			"key": "hooked:wood_hook"
+		}
+	]
+}

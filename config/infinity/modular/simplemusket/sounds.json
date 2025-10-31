@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "simplemusket:musket_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplemusket:musket_load0"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplemusket:musket_load1"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplemusket:musket_ready"
+		}
+	]
+}

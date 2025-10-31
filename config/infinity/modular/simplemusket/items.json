@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "simplemusket:cartridge"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplemusket:enchanted_cartridge"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplemusket:hellfire_cartridge"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplemusket:musket"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplemusket:musket_pillager_spawn_egg"
+		}
+	]
+}

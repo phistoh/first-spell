@@ -1,0 +1,46 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "endersdelight:blocks/amberveil_mushroom"
+		},
+		{
+			"data": {
+				"Type": "generic"
+			},
+			"weight": 1.0,
+			"key": "endersdelight:blocks/chorus_crate"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "endersdelight:blocks/chorusflame_bush"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "endersdelight:blocks/endstone_stove"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "endersdelight:blocks/ethereal_saffron_bush"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "endersdelight:blocks/voidpepper_bush"
+		}
+	]
+}

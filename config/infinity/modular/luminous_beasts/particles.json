@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:golden_gleam_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:purple_flame"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:toxic"
+		}
+	]
+}

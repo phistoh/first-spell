@@ -1,0 +1,60 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:entity.dead_king.music.drum_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:entity.dead_king.music.first_phase_accent_01"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:entity.dead_king.music.first_phase_melody"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:entity.dead_king.music.intro"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:entity.dead_king.music.second_phase_melody_alt"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:entity.dead_king.music.suspense"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:music.dead_king_lullaby"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:music.fire_boss.backtrack"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:music.fire_boss.bells_a"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:music.fire_boss.bells_b"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:music.fire_boss.drums"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:music.fire_boss.melody_a"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:music.fire_boss.melody_b"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:music.flame_still_burns"
+		}
+	]
+}

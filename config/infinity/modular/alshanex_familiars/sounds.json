@@ -1,0 +1,88 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:angel_cast"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:angelic_harp"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:bard_song_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:bard_song_10"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:bard_song_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:bard_song_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:bard_song_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:bard_song_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:bard_song_6"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:bard_song_7"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:bard_song_8"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:bard_song_9"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:bird_chirp"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:birds_cast"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:birds_spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:clef"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:harp_explosion"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:harp_explosion_cast"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:harp_symphony"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:harp_wave"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:healing_aura"
+		}
+	]
+}

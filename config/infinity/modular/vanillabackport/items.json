@@ -1,0 +1,220 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:black_harness"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:blue_harness"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:brown_harness"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:chiseled_resin_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:closed_eyeblossom"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:creaking_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:creaking_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:cyan_harness"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:dried_ghast"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:gray_harness"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:green_harness"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:happy_ghast_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:light_blue_harness"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:light_gray_harness"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:lime_harness"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:magenta_harness"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:music_disc_lava_chicken"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:music_disc_tears"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:open_eyeblossom"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:orange_harness"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:pale_hanging_moss"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:pale_moss_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:pale_moss_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:pale_oak_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:pale_oak_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:pale_oak_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:pale_oak_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:pale_oak_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:pale_oak_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:pale_oak_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:pale_oak_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:pale_oak_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:pale_oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:pale_oak_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:pale_oak_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:pale_oak_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:pale_oak_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:pale_oak_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:pale_oak_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:pale_oak_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:pink_harness"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:purple_harness"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:red_harness"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:resin_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:resin_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:resin_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:resin_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:resin_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:resin_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:resin_clump"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:stripped_pale_oak_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:stripped_pale_oak_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:white_harness"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:yellow_harness"
+		}
+	]
+}

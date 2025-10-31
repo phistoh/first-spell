@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "enhancedcelestials:blood_moon"
+		},
+		{
+			"weight": 1.0,
+			"key": "enhancedcelestials:blue_moon"
+		},
+		{
+			"weight": 1.0,
+			"key": "enhancedcelestials:harvest_moon"
+		}
+	]
+}

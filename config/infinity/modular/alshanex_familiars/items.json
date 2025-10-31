@@ -1,0 +1,216 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:archmage_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:archmage_trinket"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:bard_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:bard_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:bard_harp"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:bard_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:bard_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:bard_trinket"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:broken_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:cleric_trinket"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:crystal_berry"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:druid_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:evasion_curio"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:familiar_spellbook"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:familiar_storage"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:familiar_tome"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:forest_trinket"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:frostling_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:frostling_trinket"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:healing_curio"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:hunter_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:hunter_trinket"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:illusionist_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:illusionist_trinket"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:invisibility_curio"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:life_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:lightning_mage_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:mage_trinket"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:memory_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:mysterious_orb"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:necromancer_trinket"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:pandora_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:pet_archmage_statue_model"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:pet_beastmaster_statue_model"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:pet_bed"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:pet_cleric_statue_model"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:pet_druid_statue_model"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:pet_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:plague_trinket"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:poison_vial"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:ritual_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:rusty_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:scorcher_trinket"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:sound_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:sound_spell_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:sound_upgrade_orb"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:spider_fang"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:statue_curio"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:strange_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:summoner_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:summoner_trinket"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:tiny_totem"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:truth_mirror"
+		}
+	]
+}

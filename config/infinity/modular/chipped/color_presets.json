@@ -1,0 +1,364 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "chipped:$_concrete_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:$_concrete_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:$_concrete_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:$_concrete_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:$_glazed_terracotta_pillar_sides"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:$_glazed_terracotta_pillar_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:$_glazed_terracotta_smooth_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:$_glazed_terracotta_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:$_terracotta_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:$_terracotta_column"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:$_terracotta_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:$_terracotta_tile"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:$_terracotta_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:arched_$_stained_glass_pane_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:arched_$_stained_glass_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:barky_$_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:blocky_$_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:bolted_$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:bundled_$_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:chiseled_$_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:circular_$_stained_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:circular_$_stained_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:circular_$_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:cornered_$_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:crafted_$_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:creeper_$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:cross_haired_$_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:crossed_$_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:cubed_$_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:curled_$_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:cut_$_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:decorated_$_glazed_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:decorated_$_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:fancy_$_stained_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:fancy_$_stained_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:grid_$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:grill_$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:harsh_quilted_$_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:hazard_$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:hexagonical_$_glazed_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:hexagonical_$_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:inscribed_$_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:knitted_$_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:large_diamond_$_stained_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:large_diamond_$_stained_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:layered_$_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:minimized_$_glazed_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:mosaic_$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:ornate_$_stained_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:ornate_$_stained_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:patched_$_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:paved_$_glazed_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:pegged_$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:railed_$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:raster_$_stained_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:raster_$_stained_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:rectangle_$_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:reinforced_$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:ribbled_$_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:rusted_$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:scaled_$_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:shrunken_$_glazed_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:small_$_stained_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:small_$_stained_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:small_$_terracotta_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:smooth_$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:soft_$_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:square_$_stained_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:square_$_stained_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:stacked_$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:starry_$_glazed_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:starry_$_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:stop_$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:stringed_$_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:striped_$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:tiled_$_stained_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:tiled_$_stained_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:tiled_$_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:triangular_$_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:tripped_$_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:vertical_stiped_$_stained_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:vertical_stiped_$_stained_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:warning_$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:waved_$_glazed_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:wickered_$_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:windmill_$_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:wired_$_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:woved_$_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:woven_$_stained_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "chipped:woven_$_stained_glass_pane"
+		}
+	]
+}

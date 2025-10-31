@@ -1,0 +1,44 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:archmage_spawnable_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:druid_growables"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:druid_spawnable_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:frostling_spawnable_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:hunter_spawnable_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:mage_spawnable_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:necromancer_spawnable_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:scorcher_spawnable_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:statues"
+		},
+		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:summoner_spawnable_on"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "hoppergadgetry:chute"
+		},
+		{
+			"weight": 1.0,
+			"key": "hoppergadgetry:duct"
+		},
+		{
+			"weight": 1.0,
+			"key": "hoppergadgetry:grated_hopper"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "kubejs:deadly_poison"
+		},
+		{
+			"weight": 1.0,
+			"key": "kubejs:diamond_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "kubejs:potion_of_unlearning"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 65504,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "majospellenchantment:phase_dashed"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 9055202,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "majospellenchantment:sunday_fever"
+		}
+	]
+}

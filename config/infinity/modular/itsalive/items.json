@@ -1,0 +1,68 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "itsalive:brushed_enamel_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "itsalive:brushed_enamel_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "itsalive:brushed_enamel_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "itsalive:brushed_enamel_column"
+		},
+		{
+			"weight": 1.0,
+			"key": "itsalive:brushed_sculk_tooth"
+		},
+		{
+			"weight": 1.0,
+			"key": "itsalive:enamel_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "itsalive:enamel_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "itsalive:enamel_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "itsalive:enamel_column"
+		},
+		{
+			"weight": 1.0,
+			"key": "itsalive:sculk_tendrils"
+		},
+		{
+			"weight": 1.0,
+			"key": "itsalive:sculk_thatch"
+		},
+		{
+			"weight": 1.0,
+			"key": "itsalive:sculk_thatch_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "itsalive:sculk_thatch_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "itsalive:sculk_tooth"
+		},
+		{
+			"weight": 1.0,
+			"key": "itsalive:spinal_column"
+		},
+		{
+			"weight": 1.0,
+			"key": "itsalive:tall_sculk_tendrils"
+		}
+	]
+}

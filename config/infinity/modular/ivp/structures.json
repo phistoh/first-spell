@@ -1,0 +1,59 @@
+{
+	"elements": [
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "ivp:small_village_desert"
+			},
+			"weight": 1.0,
+			"key": "ivp:small_village_desert"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "ivp:small_village_plains"
+			},
+			"weight": 1.0,
+			"key": "ivp:small_village_plains"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "ivp:small_village_savanna"
+			},
+			"weight": 1.0,
+			"key": "ivp:small_village_savanna"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "ivp:small_village_snowy"
+			},
+			"weight": 1.0,
+			"key": "ivp:small_village_snowy"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "ivp:small_village_taiga"
+			},
+			"weight": 1.0,
+			"key": "ivp:small_village_taiga"
+		}
+	]
+}

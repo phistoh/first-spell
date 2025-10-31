@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "yigd:death_scroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "yigd:grave"
+		},
+		{
+			"weight": 1.0,
+			"key": "yigd:grave_key"
+		}
+	]
+}

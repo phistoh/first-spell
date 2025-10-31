@@ -1,0 +1,319 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/blackstone_bricks_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/bullet_pepper"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/bullet_pepper_crate"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/cold_striderloaf_block"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/crimson_fungus_colony"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/ghasta_with_cream_block"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/golden_trophy"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/hoglin_trophy"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/letios_compost"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/nether_bricks_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/nether_stove"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/potted_bullet_pepper"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/potted_powdery_cannon"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/powdery_block"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/powdery_button"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/powdery_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/powdery_cane"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/powdery_cannon"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/powdery_door"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/powdery_fence"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/powdery_fence_gate"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/powdery_hanging_sign"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/powdery_mosaic"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/powdery_mosaic_slab"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/powdery_mosaic_stairs"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/powdery_planks"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/powdery_pressure_plate"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/powdery_sign"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/powdery_slab"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/powdery_stairs"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/powdery_torch"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/powdery_trapdoor"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/red_nether_bricks_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/resurgent_soil"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/resurgent_soil_farmland"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/skoglin_trophy"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/striderloaf_block"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/stripped_powdery_block"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/stuffed_hoglin"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/warped_fungus_colony"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/waxed_hoglin_trophy"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:blocks/zoglin_trophy"
+		},
+		{
+			"data": {
+				"Type": "generic"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:chests/mnd_bastion_hoglin_stable"
+		},
+		{
+			"data": {
+				"Type": "generic"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:chests/mnd_bastion_treasure"
+		},
+		{
+			"data": {
+				"Type": "barter"
+			},
+			"weight": 1.0,
+			"key": "mynethersdelight:gameplay/mnd_piglin_bartering"
+		}
+	]
+}

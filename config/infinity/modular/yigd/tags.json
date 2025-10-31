@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "yigd:keep_strict_blacklist"
+		},
+		{
+			"weight": 1.0,
+			"key": "yigd:replace_grave_blacklist"
+		},
+		{
+			"weight": 1.0,
+			"key": "yigd:replace_soft_whitelist"
+		}
+	]
+}

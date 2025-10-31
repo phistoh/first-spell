@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "randomore:deepslate_random_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "randomore:random_ore"
+		}
+	]
+}

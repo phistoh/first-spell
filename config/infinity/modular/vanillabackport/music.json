@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:music_disc.lava_chicken"
+		},
+		{
+			"weight": 1.0,
+			"key": "vanillabackport:music_disc.tears"
+		}
+	]
+}

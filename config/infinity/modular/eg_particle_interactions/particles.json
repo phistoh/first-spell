@@ -1,0 +1,64 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "eg_particle_interactions:brush_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "eg_particle_interactions:brush_dust_speck"
+		},
+		{
+			"weight": 1.0,
+			"key": "eg_particle_interactions:falling_azalea_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "eg_particle_interactions:falling_cherry_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "eg_particle_interactions:falling_flowering_azalea_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "eg_particle_interactions:floating_soul_spark"
+		},
+		{
+			"weight": 1.0,
+			"key": "eg_particle_interactions:floating_spark"
+		},
+		{
+			"weight": 1.0,
+			"key": "eg_particle_interactions:flying_soul_spark"
+		},
+		{
+			"weight": 1.0,
+			"key": "eg_particle_interactions:flying_spark"
+		},
+		{
+			"weight": 1.0,
+			"key": "eg_particle_interactions:lava_bucket_splash"
+		},
+		{
+			"weight": 1.0,
+			"key": "eg_particle_interactions:moss_clump"
+		},
+		{
+			"weight": 1.0,
+			"key": "eg_particle_interactions:pale_moss_clump"
+		},
+		{
+			"weight": 1.0,
+			"key": "eg_particle_interactions:soul_spark_flash"
+		},
+		{
+			"weight": 1.0,
+			"key": "eg_particle_interactions:spark_flash"
+		},
+		{
+			"weight": 1.0,
+			"key": "eg_particle_interactions:underwater_rising_bubble"
+		}
+	]
+}

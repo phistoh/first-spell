@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "arcaneessenceblock:arcane_essence_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcaneessenceblock:arcane_ingot_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcaneessenceblock:essence_sack"
+		}
+	]
+}

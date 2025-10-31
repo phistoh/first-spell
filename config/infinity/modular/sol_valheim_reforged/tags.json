@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "sol_valheim_reforged:cakes"
+		},
+		{
+			"weight": 1.0,
+			"key": "sol_valheim_reforged:sliceable_food"
+		}
+	]
+}

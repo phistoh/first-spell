@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "hooked:ignore_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "hooked:solid_blocks"
+		}
+	]
+}

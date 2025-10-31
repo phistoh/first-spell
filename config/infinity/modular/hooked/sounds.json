@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "hooked:fire_hook"
+		},
+		{
+			"weight": 1.0,
+			"key": "hooked:hook_dislodge"
+		},
+		{
+			"weight": 1.0,
+			"key": "hooked:hook_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "hooked:hook_miss"
+		},
+		{
+			"weight": 1.0,
+			"key": "hooked:retract_hook"
+		}
+	]
+}

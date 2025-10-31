@@ -1,0 +1,56 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:acidripia_drip"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:acidripia_fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:acidripia_land"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:ambush"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:bondripia_drip"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:bondripia_fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:bondripia_land"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:bubble"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:carrot"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:fly"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:garbush"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:giant_crop"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:torchflame"
+		}
+	]
+}

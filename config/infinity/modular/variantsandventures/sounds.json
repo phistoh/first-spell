@@ -1,0 +1,104 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "variantsandventures:entity.gelid.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "variantsandventures:entity.gelid.attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "variantsandventures:entity.gelid.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "variantsandventures:entity.gelid.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "variantsandventures:entity.gelid.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "variantsandventures:entity.murk.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "variantsandventures:entity.murk.ambient_water"
+		},
+		{
+			"weight": 1.0,
+			"key": "variantsandventures:entity.murk.attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "variantsandventures:entity.murk.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "variantsandventures:entity.murk.death_water"
+		},
+		{
+			"weight": 1.0,
+			"key": "variantsandventures:entity.murk.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "variantsandventures:entity.murk.hurt_water"
+		},
+		{
+			"weight": 1.0,
+			"key": "variantsandventures:entity.murk.shear"
+		},
+		{
+			"weight": 1.0,
+			"key": "variantsandventures:entity.murk.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "variantsandventures:entity.snowball.impact"
+		},
+		{
+			"weight": 1.0,
+			"key": "variantsandventures:entity.thicket.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "variantsandventures:entity.thicket.attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "variantsandventures:entity.thicket.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "variantsandventures:entity.thicket.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "variantsandventures:entity.thicket.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "variantsandventures:entity.verdant.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "variantsandventures:entity.verdant.attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "variantsandventures:entity.verdant.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "variantsandventures:entity.verdant.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "variantsandventures:entity.verdant.step"
+		}
+	]
+}

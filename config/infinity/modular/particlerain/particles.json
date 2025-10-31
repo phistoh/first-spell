@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "particlerain:mist"
+		},
+		{
+			"weight": 1.0,
+			"key": "particlerain:ripple"
+		},
+		{
+			"weight": 1.0,
+			"key": "particlerain:shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "particlerain:streak"
+		}
+	]
+}

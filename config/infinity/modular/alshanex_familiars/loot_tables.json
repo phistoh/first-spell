@@ -1,0 +1,291 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Type": "archaeology"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:archaeology/origin_island"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:blocks/familiar_storage"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:blocks/pet_bed"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:chests/end_laboratory/treasure"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:chests/graveyard/grave"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:chests/graveyard/treasure"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:chests/hunter_campsite/generic"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:chests/hunter_campsite/supplies"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:chests/inserts/additional_ancient_city_loot"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:chests/inserts/additional_blacksmith_loot"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:chests/inserts/additional_end_city_loot"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:chests/inserts/additional_evoker_fort_loot"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:chests/inserts/additional_ice_den_loot"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:chests/inserts/additional_icebreaker_loot"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:chests/inserts/additional_jungle_loot"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:chests/inserts/additional_mansion_loot"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:chests/inserts/additional_mountain_tower_loot"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:chests/inserts/additional_priest_house_loot"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:chests/inserts/additional_pyromancer_tower_loot"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:chests/origin_island/brewing"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:chests/origin_island/cartography"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:chests/origin_island/fishing"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:chests/origin_island/produce/fruit"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:chests/origin_island/produce/honey"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:chests/origin_island/produce/kelp"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:chests/origin_island/produce/meat"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:chests/origin_island/produce/random"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:chests/origin_island/produce/sugarcane"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:chests/origin_island/research"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:chests/origin_island/sub_tables/brush"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:chests/origin_island/sub_tables/writing"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:chests/origin_island/workshop/potions"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:chests/origin_island/workshop/random"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:chests/origin_island/workshop/rings"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:chests/origin_island/workshop/scrolls"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:chests/origin_island/workshop/stone"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:chests/origin_island/workshop/wood"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:chests/summoner_lab/treasure"
+		},
+		{
+			"data": {
+				"Type": "generic"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:entities/additional_citadel_keeper_loot"
+		},
+		{
+			"data": {
+				"Type": "generic"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:entities/additional_mushroom_cow_loot"
+		},
+		{
+			"data": {
+				"Type": "generic"
+			},
+			"weight": 1.0,
+			"key": "alshanex_familiars:entities/additional_spider_loot"
+		}
+	]
+}

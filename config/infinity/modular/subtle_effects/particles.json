@@ -1,0 +1,160 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:allay_magic"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:amethyst_sparkle"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:armadillo"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:azalea_petal"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:blue_parrot_feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:chicken_feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:compost"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:drowning_bubble"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:drowning_bubble_pop"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:end_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:end_portal"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:falling_snoring"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:firefly"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:firefly_emitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:freezing"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:frosty_breath"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:geyser_smoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:gray_parrot_feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:green_parrot_feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:heart_pop"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:iron_golem"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:large_dust_cloud"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:mushroom_spore"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:ominous_vault_connection"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:pollen"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:red_blue_parrot_feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:sculk_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:small_dust_cloud"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:smoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:sneeze"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:snoring"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:snow"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:snowball_trail"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:steam"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:vanilla_firefly"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:waterfall_cloud"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:waterfall_droplet"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:waterfall_mist"
+		},
+		{
+			"weight": 1.0,
+			"key": "subtle_effects:yellow_blue_parrot_feather"
+		}
+	]
+}

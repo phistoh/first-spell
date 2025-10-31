@@ -1,0 +1,56 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "chimes:ambient.outdoor.wind"
+		},
+		{
+			"weight": 1.0,
+			"key": "chimes:block.amethyst.shimmer"
+		},
+		{
+			"weight": 1.0,
+			"key": "chimes:block.amethyst.shimmering"
+		},
+		{
+			"weight": 1.0,
+			"key": "chimes:block.bamboo.chime"
+		},
+		{
+			"weight": 1.0,
+			"key": "chimes:block.bamboo.chiming"
+		},
+		{
+			"weight": 1.0,
+			"key": "chimes:block.bamboo.tie"
+		},
+		{
+			"weight": 1.0,
+			"key": "chimes:block.copper.chime"
+		},
+		{
+			"weight": 1.0,
+			"key": "chimes:block.copper.chiming"
+		},
+		{
+			"weight": 1.0,
+			"key": "chimes:block.copper.tie"
+		},
+		{
+			"weight": 1.0,
+			"key": "chimes:block.glass.chime"
+		},
+		{
+			"weight": 1.0,
+			"key": "chimes:block.iron.chime"
+		},
+		{
+			"weight": 1.0,
+			"key": "chimes:block.iron.chiming"
+		},
+		{
+			"weight": 1.0,
+			"key": "chimes:block.iron.tie"
+		}
+	]
+}

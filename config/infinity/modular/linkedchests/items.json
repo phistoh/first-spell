@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "linkedchests:linked_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "linkedchests:linked_pouch"
+		}
+	]
+}

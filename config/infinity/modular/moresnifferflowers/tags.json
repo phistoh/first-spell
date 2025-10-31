@@ -1,0 +1,68 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:bonmeelable"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:carryon_block_blacklist"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:corrupted_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:corrupted_sludge"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:corruption_shielding"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:corruption_transformables"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:dyed"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:giant_crop_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:giant_crops"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:no_corrupted_slime_collision"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:no_shading"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:stickable"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:uncorruptable"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:vivicus_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:vivicus_tree_replacable"
+		},
+		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:waterloggable"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "spring_to_life:desert_dry_vegetation_sound_trigger"
+		},
+		{
+			"weight": 1.0,
+			"key": "spring_to_life:may_place_on_dry_vegetation"
+		},
+		{
+			"weight": 1.0,
+			"key": "spring_to_life:sheep_edible_blocks"
+		}
+	]
+}
