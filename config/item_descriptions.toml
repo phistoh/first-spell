@@ -1,70 +1,70 @@
-	# Enable Item Descriptions
-	# default: true
-	item_descriptions = true
-	# Always show Item Descriptions while hovering over an item in your inventory.
+# Enable Item Descriptions
+# default: true
+item_descriptions = true
+# Always show Item Descriptions while hovering over an item in your inventory.
+# default: false
+display_always = false
+# Prioritize the Entity Description of the spawn egg over the generic spawn egg description.
+# default: true
+spawn_eggs_show_entity = true
+# When Item Descriptions are being displayed, also display the mod name.
+# default: false
+show_mod_name = false
+
+[hint]
+	# When descriptions on an item are not visible, show a tooltip with the default text 'Show more' and the keybind.
 	# default: false
-	display_always = false
-	# Prioritize the Entity Description of the spawn egg over the generic spawn egg description.
+	enabled = false
+	# Show keybinds in hint text.
 	# default: true
-	spawn_eggs_show_entity = true
-	# When Item Descriptions are being displayed, also display the mod name.
+	show_keybinds = true
+	# This setting changes what Minecraft colour is used for hint tooltips, either by colour code or name.
+	# default: Gray
+	color = "Gray"
+	# Italicize Hints
 	# default: false
-	show_mod_name = false
+	italics = false
+	# Force-uppercase hint keybinds.
+	# default: true
+	uppercase = true
 
-	[hint]
-		# When descriptions on an item are not visible, show a tooltip with the default text 'Show more' and the keybind.
-		# default: false
-		enabled = false
-		# Show keybinds in hint text.
-		# default: true
-		show_keybinds = true
-		# This setting changes what Minecraft colour is used for hint tooltips, either by colour code or name.
-		# default: Gray
-		color = "Gray"
-		# Italicize Hints
-		# default: false
-		italics = false
-		# Force-uppercase hint keybinds.
-		# default: true
-		uppercase = true
+[style]
+	# This setting changes what Minecraft colour is used for block, item, and entity tooltips, either by colour code or name.
+	# default: Gray
+	color = "Gray"
+	# This setting changes whether block, item, and entity tooltips are italicized.
+	# default: false
+	italics = false
+	# This setting changes whether block, item, and entity tooltips are bolded.
+	# default: false
+	bold = false
+	# Changes the minimum width of multi-line tooltip. Expands for longer item names. Ignored when ToolTipFix is present.
+	# default: 160
+	length = 160
+	# Color of the mod name tooltip
+	# default: Blue
+	mod_name_color = "Blue"
+	# Whether to italicize the mod name tooltip
+	# default: true
+	mod_name_italics = true
 
-	[style]
-		# This setting changes what Minecraft colour is used for block, item, and entity tooltips, either by colour code or name.
-		# default: Gray
-		color = "Gray"
-		# This setting changes whether block, item, and entity tooltips are italicized.
-		# default: false
-		italics = false
-		# This setting changes whether block, item, and entity tooltips are bolded.
-		# default: false
-		bold = false
-		# Changes the minimum width of multi-line tooltip. Expands for longer item names. Ignored when ToolTipFix is present.
-		# default: 160
-		length = 160
-		# Color of the mod name tooltip
-		# default: Blue
-		mod_name_color = "Blue"
-		# Whether to italicize the mod name tooltip
-		# default: true
-		mod_name_italics = true
+[keybinds]
+	# Show descriptions when the Ctrl key is held.
+	# default: true
+	display_when_ctrl_is_held = true
+	# Show descriptions when the Shift key is held.
+	# default: false
+	display_when_shift_is_held = false
+	# Show descriptions when the Alt key is held.
+	# default: false
+	display_when_alt_is_held = false
+	# Invert all Item Descriptions keybinds.
+	# default: false
+	invert = false
 
-	[keybinds]
-		# Show descriptions when the Ctrl key is held.
-		# default: true
-		display_when_ctrl_is_held = true
-		# Show descriptions when the Shift key is held.
-		# default: false
-		display_when_shift_is_held = false
-		# Show descriptions when the Alt key is held.
-		# default: false
-		display_when_alt_is_held = false
-		# Invert all Item Descriptions keybinds.
-		# default: false
-		invert = false
-
-	[block_descriptions]
-		# This will show Block Descriptions in compatible mods. This can also be disabled in Jade/WTHIT's settings.
-		# default: true
+[block_descriptions]
+	# This will show Block Descriptions in compatible mods. This can also be disabled in Jade/WTHIT's settings.
+	# default: true
 	enable = true
 	# Always show Block Descriptions, not just when a key is held.
 	# default: false

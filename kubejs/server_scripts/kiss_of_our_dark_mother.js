@@ -10,7 +10,7 @@ EntityEvents.beforeHurt((event) => {
 
   if (
     player.tags.contains("phis.kiss_of_our_dark_mother") &&
-    player.mainHandItem.hasTag("#farmersdelight:knives") &&
+    player.mainHandItem.hasTag("c:tools/knife") &&
     entity.health <= player.health
   ) {
     entity.kill();

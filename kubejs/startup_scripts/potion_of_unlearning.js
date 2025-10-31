@@ -17,6 +17,9 @@ StartupEvents.registry("item", (event) => {
         entity.runCommandSilent(
           `title @s title {"text": "Your skills are reset!", "color": "aqua"}`
         );
+        entity.runCommandSilent(
+          `playsound minecraft:entity.player.levelup master @s ~ ~ ~`
+        );
       } else {
         entity.runCommandSilent(
           `puffish_skills skills reset @s phis:first_spell`
