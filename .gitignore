@@ -9,3 +9,4 @@
 
 
 .probe
+config/fabric/indigo-renderer.properties
