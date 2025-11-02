@@ -12,7 +12,7 @@ stalkerSpawnChance = 0.3125
 #Default: 600
 # Default: 600
 # Range: -1 ~ 12000
-soulElytraCooldown = 600
+soulElytraCooldown = 200
 #Heart of the Deep beats like a heart
 #Default: true
 wardenHeartPulses = true
