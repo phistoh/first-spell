@@ -1,21 +1,18 @@
-
 {
-  "tier_copper":
-  {
+  "tier_copper": {
     "title": "tbd.",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:copper_ingot"
       }
     },
@@ -24,8 +21,7 @@
     "rewards": [
       {
         "type": "astages:stage_reward",
-        "data":
-        {
+        "data": {
           "stage": "phis_stage_copper_and_gold",
           "operation": "add"
         }
@@ -33,22 +29,20 @@
     ],
     "required_skills": 0
   },
-  "tier_iron":
-  {
+  "tier_iron": {
     "title": "Hammerheart",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:iron_ingot"
       }
     },
@@ -57,30 +51,27 @@
     "rewards": [
       {
         "type": "astages:stage_reward",
-        "data":
-        {
+        "data": {
           "stage": "phis_stage_iron",
           "operation": "add"
         }
       }
     ]
   },
-  "tier_diamond":
-  {
+  "tier_diamond": {
     "title": "tbd.",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:diamond"
       }
     },
@@ -89,30 +80,27 @@
     "rewards": [
       {
         "type": "astages:stage_reward",
-        "data":
-        {
+        "data": {
           "stage": "phis_stage_diamond",
           "operation": "add"
         }
       }
     ]
   },
-  "tier_netherite":
-  {
+  "tier_netherite": {
     "title": "Invoking the Ancient",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "challenge"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:netherite_ingot"
       }
     },
@@ -121,30 +109,27 @@
     "rewards": [
       {
         "type": "astages:stage_reward",
-        "data":
-        {
+        "data": {
           "stage": "phis_stage_netherite",
           "operation": "add"
         }
       }
     ]
   },
-  "tier_warden":
-  {
+  "tier_warden": {
     "title": "Exile Amongst the Ruins",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "challenge"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:echo_shard"
       }
     },
@@ -153,30 +138,27 @@
     "rewards": [
       {
         "type": "astages:stage_reward",
-        "data":
-        {
+        "data": {
           "stage": "phis_stage_warden",
           "operation": "add"
         }
       }
     ]
   },
-  "craft_waystones_return_scroll":
-  {
+  "craft_waystones_return_scroll": {
     "title": "Throw Me Through the Marshes",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "waystones:return_scroll"
       }
     },
@@ -184,8 +166,7 @@
     "rewards": [
       {
         "type": "astages:stage_reward",
-        "data":
-        {
+        "data": {
           "stage": "phis_stage_return_scroll",
           "operation": "add"
         }
@@ -193,22 +174,20 @@
     ],
     "required_skills": 0
   },
-  "craft_waystones_warp_scroll":
-  {
+  "craft_waystones_warp_scroll": {
     "title": "Soulside Journey",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "waystones:warp_scroll"
       }
     },
@@ -216,30 +195,27 @@
     "rewards": [
       {
         "type": "astages:stage_reward",
-        "data":
-        {
+        "data": {
           "stage": "phis_stage_warp_scroll",
           "operation": "add"
         }
       }
     ]
   },
-  "craft_waystones_waystone":
-  {
+  "craft_waystones_waystone": {
     "title": "Stone Stands in Silent Vigil",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "challenge"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:andesite"
       }
     },
@@ -247,30 +223,27 @@
     "rewards": [
       {
         "type": "astages:stage_reward",
-        "data":
-        {
+        "data": {
           "stage": "phis_stage_waystones",
           "operation": "add"
         }
       }
     ]
   },
-  "craft_arcane_essence":
-  {
+  "craft_arcane_essence": {
     "title": "Handful of Stars",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "goal"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "irons_spellbooks:arcane_essence"
       }
     },
@@ -278,8 +251,7 @@
     "rewards": [
       {
         "type": "astages:stage_reward",
-        "data":
-        {
+        "data": {
           "stage": "phis_stage_arcane_essence",
           "operation": "add"
         }
@@ -287,22 +259,20 @@
     ],
     "required_skills": 0
   },
-  "max_health_1":
-  {
+  "max_health_1": {
     "title": "tbd. I",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "effect",
-      "data":
-      {
+      "data": {
         "effect": "minecraft:regeneration"
       }
     },
@@ -310,8 +280,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "generic.max_health",
           "value": 2,
           "operation": "addition"
@@ -320,22 +289,20 @@
     ],
     "required_skills": 0
   },
-  "max_health_2":
-  {
+  "max_health_2": {
     "title": "tbd. II",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "effect",
-      "data":
-      {
+      "data": {
         "effect": "minecraft:regeneration"
       }
     },
@@ -343,8 +310,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "generic.max_health",
           "value": 4,
           "operation": "addition"
@@ -352,22 +318,20 @@
       }
     ]
   },
-  "max_health_3":
-  {
+  "max_health_3": {
     "title": "tbd. III",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "effect",
-      "data":
-      {
+      "data": {
         "effect": "minecraft:regeneration"
       }
     },
@@ -375,8 +339,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "generic.max_health",
           "value": 6,
           "operation": "addition"
@@ -384,22 +347,20 @@
       }
     ]
   },
-  "max_health_4":
-  {
+  "max_health_4": {
     "title": "tbd. IV",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "effect",
-      "data":
-      {
+      "data": {
         "effect": "minecraft:regeneration"
       }
     },
@@ -407,8 +368,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "generic.max_health",
           "value": 8,
           "operation": "addition"
@@ -416,44 +376,40 @@
       }
     ]
   },
-  "regeneration":
-  {
+  "regeneration": {
     "title": "[NYI] Blood of the Hermit",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "effect",
-      "data":
-      {
+      "data": {
         "effect": "minecraft:regeneration"
       }
     },
     "description": "You slowly regenerate HP.",
     "rewards": []
   },
-  "keep_scrolls_1":
-  {
+  "keep_scrolls_1": {
     "title": "Echoes of the Past",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "effect",
-      "data":
-      {
+      "data": {
         "effect": "minecraft:regeneration"
       }
     },
@@ -461,8 +417,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "additional_attributes:keep_scroll",
           "value": 0.5,
           "operation": "addition"
@@ -470,22 +425,20 @@
       }
     ]
   },
-  "keep_scrolls_2":
-  {
+  "keep_scrolls_2": {
     "title": "tbd.",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "effect",
-      "data":
-      {
+      "data": {
         "effect": "minecraft:regeneration"
       }
     },
@@ -493,8 +446,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "additional_attributes:keep_scroll",
           "value": 1,
           "operation": "addition"
@@ -502,22 +454,20 @@
       }
     ]
   },
-  "craft_ironspellbooks_scroll_forge":
-  {
+  "craft_ironspellbooks_scroll_forge": {
     "title": "tbd.",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "goal"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "irons_spellbooks:scroll_forge"
       }
     },
@@ -525,8 +475,7 @@
     "rewards": [
       {
         "type": "astages:stage_reward",
-        "data":
-        {
+        "data": {
           "stage": "phis_stage_scroll_forge",
           "operation": "add"
         }
@@ -534,22 +483,20 @@
     ],
     "required_skills": 0
   },
-  "craft_ironspellbooks_arcane_anvil":
-  {
+  "craft_ironspellbooks_arcane_anvil": {
     "title": "tbd.",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "goal"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "irons_spellbooks:scroll_forge"
       }
     },
@@ -557,30 +504,27 @@
     "rewards": [
       {
         "type": "astages:stage_reward",
-        "data":
-        {
+        "data": {
           "stage": "phis_stage_arcane_anvil",
           "operation": "add"
         }
       }
     ]
   },
-  "max_mana_1":
-  {
+  "max_mana_1": {
     "title": "tbd.",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "effect",
-      "data":
-      {
+      "data": {
         "effect": "minecraft:wind_charged"
       }
     },
@@ -588,8 +532,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "irons_spellbooks:max_mana",
           "value": 40,
           "operation": "addition"
@@ -598,22 +541,20 @@
     ],
     "required_skills": 0
   },
-  "max_mana_2":
-  {
+  "max_mana_2": {
     "title": "Enlightment",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "effect",
-      "data":
-      {
+      "data": {
         "effect": "minecraft:wind_charged"
       }
     },
@@ -621,8 +562,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "irons_spellbooks:max_mana",
           "value": 50,
           "operation": "addition"
@@ -630,22 +570,20 @@
       }
     ]
   },
-  "max_mana_3":
-  {
+  "max_mana_3": {
     "title": "And in That Moment I Knew the Answer",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "challenge"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "effect",
-      "data":
-      {
+      "data": {
         "effect": "minecraft:wind_charged"
       }
     },
@@ -653,8 +591,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "irons_spellbooks:max_mana",
           "value": 60,
           "operation": "addition"
@@ -662,8 +599,7 @@
       },
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "irons_spellbooks:mana_regen",
           "value": 0.2,
           "operation": "multiply_base"
@@ -671,22 +607,20 @@
       }
     ]
   },
-  "spell_cooldown":
-  {
+  "spell_cooldown": {
     "title": "tbd.",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "goal"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "effect",
-      "data":
-      {
+      "data": {
         "effect": "minecraft:wind_charged"
       }
     },
@@ -694,8 +628,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "irons_spellbooks:cooldown_reduction",
           "value": 0.25,
           "operation": "multiply_base"
@@ -704,22 +637,20 @@
     ],
     "required_skills": 0
   },
-  "fortune_1":
-  {
+  "fortune_1": {
     "title": "tbd.",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "goal"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "effect",
-      "data":
-      {
+      "data": {
         "effect": "minecraft:wind_charged"
       }
     },
@@ -727,8 +658,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "puffish_attributes:fortune",
           "value": 0.25,
           "operation": "multiply_base"
@@ -737,22 +667,20 @@
     ],
     "required_skills": 0
   },
-  "fortune_2":
-  {
+  "fortune_2": {
     "title": "tbd.",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "goal"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "effect",
-      "data":
-      {
+      "data": {
         "effect": "minecraft:wind_charged"
       }
     },
@@ -760,8 +688,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "additional_attributes:looting",
           "value": 1,
           "operation": "add"
@@ -770,22 +697,20 @@
     ],
     "required_skills": 0
   },
-  "melee_damage_1":
-  {
+  "melee_damage_1": {
     "title": "tbd. I",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:iron_sword"
       }
     },
@@ -793,8 +718,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "puffish_attributes:melee_damage",
           "value": 0.05,
           "operation": "multiply_base"
@@ -803,22 +727,20 @@
     ],
     "required_skills": 0
   },
-  "melee_damage_2":
-  {
+  "melee_damage_2": {
     "title": "tbd. II",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:iron_sword"
       }
     },
@@ -826,8 +748,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "puffish_attributes:melee_damage",
           "value": 0.1,
           "operation": "multiply_base"
@@ -835,22 +756,20 @@
       }
     ]
   },
-  "melee_damage_3":
-  {
+  "melee_damage_3": {
     "title": "tbd. III",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:iron_sword"
       }
     },
@@ -858,8 +777,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "puffish_attributes:melee_damage",
           "value": 0.15,
           "operation": "multiply_base"
@@ -867,22 +785,20 @@
       }
     ]
   },
-  "ranged_damage_1":
-  {
+  "ranged_damage_1": {
     "title": "tbd. I",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:bow"
       }
     },
@@ -890,8 +806,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "puffish_attributes:ranged_damage",
           "value": 0.05,
           "operation": "multiply_base"
@@ -900,22 +815,20 @@
     ],
     "required_skills": 0
   },
-  "ranged_damage_2":
-  {
+  "ranged_damage_2": {
     "title": "tbd. II",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:bow"
       }
     },
@@ -923,8 +836,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "puffish_attributes:ranged_damage",
           "value": 0.1,
           "operation": "multiply_base"
@@ -932,22 +844,20 @@
       }
     ]
   },
-  "ranged_damage_3":
-  {
+  "ranged_damage_3": {
     "title": "tbd. III",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:bow"
       }
     },
@@ -955,8 +865,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "puffish_attributes:ranged_damage",
           "value": 0.15,
           "operation": "multiply_base"
@@ -964,22 +873,20 @@
       }
     ]
   },
-  "melee_resistance_1":
-  {
+  "melee_resistance_1": {
     "title": "tbd. I",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:shield"
       }
     },
@@ -987,8 +894,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "puffish_attributes:melee_resistance",
           "value": 0.05,
           "operation": "multiply_base"
@@ -997,22 +903,20 @@
     ],
     "required_skills": 0
   },
-  "melee_resistance_2":
-  {
+  "melee_resistance_2": {
     "title": "tbd. II",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:shield"
       }
     },
@@ -1020,8 +924,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "puffish_attributes:melee_resistance",
           "value": 0.1,
           "operation": "multiply_base"
@@ -1029,22 +932,20 @@
       }
     ]
   },
-  "melee_resistance_3":
-  {
+  "melee_resistance_3": {
     "title": "tbd. III",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:shield"
       }
     },
@@ -1052,8 +953,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "puffish_attributes:melee_resistance",
           "value": 0.15,
           "operation": "multiply_base"
@@ -1061,22 +961,20 @@
       }
     ]
   },
-  "ranged_resistance_1":
-  {
+  "ranged_resistance_1": {
     "title": "tbd. I",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:shield"
       }
     },
@@ -1084,8 +982,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "puffish_attributes:ranged_resistance",
           "value": 0.05,
           "operation": "multiply_base"
@@ -1094,22 +991,20 @@
     ],
     "required_skills": 0
   },
-  "ranged_resistance_2":
-  {
+  "ranged_resistance_2": {
     "title": "tbd. II",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:shield"
       }
     },
@@ -1117,8 +1012,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "puffish_attributes:ranged_resistance",
           "value": 0.1,
           "operation": "multiply_base"
@@ -1126,22 +1020,20 @@
       }
     ]
   },
-  "ranged_resistance_3":
-  {
+  "ranged_resistance_3": {
     "title": "tbd. III",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:shield"
       }
     },
@@ -1149,8 +1041,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "puffish_attributes:ranged_resistance",
           "value": 0.15,
           "operation": "multiply_base"
@@ -1158,22 +1049,20 @@
       }
     ]
   },
-  "magic_resistance_1":
-  {
+  "magic_resistance_1": {
     "title": "tbd. I",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:shield"
       }
     },
@@ -1181,8 +1070,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "puffish_attributes:magic_resistance",
           "value": 0.05,
           "operation": "multiply_base"
@@ -1191,22 +1079,20 @@
     ],
     "required_skills": 0
   },
-  "magic_resistance_2":
-  {
+  "magic_resistance_2": {
     "title": "tbd. II",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:shield"
       }
     },
@@ -1214,8 +1100,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "puffish_attributes:magic_resistance",
           "value": 0.1,
           "operation": "multiply_base"
@@ -1223,22 +1108,20 @@
       }
     ]
   },
-  "magic_resistance_3":
-  {
+  "magic_resistance_3": {
     "title": "tbd. III",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:shield"
       }
     },
@@ -1246,8 +1129,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "puffish_attributes:magic_resistance",
           "value": 0.15,
           "operation": "multiply_base"
@@ -1255,22 +1137,20 @@
       }
     ]
   },
-  "double_healing":
-  {
+  "double_healing": {
     "title": "tbd.",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "goal"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "effect",
-      "data":
-      {
+      "data": {
         "effect": "minecraft:instant_health"
       }
     },
@@ -1278,8 +1158,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "puffish_attributes:healing",
           "value": 1,
           "operation": "multiply_total"
@@ -1288,22 +1167,20 @@
     ],
     "required_skills": 0
   },
-  "mining_speed_1":
-  {
+  "mining_speed_1": {
     "title": "tbd. I",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:shield"
       }
     },
@@ -1311,8 +1188,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "puffish_attributes:mining_speed",
           "value": 0.05,
           "operation": "multiply_base"
@@ -1321,22 +1197,20 @@
     ],
     "required_skills": 0
   },
-  "mining_speed_2":
-  {
+  "mining_speed_2": {
     "title": "tbd. II",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:shield"
       }
     },
@@ -1344,8 +1218,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "puffish_attributes:mining_speed",
           "value": 0.1,
           "operation": "multiply_base"
@@ -1353,22 +1226,20 @@
       }
     ]
   },
-  "mining_speed_3":
-  {
+  "mining_speed_3": {
     "title": "tbd. III",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:shield"
       }
     },
@@ -1376,8 +1247,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "puffish_attributes:mining_speed",
           "value": 0.15,
           "operation": "multiply_base"
@@ -1385,22 +1255,20 @@
       }
     ]
   },
-  "sprint_speed_1":
-  {
+  "sprint_speed_1": {
     "title": "tbd. I",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:shield"
       }
     },
@@ -1408,8 +1276,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "puffish_attributes:sprinting_speed",
           "value": 0.05,
           "operation": "multiply_base"
@@ -1418,22 +1285,20 @@
     ],
     "required_skills": 0
   },
-  "sprint_speed_2":
-  {
+  "sprint_speed_2": {
     "title": "tbd. II",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:shield"
       }
     },
@@ -1441,8 +1306,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "puffish_attributes:sprinting_speed",
           "value": 0.1,
           "operation": "multiply_base"
@@ -1450,22 +1314,20 @@
       }
     ]
   },
-  "sprint_speed_3":
-  {
+  "sprint_speed_3": {
     "title": "tbd. III",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:shield"
       }
     },
@@ -1473,8 +1335,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "puffish_attributes:sprinting_speed",
           "value": 0.15,
           "operation": "multiply_base"
@@ -1482,22 +1343,20 @@
       }
     ]
   },
-  "life_leech":
-  {
+  "life_leech": {
     "title": "Transilvanian Hunger",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "goal"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "effect",
-      "data":
-      {
+      "data": {
         "effect": "minecraft:instant_health"
       }
     },
@@ -1505,8 +1364,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "puffish_attributes:life_steal",
           "value": 0.25,
           "operation": "multiply_total"
@@ -1515,22 +1373,20 @@
     ],
     "required_skills": 0
   },
-  "mana_leech":
-  {
+  "mana_leech": {
     "title": "[NYI] tbd.",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "goal"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "effect",
-      "data":
-      {
+      "data": {
         "effect": "minecraft:instant_health"
       }
     },
@@ -1538,22 +1394,20 @@
     "rewards": [],
     "required_skills": 0
   },
-  "fall_damage_reduction_1":
-  {
+  "fall_damage_reduction_1": {
     "title": "tbd. I",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "effect",
-      "data":
-      {
+      "data": {
         "effect": "minecraft:slow_falling"
       }
     },
@@ -1561,8 +1415,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "puffish_attributes:fall_reduction",
           "value": 1,
           "operation": "addition"
@@ -1571,22 +1424,20 @@
     ],
     "required_skills": 0
   },
-  "fall_damage_reduction_2":
-  {
+  "fall_damage_reduction_2": {
     "title": "tbd. II",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "effect",
-      "data":
-      {
+      "data": {
         "effect": "minecraft:slow_falling"
       }
     },
@@ -1594,8 +1445,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "puffish_attributes:fall_reduction",
           "value": 1,
           "operation": "addition"
@@ -1603,22 +1453,20 @@
       }
     ]
   },
-  "fall_damage_reduction_3":
-  {
+  "fall_damage_reduction_3": {
     "title": "tbd. III",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "effect",
-      "data":
-      {
+      "data": {
         "effect": "minecraft:slow_falling"
       }
     },
@@ -1626,8 +1474,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "puffish_attributes:fall_reduction",
           "value": 1,
           "operation": "addition"
@@ -1635,22 +1482,20 @@
       }
     ]
   },
-  "fall_damage_reduction_4":
-  {
+  "fall_damage_reduction_4": {
     "title": "tbd.",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "challenge"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "effect",
-      "data":
-      {
+      "data": {
         "effect": "minecraft:levitation"
       }
     },
@@ -1658,8 +1503,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "puffish_attributes:fall_reduction",
           "value": 1000,
           "operation": "addition"
@@ -1667,22 +1511,20 @@
       }
     ]
   },
-  "mount_speed_1":
-  {
+  "mount_speed_1": {
     "title": "Once Upon a Pale Horse",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:shield"
       }
     },
@@ -1690,8 +1532,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "artifacts:generic.mount_speed",
           "value": 0.2,
           "operation": "multiply_base"
@@ -1700,22 +1541,20 @@
     ],
     "required_skills": 0
   },
-  "mount_speed_2":
-  {
+  "mount_speed_2": {
     "title": "One Rode to Asa Bay",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:shield"
       }
     },
@@ -1723,8 +1562,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "artifacts:generic.mount_speed",
           "value": 0.3,
           "operation": "multiply_base"
@@ -1732,22 +1570,20 @@
       }
     ]
   },
-  "mount_speed_3":
-  {
+  "mount_speed_3": {
     "title": " Sacred Horse",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:shield"
       }
     },
@@ -1755,8 +1591,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "artifacts:generic.mount_speed",
           "value": 0.5,
           "operation": "multiply_base"
@@ -1764,22 +1599,20 @@
       }
     ]
   },
-  "craft_explosives_musket":
-  {
+  "craft_explosives_musket": {
     "title": "Fires That Light the Earth",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "simplemusket:musket"
       }
     },
@@ -1787,8 +1620,7 @@
     "rewards": [
       {
         "type": "astages:stage_reward",
-        "data":
-        {
+        "data": {
           "stage": "phis_stage_muskets_and_bombs",
           "operation": "add"
         }
@@ -1796,22 +1628,20 @@
     ],
     "required_skills": 0
   },
-  "craft_explosives_hellfire_cartridge":
-  {
+  "craft_explosives_hellfire_cartridge": {
     "title": "Spirit the Earth Aflame",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "simplemusket:hellfire_cartridge"
       }
     },
@@ -1820,30 +1650,27 @@
     "rewards": [
       {
         "type": "astages:stage_reward",
-        "data":
-        {
+        "data": {
           "stage": "phis_stage_hellfire_ammo",
           "operation": "add"
         }
       }
     ]
   },
-  "craft_explosives_fireworks":
-  {
+  "craft_explosives_fireworks": {
     "title": "A Blaze in the Northern Sky",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:firework_rocket"
       }
     },
@@ -1852,30 +1679,27 @@
     "rewards": [
       {
         "type": "astages:stage_reward",
-        "data":
-        {
+        "data": {
           "stage": "phis_stage_elytra_boost",
           "operation": "add"
         }
       }
     ]
   },
-  "under_water_buffs":
-  {
+  "under_water_buffs": {
     "title": "The Sea Beneath the Seas of the Sea",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:horn_coral"
       }
     },
@@ -1883,8 +1707,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "minecraft:generic.oxygen_bonus",
           "value": 1,
           "operation": "multiply_base"
@@ -1892,8 +1715,7 @@
       },
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "minecraft:player.submerged_mining_speed",
           "value": 2,
           "operation": "multiply_base"
@@ -1901,8 +1723,7 @@
       },
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "minecraft:generic.water_movement_efficiency",
           "value": 0.5,
           "operation": "multiply_base"
@@ -1911,22 +1732,20 @@
     ],
     "required_skills": 0
   },
-  "craft_linked_pouch":
-  {
+  "craft_linked_pouch": {
     "title": "Sacred Geometry",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "linkedchests:linked_pouch"
       }
     },
@@ -1934,8 +1753,7 @@
     "rewards": [
       {
         "type": "astages:stage_reward",
-        "data":
-        {
+        "data": {
           "stage": "phis_stage_linked_pouch",
           "operation": "add"
         }
@@ -1943,22 +1761,20 @@
     ],
     "required_skills": 0
   },
-  "extra_harvest":
-  {
+  "extra_harvest": {
     "title": "How Many Tears to Nurture a Rose?",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:poppy"
       }
     },
@@ -1966,8 +1782,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "additional_attributes:harvest",
           "value": 1,
           "operation": "addition"
@@ -1976,22 +1791,20 @@
     ],
     "required_skills": 0
   },
-  "walk_on_snow_1":
-  {
+  "walk_on_snow_1": {
     "title": "Of Ice and Movement...",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:snowball"
       }
     },
@@ -1999,8 +1812,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "artifacts:generic.movement_speed_on_snow",
           "value": 0.5,
           "operation": "multiply_base"
@@ -2009,22 +1821,20 @@
     ],
     "required_skills": 0
   },
-  "walk_on_snow_2":
-  {
+  "walk_on_snow_2": {
     "title": "[NYI] At the Heart of Winter",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:ice"
       }
     },
@@ -2032,22 +1842,20 @@
     "rewards": [],
     "required_skills": 0
   },
-  "extra_diamond":
-  {
+  "extra_diamond": {
     "title": "The Secrets of the Earth",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:diamond_ore"
       }
     },
@@ -2055,30 +1863,27 @@
     "rewards": [
       {
         "type": "puffish_skills:tag",
-        "data":
-        {
+        "data": {
           "tag": "phis.extradiamond"
         }
       }
     ],
     "required_skills": 0
   },
-  "extra_dust":
-  {
+  "extra_dust": {
     "title": "[NYI] Buried by Time and Dust",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "kubejs:diamond_dust"
       }
     },
@@ -2086,30 +1891,27 @@
     "rewards": [
       {
         "type": "puffish_skills:tag",
-        "data":
-        {
+        "data": {
           "tag": "phis.extradust"
         }
       }
     ],
     "required_skills": 0
   },
-  "eldritch_spells":
-  {
+  "eldritch_spells": {
     "title": "Blackest Magick in Practice",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "irons_spellbooks:eldritch_manuscript"
       }
     },
@@ -2117,8 +1919,7 @@
     "rewards": [
       {
         "type": "astages:stage_reward",
-        "data":
-        {
+        "data": {
           "stage": "phis_stage_eldritch_spells",
           "operation": "add"
         }
@@ -2126,22 +1927,20 @@
     ],
     "required_skills": 0
   },
-  "iron_to_gold":
-  {
+  "iron_to_gold": {
     "title": "[NYI] The Alchemist's Dream",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:gold_nugget"
       }
     },
@@ -2149,8 +1948,7 @@
     "rewards": [
       {
         "type": "astages:stage_reward",
-        "data":
-        {
+        "data": {
           "stage": "phis_stage_iron_to_gold",
           "operation": "add"
         }
@@ -2158,22 +1956,20 @@
     ],
     "required_skills": 0
   },
-  "curios_elytra":
-  {
+  "curios_elytra": {
     "title": "[NYI] Swansong for a Raven",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:elytra"
       }
     },
@@ -2181,8 +1977,7 @@
     "rewards": [
       {
         "type": "puffish_skills:command",
-        "data":
-        {
+        "data": {
           "unlock_command": "curios add back @s 1",
           "lock_command": "curios remove back @s 1"
         }
@@ -2190,22 +1985,20 @@
     ],
     "required_skills": 0
   },
-  "curios_ring":
-  {
+  "curios_ring": {
     "title": "[NYI] tbd.",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:elytra"
       }
     },
@@ -2213,8 +2006,7 @@
     "rewards": [
       {
         "type": "puffish_skills:command",
-        "data":
-        {
+        "data": {
           "unlock_command": "curios add ring @s 1",
           "lock_command": "curios remove ring @s 1"
         }
@@ -2222,22 +2014,20 @@
     ],
     "required_skills": 0
   },
-  "loot_spawn_eggs":
-  {
+  "loot_spawn_eggs": {
     "title": "[NYI] The Ones You Left Behind",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:egg"
       }
     },
@@ -2245,30 +2035,27 @@
     "rewards": [
       {
         "type": "puffish_skills:tag",
-        "data":
-        {
+        "data": {
           "tag": "phis.spawn_eggs"
         }
       }
     ],
     "required_skills": 0
   },
-  "no_farmland_trample":
-  {
+  "no_farmland_trample": {
     "title": "[NYI] Barefoot Ghost Dance on Bloodsoaked Soil",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:wheat"
       }
     },
@@ -2276,30 +2063,27 @@
     "rewards": [
       {
         "type": "puffish_skills:tag",
-        "data":
-        {
+        "data": {
           "tag": "phis.notrample"
         }
       }
     ],
     "required_skills": 0
   },
-  "craft_fated_altar":
-  {
+  "craft_fated_altar": {
     "title": "[NYI] tbd.",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "fated_inventory:fated_altar"
       }
     },
@@ -2307,8 +2091,7 @@
     "rewards": [
       {
         "type": "astages:stage_reward",
-        "data":
-        {
+        "data": {
           "stage": "phis_stage_fated_inventory",
           "operation": "add"
         }
@@ -2316,22 +2099,20 @@
     ],
     "required_skills": 0
   },
-  "extra_apples":
-  {
+  "extra_apples": {
     "title": "[NYI] And the Forests Dream Eternally",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:oak_sapling"
       }
     },
@@ -2339,30 +2120,27 @@
     "rewards": [
       {
         "type": "puffish_skills:tag",
-        "data":
-        {
+        "data": {
           "tag": "phis.extrasomething"
         }
       }
     ],
     "required_skills": 0
   },
-  "cheat_death":
-  {
+  "cheat_death": {
     "title": "[NYI] Withstand the Fall of Time",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:skeleton_skull"
       }
     },
@@ -2370,30 +2148,27 @@
     "rewards": [
       {
         "type": "puffish_skills:tag",
-        "data":
-        {
+        "data": {
           "tag": "phis.cheat_death"
         }
       }
     ],
     "required_skills": 0
   },
-  "additional_milk_1":
-  {
+  "additional_milk_1": {
     "title": "[NYI] Soliloquy of the Stigmatised Shepherd",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:milk_bucket"
       }
     },
@@ -2401,30 +2176,27 @@
     "rewards": [
       {
         "type": "puffish_skills:tag",
-        "data":
-        {
+        "data": {
           "tag": "phis.goat_milk"
         }
       }
     ],
     "required_skills": 0
   },
-  "additional_milk_2":
-  {
+  "additional_milk_2": {
     "title": "[NYI] When Milk Runs Dry",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:milk_bucket"
       }
     },
@@ -2432,29 +2204,26 @@
     "rewards": [
       {
         "type": "puffish_skills:tag",
-        "data":
-        {
+        "data": {
           "tag": "phis.omni_milk"
         }
       }
     ]
   },
-  "no_phantoms":
-  {
+  "no_phantoms": {
     "title": "[NYI] Somniphobia",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:red_bed"
       }
     },
@@ -2463,30 +2232,27 @@
     "rewards": [
       {
         "type": "puffish_skills:tag",
-        "data":
-        {
+        "data": {
           "tag": "phis.no_phantoms"
         }
       }
     ],
     "required_skills": 0
   },
-  "warrior_1":
-  {
+  "warrior_1": {
     "title": "[NYI] You Will Know the Lion by His Claws",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "artifacts:digging_claws"
       }
     },
@@ -2494,8 +2260,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "puffish_attributes:melee_damage",
           "value": 0.5,
           "operation": "multiply_base"
@@ -2503,8 +2268,7 @@
       },
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "puffish_attributes:resistance",
           "value": -0.1,
           "operation": "multiply_base"
@@ -2513,22 +2277,20 @@
     ],
     "required_skills": 0
   },
-  "warrior_2":
-  {
+  "warrior_2": {
     "title": "[NYI] Speed of Blood",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "effect",
-      "data":
-      {
+      "data": {
         "effect": "minecraft:instant_damage"
       }
     },
@@ -2536,29 +2298,26 @@
     "rewards": [
       {
         "type": "puffish_skills:tag",
-        "data":
-        {
+        "data": {
           "tag": "phis.speed_of_blood"
         }
       }
     ]
   },
-  "warrior_3":
-  {
+  "warrior_3": {
     "title": "[NYI] Bleed With Me",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:iron_sword"
       }
     },
@@ -2566,29 +2325,26 @@
     "rewards": [
       {
         "type": "puffish_skills:tag",
-        "data":
-        {
+        "data": {
           "tag": "phis.bleed_with_me"
         }
       }
     ]
   },
-  "warrior_4":
-  {
+  "warrior_4": {
     "title": "[NYI] Teeth Grinding",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "endermanoverhaul:enderman_tooth"
       }
     },
@@ -2596,29 +2352,26 @@
     "rewards": [
       {
         "type": "puffish_skills:tag",
-        "data":
-        {
+        "data": {
           "tag": "phis.teeth_grinding"
         }
       }
     ]
   },
-  "warrior_5":
-  {
+  "warrior_5": {
     "title": "[NYI] ...As Long As Winds Will Blow...",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "effect",
-      "data":
-      {
+      "data": {
         "effect": "minecraft:wind_charged"
       }
     },
@@ -2626,37 +2379,33 @@
     "rewards": [
       {
         "type": "puffish_skills:tag",
-        "data":
-        {
+        "data": {
           "tag": "phis.as_long_as_winds_will_blow"
         }
       },
       {
         "type": "puffish_skills:command",
-        "data":
-        {
+        "data": {
           "unlock_command": "team join warrior @s",
           "lock_command": "team leave @s"
         }
       }
     ]
   },
-  "assassin_1":
-  {
+  "assassin_1": {
     "title": "[NYI] The Poisonous Path",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:poisonous_potato"
       }
     },
@@ -2664,8 +2413,7 @@
     "rewards": [
       {
         "type": "astages:stage_reward",
-        "data":
-        {
+        "data": {
           "stage": "phis_stage_assassin_poisons",
           "operation": "add"
         }
@@ -2673,22 +2421,20 @@
     ],
     "required_skills": 0
   },
-  "assassin_2":
-  {
+  "assassin_2": {
     "title": "[NYI] Hide in Shade",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "effect",
-      "data":
-      {
+      "data": {
         "effect": "minecraft:invisibility"
       }
     },
@@ -2696,29 +2442,26 @@
     "rewards": [
       {
         "type": "puffish_skills:tag",
-        "data":
-        {
+        "data": {
           "tag": "phis.hide_in_shade"
         }
       }
     ]
   },
-  "assassin_3":
-  {
+  "assassin_3": {
     "title": "[NYI] In Mist We Walk",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:white_wool"
       }
     },
@@ -2726,8 +2469,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "minecraft:player.sneaking_speed",
           "value": 1,
           "operation": "multiply_base"
@@ -2735,8 +2477,7 @@
       },
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "puffish_attributes:stealth",
           "value": 10,
           "operation": "addition"
@@ -2744,22 +2485,20 @@
       }
     ]
   },
-  "assassin_4":
-  {
+  "assassin_4": {
     "title": "[NYI] Disciple of the Heinous Path",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "farmersdelight:iron_knife"
       }
     },
@@ -2767,29 +2506,26 @@
     "rewards": [
       {
         "type": "puffish_skills:tag",
-        "data":
-        {
+        "data": {
           "tag": "phis.disciple_of_the_heinous_path"
         }
       }
     ]
   },
-  "assassin_5":
-  {
+  "assassin_5": {
     "title": "[NYI] Kiss of our Dark Mother",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:wither_rose"
       }
     },
@@ -2797,37 +2533,33 @@
     "rewards": [
       {
         "type": "puffish_skills:tag",
-        "data":
-        {
+        "data": {
           "tag": "phis.kiss_of_our_dark_mother"
         }
       },
       {
         "type": "puffish_skills:command",
-        "data":
-        {
+        "data": {
           "unlock_command": "team join assassin @s",
           "lock_command": "team leave @s"
         }
       }
     ]
   },
-  "knight_1":
-  {
+  "knight_1": {
     "title": "[NYI] The Last Guardian",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:shield"
       }
     },
@@ -2835,30 +2567,27 @@
     "rewards": [
       {
         "type": "puffish_skills:tag",
-        "data":
-        {
+        "data": {
           "tag": "phis.last_guardian"
         }
       }
     ],
     "required_skills": 0
   },
-  "knight_2":
-  {
+  "knight_2": {
     "title": "[NYI] Baptised in Fire and Ice",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:campfire"
       }
     },
@@ -2866,8 +2595,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "minecraft:generic.explosion_knockback_resistance",
           "value": 2,
           "operation": "multiply_base"
@@ -2875,8 +2603,7 @@
       },
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "minecraft:generic.knockback_resistance",
           "value": 2,
           "operation": "multiply_base"
@@ -2884,22 +2611,20 @@
       }
     ]
   },
-  "knight_3":
-  {
+  "knight_3": {
     "title": "[NYI] tbd.",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:white_wool"
       }
     },
@@ -2907,29 +2632,26 @@
     "rewards": [
       {
         "type": "puffish_skills:tag",
-        "data":
-        {
+        "data": {
           "tag": "phis.blocking"
         }
       }
     ]
   },
-  "knight_4":
-  {
+  "knight_4": {
     "title": "tbd.",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:anvil"
       }
     },
@@ -2937,8 +2659,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "artifacts:generic.invincibility_ticks",
           "value": 2,
           "operation": "multiply_base"
@@ -2946,22 +2667,20 @@
       }
     ]
   },
-  "knight_5":
-  {
+  "knight_5": {
     "title": "[NYI] Messenger of the Light",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:bread"
       }
     },
@@ -2969,37 +2688,33 @@
     "rewards": [
       {
         "type": "puffish_skills:tag",
-        "data":
-        {
+        "data": {
           "tag": "phis.messenger_of_light"
         }
       },
       {
         "type": "puffish_skills:command",
-        "data":
-        {
+        "data": {
           "unlock_command": "team join knight @s",
           "lock_command": "team leave @s"
         }
       }
     ]
   },
-  "hunter_1":
-  {
+  "hunter_1": {
     "title": "[NYI] An Arrow in Heart",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:arrow"
       }
     },
@@ -3007,8 +2722,7 @@
     "rewards": [
       {
         "type": "astages:stage_reward",
-        "data":
-        {
+        "data": {
           "stage": "phis_stage_hunter_arrows",
           "operation": "add"
         }
@@ -3016,22 +2730,20 @@
     ],
     "required_skills": 0
   },
-  "hunter_2":
-  {
+  "hunter_2": {
     "title": "From Wilderness Came Death",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:bone"
       }
     },
@@ -3039,8 +2751,7 @@
     "rewards": [
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "puffish_attributes:tamed_damage",
           "value": 1,
           "operation": "multiply_base"
@@ -3048,8 +2759,7 @@
       },
       {
         "type": "puffish_skills:attribute",
-        "data":
-        {
+        "data": {
           "attribute": "puffish_attributes:tamed_resistance",
           "value": 1,
           "operation": "multiply_base"
@@ -3057,22 +2767,20 @@
       }
     ]
   },
-  "hunter_3":
-  {
+  "hunter_3": {
     "title": "[NYI] Wolves Guard my Coffin",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:bone"
       }
     },
@@ -3080,29 +2788,26 @@
     "rewards": [
       {
         "type": "puffish_skills:tag",
-        "data":
-        {
+        "data": {
           "tag": "phis.wolves_guard_my_coffin"
         }
       }
     ]
   },
-  "hunter_4":
-  {
+  "hunter_4": {
     "title": "[NYI] tbd.",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:yellow_concrete"
       }
     },
@@ -3110,29 +2815,26 @@
     "rewards": [
       {
         "type": "puffish_skills:tag",
-        "data":
-        {
+        "data": {
           "tag": "phis.full_health_damage"
         }
       }
     ]
   },
-  "hunter_5":
-  {
+  "hunter_5": {
     "title": "[NYI] One by One",
-    "frame":
-    {
-      "type": "advancement",
-      "data":
-      {
-        "frame": "task"
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "icon":
-    {
+    "icon": {
       "type": "item",
-      "data":
-      {
+      "data": {
         "item": "minecraft:string"
       }
     },
@@ -3140,15 +2842,13 @@
     "rewards": [
       {
         "type": "puffish_skills:tag",
-        "data":
-        {
+        "data": {
           "tag": "phis.one_by_one"
         }
       },
       {
         "type": "puffish_skills:command",
-        "data":
-        {
+        "data": {
           "unlock_command": "team join hunter @s",
           "lock_command": "team leave @s"
         }

@@ -1,4 +1,4 @@
-provideStartingLoot = true
+provideStartingLoot = false
 
 [experience]
 	disableXP = true
@@ -28,5 +28,5 @@ provideStartingLoot = true
 	enableEnchantedBookTrade = false
 
 [netherite_tools]
-	repairNetheriteWithDiamonds = true
-	repairNetheriteWithScrap = false
+	repairNetheriteWithDiamonds = false
+	repairNetheriteWithScrap = true

@@ -1,11 +1,11 @@
 #If enabled and Jade is installed, will use its overlay instead of the built-in overlay.
 "Jade Overlay" = true
 #If enabled, information on entities will be displayed.
-"Display entities" = true
+"Display entities" = false
 #If enabled, block image and name will be displayed.
-"Display blocks" = true
+"Display blocks" = false
 #If enabled the namespace of blocks and entities will be displayed
-"Display namespace" = true
+"Display namespace" = false
 #Change the horizontal position of the HUD (center alignment). Default 0.09.
 # Default: 0.5
 # Range: 0.0 ~ 1.0

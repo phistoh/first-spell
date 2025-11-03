@@ -80,7 +80,7 @@
 	cooldown = 0
 	#Whether this item can be found in structures or drop from entities
 	#Allowed Values: true, false
-	generateAsLoot = true
+	generateAsLoot = false
 	#The amount of health points that are restored after the Chorus Totem activates
 	#Range: > 0
 	healthRestored = 10
@@ -215,7 +215,7 @@
 	entityExperienceBonus = 0.5
 	#Whether this item can be found in structures or drop from entities
 	#Allowed Values: true, false
-	generateAsLoot = true
+	generateAsLoot = false
 
 [helium_flamingo]
 	#The duration in seconds the Helium Flamingo goes on cooldown for when stopping flight
@@ -349,7 +349,7 @@
 	enabled = true
 	#Whether this item can be found in structures or drop from entities
 	#Allowed Values: true, false
-	generateAsLoot = true
+	generateAsLoot = false
 	#Whether the Rooted Boots apply a bone meal effect after eating food
 	#Allowed Values: true, false
 	growPlantsAfterEating = true
@@ -512,7 +512,7 @@
 	enabled = true
 	#Whether this item can be found in structures or drop from entities
 	#Allowed Values: true, false
-	generateAsLoot = true
+	generateAsLoot = false
 	#How many hunger points it costs to throw an Ender Pearl using the Warp Drive
 	#Range: > 0
 	hungerCost = 2
