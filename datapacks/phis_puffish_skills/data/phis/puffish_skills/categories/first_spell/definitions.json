@@ -26,8 +26,7 @@
           "operation": "add"
         }
       }
-    ],
-    "required_skills": 0
+    ]
   },
   "tier_iron": {
     "title": "Hammerheart",
@@ -171,8 +170,7 @@
           "operation": "add"
         }
       }
-    ],
-    "required_skills": 0
+    ]
   },
   "craft_waystones_warp_scroll": {
     "title": "Soulside Journey",
@@ -256,126 +254,9 @@
           "operation": "add"
         }
       }
-    ],
-    "required_skills": 0
-  },
-  "max_health_1": {
-    "title": "tbd. I",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "icon": {
-      "type": "effect",
-      "data": {
-        "effect": "minecraft:regeneration"
-      }
-    },
-    "description": "You gain one additional heart.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "generic.max_health",
-          "value": 2,
-          "operation": "addition"
-        }
-      }
-    ],
-    "required_skills": 0
-  },
-  "max_health_2": {
-    "title": "tbd. II",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "icon": {
-      "type": "effect",
-      "data": {
-        "effect": "minecraft:regeneration"
-      }
-    },
-    "description": "You gain two additional hearts.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "generic.max_health",
-          "value": 4,
-          "operation": "addition"
-        }
-      }
     ]
   },
-  "max_health_3": {
-    "title": "tbd. III",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "icon": {
-      "type": "effect",
-      "data": {
-        "effect": "minecraft:regeneration"
-      }
-    },
-    "description": "You gain three additional hearts.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "generic.max_health",
-          "value": 6,
-          "operation": "addition"
-        }
-      }
-    ]
-  },
-  "max_health_4": {
-    "title": "tbd. IV",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "icon": {
-      "type": "effect",
-      "data": {
-        "effect": "minecraft:regeneration"
-      }
-    },
-    "description": "You gain four additional hearts.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "generic.max_health",
-          "value": 8,
-          "operation": "addition"
-        }
-      }
-    ]
-  },
+
   "regeneration": {
     "title": "[NYI] Blood of the Hermit",
     "frame": {
@@ -480,8 +361,7 @@
           "operation": "add"
         }
       }
-    ],
-    "required_skills": 0
+    ]
   },
   "craft_ironspellbooks_arcane_anvil": {
     "title": "tbd.",
@@ -511,132 +391,7 @@
       }
     ]
   },
-  "max_mana_1": {
-    "title": "tbd.",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "icon": {
-      "type": "effect",
-      "data": {
-        "effect": "minecraft:wind_charged"
-      }
-    },
-    "description": "You gain additional 40 mana.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "irons_spellbooks:max_mana",
-          "value": 40,
-          "operation": "addition"
-        }
-      }
-    ],
-    "required_skills": 0
-  },
-  "max_mana_2": {
-    "title": "Enlightment",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "icon": {
-      "type": "effect",
-      "data": {
-        "effect": "minecraft:wind_charged"
-      }
-    },
-    "description": "You gain additional 50 mana.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "irons_spellbooks:max_mana",
-          "value": 50,
-          "operation": "addition"
-        }
-      }
-    ]
-  },
-  "max_mana_3": {
-    "title": "And in That Moment I Knew the Answer",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "icon": {
-      "type": "effect",
-      "data": {
-        "effect": "minecraft:wind_charged"
-      }
-    },
-    "description": "You gain additional 60 mana and 20% increased mana regeneration.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "irons_spellbooks:max_mana",
-          "value": 60,
-          "operation": "addition"
-        }
-      },
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "irons_spellbooks:mana_regen",
-          "value": 0.2,
-          "operation": "multiply_base"
-        }
-      }
-    ]
-  },
-  "spell_cooldown": {
-    "title": "tbd.",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "icon": {
-      "type": "effect",
-      "data": {
-        "effect": "minecraft:wind_charged"
-      }
-    },
-    "description": "You gain 25% faster spell cooldown reduction.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "irons_spellbooks:cooldown_reduction",
-          "value": 0.25,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "required_skills": 0
-  },
+
   "fortune_1": {
     "title": "tbd.",
     "frame": {
@@ -664,8 +419,7 @@
           "operation": "multiply_base"
         }
       }
-    ],
-    "required_skills": 0
+    ]
   },
   "fortune_2": {
     "title": "tbd.",
@@ -694,655 +448,9 @@
           "operation": "add"
         }
       }
-    ],
-    "required_skills": 0
-  },
-  "melee_damage_1": {
-    "title": "tbd. I",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:iron_sword"
-      }
-    },
-    "description": "Your deal 5% increased melee damage.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:melee_damage",
-          "value": 0.05,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "required_skills": 0
-  },
-  "melee_damage_2": {
-    "title": "tbd. II",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:iron_sword"
-      }
-    },
-    "description": "Your deal 10% increased melee damage.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:melee_damage",
-          "value": 0.1,
-          "operation": "multiply_base"
-        }
-      }
     ]
   },
-  "melee_damage_3": {
-    "title": "tbd. III",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:iron_sword"
-      }
-    },
-    "description": "Your deal 15% increased melee damage.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:melee_damage",
-          "value": 0.15,
-          "operation": "multiply_base"
-        }
-      }
-    ]
-  },
-  "ranged_damage_1": {
-    "title": "tbd. I",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:bow"
-      }
-    },
-    "description": "Your deal 5% increased ranged damage.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:ranged_damage",
-          "value": 0.05,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "required_skills": 0
-  },
-  "ranged_damage_2": {
-    "title": "tbd. II",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:bow"
-      }
-    },
-    "description": "Your deal 10% increased ranged damage.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:ranged_damage",
-          "value": 0.1,
-          "operation": "multiply_base"
-        }
-      }
-    ]
-  },
-  "ranged_damage_3": {
-    "title": "tbd. III",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:bow"
-      }
-    },
-    "description": "Your deal 15% increased ranged damage.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:ranged_damage",
-          "value": 0.15,
-          "operation": "multiply_base"
-        }
-      }
-    ]
-  },
-  "melee_resistance_1": {
-    "title": "tbd. I",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:shield"
-      }
-    },
-    "description": "Your gain 5% increased melee resistence.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:melee_resistance",
-          "value": 0.05,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "required_skills": 0
-  },
-  "melee_resistance_2": {
-    "title": "tbd. II",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:shield"
-      }
-    },
-    "description": "Your gain 10% increased melee resistence.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:melee_resistance",
-          "value": 0.1,
-          "operation": "multiply_base"
-        }
-      }
-    ]
-  },
-  "melee_resistance_3": {
-    "title": "tbd. III",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:shield"
-      }
-    },
-    "description": "Your gain 15% increased melee resistence.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:melee_resistance",
-          "value": 0.15,
-          "operation": "multiply_base"
-        }
-      }
-    ]
-  },
-  "ranged_resistance_1": {
-    "title": "tbd. I",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:shield"
-      }
-    },
-    "description": "Your gain 5% increased ranged resistence.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:ranged_resistance",
-          "value": 0.05,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "required_skills": 0
-  },
-  "ranged_resistance_2": {
-    "title": "tbd. II",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:shield"
-      }
-    },
-    "description": "Your gain 10% increased ranged resistence.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:ranged_resistance",
-          "value": 0.1,
-          "operation": "multiply_base"
-        }
-      }
-    ]
-  },
-  "ranged_resistance_3": {
-    "title": "tbd. III",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:shield"
-      }
-    },
-    "description": "Your gain 15% increased ranged resistence.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:ranged_resistance",
-          "value": 0.15,
-          "operation": "multiply_base"
-        }
-      }
-    ]
-  },
-  "magic_resistance_1": {
-    "title": "tbd. I",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:shield"
-      }
-    },
-    "description": "Your gain 5% increased magic resistence.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:magic_resistance",
-          "value": 0.05,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "required_skills": 0
-  },
-  "magic_resistance_2": {
-    "title": "tbd. II",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:shield"
-      }
-    },
-    "description": "Your gain 10% increased magic resistence.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:magic_resistance",
-          "value": 0.1,
-          "operation": "multiply_base"
-        }
-      }
-    ]
-  },
-  "magic_resistance_3": {
-    "title": "tbd. III",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:shield"
-      }
-    },
-    "description": "Your gain 15% increased magic resistence.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:magic_resistance",
-          "value": 0.15,
-          "operation": "multiply_base"
-        }
-      }
-    ]
-  },
-  "double_healing": {
-    "title": "tbd.",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "icon": {
-      "type": "effect",
-      "data": {
-        "effect": "minecraft:instant_health"
-      }
-    },
-    "description": "You gain double the amount of helath from all sources of healing.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:healing",
-          "value": 1,
-          "operation": "multiply_total"
-        }
-      }
-    ],
-    "required_skills": 0
-  },
-  "mining_speed_1": {
-    "title": "tbd. I",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:shield"
-      }
-    },
-    "description": "Your gain 5% increased mining speed.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:mining_speed",
-          "value": 0.05,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "required_skills": 0
-  },
-  "mining_speed_2": {
-    "title": "tbd. II",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:shield"
-      }
-    },
-    "description": "Your gain 10% increased mining speed.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:mining_speed",
-          "value": 0.1,
-          "operation": "multiply_base"
-        }
-      }
-    ]
-  },
-  "mining_speed_3": {
-    "title": "tbd. III",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:shield"
-      }
-    },
-    "description": "Your gain 15% increased mining speed.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:mining_speed",
-          "value": 0.15,
-          "operation": "multiply_base"
-        }
-      }
-    ]
-  },
-  "sprint_speed_1": {
-    "title": "tbd. I",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:shield"
-      }
-    },
-    "description": "Your gain 5% increased sprinting speed.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:sprinting_speed",
-          "value": 0.05,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "required_skills": 0
-  },
-  "sprint_speed_2": {
-    "title": "tbd. II",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:shield"
-      }
-    },
-    "description": "Your gain 10% increased sprinting speed.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:sprinting_speed",
-          "value": 0.1,
-          "operation": "multiply_base"
-        }
-      }
-    ]
-  },
-  "sprint_speed_3": {
-    "title": "tbd. III",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:shield"
-      }
-    },
-    "description": "Your gain 15% increased sprinting speed.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:sprinting_speed",
-          "value": 0.15,
-          "operation": "multiply_base"
-        }
-      }
-    ]
-  },
+
   "life_leech": {
     "title": "Transilvanian Hunger",
     "frame": {
@@ -1370,8 +478,7 @@
           "operation": "multiply_total"
         }
       }
-    ],
-    "required_skills": 0
+    ]
   },
   "mana_leech": {
     "title": "[NYI] tbd.",
@@ -1391,97 +498,9 @@
       }
     },
     "description": "When you deal damage, you gain mana.",
-    "rewards": [],
-    "required_skills": 0
+    "rewards": []
   },
-  "fall_damage_reduction_1": {
-    "title": "tbd. I",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "icon": {
-      "type": "effect",
-      "data": {
-        "effect": "minecraft:slow_falling"
-      }
-    },
-    "description": "Your safe fall height is increased by one block.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:fall_reduction",
-          "value": 1,
-          "operation": "addition"
-        }
-      }
-    ],
-    "required_skills": 0
-  },
-  "fall_damage_reduction_2": {
-    "title": "tbd. II",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "icon": {
-      "type": "effect",
-      "data": {
-        "effect": "minecraft:slow_falling"
-      }
-    },
-    "description": "Your safe fall height is increased by one block.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:fall_reduction",
-          "value": 1,
-          "operation": "addition"
-        }
-      }
-    ]
-  },
-  "fall_damage_reduction_3": {
-    "title": "tbd. III",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "icon": {
-      "type": "effect",
-      "data": {
-        "effect": "minecraft:slow_falling"
-      }
-    },
-    "description": "Your safe fall height is increased by one block.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:fall_reduction",
-          "value": 1,
-          "operation": "addition"
-        }
-      }
-    ]
-  },
+
   "fall_damage_reduction_4": {
     "title": "tbd.",
     "frame": {
@@ -1507,94 +526,6 @@
           "attribute": "puffish_attributes:fall_reduction",
           "value": 1000,
           "operation": "addition"
-        }
-      }
-    ]
-  },
-  "mount_speed_1": {
-    "title": "Once Upon a Pale Horse",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:shield"
-      }
-    },
-    "description": "Your gain 20% increased mounting speed.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "artifacts:generic.mount_speed",
-          "value": 0.2,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "required_skills": 0
-  },
-  "mount_speed_2": {
-    "title": "One Rode to Asa Bay",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:shield"
-      }
-    },
-    "description": "Your gain 30% increased mounting speed.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "artifacts:generic.mount_speed",
-          "value": 0.3,
-          "operation": "multiply_base"
-        }
-      }
-    ]
-  },
-  "mount_speed_3": {
-    "title": " Sacred Horse",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:shield"
-      }
-    },
-    "description": "Your gain 50% increased mounting speed.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "artifacts:generic.mount_speed",
-          "value": 0.5,
-          "operation": "multiply_base"
         }
       }
     ]
@@ -1625,8 +556,7 @@
           "operation": "add"
         }
       }
-    ],
-    "required_skills": 0
+    ]
   },
   "craft_explosives_hellfire_cartridge": {
     "title": "Spirit the Earth Aflame",
@@ -1729,8 +659,7 @@
           "operation": "multiply_base"
         }
       }
-    ],
-    "required_skills": 0
+    ]
   },
   "craft_linked_pouch": {
     "title": "Sacred Geometry",
@@ -1758,8 +687,7 @@
           "operation": "add"
         }
       }
-    ],
-    "required_skills": 0
+    ]
   },
   "extra_harvest": {
     "title": "How Many Tears to Nurture a Rose?",
@@ -1788,59 +716,7 @@
           "operation": "addition"
         }
       }
-    ],
-    "required_skills": 0
-  },
-  "walk_on_snow_1": {
-    "title": "Of Ice and Movement...",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:snowball"
-      }
-    },
-    "description": "You are faster on snow.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "artifacts:generic.movement_speed_on_snow",
-          "value": 0.5,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "required_skills": 0
-  },
-  "walk_on_snow_2": {
-    "title": "[NYI] At the Heart of Winter",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:ice"
-      }
-    },
-    "description": "[NYI]",
-    "rewards": [],
-    "required_skills": 0
+    ]
   },
   "extra_diamond": {
     "title": "The Secrets of the Earth",
@@ -1867,8 +743,7 @@
           "tag": "phis.extradiamond"
         }
       }
-    ],
-    "required_skills": 0
+    ]
   },
   "extra_dust": {
     "title": "[NYI] Buried by Time and Dust",
@@ -1895,8 +770,7 @@
           "tag": "phis.extradust"
         }
       }
-    ],
-    "required_skills": 0
+    ]
   },
   "eldritch_spells": {
     "title": "Blackest Magick in Practice",
@@ -1924,8 +798,7 @@
           "operation": "add"
         }
       }
-    ],
-    "required_skills": 0
+    ]
   },
   "iron_to_gold": {
     "title": "[NYI] The Alchemist's Dream",
@@ -1953,8 +826,7 @@
           "operation": "add"
         }
       }
-    ],
-    "required_skills": 0
+    ]
   },
   "curios_elytra": {
     "title": "[NYI] Swansong for a Raven",
@@ -1982,8 +854,7 @@
           "lock_command": "curios remove back @s 1"
         }
       }
-    ],
-    "required_skills": 0
+    ]
   },
   "curios_ring": {
     "title": "[NYI] tbd.",
@@ -2011,8 +882,7 @@
           "lock_command": "curios remove ring @s 1"
         }
       }
-    ],
-    "required_skills": 0
+    ]
   },
   "loot_spawn_eggs": {
     "title": "[NYI] The Ones You Left Behind",
@@ -2039,8 +909,7 @@
           "tag": "phis.spawn_eggs"
         }
       }
-    ],
-    "required_skills": 0
+    ]
   },
   "no_farmland_trample": {
     "title": "[NYI] Barefoot Ghost Dance on Bloodsoaked Soil",
@@ -2067,8 +936,7 @@
           "tag": "phis.notrample"
         }
       }
-    ],
-    "required_skills": 0
+    ]
   },
   "craft_fated_altar": {
     "title": "[NYI] tbd.",
@@ -2096,8 +964,7 @@
           "operation": "add"
         }
       }
-    ],
-    "required_skills": 0
+    ]
   },
   "extra_apples": {
     "title": "[NYI] And the Forests Dream Eternally",
@@ -2124,8 +991,7 @@
           "tag": "phis.extrasomething"
         }
       }
-    ],
-    "required_skills": 0
+    ]
   },
   "cheat_death": {
     "title": "[NYI] Withstand the Fall of Time",
@@ -2152,8 +1018,7 @@
           "tag": "phis.cheat_death"
         }
       }
-    ],
-    "required_skills": 0
+    ]
   },
   "additional_milk_1": {
     "title": "[NYI] Soliloquy of the Stigmatised Shepherd",
@@ -2180,8 +1045,7 @@
           "tag": "phis.goat_milk"
         }
       }
-    ],
-    "required_skills": 0
+    ]
   },
   "additional_milk_2": {
     "title": "[NYI] When Milk Runs Dry",
@@ -2236,8 +1100,7 @@
           "tag": "phis.no_phantoms"
         }
       }
-    ],
-    "required_skills": 0
+    ]
   },
   "warrior_1": {
     "title": "[NYI] You Will Know the Lion by His Claws",
@@ -2274,8 +1137,7 @@
           "operation": "multiply_base"
         }
       }
-    ],
-    "required_skills": 0
+    ]
   },
   "warrior_2": {
     "title": "[NYI] Speed of Blood",
@@ -2571,8 +1433,7 @@
           "tag": "phis.last_guardian"
         }
       }
-    ],
-    "required_skills": 0
+    ]
   },
   "knight_2": {
     "title": "[NYI] Baptised in Fire and Ice",
@@ -2851,6 +1712,575 @@
         "data": {
           "unlock_command": "team join hunter @s",
           "lock_command": "team leave @s"
+        }
+      }
+    ]
+  },
+
+  "max_health": {
+    "title": "tbd.",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:regeneration"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You gain " },
+      { "text": "one", "color": "green" },
+      { "text": " additional " },
+      { "text": "heart", "italic": true, "color": "gold" },
+      { "text": "." }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "max_mana": {
+    "title": "tbd.",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:wind_charged"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You gain " },
+      { "text": "50", "color": "green" },
+      { "text": " additional " },
+      { "text": "mana", "italic": true, "color": "gold" },
+      { "text": "." }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:max_mana",
+          "value": 50,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "spell_cooldown": {
+    "title": "tbd.",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:wind_charged"
+      }
+    },
+    "description": [
+      "",
+      { "text": "Your " },
+      { "text": "spell cooldowns", "italic": true, "color": "gold" },
+      { "text": " are " },
+      { "text": "25 percent", "color": "green" },
+      { "text": " faster." }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:cooldown_reduction",
+          "value": 0.25,
+          "operation": "multiply_base"
+        }
+      }
+    ]
+  },
+  "melee_damage": {
+    "title": "tbd.",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You deal " },
+      { "text": "15 percent", "color": "green" },
+      { "text": " more " },
+      { "text": "melee damage", "italic": true, "color": "gold" },
+      { "text": "." }
+    ],
+    "extra_description": [
+      "",
+      {
+        "text": "Damage is considered melee if damage source is direct and damage type is not in "
+      },
+      {
+        "text": "minecraft:is_projectile",
+        "underlined": true,
+        "color": "gray"
+      },
+      { "text": " tag." }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.15,
+          "operation": "multiply_base"
+        }
+      }
+    ]
+  },
+  "ranged_damage": {
+    "title": "tbd.",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:bow"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You deal " },
+      { "text": "15 percent", "color": "green" },
+      { "text": " more " },
+      { "text": "ranged damage", "italic": true, "color": "gold" },
+      { "text": "." }
+    ],
+    "extra_description": [
+      "",
+      {
+        "text": "Damage is considered ranged if damage source is indirect or damage type is in "
+      },
+      {
+        "text": "minecraft:is_projectile",
+        "underlined": true,
+        "color": "gray"
+      },
+      { "text": " tag." }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.05,
+          "operation": "multiply_base"
+        }
+      }
+    ]
+  },
+  "melee_resistance": {
+    "title": "tbd.",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You take " },
+      { "text": "15 percent", "color": "green" },
+      { "text": " less " },
+      { "text": "melee damage", "italic": true, "color": "gold" },
+      { "text": "." }
+    ],
+    "extra_description": [
+      "",
+      {
+        "text": "Damage is considered melee if damage source is direct and damage type is not in "
+      },
+      {
+        "text": "minecraft:is_projectile",
+        "underlined": true,
+        "color": "gray"
+      },
+      { "text": " tag." }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_resistance",
+          "value": 0.15,
+          "operation": "multiply_base"
+        }
+      }
+    ]
+  },
+  "ranged_resistance": {
+    "title": "tbd.",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You take " },
+      { "text": "15 percent", "color": "green" },
+      { "text": " less " },
+      { "text": "ranged damage", "italic": true, "color": "gold" },
+      { "text": "." }
+    ],
+    "extra_description": [
+      "",
+      {
+        "text": "Damage is considered ranged if damage source is indirect or damage type is in "
+      },
+      {
+        "text": "minecraft:is_projectile",
+        "underlined": true,
+        "color": "gray"
+      },
+      { "text": " tag." }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_resistance",
+          "value": 0.15,
+          "operation": "multiply_base"
+        }
+      }
+    ]
+  },
+  "magic_resistance": {
+    "title": "tbd.",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You take " },
+      { "text": "15 percent", "color": "green" },
+      { "text": " less " },
+      { "text": "magic damage", "italic": true, "color": "gold" },
+      { "text": "." }
+    ],
+    "extra_description": [
+      "",
+      { "text": "Damage is considered magic if damage type is " },
+      { "text": "minecraft:magic", "underlined": true, "color": "gray" },
+      { "text": " or " },
+      {
+        "text": "minecraft:indirect_magic",
+        "underlined": true,
+        "color": "gray"
+      },
+      { "text": " or is in " },
+      { "text": "c:is_magic", "underlined": true, "color": "gray" },
+      { "text": " tag or " },
+      { "text": "neoforge:is_magic", "underlined": true, "color": "gray" },
+      { "text": " tag." }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:magic_resistance",
+          "value": 0.15,
+          "operation": "multiply_base"
+        }
+      }
+    ]
+  },
+  "double_healing": {
+    "title": "tbd.",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:instant_health"
+      }
+    },
+    "description": [
+      "",
+      { "text": "When you are healed, you " },
+      { "text": "heal", "italic": true, "color": "gold" },
+      { "text": " for " },
+      { "text": "50 percent", "color": "green" },
+      { "text": " more." }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:healing",
+          "value": 0.5,
+          "operation": "multiply_total"
+        }
+      }
+    ]
+  },
+  "mining_speed": {
+    "title": "tbd.",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "description": [
+      "",
+      { "text": "Your " },
+      { "text": "mining speed", "italic": true, "color": "gold" },
+      { "text": " increases by " },
+      { "text": "15 percent", "color": "green" },
+      { "text": "." }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 0.15,
+          "operation": "multiply_base"
+        }
+      }
+    ]
+  },
+  "sprint_speed": {
+    "title": "tbd.",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "description": [
+      "",
+      { "text": "Your " },
+      { "text": "sprint speed", "italic": true, "color": "gold" },
+      { "text": " increases by " },
+      { "text": "15 percent", "color": "green" },
+      { "text": "." }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sprinting_speed",
+          "value": 0.15,
+          "operation": "multiply_base"
+        }
+      }
+    ]
+  },
+  "fall_damage_reduction": {
+    "title": "tbd.",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:slow_falling"
+      }
+    },
+    "description": [
+      "",
+      { "text": "Your " },
+      { "text": "safe fall height", "italic": true, "color": "gold" },
+      { "text": " increases by " },
+      { "text": "one block", "color": "green" },
+      { "text": "." }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mount_speed": {
+    "title": "One Rode to Asa Bay",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "description": [
+      "",
+      { "text": "Your " },
+      { "text": "speed while mounted", "italic": true, "color": "gold" },
+      { "text": " increases by " },
+      { "text": "25 percent", "color": "green" },
+      { "text": "." }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "artifacts:generic.mount_speed",
+          "value": 0.25,
+          "operation": "multiply_base"
+        }
+      }
+    ]
+  },
+  "walk_on_snow_1": {
+    "title": "Of Ice and Movement...",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:snowball"
+      }
+    },
+    "description": [
+      "",
+      { "text": "While on snow, your " },
+      { "text": "movement speed", "italic": true, "color": "gold" },
+      { "text": " increases by " },
+      { "text": "50 percent", "color": "green" },
+      { "text": "." }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "artifacts:generic.movement_speed_on_snow",
+          "value": 0.5,
+          "operation": "multiply_base"
         }
       }
     ]
