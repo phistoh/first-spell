@@ -1754,7 +1754,7 @@
     ]
   },
   "max_mana": {
-    "title": "tbd.",
+    "title": "A Few Shreds of Thoughts",
     "frame": {
       "type": "texture",
       "data": {
@@ -1789,8 +1789,44 @@
       }
     ]
   },
+  "mana_regen": {
+    "title": "Enlightment",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:wind_charged"
+      }
+    },
+    "description": [
+      "",
+      { "text": "Your " },
+      { "text": "mana", "italic": true, "color": "gold" },
+      { "text": " regenerates " },
+      { "text": "20 percent", "color": "green" },
+      { "text": " faster." }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:mana_regen",
+          "value": 0.2,
+          "operation": "multiply_base"
+        }
+      }
+    ]
+  },
   "spell_cooldown": {
-    "title": "tbd.",
+    "title": "And in That Moment I Knew the Answer",
     "frame": {
       "type": "texture",
       "data": {
@@ -1826,7 +1862,7 @@
     ]
   },
   "melee_damage": {
-    "title": "tbd.",
+    "title": "Warlust",
     "frame": {
       "type": "texture",
       "data": {
