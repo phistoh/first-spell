@@ -1,5 +1,5 @@
 displayRecordToast = true
-silentMusicToasts = true
+silentMusicToasts = false
 # Default: 100
 # Range: > -1
 minSongDelay = 100

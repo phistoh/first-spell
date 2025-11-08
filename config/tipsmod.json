@@ -5,7 +5,7 @@
       "next tip.                                                                       "
     ],
     "//default": 5000,
-    "value": 5000
+    "value": 10000
   },
   "ignored_namespaces": {
     "//": "Tips from an ignored namespace will not be displayed in game.",
@@ -13,19 +13,27 @@
   },
   "ignored_tip_ids": {
     "//": "Adding a tip ID here will prevent it from being displayed.",
-    "value": []
+    "value": [
+      "tipsmod:boat_jump",
+      "tipsmod:end_dimension",
+      "tipsmod:fishing_resources",
+      "tipsmod:hitting_obsidian",
+      "tipsmod:peaceful_tnt",
+      "tipsmod:skulls",
+      "tipsmod:weather_sleep"
+    ]
   },
   "tip_render_width_percentage": {
     "//": "The percentage of the screen width that tips should render over.",
     "//default": 0.35,
-    "value": 0.35
+    "value": 0.4
   },
   "default_title": {
     "//": "The default tile to use when rendering a tip.",
     "value": {
       "translate": "tipsmod.title.default",
       "underlined": true,
-      "color": "yellow",
+      "color": "dark_aqua",
       "bold": true
     }
   }

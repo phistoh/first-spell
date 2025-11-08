@@ -93,7 +93,7 @@ show_mod_name = false
 	only_enchantment_descriptions_on_books = true
 	# Show Enchantment Descriptions in the Enchanting Table
 	# default: true
-	show_in_table = true
+	show_in_table = false
 	# This setting changes what Minecraft colour is used for enchantment tooltips, either by colour code or name.
 	# default: Dark Gray
 	color = "Dark Gray"

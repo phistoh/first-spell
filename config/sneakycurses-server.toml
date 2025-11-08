@@ -19,4 +19,4 @@ curse_reveal_chance = 0.05
 #Default Value: 5
 # Default: 5
 # Range: > 1
-material_cost_for_revealing_curses_in_anvil = 5
+material_cost_for_revealing_curses_in_anvil = 1
