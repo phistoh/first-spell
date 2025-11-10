@@ -14,7 +14,7 @@ renderEmptyOffhand = false
 ##- MAINHAND_WITH_MODIFIER: Normally cycles offhand, but cycles hotbar when modifier key is held.
 ##- OFFHAND_WITH_MODIFIER: Normally cycles hotbar, but cycles offhand when modifier key is held.
 #Allowed Values: VANILLA, OFFHAND_ONLY, MAINHAND_WITH_MODIFIER, OFFHAND_WITH_MODIFIER
-scrollMode = "VANILLA"
+scrollMode = "OFFHAND_WITH_MODIFIER"
 #Invert the direction of the scroll wheel for cycling through offhand items.
 invertScrollDirection = false
 #X offset for the offhand HUD

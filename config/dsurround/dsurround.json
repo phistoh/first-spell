@@ -25,7 +25,7 @@
     "replaceThunderSounds": true,
     "allowScarySounds": true,
     "playBiomeMusicWhileCreative": false,
-    "displayToastMessagesForMusic": true,
+    "displayToastMessagesForMusic": false,
     "remapSounds": true
   },
   "blockEffects": {
@@ -33,7 +33,7 @@
     "steamColumnEnabled": true,
     "flameJetEnabled": true,
     "bubbleColumnEnabled": true,
-    "firefliesEnabled": true,
+    "firefliesEnabled": false,
     "waterfallsEnabled": true,
     "enableWaterfallSounds": true,
     "enableWaterfallParticles": true,

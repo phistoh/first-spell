@@ -5,4 +5,4 @@ enableSlimeChunkDetection = true
 magmaCubeBucketHurts = true
 maxBucketableSlimeSize = 1
 [clientConfig]
-enableTrails = true
+enableTrails = false

@@ -10,7 +10,7 @@
 		#Enable waterfall spray particles
 		waterfallSpray = true
 		#Enable firefly particles
-		fireflies = true
+		fireflies = false
 		#Enable falling leaves particles
 		fallingLeaves = true
 		#Enable cave dust particles

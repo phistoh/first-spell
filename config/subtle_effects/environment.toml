@@ -1,6 +1,6 @@
 # Don't change this! Version used to track needed updates.
 version = 0
-biomeColorRain = true
+biomeColorRain = false
 
 [biomes]
 biomeParticlesRadius = 32
