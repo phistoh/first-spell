@@ -7,6 +7,5 @@ ServerEvents.recipes((event) => {
     .shapeless("2x irons_spellbooks:arcane_essence", [
       "kubejs:diamond_dust",
       "minecraft:lapis_lazuli",
-    ])
-    .id("phis:arcane_essence");
+    ]).id("arcane_essence");
 });

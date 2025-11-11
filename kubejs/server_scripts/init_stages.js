@@ -162,5 +162,5 @@ AStages.addRestrictionForRecipe(
   "phis/crafting_arcane_essence",
   "phis_stage_arcane_essence",
   "minecraft:crafting",
-  "phis:arcane_essence"
+  "kubejs:arcane_essence"
 );
