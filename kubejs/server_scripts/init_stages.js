@@ -8,22 +8,18 @@ for (const tier of tiers) {
   if (tier == "golden") {
     stage = "phis_stage_copper_and_gold";
   }
-  AStages.addRestrictionForArmor(
-    `phis/use_${tier}_armor`,
-    stage,
-    `minecraft:${tier}_helmet`,
-    `minecraft:${tier}_chestplate`,
-    `minecraft:${tier}_boots`,
-    `minecraft:${tier}_leggings`
-  );
   AStages.addRestrictionForItem(
-    `phis/use_${tier}_tools`,
+    `phis/use_${tier}_equipment`,
     stage,
     `minecraft:${tier}_pickaxe`,
     `minecraft:${tier}_shovel`,
     `minecraft:${tier}_axe`,
     `minecraft:${tier}_hoe`,
-    `minecraft:${tier}_sword`
+    `minecraft:${tier}_sword`,
+    `minecraft:${tier}_helmet`,
+    `minecraft:${tier}_chestplate`,
+    `minecraft:${tier}_boots`,
+    `minecraft:${tier}_leggings`
   )
     .setCanBeStoredInInventory(true)
     .setCanBeStoredInContainers(true)
@@ -31,42 +27,26 @@ for (const tier of tiers) {
 }
 
 // Copper
-AStages.addRestrictionForArmor(
-  "phis/use_copper_armor",
-  "phis_stage_copper_and_gold",
-  "leafscopperbackport:copper_armor_helmet",
-  "leafscopperbackport:copper_armor_chestplate",
-  "leafscopperbackport:copper_armor_boots",
-  "leafscopperbackport:copper_armor_leggings"
-);
 AStages.addRestrictionForItem(
-  "phis/use_copper_tools",
+  "phis/use_copper_equipment",
   "phis_stage_copper_and_gold",
   "leafscopperbackport:copper_pickaxe",
   "leafscopperbackport:copper_shovel",
   "leafscopperbackport:copper_axe",
   "leafscopperbackport:copper_hoe",
-  "leafscopperbackport:copper_sword"
+  "leafscopperbackport:copper_sword",
+  "leafscopperbackport:copper_armor_helmet",
+  "leafscopperbackport:copper_armor_chestplate",
+  "leafscopperbackport:copper_armor_boots",
+  "leafscopperbackport:copper_armor_leggings"
 )
   .setCanBeStoredInInventory(true)
   .setCanBeStoredInContainers(true)
   .setCanPickedUp(true);
 
 // Deeper and Darker
-AStages.addRestrictionForArmor(
-  "phis/use_warden_armor",
-  "phis_stage_warden",
-  "deeperdarker:warden_helmet",
-  "deeperdarker:warden_chestplate",
-  "deeperdarker:warden_boots",
-  "deeperdarker:warden_leggings",
-  "deeperdarker:resonarium_helmet",
-  "deeperdarker:resonarium_chestplate",
-  "deeperdarker:resonarium_boots",
-  "deeperdarker:resonarium_leggings"
-);
 AStages.addRestrictionForItem(
-  "phis/use_warden_tools",
+  "phis/use_warden_equipment",
   "phis_stage_warden",
   "deeperdarker:warden_pickaxe",
   "deeperdarker:warden_shovel",
@@ -77,12 +57,19 @@ AStages.addRestrictionForItem(
   "deeperdarker:resonarium_shovel",
   "deeperdarker:resonarium_axe",
   "deeperdarker:resonarium_hoe",
-  "deeperdarker:resonarium_sword"
+  "deeperdarker:resonarium_sword",
+  "deeperdarker:warden_helmet",
+  "deeperdarker:warden_chestplate",
+  "deeperdarker:warden_boots",
+  "deeperdarker:warden_leggings",
+  "deeperdarker:resonarium_helmet",
+  "deeperdarker:resonarium_chestplate",
+  "deeperdarker:resonarium_boots",
+  "deeperdarker:resonarium_leggings"
 )
   .setCanBeStoredInInventory(true)
   .setCanBeStoredInContainers(true)
   .setCanPickedUp(true);
-
 
 // Crafting tools and armor
 
