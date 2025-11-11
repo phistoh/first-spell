@@ -1,0 +1,21 @@
+{
+  "tip": [
+    {
+      "text": "With an empty hand, press ["
+    },
+    {
+      "keybind": "key.sneak",
+      "color": "gold"
+    },
+    {
+      "text": "] and ["
+    },
+    {
+      "keybind": "key.use",
+      "color": "gold"
+    },
+    {
+      "text": "] to toggle a filled item frame's visibility."
+    }
+  ]
+}

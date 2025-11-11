@@ -19,7 +19,8 @@ for (const tier of tiers) {
     `minecraft:${tier}_helmet`,
     `minecraft:${tier}_chestplate`,
     `minecraft:${tier}_boots`,
-    `minecraft:${tier}_leggings`
+    `minecraft:${tier}_leggings`,
+    `mounts_of_mayhem:${tier}_spear`
   )
     .setCanBeStoredInInventory(true)
     .setCanBeStoredInContainers(true)
@@ -98,3 +99,68 @@ for (const tier of tiers) {
     );
   }
 }
+
+// Crafting Waystones
+
+AStages.addRestrictionForRecipe(
+  "phis/crafting_return_scroll",
+  "phis_stage_return_scroll",
+  "minecraft:crafting",
+  "waystones:return_scroll"
+);
+
+AStages.addRestrictionForRecipe(
+  "phis/crafting_warp_stone",
+  "phis_stage_warp_stone",
+  "minecraft:crafting",
+  "waystones:warp_stone"
+);
+AStages.addRestrictionForItem(
+  "phis/use_warp_stone",
+  "phis_stage_warp_stone",
+  "waystones:warp_stone"
+)
+  .setCanBeStoredInInventory(true)
+  .setCanBeStoredInContainers(true)
+  .setCanPickedUp(true);
+
+const waystone_recipe_ids = [
+  "waystones:waystone",
+  "waystones:mossy_waystone",
+  "waystones:mossy_waystone_from_moss_blocks",
+  "waystones:mossy_waystone_from_vines",
+  "waystones:sandy_waystone",
+  "waystones:deepslate_waystone",
+  "waystones:blackstone_waystone",
+  "waystones:end_stone_waystone"
+];
+for (const id of waystone_recipe_ids) {
+  AStages.addRestrictionForRecipe(
+    "phis/crafting_waystone",
+    "phis_stage_crafting_waystone",
+    "minecraft:crafting",
+    id
+  );
+}
+
+AStages.addRestrictionForItem(
+  "phis/use_waystone",
+  "phis_stage_waystone",
+  "waystones:waystone",
+  "waystones:mossy_waystone",
+  "waystones:sandy_waystone",
+  "waystones:deepslate_waystone",
+  "waystones:blackstone_waystone",
+  "waystones:end_stone_waystone"
+)
+  .setCanBeStoredInInventory(true)
+  .setCanBeStoredInContainers(true)
+  .setCanPickedUp(true);
+
+// Arcane Essence
+AStages.addRestrictionForRecipe(
+  "phis/crafting_arcane_essence",
+  "phis_stage_arcane_essence",
+  "minecraft:crafting",
+  "phis:arcane_essence"
+);

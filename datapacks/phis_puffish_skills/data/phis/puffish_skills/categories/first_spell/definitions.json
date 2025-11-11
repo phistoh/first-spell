@@ -1,6 +1,6 @@
 {
   "tier_copper": {
-    "title": "tbd.",
+    "title": "Bronzen Embrace",
     "frame": {
       "type": "texture",
       "data": {
@@ -29,7 +29,7 @@
     ]
   },
   "tier_iron": {
-    "title": "Hammerheart",
+    "title": "In the Wake of an Iron Wind",
     "frame": {
       "type": "texture",
       "data": {
@@ -58,7 +58,7 @@
     ]
   },
   "tier_diamond": {
-    "title": "tbd.",
+    "title": "A Jewel Traced Through Coal",
     "frame": {
       "type": "texture",
       "data": {
@@ -186,15 +186,15 @@
     "icon": {
       "type": "item",
       "data": {
-        "item": "waystones:warp_scroll"
+        "item": "waystones:warp_stone"
       }
     },
-    "description": "You are able to craft Warp Scrolls.",
+    "description": "You are able to craft and use Warp Stones.",
     "rewards": [
       {
         "type": "astages:stage_reward",
         "data": {
-          "stage": "phis_stage_warp_scroll",
+          "stage": "phis_stage_warp_stone",
           "operation": "add"
         }
       }
@@ -222,14 +222,14 @@
       {
         "type": "astages:stage_reward",
         "data": {
-          "stage": "phis_stage_waystones",
+          "stage": "phis_stage_waystone",
           "operation": "add"
         }
       }
     ]
   },
   "craft_arcane_essence": {
-    "title": "Handful of Stars",
+    "title": "[NYI] A Magician's Lapis-Lazuli",
     "frame": {
       "type": "texture",
       "data": {
