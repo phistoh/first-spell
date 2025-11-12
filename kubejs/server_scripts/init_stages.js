@@ -132,7 +132,7 @@ const waystone_recipe_ids = [
   "waystones:sandy_waystone",
   "waystones:deepslate_waystone",
   "waystones:blackstone_waystone",
-  "waystones:end_stone_waystone"
+  "waystones:end_stone_waystone",
 ];
 for (const id of waystone_recipe_ids) {
   AStages.addRestrictionForRecipe(
@@ -164,3 +164,85 @@ AStages.addRestrictionForRecipe(
   "minecraft:crafting",
   "kubejs:arcane_essence"
 );
+
+// Scroll Forge
+AStages.addRestrictionForRecipe(
+  "phis/crafting_scroll_forge",
+  "phis_stage_scroll_forge",
+  "minecraft:crafting",
+  "irons_spellbooks:scroll_forge"
+);
+AStages.addRestrictionForScreen(
+  "phis/opening_scroll_forge",
+  "phis_stage_scroll_forge",
+  "irons_spellbooks:scroll_forge_menu"
+);
+AStages.addRestrictionForItem(
+  "phis/use_scroll_forge",
+  "phis_stage_scroll_forge",
+  "irons_spellbooks:scroll_forge"
+)
+  .setCanBeStoredInInventory(true)
+  .setCanBeStoredInContainers(true)
+  .setCanPickedUp(true);
+
+  // Arcane Anvil
+AStages.addRestrictionForRecipe(
+  "phis/crafting_arcane_anvil",
+  "phis_stage_arcane_anvil",
+  "minecraft:crafting",
+  "irons_spellbooks:arcane_anvil"
+);
+AStages.addRestrictionForScreen(
+  "phis/opening_arcane_anvil",
+  "phis_stage_arcane_anvil",
+  "irons_spellbooks:arcane_anvil_menu"
+);
+AStages.addRestrictionForItem(
+  "phis/use_arcane_anvil",
+  "phis_stage_arcane_anvil",
+  "irons_spellbooks:arcane_anvil"
+)
+  .setCanBeStoredInInventory(true)
+  .setCanBeStoredInContainers(true)
+  .setCanPickedUp(true);
+
+// Musket
+AStages.addRestrictionForRecipe(
+  "phis/crafting_simple_musket",
+  "phis_stage_muskets_and_bombs",
+  "minecraft:crafting",
+  "simplemusket:musket"
+);
+AStages.addRestrictionForItem(
+  "phis/use_simple_musket",
+  "phis_stage_muskets_and_bombs",
+  "simplemusket:musket"
+)
+  .setCanBeStoredInInventory(true)
+  .setCanBeStoredInContainers(true)
+  .setCanPickedUp(true);
+
+AStages.addRestrictionForRecipe(
+  "phis/crafting_hellfire_ammo",
+  "phis_stage_hellfire_ammo",
+  "minecraft:crafting",
+  "kubejs:hellfire_cartridge"
+);
+
+// Bombs
+AStages.addRestrictionForRecipe(
+  "phis/crafting_bomb",
+  "phis_stage_muskets_and_bombs",
+  "minecraft:crafting",
+  "supplementaries:bomb"
+);
+AStages.addRestrictionForItem(
+  "phis/use_bombs",
+  "phis_stage_muskets_and_bombs",
+  "supplementaries:bomb",
+  "supplementaries:bomb_blue"
+)
+  .setCanBeStoredInInventory(true)
+  .setCanBeStoredInContainers(true)
+  .setCanPickedUp(true);

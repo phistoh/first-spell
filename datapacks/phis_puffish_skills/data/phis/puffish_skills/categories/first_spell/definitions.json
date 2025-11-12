@@ -16,7 +16,18 @@
         "item": "minecraft:copper_ingot"
       }
     },
-    "description": "You are able to craft and use armor and tools made of copper and gold.",
+    "description": [
+      "",
+      { "text": "You are able to craft and use " },
+      { "text": "armor", "italic": true, "color": "gold" },
+      { "text": " and  " },
+      { "text": "tools", "italic": true, "color": "gold" },
+      { "text": " made of " },
+      { "text": "copper", "color": "green" },
+      { "text": " and  " },
+      { "text": "gold", "color": "green" },
+      { "text": "." }
+    ],
     "extra_description": "'Armor' encompasses helmets, chestplates, leggings and boots. 'Tools' encompasses axes, hoes, knives, pickaxes, shovels, swords and spears.",
     "rewards": [
       {
@@ -45,7 +56,16 @@
         "item": "minecraft:iron_ingot"
       }
     },
-    "description": "You are able to craft and use armor and tools made of iron.",
+    "description": [
+      "",
+      { "text": "You are able to craft and use " },
+      { "text": "armor", "italic": true, "color": "gold" },
+      { "text": " and  " },
+      { "text": "tools", "italic": true, "color": "gold" },
+      { "text": " made of " },
+      { "text": "iron", "color": "green" },
+      { "text": "." }
+    ],
     "extra_description": "'Armor' encompasses helmets, chestplates, leggings and boots. 'Tools' encompasses axes, hoes, knives, pickaxes, shovels, swords and spears.",
     "rewards": [
       {
@@ -74,7 +94,16 @@
         "item": "minecraft:diamond"
       }
     },
-    "description": "You are able to craft and use armor and tools made of diamond.",
+    "description": [
+      "",
+      { "text": "You are able to craft and use " },
+      { "text": "armor", "italic": true, "color": "gold" },
+      { "text": " and " },
+      { "text": "tools", "italic": true, "color": "gold" },
+      { "text": " made of " },
+      { "text": "diamond", "color": "green" },
+      { "text": "." }
+    ],
     "extra_description": "'Armor' encompasses helmets, chestplates, leggings and boots. 'Tools' encompasses axes, hoes, knives, pickaxes, shovels, swords and spears.",
     "rewards": [
       {
@@ -103,7 +132,16 @@
         "item": "minecraft:netherite_ingot"
       }
     },
-    "description": "You are able to craft and use armor and tools made of netherite.",
+    "description": [
+      "",
+      { "text": "You are able to craft and use " },
+      { "text": "armor", "italic": true, "color": "gold" },
+      { "text": " and  " },
+      { "text": "tools", "italic": true, "color": "gold" },
+      { "text": " made of " },
+      { "text": "netherite", "color": "green" },
+      { "text": "." }
+    ],
     "extra_description": "'Armor' encompasses helmets, chestplates, leggings and boots. 'Tools' encompasses axes, hoes, knives, pickaxes, shovels, swords and spears.",
     "rewards": [
       {
@@ -132,7 +170,18 @@
         "item": "minecraft:echo_shard"
       }
     },
-    "description": "You are able to craft and use armor and tools made of Warden and Resonarium.",
+    "description": [
+      "",
+      { "text": "You are able to craft and use " },
+      { "text": "armor", "italic": true, "color": "gold" },
+      { "text": " and  " },
+      { "text": "tools", "italic": true, "color": "gold" },
+      { "text": " made of " },
+      { "text": "Reinforced Echo Shards", "color": "green" },
+      { "text": " and " },
+      { "text": "Resonarium", "color": "green" },
+      { "text": "." }
+    ],
     "extra_description": "'Armor' encompasses helmets, chestplates, leggings and boots. 'Tools' encompasses axes, hoes, knives, pickaxes, shovels, swords and spears.",
     "rewards": [
       {
@@ -161,7 +210,12 @@
         "item": "waystones:return_scroll"
       }
     },
-    "description": "You are able to craft Return Scrolls.",
+    "description": [
+      "",
+      { "text": "You are able to craft " },
+      { "text": "Return Scrolls", "italic": true, "color": "gold" },
+      { "text": "." }
+    ],
     "rewards": [
       {
         "type": "astages:stage_reward",
@@ -189,7 +243,12 @@
         "item": "waystones:warp_stone"
       }
     },
-    "description": "You are able to craft and use Warp Stones.",
+    "description": [
+      "",
+      { "text": "You are able to craft and use " },
+      { "text": "Warp Stones", "italic": true, "color": "gold" },
+      { "text": "." }
+    ],
     "rewards": [
       {
         "type": "astages:stage_reward",
@@ -217,7 +276,12 @@
         "item": "minecraft:andesite"
       }
     },
-    "description": "You are able to craft Waystones.",
+    "description": [
+      "",
+      { "text": "You are able to craft " },
+      { "text": "Waystones", "italic": true, "color": "gold" },
+      { "text": "." }
+    ],
     "rewards": [
       {
         "type": "astages:stage_reward",
@@ -229,7 +293,7 @@
     ]
   },
   "craft_arcane_essence": {
-    "title": "[NYI] A Magician's Lapis-Lazuli",
+    "title": "A Magician's Lapis-Lazuli",
     "frame": {
       "type": "texture",
       "data": {
@@ -245,13 +309,50 @@
         "item": "irons_spellbooks:arcane_essence"
       }
     },
-    "description": "You are able to craft Arcane Essence.",
+    "description": [
+      "",
+      { "text": "You are able to craft " },
+      { "text": "Arcane Essence", "italic": true, "color": "gold" },
+      { "text": "." }
+    ],
     "rewards": [
       {
         "type": "astages:stage_reward",
         "data": {
           "stage": "phis_stage_arcane_essence",
           "operation": "add"
+        }
+      }
+    ]
+  },
+  "loot_arcane_essence": {
+    "title": "[NYI] Nucleation Seed",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:arcane_essence"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You sometimes find " },
+      { "text": "Arcane Essence", "italic": true, "color": "gold" },
+      { "text": " when slaying mobs." }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "phis.arcane_essence"
         }
       }
     ]
@@ -274,7 +375,14 @@
         "effect": "minecraft:regeneration"
       }
     },
-    "description": "You slowly regenerate HP.",
+    "description": [
+      "",
+      { "text": "You slowly " },
+      { "text": "regenerate", "color": "green" },
+      { "text": " " },
+      { "text": "health", "italic": true, "color": "gold" },
+      { "text": "." }
+    ],
     "rewards": []
   },
   "keep_scrolls_1": {
@@ -294,7 +402,14 @@
         "effect": "minecraft:regeneration"
       }
     },
-    "description": "You have a 50% chance to keep scrolls when using them to cast a spell.",
+    "description": [
+      "",
+      { "text": "You have a " },
+      { "text": "50%", "color": "green" },
+      { "text": " chance to keep " },
+      { "text": "spell scrolls", "italic": true, "color": "gold" },
+      { "text": " when using them to cast a spell." }
+    ],
     "rewards": [
       {
         "type": "puffish_skills:attribute",
@@ -307,7 +422,7 @@
     ]
   },
   "keep_scrolls_2": {
-    "title": "tbd.",
+    "title": "Flight of Thought and Memory",
     "frame": {
       "type": "texture",
       "data": {
@@ -323,7 +438,14 @@
         "effect": "minecraft:regeneration"
       }
     },
-    "description": "You always keep scrolls when using them to cast a spell.",
+    "description": [
+      "",
+      { "text": "You " },
+      { "text": "always", "color": "green" },
+      { "text": " keep " },
+      { "text": "spell scrolls", "italic": true, "color": "gold" },
+      { "text": " when using them to cast a spell." }
+    ],
     "rewards": [
       {
         "type": "puffish_skills:attribute",
@@ -335,8 +457,8 @@
       }
     ]
   },
-  "craft_ironspellbooks_scroll_forge": {
-    "title": "tbd.",
+  "craft_irons_pellbooks_scroll_forge": {
+    "title": "[NYI] Moonspell Rites",
     "frame": {
       "type": "texture",
       "data": {
@@ -352,7 +474,12 @@
         "item": "irons_spellbooks:scroll_forge"
       }
     },
-    "description": "You are able to use and craft Scroll Forges.",
+    "description": [
+      "",
+      { "text": "You are able to craft and use " },
+      { "text": "Scroll Forges", "italic": true, "color": "gold" },
+      { "text": "." }
+    ],
     "rewards": [
       {
         "type": "astages:stage_reward",
@@ -364,7 +491,7 @@
     ]
   },
   "craft_ironspellbooks_arcane_anvil": {
-    "title": "tbd.",
+    "title": "Runes Shall You Know",
     "frame": {
       "type": "texture",
       "data": {
@@ -380,7 +507,12 @@
         "item": "irons_spellbooks:scroll_forge"
       }
     },
-    "description": "You are able to use and craft Arcane Anvils.",
+    "description": [
+      "",
+      { "text": "You are able to craft and use " },
+      { "text": "Arcane Anvils", "italic": true, "color": "gold" },
+      { "text": "." }
+    ],
     "rewards": [
       {
         "type": "astages:stage_reward",
@@ -409,7 +541,14 @@
         "effect": "minecraft:wind_charged"
       }
     },
-    "description": "You gain 25% fortune.",
+    "description": [
+      "",
+      { "text": "You gain " },
+      { "text": "25%", "color": "green" },
+      { "text": " " },
+      { "text": "fortune", "italic": true, "color": "gold" },
+      { "text": "." }
+    ],
     "rewards": [
       {
         "type": "puffish_skills:attribute",
@@ -438,7 +577,14 @@
         "effect": "minecraft:wind_charged"
       }
     },
-    "description": "You gain one level of looting.",
+    "description": [
+      "",
+      { "text": "You gain " },
+      { "text": "one level", "color": "green" },
+      { "text": " of " },
+      { "text": "looting", "italic": true, "color": "gold" },
+      { "text": "." }
+    ],
     "rewards": [
       {
         "type": "puffish_skills:attribute",
@@ -468,14 +614,21 @@
         "effect": "minecraft:instant_health"
       }
     },
-    "description": "When you deal damage, you heal for .",
+    "description": [
+      "",
+      { "text": "When you deal damage you " },
+      { "text": "heal", "italic": true, "color": "gold" },
+      { "text": " for " },
+      { "text": "25%", "color": "green" },
+      { "text": " of the damage dealt." }
+    ],
     "rewards": [
       {
         "type": "puffish_skills:attribute",
         "data": {
-          "attribute": "puffish_attributes:life_steal",
+          "attribute": "apothic_attributes:life_steal",
           "value": 0.25,
-          "operation": "multiply_total"
+          "operation": "add"
         }
       }
     ]
@@ -497,7 +650,14 @@
         "effect": "minecraft:instant_health"
       }
     },
-    "description": "When you deal damage, you gain mana.",
+    "description": [
+      "",
+      { "text": "When you deal damage you gain " },
+      { "text": "25%", "color": "green" },
+      { "text": " of the damage dealt as " },
+      { "text": "mana", "italic": true, "color": "gold" },
+      { "text": "." }
+    ],
     "rewards": []
   },
 
@@ -518,12 +678,20 @@
         "effect": "minecraft:levitation"
       }
     },
-    "description": "You are virtually immune to fall damage.",
+    "description": [
+      "",
+      { "text": "You are virtually " },
+      { "text": "immune", "color": "green" },
+      { "text": " to " },
+      { "text": "fall damage", "italic": true, "color": "gold" },
+      { "text": "." }
+    ],
+    "extra_description": "This skill extends your safe fall damage by 1000 blocks.",
     "rewards": [
       {
         "type": "puffish_skills:attribute",
         "data": {
-          "attribute": "puffish_attributes:fall_reduction",
+          "attribute": "minecraft:generic.safe_fall_distance",
           "value": 1000,
           "operation": "addition"
         }
@@ -531,7 +699,7 @@
     ]
   },
   "craft_explosives_musket": {
-    "title": "Fires That Light the Earth",
+    "title": "[NYI] Fires That Light the Earth",
     "frame": {
       "type": "texture",
       "data": {
@@ -547,7 +715,14 @@
         "item": "simplemusket:musket"
       }
     },
-    "description": "You are able to craft and use muskets and bombs.",
+    "description": [
+      "",
+      { "text": "You are able to craft and use " },
+      { "text": "Muskets", "italic": true, "color": "gold" },
+      { "text": " and " },
+      { "text": "Bombs", "italic": true, "color": "gold" },
+      { "text": "." }
+    ],
     "rewards": [
       {
         "type": "astages:stage_reward",
@@ -575,7 +750,12 @@
         "item": "simplemusket:hellfire_cartridge"
       }
     },
-    "description": "You are able to craft and use Hellfire cartridges",
+    "description": [
+      "",
+      { "text": "You are able to craft and use " },
+      { "text": "Hellfire Cartridges", "italic": true, "color": "gold" },
+      { "text": "." }
+    ],
     "extra_description": "Hellfire ammo is used for muskets",
     "rewards": [
       {
@@ -588,7 +768,7 @@
     ]
   },
   "craft_explosives_fireworks": {
-    "title": "A Blaze in the Northern Sky",
+    "title": "[NYI] A Blaze in the Northern Sky",
     "frame": {
       "type": "texture",
       "data": {
@@ -604,7 +784,12 @@
         "item": "minecraft:firework_rocket"
       }
     },
-    "description": "You are able to craft and use firework rockets",
+    "description": [
+      "",
+      { "text": "You are able to craft and use " },
+      { "text": "Firework Rockets", "italic": true, "color": "gold" },
+      { "text": "." }
+    ],
     "extra_description": "Using firework rockets encompasses using them as elytra boost.",
     "rewards": [
       {
@@ -633,7 +818,28 @@
         "item": "minecraft:horn_coral"
       }
     },
-    "description": "You are more flexible underwater",
+    "description": [
+      "",
+      {
+        "text": "You are more comfortable underwater. The duration you can hold your "
+      },
+      { "text": "breath", "italic": true, "color": "gold" },
+      { "text": " is " },
+      { "text": "doubled", "color": "green" },
+      { "text": ". In addition, your " },
+      {
+        "text": "mining speed while submerged",
+        "italic": true,
+        "color": "gold"
+      },
+      { "text": " is " },
+      { "text": "tripled", "color": "green" },
+      { "text": " and your " },
+      { "text": "water movement efficiency", "italic": true, "color": "gold" },
+      { "text": " increases by " },
+      { "text": "50%", "color": "green" },
+      { "text": "." }
+    ],
     "rewards": [
       {
         "type": "puffish_skills:attribute",
@@ -662,7 +868,7 @@
     ]
   },
   "craft_linked_pouch": {
-    "title": "Sacred Geometry",
+    "title": "[NYI] Sacred Geometry",
     "frame": {
       "type": "texture",
       "data": {
@@ -678,7 +884,12 @@
         "item": "linkedchests:linked_pouch"
       }
     },
-    "description": "You are able to craft and use linked pouces.",
+    "description": [
+      "",
+      { "text": "You are able to craft and use " },
+      { "text": "Linked Pouches", "italic": true, "color": "gold" },
+      { "text": "." }
+    ],
     "rewards": [
       {
         "type": "astages:stage_reward",
@@ -706,7 +917,14 @@
         "item": "minecraft:poppy"
       }
     },
-    "description": "You gain more items when harvesting.",
+    "description": [
+      "",
+      { "text": "You always gain " },
+      { "text": "one additional", "color": "green" },
+      { "text": " " },
+      { "text": "crop", "italic": true, "color": "gold" },
+      { "text": " when harvesting crops." }
+    ],
     "rewards": [
       {
         "type": "puffish_skills:attribute",
@@ -735,7 +953,14 @@
         "item": "minecraft:diamond_ore"
       }
     },
-    "description": "When mining diamonds, you find an additional one.",
+    "description": [
+      "",
+      { "text": "When mining diamond ore you find " },
+      { "text": "one additional ", "color": "green" },
+      { "text": " " },
+      { "text": "diamond", "italic": true, "color": "gold" },
+      { "text": "." }
+    ],
     "rewards": [
       {
         "type": "puffish_skills:tag",
@@ -762,7 +987,18 @@
         "item": "kubejs:diamond_dust"
       }
     },
-    "description": "When collecting rocks or gravel, you sometimes are able to collect dust of different materials.",
+    "description": [
+      "",
+      { "text": "When collecting rocks or gravel you " },
+      { "text": "sometimes ", "color": "green" },
+      { "text": " find additional " },
+      {
+        "text": "dust of different materials",
+        "italic": true,
+        "color": "gold"
+      },
+      { "text": "." }
+    ],
     "rewards": [
       {
         "type": "puffish_skills:tag",
@@ -789,7 +1025,13 @@
         "item": "irons_spellbooks:eldritch_manuscript"
       }
     },
-    "description": "You understand the forbidden knowledge of the Eldritch spell school.",
+    "description": [
+      "",
+      { "text": "You understand the forbidden knowledge of the " },
+      { "text": "Eldritch", "color": "dark_purple" },
+      { "text": " spell school." }
+    ],
+    "extra_description": "You can craft and use 'Eldritch Manuscripts'.",
     "rewards": [
       {
         "type": "astages:stage_reward",
@@ -817,7 +1059,14 @@
         "item": "minecraft:gold_nugget"
       }
     },
-    "description": "You are able to convert iron to gold.",
+    "description": [
+      "",
+      { "text": "You learn how to transmute  " },
+      { "text": "Iron Ingots", "italic": true, "color": "gold" },
+      { "text": " to " },
+      { "text": "Gold Ingots", "italic": true, "color": "gold" },
+      { "text": " using an Alchemist Cauldron." }
+    ],
     "rewards": [
       {
         "type": "astages:stage_reward",
@@ -845,7 +1094,16 @@
         "item": "minecraft:elytra"
       }
     },
-    "description": "You can equip Elytra in addition to your backpack.",
+    "description": [
+      "",
+      { "text": "You can equip " },
+      { "text": "Elytra", "italic": true, "color": "gold" },
+      { "text": " in " },
+      { "text": "addition", "color": "green" },
+      { "text": " to your " },
+      { "text": "Backpack", "italic": true, "color": "gold" },
+      { "text": "." }
+    ],
     "rewards": [
       {
         "type": "puffish_skills:command",
@@ -873,7 +1131,14 @@
         "item": "minecraft:elytra"
       }
     },
-    "description": "tbg.",
+    "description": [
+      "",
+      { "text": "You can equip " },
+      { "text": "one additional", "color": "green" },
+      { "text": " " },
+      { "text": "ring", "italic": true, "color": "gold" },
+      { "text": "." }
+    ],
     "rewards": [
       {
         "type": "puffish_skills:command",
@@ -901,7 +1166,12 @@
         "item": "minecraft:egg"
       }
     },
-    "description": "You sometimes find eggs of the mobs you slay.",
+    "description": [
+      "",
+      { "text": "You sometimes find " },
+      { "text": "Spawn Eggs", "italic": true, "color": "gold" },
+      { "text": " when slaying mobs." }
+    ],
     "rewards": [
       {
         "type": "puffish_skills:tag",
@@ -928,7 +1198,12 @@
         "item": "minecraft:wheat"
       }
     },
-    "description": "You do not trample farmland",
+    "description": [
+      "",
+      { "text": "You do not " },
+      { "text": "trample farmland", "italic": true, "color": "gold" },
+      { "text": "." }
+    ],
     "rewards": [
       {
         "type": "puffish_skills:tag",
@@ -939,7 +1214,7 @@
     ]
   },
   "craft_fated_altar": {
-    "title": "[NYI] tbd.",
+    "title": "[NYI] I Raised this Stone as a Ghastly Memorial",
     "frame": {
       "type": "texture",
       "data": {
@@ -955,7 +1230,12 @@
         "item": "fated_inventory:fated_altar"
       }
     },
-    "description": "You can craft and mine Fated Altars.",
+    "description": [
+      "",
+      { "text": "You are able to craft and mine " },
+      { "text": "Fated Altars", "italic": true, "color": "gold" },
+      { "text": "." }
+    ],
     "rewards": [
       {
         "type": "astages:stage_reward",

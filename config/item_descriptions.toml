@@ -1,9 +1,9 @@
-# Enable Item Descriptions
-# default: true
-item_descriptions = true
-# Always show Item Descriptions while hovering over an item in your inventory.
-# default: false
-display_always = false
+	# Enable Item Descriptions
+	# default: true
+	item_descriptions = true
+	# Always show Item Descriptions while hovering over an item in your inventory.
+	# default: false
+	display_always = false
 # Prioritize the Entity Description of the spawn egg over the generic spawn egg description.
 # default: true
 spawn_eggs_show_entity = true
@@ -21,12 +21,12 @@ show_mod_name = false
 	# This setting changes what Minecraft colour is used for hint tooltips, either by colour code or name.
 	# default: Gray
 	color = "Gray"
-		# Italicize Hints
-		# default: false
-		italics = false
-		# Force-uppercase hint keybinds.
-		# default: true
-		uppercase = true
+	# Italicize Hints
+	# default: false
+	italics = false
+	# Force-uppercase hint keybinds.
+	# default: true
+	uppercase = true
 
 [style]
 	# This setting changes what Minecraft colour is used for block, item, and entity tooltips, either by colour code or name.
