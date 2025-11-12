@@ -186,7 +186,7 @@ AStages.addRestrictionForItem(
   .setCanBeStoredInContainers(true)
   .setCanPickedUp(true);
 
-  // Arcane Anvil
+// Arcane Anvil
 AStages.addRestrictionForRecipe(
   "phis/crafting_arcane_anvil",
   "phis_stage_arcane_anvil",
