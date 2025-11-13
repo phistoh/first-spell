@@ -1,1226 +1,1232 @@
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] List of all entries for registry minecraft:mob_effect:
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] 
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:speed
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:slowness
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:haste
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:mining_fatigue
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:strength
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:instant_health
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:instant_damage
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:jump_boost
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:nausea
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:regeneration
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:resistance
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:fire_resistance
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:water_breathing
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:invisibility
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:blindness
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:night_vision
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:hunger
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:weakness
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:poison
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:wither
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:health_boost
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:absorption
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:saturation
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:glowing
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:levitation
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:luck
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:unluck
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:slow_falling
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:conduit_power
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:dolphins_grace
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:bad_omen
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:hero_of_the_village
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:darkness
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:trial_omen
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:raid_omen
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:wind_charged
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:weaving
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:oozing
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:infested
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - supplementaries:overencumbered
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - supplementaries:flammable
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - simplemusket:armor_decrease
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - mounts_of_mayhem:breath_of_the_nautilus
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - moresnifferflowers:extracted
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - moresnifferflowers:slippery
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - moresnifferflowers:untouchable
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - moresnifferflowers:salty
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - moresnifferflowers:combo_meal
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - moresnifferflowers:pants_on_fire
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - moresnifferflowers:hardened_mouth
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - moresnifferflowers:sticky
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - moresnifferflowers:gluing_touch
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - moresnifferflowers:glued
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - moresnifferflowers:bland
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - moresnifferflowers:well_balanced
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - majospellenchantment:phase_dashed
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - majospellenchantment:sunday_fever
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - apothic_attributes:bleeding
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - apothic_attributes:detonation
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - apothic_attributes:grievous
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - apothic_attributes:knowledge
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - apothic_attributes:sundering
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - apothic_attributes:vitality
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - apothic_attributes:flying
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - farmersdelight:nourishment
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - farmersdelight:comfort
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - mynethersdelight:g_pungent
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - mynethersdelight:b_pungent
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - endersdelight:phasing
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - deeperdarker:sculk_affinity
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - infinity:iridescence
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - infinity:iridescent_setup
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - infinity:iridescent_cooldown
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - infinity:afterglow
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - luminous_beasts:universal_poison
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - luminous_beasts:infection
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - luminous_beasts:warped_infection
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - luminous_beasts:antidote
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - artifacts:magnetism
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - netherdepthsupgrade:lava_vision
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - friendsandfoes:reach
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:angel_wings
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:evasion
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:heartstop
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:abyssal_shroud
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:ascension
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:charged
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:true_invisibility
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:fortify
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:rend
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:spider_aspect
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:blight
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:guided
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:airborne
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:vigor
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:instant_mana
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:oakskin
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:planar_sight
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:antigravity
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:hastened
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:slowed
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:chilled
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:burning_dash
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:volt_strike
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:gluttony
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:echoing_strikes
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:thunderstorm
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:frostbite
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:immolate
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:vex_timer
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:polar_bear_timer
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:summon_swords_timer
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:raise_dead_timer
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:summon_horse_timer
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - alshanex_familiars:bird_buff
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - alshanex_familiars:sleepy
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - kubejs:crippling_poison_indicator
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - kubejs:numbing_poison_indicator
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - kubejs:atrophic_poison_indicator
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - kubejs:leeching_poison
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - kubejs:amplifying_poison_indicator
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - kubejs:deadly_poison_indicator
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - kubejs:crippling_poison
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - kubejs:numbing_poison
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - kubejs:atrophic_poison
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - kubejs:amplifying_poison
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - kubejs:deadly_poison
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - kubejs:speed_of_blood
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - kubejs:bleeding
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - kubejs:one_by_one
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] 
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] Total: 130 entries
-[22:17:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] 
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] 
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] List of all entries for registry minecraft:attribute:
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] 
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:generic.armor
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:generic.armor_toughness
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:generic.attack_damage
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:generic.attack_knockback
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:generic.attack_speed
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:player.block_break_speed
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:player.block_interaction_range
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:generic.burning_time
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:generic.explosion_knockback_resistance
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:player.entity_interaction_range
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:generic.fall_damage_multiplier
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:generic.flying_speed
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:generic.follow_range
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:generic.gravity
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:generic.jump_strength
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:generic.knockback_resistance
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:generic.luck
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:generic.max_absorption
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:generic.max_health
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:player.mining_efficiency
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:generic.movement_efficiency
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:generic.movement_speed
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:generic.oxygen_bonus
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:generic.safe_fall_distance
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:generic.scale
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:player.sneaking_speed
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:zombie.spawn_reinforcements
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:generic.step_height
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:player.submerged_mining_speed
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:player.sweeping_damage_ratio
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:generic.water_movement_efficiency
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - neoforge:swim_speed
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - neoforge:nametag_distance
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - neoforge:creative_flight
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:fishing_lure
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:fishing_luck
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:looting
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:respiration
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:harvest
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:keep_scroll
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell_general
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - caelus:fall_flying
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - familiarslib:sound_magic_resist
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - familiarslib:sound_spell_power
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - apothic_attributes:armor_pierce
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - apothic_attributes:armor_shred
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - apothic_attributes:arrow_damage
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - apothic_attributes:arrow_velocity
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - apothic_attributes:cold_damage
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - apothic_attributes:crit_chance
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - apothic_attributes:crit_damage
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - apothic_attributes:current_hp_damage
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - apothic_attributes:dodge_chance
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - apothic_attributes:draw_speed
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - apothic_attributes:experience_gained
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - apothic_attributes:fire_damage
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - apothic_attributes:ghost_health
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - apothic_attributes:healing_received
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - apothic_attributes:life_steal
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - apothic_attributes:mining_speed
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - apothic_attributes:overheal
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - apothic_attributes:projectile_damage
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - apothic_attributes:prot_pierce
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - apothic_attributes:prot_shred
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - apothic_attributes:elytra_flight
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - puffish_attributes:stamina
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - puffish_attributes:magic_damage
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - puffish_attributes:melee_damage
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - puffish_attributes:ranged_damage
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - puffish_attributes:tamed_damage
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - puffish_attributes:fortune
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - puffish_attributes:healing
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - puffish_attributes:jump
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - puffish_attributes:resistance
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - puffish_attributes:magic_resistance
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - puffish_attributes:melee_resistance
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - puffish_attributes:ranged_resistance
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - puffish_attributes:tamed_resistance
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - puffish_attributes:mining_speed
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - puffish_attributes:pickaxe_speed
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - puffish_attributes:axe_speed
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - puffish_attributes:shovel_speed
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - puffish_attributes:sprinting_speed
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - puffish_attributes:knockback
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - puffish_attributes:repair_cost
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - puffish_attributes:armor_shred
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - puffish_attributes:toughness_shred
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - puffish_attributes:protection_shred
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - puffish_attributes:resistance_shred
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - puffish_attributes:magic_resistance_shred
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - puffish_attributes:melee_resistance_shred
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - puffish_attributes:ranged_resistance_shred
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - puffish_attributes:natural_regeneration
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - puffish_attributes:stealth
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - puffish_attributes:life_steal
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - puffish_attributes:fall_reduction
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - puffish_attributes:bow_projectile_speed
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - puffish_attributes:crossbow_projectile_speed
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - puffish_attributes:experience
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - artifacts:player.entity_experience
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - artifacts:player.villager_reputation
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - artifacts:generic.attack_burning_duration
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - artifacts:generic.drinking_speed
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - artifacts:generic.eating_speed
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - artifacts:generic.flatulence
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - artifacts:generic.invincibility_ticks
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - artifacts:generic.mount_speed
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - artifacts:generic.movement_speed_on_snow
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - artifacts:generic.slip_resistance
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - artifacts:generic.sprinting_speed
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - artifacts:generic.sprinting_step_height
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:max_mana
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:mana_regen
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:cooldown_reduction
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:spell_power
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:spell_resist
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:cast_time_reduction
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:summon_damage
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:casting_movespeed
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:fire_magic_resist
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:ice_magic_resist
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:lightning_magic_resist
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:holy_magic_resist
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:ender_magic_resist
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:blood_magic_resist
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:evocation_magic_resist
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:nature_magic_resist
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:eldritch_magic_resist
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:fire_spell_power
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:ice_spell_power
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:lightning_spell_power
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:holy_spell_power
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:ender_spell_power
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:blood_spell_power
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:evocation_spell_power
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:nature_spell_power
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:eldritch_spell_power
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:school/irons_spellbooks/ender
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_school/irons_spellbooks/ender
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:school/irons_spellbooks/lightning
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_school/irons_spellbooks/lightning
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:school/irons_spellbooks/blood
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_school/irons_spellbooks/blood
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:school/irons_spellbooks/holy
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_school/irons_spellbooks/holy
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:school/irons_spellbooks/eldritch
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_school/irons_spellbooks/eldritch
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:school/familiarslib/sound
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_school/familiarslib/sound
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:school/irons_spellbooks/ice
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_school/irons_spellbooks/ice
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:school/irons_spellbooks/fire
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_school/irons_spellbooks/fire
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:school/irons_spellbooks/nature
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_school/irons_spellbooks/nature
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:school/irons_spellbooks/evocation
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_school/irons_spellbooks/evocation
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/snowball
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/snowball
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/ray_of_frost
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/ray_of_frost
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/firefly_swarm
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/firefly_swarm
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/fireball
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/fireball
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/oakskin
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/oakskin
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/firebolt
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/firebolt
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/spectral_hammer
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/spectral_hammer
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/blood_slash
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/blood_slash
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/fang_ward
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/fang_ward
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/magma_bomb
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/magma_bomb
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/fire_breath
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/fire_breath
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/slow
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/slow
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/alshanex_familiars/lullaby
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/alshanex_familiars/lullaby
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/frost_step
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/frost_step
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/electrocute
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/electrocute
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/angel_wing
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/angel_wing
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/guiding_bolt
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/guiding_bolt
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/root
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/root
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/poison_breath
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/poison_breath
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/earthquake
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/earthquake
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/teleport
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/teleport
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/summon_ender_chest
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/summon_ender_chest
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/cone_of_cold
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/cone_of_cold
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/planar_sight
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/planar_sight
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/blight
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/blight
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/lob_creeper
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/lob_creeper
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/summon_swords
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/summon_swords
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/summon_polar_bear
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/summon_polar_bear
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/raise_hell
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/raise_hell
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/counterspell
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/counterspell
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/alshanex_familiars/music_bolt
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/alshanex_familiars/music_bolt
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/eldritch_blast
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/eldritch_blast
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/lightning_lance
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/lightning_lance
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/alshanex_familiars/sonata
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/alshanex_familiars/sonata
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/gluttony
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/gluttony
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/alshanex_familiars/guardian_angel
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/alshanex_familiars/guardian_angel
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/heal
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/heal
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/sculk_tentacles
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/sculk_tentacles
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/magic_missile
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/magic_missile
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/chain_lightning
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/chain_lightning
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/recall
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/recall
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/poison_splash
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/poison_splash
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/alshanex_familiars/birds_spell
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/alshanex_familiars/birds_spell
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/heartstop
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/heartstop
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/cleanse
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/cleanse
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/ball_lightning
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/ball_lightning
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/haste
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/haste
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/dragon_breath
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/dragon_breath
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/ice_block
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/ice_block
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/devour
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/devour
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/divine_smite
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/divine_smite
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/arrow_volley
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/arrow_volley
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/frostwave
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/frostwave
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/volt_strike
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/volt_strike
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/ascension
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/ascension
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/ice_tomb
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/ice_tomb
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/summon_horse
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/summon_horse
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/ray_of_siphoning
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/ray_of_siphoning
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/magic_arrow
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/magic_arrow
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/thunderstorm
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/thunderstorm
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/shockwave
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/shockwave
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/flaming_strike
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/flaming_strike
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/charge
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/charge
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/alshanex_familiars/summon_shadows
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/alshanex_familiars/summon_shadows
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/blaze_storm
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/blaze_storm
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/echoing_strikes
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/echoing_strikes
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/wisp
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/wisp
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/frostbite
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/frostbite
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/evasion
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/evasion
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/portal
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/portal
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/wither_skull
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/wither_skull
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/cloud_of_regeneration
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/cloud_of_regeneration
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/firecracker
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/firecracker
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/burning_dash
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/burning_dash
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/telekinesis
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/telekinesis
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/lightning_bolt
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/lightning_bolt
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/summon_vex
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/summon_vex
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/greater_heal
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/greater_heal
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/icicle
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/icicle
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/flaming_barrage
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/flaming_barrage
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/alshanex_familiars/explosion_melody
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/alshanex_familiars/explosion_melody
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/acid_orb
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/acid_orb
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/shield
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/shield
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/starfall
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/starfall
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/raise_dead
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/raise_dead
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/sunbeam
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/sunbeam
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/wall_of_fire
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/wall_of_fire
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/blessing_of_life
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/blessing_of_life
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/stomp
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/stomp
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/fire_arrow
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/fire_arrow
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/gust
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/gust
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/alshanex_familiars/harp_symphony
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/alshanex_familiars/harp_symphony
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/ice_spikes
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/ice_spikes
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/spider_aspect
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/spider_aspect
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/poison_arrow
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/poison_arrow
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/healing_circle
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/healing_circle
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/sacrifice
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/sacrifice
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/touch_dig
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/touch_dig
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/fortify
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/fortify
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/alshanex_familiars/default_note
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/alshanex_familiars/default_note
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/wololo
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/wololo
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/sonic_boom
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/sonic_boom
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/fang_strike
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/fang_strike
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/abyssal_shroud
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/abyssal_shroud
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/pocket_dimension
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/pocket_dimension
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/heat_surge
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/heat_surge
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/invisibility
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/invisibility
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/chain_creeper
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/chain_creeper
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/scorch
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/scorch
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/acupuncture
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/acupuncture
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/blood_step
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/blood_step
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/blood_needles
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/blood_needles
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:spell/irons_spellbooks/black_hole
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - additional_attributes:innate_spell/irons_spellbooks/black_hole
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] 
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] Total: 383 entries
-[22:17:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] 
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] 
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] List of all entries for registry minecraft:enchantment:
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] 
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:aqua_affinity
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - farmersdelight:backstabbing
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:bane_of_arthropods
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:bane_of_bosses
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:bane_of_netherborn
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:bane_of_raiders
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:bedrocker
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:binding_curse
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:blast_protection
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:blindness_splash
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - majospellenchantment:blood_mana_enchant
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - rubinated_nether:bluntness_curse
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:boltbringer
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:bomber
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:breach
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:breeze_curse
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:bulletproof
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:bunny_hop
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - deeperdarker:catalysis
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - majospellenchantment:cd_reduction_enchant
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:channeling
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:cherry_leaves_arrow_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:cherry_leaves_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:cleansing
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - vein_vantage:clearing_strike
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:cosy_smoke_arrow_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:cosy_smoke_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:crab_claw
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:crank_curse
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:creeper_alloy
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:crispbread
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - rubinated_nether:crooked_shot_curse
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:crop_dance
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:darkness_alloy
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:day_protection
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - majospellenchantment:daylight_anthem_enchant
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:death_curse
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - rubinated_nether:deficiency_curse
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:density
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:depth_strider
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:dolphin_arrow_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:dolphin_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - majospellenchantment:dominion_helm_enchant
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:dripping_honey_arrow_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:dripping_honey_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:dripping_lava_arrow_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:dripping_lava_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:dripping_obsidian_tear_arrow_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:dripping_obsidian_tear_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:dripping_water_arrow_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:dripping_water_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - rubinated_nether:dullness_curse
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:efficiency
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:electric_walker
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:enchant_arrow_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:enchant_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:end_protection
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:end_rod_arrow_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:end_rod_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:end_speed
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:ender_shot
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:enderscape
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:evokers_wrath
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - majospellenchantment:excitatio_arcana_enchant
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - rubinated_nether:exposure_curse
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:feather_falling
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:fire_alloy
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:fire_aspect
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:fire_protection
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - simplemusket:firepower
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:firework_arrow_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:firework_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:flame
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:flame_arrow_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:flame_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:flare
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:forge_shot
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:fortune
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:fragility_curse
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - rubinated_nether:fragility_curse
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:frost_walker
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - majospellenchantment:gentle_graveyard_keeper_enchant
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:glass_breaker
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:glowing_splash
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:gluttony
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:grass_walker
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:growth
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:handyman
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:happy_villager_arrow_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:happy_villager_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:hardened
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:haste
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:heart_arrow_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:heart_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - netherdepthsupgrade:hell_strider
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:hiding_curse
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - rubinated_nether:hooking_curse
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - majospellenchantment:hopeless_power_enchant
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:hunger_aspect
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:hunger_splash
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:ice_alloy
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - majospellenchantment:ice_fire_song_enchant
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:illumination
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:impaling
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:infested_aspect
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:infinity
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:invisibility_cloak
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:invisibility_splash
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:knockback
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:leech
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - rubinated_nether:leeching_curse
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:levitation_aspect
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:levitation_splash
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:lightning_bolt
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - simplemusket:longshot
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:looting
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:loyalty
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:luck_of_the_sea
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - mounts_of_mayhem:lunge
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:lure
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:magma_walker
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - majospellenchantment:mana_mending_enchant
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - majospellenchantment:mana_reaper_enchant
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - usefulspyglass:marking
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - majospellenchantment:max_mana_enchant
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:mending
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:midas_touch
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - rubinated_nether:misfortune_curse
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:moonwalk
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:multishot
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - majospellenchantment:necrovolt_enchant
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - majospellenchantment:nether_heart_enchant
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:nether_protection
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:night_protection
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:night_vision
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - majospellenchantment:nocturne_aria_enchant
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:note_arrow_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:note_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - majospellenchantment:ocean_grace_enchant
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:ominous_healing
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:ominous_rain
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:ominous_spawning_arrow_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:ominous_spawning_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:oozing_aspect
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - vein_vantage:ore_blessing
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:pacifier
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - majospellenchantment:party_leader_enchant
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:pegasus
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:phantom_menace
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - majospellenchantment:phase_dashed_enchant
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:pickpocket
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:piercing
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - mynethersdelight:poaching
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:poison_aspect
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:poison_splash
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:poppy_peace
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:portal_arrow_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:portal_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:power
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - majospellenchantment:power_is_power_enchant
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - usefulspyglass:precision
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:projectile_protection
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:protection
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:pufferfish
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:punch
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:quick_charge
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:rabbit_foot
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:raid_omen_arrow_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:raid_omen_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:randomness_curse
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - rubinated_nether:ravaging_curse
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:reach_curse
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - majospellenchantment:red_lotus_enchant
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:red_moon
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:regeneration_splash
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:rejuvenation
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - simplemusket:repeating
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:replenish
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:respiration
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:riptide
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:sacrifice
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:safe_landing
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:sand_speed
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:saturation_splash
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:scholar_of_blocks
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:scholar_of_mobs
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:scrape_arrow_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:scrape_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - deeperdarker:sculk_smite
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:sculk_soul_arrow_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:sculk_soul_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:sea_breeze
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:seeker
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:sharpness
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:shrinkage
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:shulker_shell
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:silk_touch
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - rubinated_nether:slow_charge_curse
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:slowness_aspect
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:slowness_splash
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:smite
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:snowflake_arrow_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:snowflake_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:sonic
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:soul_fire_flame_arrow_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:soul_fire_flame_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:soul_speed
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - yigd:soulbound
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - majospellenchantment:spell_streak_enchant
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - usefulspyglass:spotter
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - supplementaries:stasis
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:sting
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:summer_walker
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:sweeping_edge
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:swift_slash
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:swift_sneak
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:switch
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:thorns
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:totem_arrow_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:totem_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:trial_omen_arrow_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:trial_omen_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:unbreaking
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:vanishing_curse
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - vein_vantage:vein_sweep
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - majospellenchantment:vlad_tepes_enchant
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:wax_off_arrow_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:wax_off_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:wax_on_arrow_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:wax_on_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:weakness_aspect
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:weakness_splash
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:weaving_aspect
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:welfare_curse
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:wind_aspect
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:wind_burst
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:witch_arrow_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:witch_trail
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:wither_aspect
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:wither_splash
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - majospellenchantment:zoophony_enchant
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] 
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] Total: 241 entries
-[22:17:55] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] 
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] 
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] List of all entries for registry minecraft:worldgen/biome:
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] 
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - infinity:ant
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:aspen_glade
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:auroral_garden
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:badlands
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:bamboo_jungle
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:basalt_deltas
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:bayou
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:beach
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - infinity:biome_1890399298
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:birch_forest
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - deeperdarker:blooming_caverns
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:bog
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - infinity:chaos
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:cherry_grove
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - infinity:chess
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - infinity:classic
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:cold_desert
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:cold_ocean
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - infinity:colors
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:coniferous_forest
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - infinity:content
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:crag
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:crimson_forest
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - nullscape:crystal_peaks
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:crystalline_chasm
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - infinity:custom
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:dark_forest
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:dead_forest
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:deep_cold_ocean
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:deep_dark
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:deep_frozen_ocean
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:deep_lukewarm_ocean
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:deep_ocean
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - deeperdarker:deeplands
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - terrablender:deferred_placeholder
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:desert
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:dripstone_caves
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:dryland
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:dune_beach
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - deeperdarker:echoing_forest
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - infinity:end
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:end_barrens
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:end_corruption
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:end_highlands
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:end_midlands
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:end_reef
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:end_wilds
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:eroded_badlands
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:erupting_inferno
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:field
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:fir_clearing
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:floodplain
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:flower_forest
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:forest
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:forested_field
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:frozen_ocean
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:frozen_peaks
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:frozen_river
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:fungal_jungle
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:glowing_grotto
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:grassland
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:gravel_beach
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:grove
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:highland
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:hot_springs
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:ice_spikes
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - infinity:isolation
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:jacaranda_glade
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:jade_cliffs
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:jagged_peaks
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:jungle
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:lavender_field
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - infinity:library
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:lukewarm_ocean
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:lush_caves
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:lush_desert
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:lush_savanna
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:mangrove_swamp
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:maple_woods
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:marsh
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:meadow
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:mediterranean_forest
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - infinity:missing
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:moor
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:mushroom_fields
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:muskeg
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:mystic_grove
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:nether_wastes
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - infinity:nexus
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:ocean
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:old_growth_birch_forest
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:old_growth_dead_forest
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:old_growth_pine_taiga
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:old_growth_spruce_taiga
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:old_growth_woodland
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:ominous_woods
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:orchard
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:origin_valley
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - blueprint:original_source_marker
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - deeperdarker:overcast_columns
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:overgrown_greens
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - vanillabackport:pale_garden
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:pasture
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - infinity:perfection
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:plains
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:prairie
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - infinity:pride
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:pumpkin_patch
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:rainforest
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - infinity:random_forest
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:redwood_forest
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:river
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:rocky_rainforest
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:rocky_shrubland
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:savanna
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:savanna_plateau
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:scrubland
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:seasonal_forest
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - nullscape:shadowlands
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:shrubland
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - infinity:slime_plains
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:small_end_islands
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:snowblossom_grove
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:snowy_beach
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:snowy_coniferous_forest
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:snowy_fir_clearing
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:snowy_maple_woods
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:snowy_plains
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:snowy_slopes
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:snowy_taiga
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:soul_sand_valley
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - gardens_of_the_dead:soulblight_forest
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:sparse_jungle
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:spider_nest
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - infinity:sponge
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:stony_peaks
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:stony_shore
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:sunflower_plains
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:swamp
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:taiga
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - infinity:terminal
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:the_end
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:the_void
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:tropics
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:tundra
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:undergrowth
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:visceral_heap
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - nullscape:void_barrens
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:volcanic_plains
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:volcano
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:warm_ocean
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:warped_forest
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:wasteland
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:wasteland_steppe
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:wetland
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - gardens_of_the_dead:whistling_woods
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:windswept_forest
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:windswept_gravelly_hills
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:windswept_hills
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:windswept_savanna
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:wintry_origin_valley
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:withered_abyss
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:wooded_badlands
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - biomesoplenty:woodland
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] 
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] Total: 164 entries
-[22:18:11] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] 
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] 
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] List of all entries for registry minecraft:worldgen/structure:
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] 
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:abydos
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:aether
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:alfheim
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:ancient_battleground
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:ancient_city
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - philipsruins:ancient_crypt
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - philipsruins:ancient_dungeon
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - philipsruins:ancient_ruins
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - deeperdarker:ancient_temple
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - philipsruins:ancient_towers
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:apalachia
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:arcana
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:arcanmira
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:astral
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:badlands
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:bastion_remnant
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:bumblezone
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:buried_treasure
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:catacombs
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:cavum_tenebrae
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - friendsandfoes:citadel
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:citadel
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - infinity:content
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - infinity:cosmic_pool
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:darwin_iv
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:derelict
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:derelict_grass
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:desert
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:desert_pyramid
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - betterdeserttemples:desert_temple
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - moresnifferflowers:dessert_sniffer_temple
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - nullscape:dragon_skeleton
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:eden
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:end
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:end_city
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - endersdelight:end_house
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - alshanex_familiars:end_laboratory
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:everbright
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:everdawn
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:evoker_fort
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - philipsruins:field_stone_ruins
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - philipsruins:field_stone_ruins_rocks
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - betterfortresses:fortress
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:fortress
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:gaia
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - bosses_of_mass_destruction:gauntlet_arena
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:glacio
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - alshanex_familiars:graveyard
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - alshanex_familiars:hunter_campsite
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:icaria
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:ice
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:ice_spider_den
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:iceika
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - friendsandfoes:iceologer_cabin
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:igloo
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - friendsandfoes:illusioner_shack
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - friendsandfoes:illusioner_training_grounds
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:impaled_icebreaker
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - infinity:indevhouse
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - infinity:isolation
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:jungle
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:jungle_pyramid
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - betterjungletemples:jungle_temple
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - philipsruins:level_one_ruins
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - philipsruins:level_three_ruins
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - philipsruins:level_two_ruins
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - philipsruins:level_two_ruins_pool
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - bosses_of_mass_destruction:lich_tower
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - philipsruins:lost_soul_city
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - philipsruins:lost_soul_dungeon
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:mangrove_hut
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:mansion
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:mars
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:mercury
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:midnight
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:mineshaft
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - bettermineshafts:mineshaft_acacia
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - bettermineshafts:mineshaft_desert
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - bettermineshafts:mineshaft_dripstone
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - bettermineshafts:mineshaft_ice
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - bettermineshafts:mineshaft_jungle
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - bettermineshafts:mineshaft_lush
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - bettermineshafts:mineshaft_mesa
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:mineshaft_mesa
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - bettermineshafts:mineshaft_mushroom
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - bettermineshafts:mineshaft_oak
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - bettermineshafts:mineshaft_overgrown
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - bettermineshafts:mineshaft_red_desert
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - bettermineshafts:mineshaft_spruce
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - bettermineshafts:mineshaft_spruce_snowy
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - infinity:mineshaft_spruce_snowy_1153340997
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - infinity:missing
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:monument
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:moon
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:mortum
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:mountain_tower
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:mythica
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:nether
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - netherdepthsupgrade:nether_fortress_piece
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:nether_fossil
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - bosses_of_mass_destruction:obsidilith_arena
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:ocean
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - philipsruins:ocean_fortress
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - betteroceanmonuments:ocean_monument
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:ocean_ruin_cold
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:ocean_ruin_warm
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - philipsruins:ocean_ruins
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:ocean_warm
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - alshanex_familiars:origin_island
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:otherside
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:permafrost
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:pillager_outpost
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - philipsruins:pumpkin_ruins
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - infinity:pyramid
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:pyromancer_tower
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - philipsruins:rare_ruin
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:ratlantis
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:regular
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - nullscape:rift
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchantencore:rise
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:ruined_portal
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:ruined_portal_desert
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:ruined_portal_jungle
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:ruined_portal_mountain
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:ruined_portal_nether
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:ruined_portal_ocean
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:ruined_portal_swamp
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:setback
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:shipwreck
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:shipwreck_beached
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - betterdungeons:skeleton_dungeon
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:skythern
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - betterdungeons:small_dungeon
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - betterdungeons:small_nether_dungeon
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - ivp:small_village_desert
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - ivp:small_village_plains
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - ivp:small_village_savanna
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - ivp:small_village_snowy
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - ivp:small_village_taiga
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - moresnifferflowers:snow_sniffer_temple
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - betterdungeons:spider_dungeon
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - betterstrongholds:stronghold
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:stronghold
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - joshie:sunken_spires/colossuem
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - joshie:sunken_spires/conduit_ruins
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - joshie:sunken_spires/floating_spikes
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - joshie:sunken_spires/large_fossil
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - joshie:sunken_spires/ocean_temple
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - joshie:sunken_spires/prismarine_forge
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - joshie:sunken_spires/prismarine_trial_chamber
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - joshie:sunken_spires/small_fossil
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - joshie:sunken_spires/spires
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - joshie:sunken_spires/sunken_city
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - joshie:sunken_spires/trident_shrine
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:swamp_hut
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - moresnifferflowers:swamp_sniffer_temple
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - infinity:terminal
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - infinity:text_954427561
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - infinity:text_test
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:tofu
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:trail_ruins
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:trial_chambers
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:tw_canopy
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:tw_mangrove
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:undergarden
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - philipsruins:underground_structures
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - underground_villages:underground_village
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:venus
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:vethea
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:village_desert
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - infinity:village_desert_531793888
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:village_plains
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:village_savanna
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:village_snowy
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:village_taiga
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - bosses_of_mass_destruction:void_blossom
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - supplementaries:way_sign
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - totw_modded:wildwood
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - betterwitchhuts:witch_circle
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - betterwitchhuts:witch_hut
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - betterdungeons:zombie_dungeon
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] 
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] Total: 181 entries
-[22:18:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] 
+# EFFECTS
 
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] 
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] List of all entries for registry minecraft:menu:
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] 
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:generic_9x1
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:generic_9x2
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:generic_9x3
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:generic_9x4
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:generic_9x5
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:generic_9x6
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:generic_3x3
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:crafter_3x3
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:anvil
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:beacon
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:blast_furnace
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:brewing_stand
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:crafting
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:enchantment
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:furnace
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:grindstone
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:hopper
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:lectern
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:loom
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:merchant
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:shulker_box
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:smithing
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:smoker
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:cartography_table
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - minecraft:stonecutter
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - supplementaries:present
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - supplementaries:trapped_present
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - supplementaries:notice_board
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - supplementaries:lunch_basket
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - supplementaries:sack
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - supplementaries:safe
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - supplementaries:pulley_block
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - supplementaries:cannon
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - supplementaries:red_merchant
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - echochest:echo_chest
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - netherchested:nether_chest
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - hoppergadgetry:grated_hopper
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - hoppergadgetry:duct
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - moresnifferflowers:rebrewing_stand
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - cosmeticarmorreworked:inventorycosarmor
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - chipped:workbench
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - farmersdelight:cooking_pot
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - curios:curios_container
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - infinity:f4
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - linkedchests:linked_chest
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - linkedchests:linked_pouch
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - linkedchests:personal_linked_chest
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - linkedchests:personal_linked_pouch
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - kubejs:menu
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - luminous_beasts:beast_book_1
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - luminous_beasts:beast_book_2
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - luminous_beasts:beast_book_3
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - luminous_beasts:beast_book_4
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - luminous_beasts:beast_book_5
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - luminous_beasts:beast_book_6
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - luminous_beasts:beast_book_7
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - luminous_beasts:beast_book_8
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - luminous_beasts:beast_book_9
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - luminous_beasts:beast_book_10
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - luminous_beasts:beast_book_11
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - luminous_beasts:beast_book_12
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - luminous_beasts:beast_book_13
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - luminous_beasts:beast_book_14
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - luminous_beasts:beast_book_15
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - luminous_beasts:beast_book_16
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - luminous_beasts:beast_book_17
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - luminous_beasts:beast_book_18
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - luminous_beasts:beast_book_19
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - luminous_beasts:beast_book_20
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - luminous_beasts:beast_book_21
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - luminous_beasts:beast_book_22
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - luminous_beasts:beast_book_23
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - luminous_beasts:beast_book_24
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - luminous_beasts:beast_book_25
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - amendments:lectern_edit
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - enchant_revised:enchant_altar_menu
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - waystones:waystone_selection
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - waystones:warp_scroll_selection
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - waystones:warp_stone_selection
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - waystones:portstone_selection
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - waystones:inventory_selection
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - waystones:admin_selection
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - waystones:sharestone_selection
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - waystones:waystone_modifiers
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - waystones:waystone
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - rubinated_nether:freezer_menu
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - rubinated_nether:rubination_menu
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:inscription_table_menu
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:scroll_forge_menu
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - irons_spellbooks:arcane_anvil_menu
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] 
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] Total: 90 entries
-[22:20:17] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] 
-Clipboard copy at: 12 Nov 2025 22:20:23 +0100
+- `minecraft:speed`
+- `minecraft:slowness`
+- `minecraft:haste`
+- `minecraft:mining_fatigue`
+- `minecraft:strength`
+- `minecraft:instant_health`
+- `minecraft:instant_damage`
+- `minecraft:jump_boost`
+- `minecraft:nausea`
+- `minecraft:regeneration`
+- `minecraft:resistance`
+- `minecraft:fire_resistance`
+- `minecraft:water_breathing`
+- `minecraft:invisibility`
+- `minecraft:blindness`
+- `minecraft:night_vision`
+- `minecraft:hunger`
+- `minecraft:weakness`
+- `minecraft:poison`
+- `minecraft:wither`
+- `minecraft:health_boost`
+- `minecraft:absorption`
+- `minecraft:saturation`
+- `minecraft:glowing`
+- `minecraft:levitation`
+- `minecraft:luck`
+- `minecraft:unluck`
+- `minecraft:slow_falling`
+- `minecraft:conduit_power`
+- `minecraft:dolphins_grace`
+- `minecraft:bad_omen`
+- `minecraft:hero_of_the_village`
+- `minecraft:darkness`
+- `minecraft:trial_omen`
+- `minecraft:raid_omen`
+- `minecraft:wind_charged`
+- `minecraft:weaving`
+- `minecraft:oozing`
+- `minecraft:infested`
+- `supplementaries:overencumbered`
+- `supplementaries:flammable`
+- `simplemusket:armor_decrease`
+- `mounts_of_mayhem:breath_of_the_nautilus`
+- `moresnifferflowers:extracted`
+- `moresnifferflowers:slippery`
+- `moresnifferflowers:untouchable`
+- `moresnifferflowers:salty`
+- `moresnifferflowers:combo_meal`
+- `moresnifferflowers:pants_on_fire`
+- `moresnifferflowers:hardened_mouth`
+- `moresnifferflowers:sticky`
+- `moresnifferflowers:gluing_touch`
+- `moresnifferflowers:glued`
+- `moresnifferflowers:bland`
+- `moresnifferflowers:well_balanced`
+- `majospellenchantment:phase_dashed`
+- `majospellenchantment:sunday_fever`
+- `apothic_attributes:bleeding`
+- `apothic_attributes:detonation`
+- `apothic_attributes:grievous`
+- `apothic_attributes:knowledge`
+- `apothic_attributes:sundering`
+- `apothic_attributes:vitality`
+- `apothic_attributes:flying`
+- `farmersdelight:nourishment`
+- `farmersdelight:comfort`
+- `mynethersdelight:g_pungent`
+- `mynethersdelight:b_pungent`
+- `endersdelight:phasing`
+- `deeperdarker:sculk_affinity`
+- `infinity:iridescence`
+- `infinity:iridescent_setup`
+- `infinity:iridescent_cooldown`
+- `infinity:afterglow`
+- `luminous_beasts:universal_poison`
+- `luminous_beasts:infection`
+- `luminous_beasts:warped_infection`
+- `luminous_beasts:antidote`
+- `artifacts:magnetism`
+- `netherdepthsupgrade:lava_vision`
+- `friendsandfoes:reach`
+- `irons_spellbooks:angel_wings`
+- `irons_spellbooks:evasion`
+- `irons_spellbooks:heartstop`
+- `irons_spellbooks:abyssal_shroud`
+- `irons_spellbooks:ascension`
+- `irons_spellbooks:charged`
+- `irons_spellbooks:true_invisibility`
+- `irons_spellbooks:fortify`
+- `irons_spellbooks:rend`
+- `irons_spellbooks:spider_aspect`
+- `irons_spellbooks:blight`
+- `irons_spellbooks:guided`
+- `irons_spellbooks:airborne`
+- `irons_spellbooks:vigor`
+- `irons_spellbooks:instant_mana`
+- `irons_spellbooks:oakskin`
+- `irons_spellbooks:planar_sight`
+- `irons_spellbooks:antigravity`
+- `irons_spellbooks:hastened`
+- `irons_spellbooks:slowed`
+- `irons_spellbooks:chilled`
+- `irons_spellbooks:burning_dash`
+- `irons_spellbooks:volt_strike`
+- `irons_spellbooks:gluttony`
+- `irons_spellbooks:echoing_strikes`
+- `irons_spellbooks:thunderstorm`
+- `irons_spellbooks:frostbite`
+- `irons_spellbooks:immolate`
+- `irons_spellbooks:vex_timer`
+- `irons_spellbooks:polar_bear_timer`
+- `irons_spellbooks:summon_swords_timer`
+- `irons_spellbooks:raise_dead_timer`
+- `irons_spellbooks:summon_horse_timer`
+- `alshanex_familiars:bird_buff`
+- `alshanex_familiars:sleepy`
+- `kubejs:crippling_poison_indicator`
+- `kubejs:numbing_poison_indicator`
+- `kubejs:atrophic_poison_indicator`
+- `kubejs:leeching_poison`
+- `kubejs:amplifying_poison_indicator`
+- `kubejs:deadly_poison_indicator`
+- `kubejs:crippling_poison`
+- `kubejs:numbing_poison`
+- `kubejs:atrophic_poison`
+- `kubejs:amplifying_poison`
+- `kubejs:deadly_poison`
+- `kubejs:speed_of_blood`
+- `kubejs:bleeding`
+- `kubejs:one_by_one`
+
+# Attributes
+
+- `minecraft:generic.armor`
+- `minecraft:generic.armor_toughness`
+- `minecraft:generic.attack_damage`
+- `minecraft:generic.attack_knockback`
+- `minecraft:generic.attack_speed`
+- `minecraft:player.block_break_speed`
+- `minecraft:player.block_interaction_range`
+- `minecraft:generic.burning_time`
+- `minecraft:generic.explosion_knockback_resistance`
+- `minecraft:player.entity_interaction_range`
+- `minecraft:generic.fall_damage_multiplier`
+- `minecraft:generic.flying_speed`
+- `minecraft:generic.follow_range`
+- `minecraft:generic.gravity`
+- `minecraft:generic.jump_strength`
+- `minecraft:generic.knockback_resistance`
+- `minecraft:generic.luck`
+- `minecraft:generic.max_absorption`
+- `minecraft:generic.max_health`
+- `minecraft:player.mining_efficiency`
+- `minecraft:generic.movement_efficiency`
+- `minecraft:generic.movement_speed`
+- `minecraft:generic.oxygen_bonus`
+- `minecraft:generic.safe_fall_distance`
+- `minecraft:generic.scale`
+- `minecraft:player.sneaking_speed`
+- `minecraft:zombie.spawn_reinforcements`
+- `minecraft:generic.step_height`
+- `minecraft:player.submerged_mining_speed`
+- `minecraft:player.sweeping_damage_ratio`
+- `minecraft:generic.water_movement_efficiency`
+- `neoforge:swim_speed`
+- `neoforge:nametag_distance`
+- `neoforge:creative_flight`
+- `additional_attributes:fishing_lure`
+- `additional_attributes:fishing_luck`
+- `additional_attributes:looting`
+- `additional_attributes:respiration`
+- `additional_attributes:harvest`
+- `additional_attributes:keep_scroll`
+- `additional_attributes:spell_general`
+- `caelus:fall_flying`
+- `familiarslib:sound_magic_resist`
+- `familiarslib:sound_spell_power`
+- `apothic_attributes:armor_pierce`
+- `apothic_attributes:armor_shred`
+- `apothic_attributes:arrow_damage`
+- `apothic_attributes:arrow_velocity`
+- `apothic_attributes:cold_damage`
+- `apothic_attributes:crit_chance`
+- `apothic_attributes:crit_damage`
+- `apothic_attributes:current_hp_damage`
+- `apothic_attributes:dodge_chance`
+- `apothic_attributes:draw_speed`
+- `apothic_attributes:experience_gained`
+- `apothic_attributes:fire_damage`
+- `apothic_attributes:ghost_health`
+- `apothic_attributes:healing_received`
+- `apothic_attributes:life_steal`
+- `apothic_attributes:mining_speed`
+- `apothic_attributes:overheal`
+- `apothic_attributes:projectile_damage`
+- `apothic_attributes:prot_pierce`
+- `apothic_attributes:prot_shred`
+- `apothic_attributes:elytra_flight`
+- `puffish_attributes:stamina`
+- `puffish_attributes:magic_damage`
+- `puffish_attributes:melee_damage`
+- `puffish_attributes:ranged_damage`
+- `puffish_attributes:tamed_damage`
+- `puffish_attributes:fortune`
+- `puffish_attributes:healing`
+- `puffish_attributes:jump`
+- `puffish_attributes:resistance`
+- `puffish_attributes:magic_resistance`
+- `puffish_attributes:melee_resistance`
+- `puffish_attributes:ranged_resistance`
+- `puffish_attributes:tamed_resistance`
+- `puffish_attributes:mining_speed`
+- `puffish_attributes:pickaxe_speed`
+- `puffish_attributes:axe_speed`
+- `puffish_attributes:shovel_speed`
+- `puffish_attributes:sprinting_speed`
+- `puffish_attributes:knockback`
+- `puffish_attributes:repair_cost`
+- `puffish_attributes:armor_shred`
+- `puffish_attributes:toughness_shred`
+- `puffish_attributes:protection_shred`
+- `puffish_attributes:resistance_shred`
+- `puffish_attributes:magic_resistance_shred`
+- `puffish_attributes:melee_resistance_shred`
+- `puffish_attributes:ranged_resistance_shred`
+- `puffish_attributes:natural_regeneration`
+- `puffish_attributes:stealth`
+- `puffish_attributes:life_steal`
+- `puffish_attributes:fall_reduction`
+- `puffish_attributes:bow_projectile_speed`
+- `puffish_attributes:crossbow_projectile_speed`
+- `puffish_attributes:experience`
+- `artifacts:player.entity_experience`
+- `artifacts:player.villager_reputation`
+- `artifacts:generic.attack_burning_duration`
+- `artifacts:generic.drinking_speed`
+- `artifacts:generic.eating_speed`
+- `artifacts:generic.flatulence`
+- `artifacts:generic.invincibility_ticks`
+- `artifacts:generic.mount_speed`
+- `artifacts:generic.movement_speed_on_snow`
+- `artifacts:generic.slip_resistance`
+- `artifacts:generic.sprinting_speed`
+- `artifacts:generic.sprinting_step_height`
+- `irons_spellbooks:max_mana`
+- `irons_spellbooks:mana_regen`
+- `irons_spellbooks:cooldown_reduction`
+- `irons_spellbooks:spell_power`
+- `irons_spellbooks:spell_resist`
+- `irons_spellbooks:cast_time_reduction`
+- `irons_spellbooks:summon_damage`
+- `irons_spellbooks:casting_movespeed`
+- `irons_spellbooks:fire_magic_resist`
+- `irons_spellbooks:ice_magic_resist`
+- `irons_spellbooks:lightning_magic_resist`
+- `irons_spellbooks:holy_magic_resist`
+- `irons_spellbooks:ender_magic_resist`
+- `irons_spellbooks:blood_magic_resist`
+- `irons_spellbooks:evocation_magic_resist`
+- `irons_spellbooks:nature_magic_resist`
+- `irons_spellbooks:eldritch_magic_resist`
+- `irons_spellbooks:fire_spell_power`
+- `irons_spellbooks:ice_spell_power`
+- `irons_spellbooks:lightning_spell_power`
+- `irons_spellbooks:holy_spell_power`
+- `irons_spellbooks:ender_spell_power`
+- `irons_spellbooks:blood_spell_power`
+- `irons_spellbooks:evocation_spell_power`
+- `irons_spellbooks:nature_spell_power`
+- `irons_spellbooks:eldritch_spell_power`
+- `additional_attributes:school/irons_spellbooks/ender`
+- `additional_attributes:innate_school/irons_spellbooks/ender`
+- `additional_attributes:school/irons_spellbooks/lightning`
+- `additional_attributes:innate_school/irons_spellbooks/lightning`
+- `additional_attributes:school/irons_spellbooks/blood`
+- `additional_attributes:innate_school/irons_spellbooks/blood`
+- `additional_attributes:school/irons_spellbooks/holy`
+- `additional_attributes:innate_school/irons_spellbooks/holy`
+- `additional_attributes:school/irons_spellbooks/eldritch`
+- `additional_attributes:innate_school/irons_spellbooks/eldritch`
+- `additional_attributes:school/familiarslib/sound`
+- `additional_attributes:innate_school/familiarslib/sound`
+- `additional_attributes:school/irons_spellbooks/ice`
+- `additional_attributes:innate_school/irons_spellbooks/ice`
+- `additional_attributes:school/irons_spellbooks/fire`
+- `additional_attributes:innate_school/irons_spellbooks/fire`
+- `additional_attributes:school/irons_spellbooks/nature`
+- `additional_attributes:innate_school/irons_spellbooks/nature`
+- `additional_attributes:school/irons_spellbooks/evocation`
+- `additional_attributes:innate_school/irons_spellbooks/evocation`
+- `additional_attributes:spell/irons_spellbooks/snowball`
+- `additional_attributes:innate_spell/irons_spellbooks/snowball`
+- `additional_attributes:spell/irons_spellbooks/ray_of_frost`
+- `additional_attributes:innate_spell/irons_spellbooks/ray_of_frost`
+- `additional_attributes:spell/irons_spellbooks/firefly_swarm`
+- `additional_attributes:innate_spell/irons_spellbooks/firefly_swarm`
+- `additional_attributes:spell/irons_spellbooks/fireball`
+- `additional_attributes:innate_spell/irons_spellbooks/fireball`
+- `additional_attributes:spell/irons_spellbooks/oakskin`
+- `additional_attributes:innate_spell/irons_spellbooks/oakskin`
+- `additional_attributes:spell/irons_spellbooks/firebolt`
+- `additional_attributes:innate_spell/irons_spellbooks/firebolt`
+- `additional_attributes:spell/irons_spellbooks/spectral_hammer`
+- `additional_attributes:innate_spell/irons_spellbooks/spectral_hammer`
+- `additional_attributes:spell/irons_spellbooks/blood_slash`
+- `additional_attributes:innate_spell/irons_spellbooks/blood_slash`
+- `additional_attributes:spell/irons_spellbooks/fang_ward`
+- `additional_attributes:innate_spell/irons_spellbooks/fang_ward`
+- `additional_attributes:spell/irons_spellbooks/magma_bomb`
+- `additional_attributes:innate_spell/irons_spellbooks/magma_bomb`
+- `additional_attributes:spell/irons_spellbooks/fire_breath`
+- `additional_attributes:innate_spell/irons_spellbooks/fire_breath`
+- `additional_attributes:spell/irons_spellbooks/slow`
+- `additional_attributes:innate_spell/irons_spellbooks/slow`
+- `additional_attributes:spell/alshanex_familiars/lullaby`
+- `additional_attributes:innate_spell/alshanex_familiars/lullaby`
+- `additional_attributes:spell/irons_spellbooks/frost_step`
+- `additional_attributes:innate_spell/irons_spellbooks/frost_step`
+- `additional_attributes:spell/irons_spellbooks/electrocute`
+- `additional_attributes:innate_spell/irons_spellbooks/electrocute`
+- `additional_attributes:spell/irons_spellbooks/angel_wing`
+- `additional_attributes:innate_spell/irons_spellbooks/angel_wing`
+- `additional_attributes:spell/irons_spellbooks/guiding_bolt`
+- `additional_attributes:innate_spell/irons_spellbooks/guiding_bolt`
+- `additional_attributes:spell/irons_spellbooks/root`
+- `additional_attributes:innate_spell/irons_spellbooks/root`
+- `additional_attributes:spell/irons_spellbooks/poison_breath`
+- `additional_attributes:innate_spell/irons_spellbooks/poison_breath`
+- `additional_attributes:spell/irons_spellbooks/earthquake`
+- `additional_attributes:innate_spell/irons_spellbooks/earthquake`
+- `additional_attributes:spell/irons_spellbooks/teleport`
+- `additional_attributes:innate_spell/irons_spellbooks/teleport`
+- `additional_attributes:spell/irons_spellbooks/summon_ender_chest`
+- `additional_attributes:innate_spell/irons_spellbooks/summon_ender_chest`
+- `additional_attributes:spell/irons_spellbooks/cone_of_cold`
+- `additional_attributes:innate_spell/irons_spellbooks/cone_of_cold`
+- `additional_attributes:spell/irons_spellbooks/planar_sight`
+- `additional_attributes:innate_spell/irons_spellbooks/planar_sight`
+- `additional_attributes:spell/irons_spellbooks/blight`
+- `additional_attributes:innate_spell/irons_spellbooks/blight`
+- `additional_attributes:spell/irons_spellbooks/lob_creeper`
+- `additional_attributes:innate_spell/irons_spellbooks/lob_creeper`
+- `additional_attributes:spell/irons_spellbooks/summon_swords`
+- `additional_attributes:innate_spell/irons_spellbooks/summon_swords`
+- `additional_attributes:spell/irons_spellbooks/summon_polar_bear`
+- `additional_attributes:innate_spell/irons_spellbooks/summon_polar_bear`
+- `additional_attributes:spell/irons_spellbooks/raise_hell`
+- `additional_attributes:innate_spell/irons_spellbooks/raise_hell`
+- `additional_attributes:spell/irons_spellbooks/counterspell`
+- `additional_attributes:innate_spell/irons_spellbooks/counterspell`
+- `additional_attributes:spell/alshanex_familiars/music_bolt`
+- `additional_attributes:innate_spell/alshanex_familiars/music_bolt`
+- `additional_attributes:spell/irons_spellbooks/eldritch_blast`
+- `additional_attributes:innate_spell/irons_spellbooks/eldritch_blast`
+- `additional_attributes:spell/irons_spellbooks/lightning_lance`
+- `additional_attributes:innate_spell/irons_spellbooks/lightning_lance`
+- `additional_attributes:spell/alshanex_familiars/sonata`
+- `additional_attributes:innate_spell/alshanex_familiars/sonata`
+- `additional_attributes:spell/irons_spellbooks/gluttony`
+- `additional_attributes:innate_spell/irons_spellbooks/gluttony`
+- `additional_attributes:spell/alshanex_familiars/guardian_angel`
+- `additional_attributes:innate_spell/alshanex_familiars/guardian_angel`
+- `additional_attributes:spell/irons_spellbooks/heal`
+- `additional_attributes:innate_spell/irons_spellbooks/heal`
+- `additional_attributes:spell/irons_spellbooks/sculk_tentacles`
+- `additional_attributes:innate_spell/irons_spellbooks/sculk_tentacles`
+- `additional_attributes:spell/irons_spellbooks/magic_missile`
+- `additional_attributes:innate_spell/irons_spellbooks/magic_missile`
+- `additional_attributes:spell/irons_spellbooks/chain_lightning`
+- `additional_attributes:innate_spell/irons_spellbooks/chain_lightning`
+- `additional_attributes:spell/irons_spellbooks/recall`
+- `additional_attributes:innate_spell/irons_spellbooks/recall`
+- `additional_attributes:spell/irons_spellbooks/poison_splash`
+- `additional_attributes:innate_spell/irons_spellbooks/poison_splash`
+- `additional_attributes:spell/alshanex_familiars/birds_spell`
+- `additional_attributes:innate_spell/alshanex_familiars/birds_spell`
+- `additional_attributes:spell/irons_spellbooks/heartstop`
+- `additional_attributes:innate_spell/irons_spellbooks/heartstop`
+- `additional_attributes:spell/irons_spellbooks/cleanse`
+- `additional_attributes:innate_spell/irons_spellbooks/cleanse`
+- `additional_attributes:spell/irons_spellbooks/ball_lightning`
+- `additional_attributes:innate_spell/irons_spellbooks/ball_lightning`
+- `additional_attributes:spell/irons_spellbooks/haste`
+- `additional_attributes:innate_spell/irons_spellbooks/haste`
+- `additional_attributes:spell/irons_spellbooks/dragon_breath`
+- `additional_attributes:innate_spell/irons_spellbooks/dragon_breath`
+- `additional_attributes:spell/irons_spellbooks/ice_block`
+- `additional_attributes:innate_spell/irons_spellbooks/ice_block`
+- `additional_attributes:spell/irons_spellbooks/devour`
+- `additional_attributes:innate_spell/irons_spellbooks/devour`
+- `additional_attributes:spell/irons_spellbooks/divine_smite`
+- `additional_attributes:innate_spell/irons_spellbooks/divine_smite`
+- `additional_attributes:spell/irons_spellbooks/arrow_volley`
+- `additional_attributes:innate_spell/irons_spellbooks/arrow_volley`
+- `additional_attributes:spell/irons_spellbooks/frostwave`
+- `additional_attributes:innate_spell/irons_spellbooks/frostwave`
+- `additional_attributes:spell/irons_spellbooks/volt_strike`
+- `additional_attributes:innate_spell/irons_spellbooks/volt_strike`
+- `additional_attributes:spell/irons_spellbooks/ascension`
+- `additional_attributes:innate_spell/irons_spellbooks/ascension`
+- `additional_attributes:spell/irons_spellbooks/ice_tomb`
+- `additional_attributes:innate_spell/irons_spellbooks/ice_tomb`
+- `additional_attributes:spell/irons_spellbooks/summon_horse`
+- `additional_attributes:innate_spell/irons_spellbooks/summon_horse`
+- `additional_attributes:spell/irons_spellbooks/ray_of_siphoning`
+- `additional_attributes:innate_spell/irons_spellbooks/ray_of_siphoning`
+- `additional_attributes:spell/irons_spellbooks/magic_arrow`
+- `additional_attributes:innate_spell/irons_spellbooks/magic_arrow`
+- `additional_attributes:spell/irons_spellbooks/thunderstorm`
+- `additional_attributes:innate_spell/irons_spellbooks/thunderstorm`
+- `additional_attributes:spell/irons_spellbooks/shockwave`
+- `additional_attributes:innate_spell/irons_spellbooks/shockwave`
+- `additional_attributes:spell/irons_spellbooks/flaming_strike`
+- `additional_attributes:innate_spell/irons_spellbooks/flaming_strike`
+- `additional_attributes:spell/irons_spellbooks/charge`
+- `additional_attributes:innate_spell/irons_spellbooks/charge`
+- `additional_attributes:spell/alshanex_familiars/summon_shadows`
+- `additional_attributes:innate_spell/alshanex_familiars/summon_shadows`
+- `additional_attributes:spell/irons_spellbooks/blaze_storm`
+- `additional_attributes:innate_spell/irons_spellbooks/blaze_storm`
+- `additional_attributes:spell/irons_spellbooks/echoing_strikes`
+- `additional_attributes:innate_spell/irons_spellbooks/echoing_strikes`
+- `additional_attributes:spell/irons_spellbooks/wisp`
+- `additional_attributes:innate_spell/irons_spellbooks/wisp`
+- `additional_attributes:spell/irons_spellbooks/frostbite`
+- `additional_attributes:innate_spell/irons_spellbooks/frostbite`
+- `additional_attributes:spell/irons_spellbooks/evasion`
+- `additional_attributes:innate_spell/irons_spellbooks/evasion`
+- `additional_attributes:spell/irons_spellbooks/portal`
+- `additional_attributes:innate_spell/irons_spellbooks/portal`
+- `additional_attributes:spell/irons_spellbooks/wither_skull`
+- `additional_attributes:innate_spell/irons_spellbooks/wither_skull`
+- `additional_attributes:spell/irons_spellbooks/cloud_of_regeneration`
+- `additional_attributes:innate_spell/irons_spellbooks/cloud_of_regeneration`
+- `additional_attributes:spell/irons_spellbooks/firecracker`
+- `additional_attributes:innate_spell/irons_spellbooks/firecracker`
+- `additional_attributes:spell/irons_spellbooks/burning_dash`
+- `additional_attributes:innate_spell/irons_spellbooks/burning_dash`
+- `additional_attributes:spell/irons_spellbooks/telekinesis`
+- `additional_attributes:innate_spell/irons_spellbooks/telekinesis`
+- `additional_attributes:spell/irons_spellbooks/lightning_bolt`
+- `additional_attributes:innate_spell/irons_spellbooks/lightning_bolt`
+- `additional_attributes:spell/irons_spellbooks/summon_vex`
+- `additional_attributes:innate_spell/irons_spellbooks/summon_vex`
+- `additional_attributes:spell/irons_spellbooks/greater_heal`
+- `additional_attributes:innate_spell/irons_spellbooks/greater_heal`
+- `additional_attributes:spell/irons_spellbooks/icicle`
+- `additional_attributes:innate_spell/irons_spellbooks/icicle`
+- `additional_attributes:spell/irons_spellbooks/flaming_barrage`
+- `additional_attributes:innate_spell/irons_spellbooks/flaming_barrage`
+- `additional_attributes:spell/alshanex_familiars/explosion_melody`
+- `additional_attributes:innate_spell/alshanex_familiars/explosion_melody`
+- `additional_attributes:spell/irons_spellbooks/acid_orb`
+- `additional_attributes:innate_spell/irons_spellbooks/acid_orb`
+- `additional_attributes:spell/irons_spellbooks/shield`
+- `additional_attributes:innate_spell/irons_spellbooks/shield`
+- `additional_attributes:spell/irons_spellbooks/starfall`
+- `additional_attributes:innate_spell/irons_spellbooks/starfall`
+- `additional_attributes:spell/irons_spellbooks/raise_dead`
+- `additional_attributes:innate_spell/irons_spellbooks/raise_dead`
+- `additional_attributes:spell/irons_spellbooks/sunbeam`
+- `additional_attributes:innate_spell/irons_spellbooks/sunbeam`
+- `additional_attributes:spell/irons_spellbooks/wall_of_fire`
+- `additional_attributes:innate_spell/irons_spellbooks/wall_of_fire`
+- `additional_attributes:spell/irons_spellbooks/blessing_of_life`
+- `additional_attributes:innate_spell/irons_spellbooks/blessing_of_life`
+- `additional_attributes:spell/irons_spellbooks/stomp`
+- `additional_attributes:innate_spell/irons_spellbooks/stomp`
+- `additional_attributes:spell/irons_spellbooks/fire_arrow`
+- `additional_attributes:innate_spell/irons_spellbooks/fire_arrow`
+- `additional_attributes:spell/irons_spellbooks/gust`
+- `additional_attributes:innate_spell/irons_spellbooks/gust`
+- `additional_attributes:spell/alshanex_familiars/harp_symphony`
+- `additional_attributes:innate_spell/alshanex_familiars/harp_symphony`
+- `additional_attributes:spell/irons_spellbooks/ice_spikes`
+- `additional_attributes:innate_spell/irons_spellbooks/ice_spikes`
+- `additional_attributes:spell/irons_spellbooks/spider_aspect`
+- `additional_attributes:innate_spell/irons_spellbooks/spider_aspect`
+- `additional_attributes:spell/irons_spellbooks/poison_arrow`
+- `additional_attributes:innate_spell/irons_spellbooks/poison_arrow`
+- `additional_attributes:spell/irons_spellbooks/healing_circle`
+- `additional_attributes:innate_spell/irons_spellbooks/healing_circle`
+- `additional_attributes:spell/irons_spellbooks/sacrifice`
+- `additional_attributes:innate_spell/irons_spellbooks/sacrifice`
+- `additional_attributes:spell/irons_spellbooks/touch_dig`
+- `additional_attributes:innate_spell/irons_spellbooks/touch_dig`
+- `additional_attributes:spell/irons_spellbooks/fortify`
+- `additional_attributes:innate_spell/irons_spellbooks/fortify`
+- `additional_attributes:spell/alshanex_familiars/default_note`
+- `additional_attributes:innate_spell/alshanex_familiars/default_note`
+- `additional_attributes:spell/irons_spellbooks/wololo`
+- `additional_attributes:innate_spell/irons_spellbooks/wololo`
+- `additional_attributes:spell/irons_spellbooks/sonic_boom`
+- `additional_attributes:innate_spell/irons_spellbooks/sonic_boom`
+- `additional_attributes:spell/irons_spellbooks/fang_strike`
+- `additional_attributes:innate_spell/irons_spellbooks/fang_strike`
+- `additional_attributes:spell/irons_spellbooks/abyssal_shroud`
+- `additional_attributes:innate_spell/irons_spellbooks/abyssal_shroud`
+- `additional_attributes:spell/irons_spellbooks/pocket_dimension`
+- `additional_attributes:innate_spell/irons_spellbooks/pocket_dimension`
+- `additional_attributes:spell/irons_spellbooks/heat_surge`
+- `additional_attributes:innate_spell/irons_spellbooks/heat_surge`
+- `additional_attributes:spell/irons_spellbooks/invisibility`
+- `additional_attributes:innate_spell/irons_spellbooks/invisibility`
+- `additional_attributes:spell/irons_spellbooks/chain_creeper`
+- `additional_attributes:innate_spell/irons_spellbooks/chain_creeper`
+- `additional_attributes:spell/irons_spellbooks/scorch`
+- `additional_attributes:innate_spell/irons_spellbooks/scorch`
+- `additional_attributes:spell/irons_spellbooks/acupuncture`
+- `additional_attributes:innate_spell/irons_spellbooks/acupuncture`
+- `additional_attributes:spell/irons_spellbooks/blood_step`
+- `additional_attributes:innate_spell/irons_spellbooks/blood_step`
+- `additional_attributes:spell/irons_spellbooks/blood_needles`
+- `additional_attributes:innate_spell/irons_spellbooks/blood_needles`
+- `additional_attributes:spell/irons_spellbooks/black_hole`
+- `additional_attributes:innate_spell/irons_spellbooks/black_hole`
+
+# Enchantments
+
+- `minecraft:aqua_affinity`
+- `farmersdelight:backstabbing`
+- `minecraft:bane_of_arthropods`
+- `enchantencore:bane_of_bosses`
+- `enchantencore:bane_of_netherborn`
+- `enchantencore:bane_of_raiders`
+- `enchantencore:bedrocker`
+- `minecraft:binding_curse`
+- `minecraft:blast_protection`
+- `enchantencore:blindness_splash`
+- `majospellenchantment:blood_mana_enchant`
+- `rubinated_nether:bluntness_curse`
+- `enchantencore:boltbringer`
+- `enchantencore:bomber`
+- `minecraft:breach`
+- `enchantencore:breeze_curse`
+- `enchantencore:bulletproof`
+- `enchantencore:bunny_hop`
+- `deeperdarker:catalysis`
+- `majospellenchantment:cd_reduction_enchant`
+- `minecraft:channeling`
+- `enchantencore:cherry_leaves_arrow_trail`
+- `enchantencore:cherry_leaves_trail`
+- `enchantencore:cleansing`
+- `vein_vantage:clearing_strike`
+- `enchantencore:cosy_smoke_arrow_trail`
+- `enchantencore:cosy_smoke_trail`
+- `enchantencore:crab_claw`
+- `enchantencore:crank_curse`
+- `enchantencore:creeper_alloy`
+- `enchantencore:crispbread`
+- `rubinated_nether:crooked_shot_curse`
+- `enchantencore:crop_dance`
+- `enchantencore:darkness_alloy`
+- `enchantencore:day_protection`
+- `majospellenchantment:daylight_anthem_enchant`
+- `enchantencore:death_curse`
+- `rubinated_nether:deficiency_curse`
+- `minecraft:density`
+- `minecraft:depth_strider`
+- `enchantencore:dolphin_arrow_trail`
+- `enchantencore:dolphin_trail`
+- `majospellenchantment:dominion_helm_enchant`
+- `enchantencore:dripping_honey_arrow_trail`
+- `enchantencore:dripping_honey_trail`
+- `enchantencore:dripping_lava_arrow_trail`
+- `enchantencore:dripping_lava_trail`
+- `enchantencore:dripping_obsidian_tear_arrow_trail`
+- `enchantencore:dripping_obsidian_tear_trail`
+- `enchantencore:dripping_water_arrow_trail`
+- `enchantencore:dripping_water_trail`
+- `rubinated_nether:dullness_curse`
+- `minecraft:efficiency`
+- `enchantencore:electric_walker`
+- `enchantencore:enchant_arrow_trail`
+- `enchantencore:enchant_trail`
+- `enchantencore:end_protection`
+- `enchantencore:end_rod_arrow_trail`
+- `enchantencore:end_rod_trail`
+- `enchantencore:end_speed`
+- `enchantencore:ender_shot`
+- `enchantencore:enderscape`
+- `enchantencore:evokers_wrath`
+- `majospellenchantment:excitatio_arcana_enchant`
+- `rubinated_nether:exposure_curse`
+- `minecraft:feather_falling`
+- `enchantencore:fire_alloy`
+- `minecraft:fire_aspect`
+- `minecraft:fire_protection`
+- `simplemusket:firepower`
+- `enchantencore:firework_arrow_trail`
+- `enchantencore:firework_trail`
+- `minecraft:flame`
+- `enchantencore:flame_arrow_trail`
+- `enchantencore:flame_trail`
+- `enchantencore:flare`
+- `enchantencore:forge_shot`
+- `minecraft:fortune`
+- `enchantencore:fragility_curse`
+- `rubinated_nether:fragility_curse`
+- `minecraft:frost_walker`
+- `majospellenchantment:gentle_graveyard_keeper_enchant`
+- `enchantencore:glass_breaker`
+- `enchantencore:glowing_splash`
+- `enchantencore:gluttony`
+- `enchantencore:grass_walker`
+- `enchantencore:growth`
+- `enchantencore:handyman`
+- `enchantencore:happy_villager_arrow_trail`
+- `enchantencore:happy_villager_trail`
+- `enchantencore:hardened`
+- `enchantencore:haste`
+- `enchantencore:heart_arrow_trail`
+- `enchantencore:heart_trail`
+- `netherdepthsupgrade:hell_strider`
+- `enchantencore:hiding_curse`
+- `rubinated_nether:hooking_curse`
+- `majospellenchantment:hopeless_power_enchant`
+- `enchantencore:hunger_aspect`
+- `enchantencore:hunger_splash`
+- `enchantencore:ice_alloy`
+- `majospellenchantment:ice_fire_song_enchant`
+- `enchantencore:illumination`
+- `minecraft:impaling`
+- `enchantencore:infested_aspect`
+- `minecraft:infinity`
+- `enchantencore:invisibility_cloak`
+- `enchantencore:invisibility_splash`
+- `minecraft:knockback`
+- `enchantencore:leech`
+- `rubinated_nether:leeching_curse`
+- `enchantencore:levitation_aspect`
+- `enchantencore:levitation_splash`
+- `enchantencore:lightning_bolt`
+- `simplemusket:longshot`
+- `minecraft:looting`
+- `minecraft:loyalty`
+- `minecraft:luck_of_the_sea`
+- `mounts_of_mayhem:lunge`
+- `minecraft:lure`
+- `enchantencore:magma_walker`
+- `majospellenchantment:mana_mending_enchant`
+- `majospellenchantment:mana_reaper_enchant`
+- `usefulspyglass:marking`
+- `majospellenchantment:max_mana_enchant`
+- `minecraft:mending`
+- `enchantencore:midas_touch`
+- `rubinated_nether:misfortune_curse`
+- `enchantencore:moonwalk`
+- `minecraft:multishot`
+- `majospellenchantment:necrovolt_enchant`
+- `majospellenchantment:nether_heart_enchant`
+- `enchantencore:nether_protection`
+- `enchantencore:night_protection`
+- `enchantencore:night_vision`
+- `majospellenchantment:nocturne_aria_enchant`
+- `enchantencore:note_arrow_trail`
+- `enchantencore:note_trail`
+- `majospellenchantment:ocean_grace_enchant`
+- `enchantencore:ominous_healing`
+- `enchantencore:ominous_rain`
+- `enchantencore:ominous_spawning_arrow_trail`
+- `enchantencore:ominous_spawning_trail`
+- `enchantencore:oozing_aspect`
+- `vein_vantage:ore_blessing`
+- `enchantencore:pacifier`
+- `majospellenchantment:party_leader_enchant`
+- `enchantencore:pegasus`
+- `enchantencore:phantom_menace`
+- `majospellenchantment:phase_dashed_enchant`
+- `enchantencore:pickpocket`
+- `minecraft:piercing`
+- `mynethersdelight:poaching`
+- `enchantencore:poison_aspect`
+- `enchantencore:poison_splash`
+- `enchantencore:poppy_peace`
+- `enchantencore:portal_arrow_trail`
+- `enchantencore:portal_trail`
+- `minecraft:power`
+- `majospellenchantment:power_is_power_enchant`
+- `usefulspyglass:precision`
+- `minecraft:projectile_protection`
+- `minecraft:protection`
+- `enchantencore:pufferfish`
+- `minecraft:punch`
+- `minecraft:quick_charge`
+- `enchantencore:rabbit_foot`
+- `enchantencore:raid_omen_arrow_trail`
+- `enchantencore:raid_omen_trail`
+- `enchantencore:randomness_curse`
+- `rubinated_nether:ravaging_curse`
+- `enchantencore:reach_curse`
+- `majospellenchantment:red_lotus_enchant`
+- `enchantencore:red_moon`
+- `enchantencore:regeneration_splash`
+- `enchantencore:rejuvenation`
+- `simplemusket:repeating`
+- `enchantencore:replenish`
+- `minecraft:respiration`
+- `minecraft:riptide`
+- `enchantencore:sacrifice`
+- `enchantencore:safe_landing`
+- `enchantencore:sand_speed`
+- `enchantencore:saturation_splash`
+- `enchantencore:scholar_of_blocks`
+- `enchantencore:scholar_of_mobs`
+- `enchantencore:scrape_arrow_trail`
+- `enchantencore:scrape_trail`
+- `deeperdarker:sculk_smite`
+- `enchantencore:sculk_soul_arrow_trail`
+- `enchantencore:sculk_soul_trail`
+- `enchantencore:sea_breeze`
+- `enchantencore:seeker`
+- `minecraft:sharpness`
+- `enchantencore:shrinkage`
+- `enchantencore:shulker_shell`
+- `minecraft:silk_touch`
+- `rubinated_nether:slow_charge_curse`
+- `enchantencore:slowness_aspect`
+- `enchantencore:slowness_splash`
+- `minecraft:smite`
+- `enchantencore:snowflake_arrow_trail`
+- `enchantencore:snowflake_trail`
+- `enchantencore:sonic`
+- `enchantencore:soul_fire_flame_arrow_trail`
+- `enchantencore:soul_fire_flame_trail`
+- `minecraft:soul_speed`
+- `yigd:soulbound`
+- `majospellenchantment:spell_streak_enchant`
+- `usefulspyglass:spotter`
+- `supplementaries:stasis`
+- `enchantencore:sting`
+- `enchantencore:summer_walker`
+- `minecraft:sweeping_edge`
+- `enchantencore:swift_slash`
+- `minecraft:swift_sneak`
+- `enchantencore:switch`
+- `minecraft:thorns`
+- `enchantencore:totem_arrow_trail`
+- `enchantencore:totem_trail`
+- `enchantencore:trial_omen_arrow_trail`
+- `enchantencore:trial_omen_trail`
+- `minecraft:unbreaking`
+- `minecraft:vanishing_curse`
+- `vein_vantage:vein_sweep`
+- `majospellenchantment:vlad_tepes_enchant`
+- `enchantencore:wax_off_arrow_trail`
+- `enchantencore:wax_off_trail`
+- `enchantencore:wax_on_arrow_trail`
+- `enchantencore:wax_on_trail`
+- `enchantencore:weakness_aspect`
+- `enchantencore:weakness_splash`
+- `enchantencore:weaving_aspect`
+- `enchantencore:welfare_curse`
+- `enchantencore:wind_aspect`
+- `minecraft:wind_burst`
+- `enchantencore:witch_arrow_trail`
+- `enchantencore:witch_trail`
+- `enchantencore:wither_aspect`
+- `enchantencore:wither_splash`
+
+# Biomes
+
+- `infinity:ant`
+- `biomesoplenty:aspen_glade`
+- `biomesoplenty:auroral_garden`
+- `minecraft:badlands`
+- `minecraft:bamboo_jungle`
+- `minecraft:basalt_deltas`
+- `biomesoplenty:bayou`
+- `minecraft:beach`
+- `infinity:biome_1890399298`
+- `minecraft:birch_forest`
+- `deeperdarker:blooming_caverns`
+- `biomesoplenty:bog`
+- `infinity:chaos`
+- `minecraft:cherry_grove`
+- `infinity:chess`
+- `infinity:classic`
+- `biomesoplenty:cold_desert`
+- `minecraft:cold_ocean`
+- `infinity:colors`
+- `biomesoplenty:coniferous_forest`
+- `infinity:content`
+- `biomesoplenty:crag`
+- `minecraft:crimson_forest`
+- `nullscape:crystal_peaks`
+- `biomesoplenty:crystalline_chasm`
+- `infinity:custom`
+- `minecraft:dark_forest`
+- `biomesoplenty:dead_forest`
+- `minecraft:deep_cold_ocean`
+- `minecraft:deep_dark`
+- `minecraft:deep_frozen_ocean`
+- `minecraft:deep_lukewarm_ocean`
+- `minecraft:deep_ocean`
+- `deeperdarker:deeplands`
+- `terrablender:deferred_placeholder`
+- `minecraft:desert`
+- `minecraft:dripstone_caves`
+- `biomesoplenty:dryland`
+- `biomesoplenty:dune_beach`
+- `deeperdarker:echoing_forest`
+- `infinity:end`
+- `minecraft:end_barrens`
+- `biomesoplenty:end_corruption`
+- `minecraft:end_highlands`
+- `minecraft:end_midlands`
+- `biomesoplenty:end_reef`
+- `biomesoplenty:end_wilds`
+- `minecraft:eroded_badlands`
+- `biomesoplenty:erupting_inferno`
+- `biomesoplenty:field`
+- `biomesoplenty:fir_clearing`
+- `biomesoplenty:floodplain`
+- `minecraft:flower_forest`
+- `minecraft:forest`
+- `biomesoplenty:forested_field`
+- `minecraft:frozen_ocean`
+- `minecraft:frozen_peaks`
+- `minecraft:frozen_river`
+- `biomesoplenty:fungal_jungle`
+- `biomesoplenty:glowing_grotto`
+- `biomesoplenty:grassland`
+- `biomesoplenty:gravel_beach`
+- `minecraft:grove`
+- `biomesoplenty:highland`
+- `biomesoplenty:hot_springs`
+- `minecraft:ice_spikes`
+- `infinity:isolation`
+- `biomesoplenty:jacaranda_glade`
+- `biomesoplenty:jade_cliffs`
+- `minecraft:jagged_peaks`
+- `minecraft:jungle`
+- `biomesoplenty:lavender_field`
+- `infinity:library`
+- `minecraft:lukewarm_ocean`
+- `minecraft:lush_caves`
+- `biomesoplenty:lush_desert`
+- `biomesoplenty:lush_savanna`
+- `minecraft:mangrove_swamp`
+- `biomesoplenty:maple_woods`
+- `biomesoplenty:marsh`
+- `minecraft:meadow`
+- `biomesoplenty:mediterranean_forest`
+- `infinity:missing`
+- `biomesoplenty:moor`
+- `minecraft:mushroom_fields`
+- `biomesoplenty:muskeg`
+- `biomesoplenty:mystic_grove`
+- `minecraft:nether_wastes`
+- `infinity:nexus`
+- `minecraft:ocean`
+- `minecraft:old_growth_birch_forest`
+- `biomesoplenty:old_growth_dead_forest`
+- `minecraft:old_growth_pine_taiga`
+- `minecraft:old_growth_spruce_taiga`
+- `biomesoplenty:old_growth_woodland`
+- `biomesoplenty:ominous_woods`
+- `biomesoplenty:orchard`
+- `biomesoplenty:origin_valley`
+- `blueprint:original_source_marker`
+- `deeperdarker:overcast_columns`
+- `biomesoplenty:overgrown_greens`
+- `vanillabackport:pale_garden`
+- `biomesoplenty:pasture`
+- `infinity:perfection`
+- `minecraft:plains`
+- `biomesoplenty:prairie`
+- `infinity:pride`
+- `biomesoplenty:pumpkin_patch`
+- `biomesoplenty:rainforest`
+- `infinity:random_forest`
+- `biomesoplenty:redwood_forest`
+- `minecraft:river`
+- `biomesoplenty:rocky_rainforest`
+- `biomesoplenty:rocky_shrubland`
+- `minecraft:savanna`
+- `minecraft:savanna_plateau`
+- `biomesoplenty:scrubland`
+- `biomesoplenty:seasonal_forest`
+- `nullscape:shadowlands`
+- `biomesoplenty:shrubland`
+- `infinity:slime_plains`
+- `minecraft:small_end_islands`
+- `biomesoplenty:snowblossom_grove`
+- `minecraft:snowy_beach`
+- `biomesoplenty:snowy_coniferous_forest`
+- `biomesoplenty:snowy_fir_clearing`
+- `biomesoplenty:snowy_maple_woods`
+- `minecraft:snowy_plains`
+- `minecraft:snowy_slopes`
+- `minecraft:snowy_taiga`
+- `minecraft:soul_sand_valley`
+- `gardens_of_the_dead:soulblight_forest`
+- `minecraft:sparse_jungle`
+- `biomesoplenty:spider_nest`
+- `infinity:sponge`
+- `minecraft:stony_peaks`
+- `minecraft:stony_shore`
+- `minecraft:sunflower_plains`
+- `minecraft:swamp`
+- `minecraft:taiga`
+- `infinity:terminal`
+- `minecraft:the_end`
+- `minecraft:the_void`
+- `biomesoplenty:tropics`
+- `biomesoplenty:tundra`
+- `biomesoplenty:undergrowth`
+- `biomesoplenty:visceral_heap`
+- `nullscape:void_barrens`
+- `biomesoplenty:volcanic_plains`
+- `biomesoplenty:volcano`
+- `minecraft:warm_ocean`
+- `minecraft:warped_forest`
+- `biomesoplenty:wasteland`
+- `biomesoplenty:wasteland_steppe`
+- `biomesoplenty:wetland`
+- `gardens_of_the_dead:whistling_woods`
+- `minecraft:windswept_forest`
+- `minecraft:windswept_gravelly_hills`
+- `minecraft:windswept_hills`
+- `minecraft:windswept_savanna`
+- `biomesoplenty:wintry_origin_valley`
+- `biomesoplenty:withered_abyss`
+- `minecraft:wooded_badlands`
+- `biomesoplenty:woodland`
+
+# Structures
+
+- `totw_modded:abydos`
+- `totw_modded:aether`
+- `totw_modded:alfheim`
+- `irons_spellbooks:ancient_battleground`
+- `minecraft:ancient_city`
+- `philipsruins:ancient_crypt`
+- `philipsruins:ancient_dungeon`
+- `philipsruins:ancient_ruins`
+- `deeperdarker:ancient_temple`
+- `philipsruins:ancient_towers`
+- `totw_modded:apalachia`
+- `totw_modded:arcana`
+- `totw_modded:arcanmira`
+- `totw_modded:astral`
+- `totw_modded:badlands`
+- `minecraft:bastion_remnant`
+- `totw_modded:bumblezone`
+- `minecraft:buried_treasure`
+- `irons_spellbooks:catacombs`
+- `totw_modded:cavum_tenebrae`
+- `friendsandfoes:citadel`
+- `irons_spellbooks:citadel`
+- `infinity:content`
+- `infinity:cosmic_pool`
+- `totw_modded:darwin_iv`
+- `totw_modded:derelict`
+- `totw_modded:derelict_grass`
+- `totw_modded:desert`
+- `minecraft:desert_pyramid`
+- `betterdeserttemples:desert_temple`
+- `moresnifferflowers:dessert_sniffer_temple`
+- `nullscape:dragon_skeleton`
+- `totw_modded:eden`
+- `totw_modded:end`
+- `minecraft:end_city`
+- `endersdelight:end_house`
+- `alshanex_familiars:end_laboratory`
+- `totw_modded:everbright`
+- `totw_modded:everdawn`
+- `irons_spellbooks:evoker_fort`
+- `philipsruins:field_stone_ruins`
+- `philipsruins:field_stone_ruins_rocks`
+- `betterfortresses:fortress`
+- `minecraft:fortress`
+- `totw_modded:gaia`
+- `bosses_of_mass_destruction:gauntlet_arena`
+- `totw_modded:glacio`
+- `alshanex_familiars:graveyard`
+- `alshanex_familiars:hunter_campsite`
+- `totw_modded:icaria`
+- `totw_modded:ice`
+- `irons_spellbooks:ice_spider_den`
+- `totw_modded:iceika`
+- `friendsandfoes:iceologer_cabin`
+- `minecraft:igloo`
+- `friendsandfoes:illusioner_shack`
+- `friendsandfoes:illusioner_training_grounds`
+- `irons_spellbooks:impaled_icebreaker`
+- `infinity:indevhouse`
+- `infinity:isolation`
+- `totw_modded:jungle`
+- `minecraft:jungle_pyramid`
+- `betterjungletemples:jungle_temple`
+- `philipsruins:level_one_ruins`
+- `philipsruins:level_three_ruins`
+- `philipsruins:level_two_ruins`
+- `philipsruins:level_two_ruins_pool`
+- `bosses_of_mass_destruction:lich_tower`
+- `philipsruins:lost_soul_city`
+- `philipsruins:lost_soul_dungeon`
+- `irons_spellbooks:mangrove_hut`
+- `minecraft:mansion`
+- `totw_modded:mars`
+- `totw_modded:mercury`
+- `totw_modded:midnight`
+- `minecraft:mineshaft`
+- `bettermineshafts:mineshaft_acacia`
+- `bettermineshafts:mineshaft_desert`
+- `bettermineshafts:mineshaft_dripstone`
+- `bettermineshafts:mineshaft_ice`
+- `bettermineshafts:mineshaft_jungle`
+- `bettermineshafts:mineshaft_lush`
+- `bettermineshafts:mineshaft_mesa`
+- `minecraft:mineshaft_mesa`
+- `bettermineshafts:mineshaft_mushroom`
+- `bettermineshafts:mineshaft_oak`
+- `bettermineshafts:mineshaft_overgrown`
+- `bettermineshafts:mineshaft_red_desert`
+- `bettermineshafts:mineshaft_spruce`
+- `bettermineshafts:mineshaft_spruce_snowy`
+- `infinity:mineshaft_spruce_snowy_1153340997`
+- `infinity:missing`
+- `minecraft:monument`
+- `totw_modded:moon`
+- `totw_modded:mortum`
+- `irons_spellbooks:mountain_tower`
+- `totw_modded:mythica`
+- `totw_modded:nether`
+- `netherdepthsupgrade:nether_fortress_piece`
+- `minecraft:nether_fossil`
+- `bosses_of_mass_destruction:obsidilith_arena`
+- `totw_modded:ocean`
+- `philipsruins:ocean_fortress`
+- `betteroceanmonuments:ocean_monument`
+- `minecraft:ocean_ruin_cold`
+- `minecraft:ocean_ruin_warm`
+- `philipsruins:ocean_ruins`
+- `totw_modded:ocean_warm`
+- `alshanex_familiars:origin_island`
+- `totw_modded:otherside`
+- `totw_modded:permafrost`
+- `minecraft:pillager_outpost`
+- `philipsruins:pumpkin_ruins`
+- `infinity:pyramid`
+- `irons_spellbooks:pyromancer_tower`
+- `philipsruins:rare_ruin`
+- `totw_modded:ratlantis`
+- `totw_modded:regular`
+- `nullscape:rift`
+- `enchantencore:rise`
+- `minecraft:ruined_portal`
+- `minecraft:ruined_portal_desert`
+- `minecraft:ruined_portal_jungle`
+- `minecraft:ruined_portal_mountain`
+- `minecraft:ruined_portal_nether`
+- `minecraft:ruined_portal_ocean`
+- `minecraft:ruined_portal_swamp`
+- `totw_modded:setback`
+- `minecraft:shipwreck`
+- `minecraft:shipwreck_beached`
+- `betterdungeons:skeleton_dungeon`
+- `totw_modded:skythern`
+- `betterdungeons:small_dungeon`
+- `betterdungeons:small_nether_dungeon`
+- `ivp:small_village_desert`
+- `ivp:small_village_plains`
+- `ivp:small_village_savanna`
+- `ivp:small_village_snowy`
+- `ivp:small_village_taiga`
+- `moresnifferflowers:snow_sniffer_temple`
+- `betterdungeons:spider_dungeon`
+- `betterstrongholds:stronghold`
+- `minecraft:stronghold`
+- `joshie:sunken_spires/colossuem`
+- `joshie:sunken_spires/conduit_ruins`
+- `joshie:sunken_spires/floating_spikes`
+- `joshie:sunken_spires/large_fossil`
+- `joshie:sunken_spires/ocean_temple`
+- `joshie:sunken_spires/prismarine_forge`
+- `joshie:sunken_spires/prismarine_trial_chamber`
+- `joshie:sunken_spires/small_fossil`
+- `joshie:sunken_spires/spires`
+- `joshie:sunken_spires/sunken_city`
+- `joshie:sunken_spires/trident_shrine`
+- `minecraft:swamp_hut`
+- `moresnifferflowers:swamp_sniffer_temple`
+- `infinity:terminal`
+- `infinity:text_954427561`
+- `infinity:text_test`
+- `totw_modded:tofu`
+- `minecraft:trail_ruins`
+- `minecraft:trial_chambers`
+- `totw_modded:tw_canopy`
+- `totw_modded:tw_mangrove`
+- `totw_modded:undergarden`
+- `philipsruins:underground_structures`
+- `underground_villages:underground_village`
+- `totw_modded:venus`
+- `totw_modded:vethea`
+- `minecraft:village_desert`
+- `infinity:village_desert_531793888`
+- `minecraft:village_plains`
+- `minecraft:village_savanna`
+- `minecraft:village_snowy`
+- `minecraft:village_taiga`
+- `bosses_of_mass_destruction:void_blossom`
+- `supplementaries:way_sign`
+- `totw_modded:wildwood`
+- `betterwitchhuts:witch_circle`
+- `betterwitchhuts:witch_hut`
+- `betterdungeons:zombie_dungeon`
+
+# Menus
+
+- `minecraft:generic_9x1`
+- `minecraft:generic_9x2`
+- `minecraft:generic_9x3`
+- `minecraft:generic_9x4`
+- `minecraft:generic_9x5`
+- `minecraft:generic_9x6`
+- `minecraft:generic_3x3`
+- `minecraft:crafter_3x3`
+- `minecraft:anvil`
+- `minecraft:beacon`
+- `minecraft:blast_furnace`
+- `minecraft:brewing_stand`
+- `minecraft:crafting`
+- `minecraft:enchantment`
+- `minecraft:furnace`
+- `minecraft:grindstone`
+- `minecraft:hopper`
+- `minecraft:lectern`
+- `minecraft:loom`
+- `minecraft:merchant`
+- `minecraft:shulker_box`
+- `minecraft:smithing`
+- `minecraft:smoker`
+- `minecraft:cartography_table`
+- `minecraft:stonecutter`
+- `supplementaries:present`
+- `supplementaries:trapped_present`
+- `supplementaries:notice_board`
+- `supplementaries:lunch_basket`
+- `supplementaries:sack`
+- `supplementaries:safe`
+- `supplementaries:pulley_block`
+- `supplementaries:cannon`
+- `supplementaries:red_merchant`
+- `echochest:echo_chest`
+- `netherchested:nether_chest`
+- `hoppergadgetry:grated_hopper`
+- `hoppergadgetry:duct`
+- `moresnifferflowers:rebrewing_stand`
+- `cosmeticarmorreworked:inventorycosarmor`
+- `chipped:workbench`
+- `farmersdelight:cooking_pot`
+- `curios:curios_container`
+- `infinity:f4`
+- `linkedchests:linked_chest`
+- `linkedchests:linked_pouch`
+- `linkedchests:personal_linked_chest`
+- `linkedchests:personal_linked_pouch`
+- `kubejs:menu`
+- `luminous_beasts:beast_book_1`
+- `luminous_beasts:beast_book_2`
+- `luminous_beasts:beast_book_3`
+- `luminous_beasts:beast_book_4`
+- `luminous_beasts:beast_book_5`
+- `luminous_beasts:beast_book_6`
+- `luminous_beasts:beast_book_7`
+- `luminous_beasts:beast_book_8`
+- `luminous_beasts:beast_book_9`
+- `luminous_beasts:beast_book_10`
+- `luminous_beasts:beast_book_11`
+- `luminous_beasts:beast_book_12`
+- `luminous_beasts:beast_book_13`
+- `luminous_beasts:beast_book_14`
+- `luminous_beasts:beast_book_15`
+- `luminous_beasts:beast_book_16`
+- `luminous_beasts:beast_book_17`
+- `luminous_beasts:beast_book_18`
+- `luminous_beasts:beast_book_19`
+- `luminous_beasts:beast_book_20`
+- `luminous_beasts:beast_book_21`
+- `luminous_beasts:beast_book_22`
+- `luminous_beasts:beast_book_23`
+- `luminous_beasts:beast_book_24`
+- `luminous_beasts:beast_book_25`
+- `amendments:lectern_edit`
+- `enchant_revised:enchant_altar_menu`
+- `waystones:waystone_selection`
+- `waystones:warp_scroll_selection`
+- `waystones:warp_stone_selection`
+- `waystones:portstone_selection`
+- `waystones:inventory_selection`
+- `waystones:admin_selection`
+- `waystones:sharestone_selection`
+- `waystones:waystone_modifiers`
+- `waystones:waystone`
+- `rubinated_nether:freezer_menu`
+- `rubinated_nether:rubination_menu`
+- `irons_spellbooks:inscription_table_menu`
+- `irons_spellbooks:scroll_forge_menu`
+- `irons_spellbooks:arcane_anvil_menu`
+
+# Trims
+- `minecraft:sentry_armor`
+- `minecraft:vex_armor`
+- `minecraft:wild_armor`
+- `minecraft:coast_armor`
+- `minecraft:dune_armor`
+- `minecraft:wayfinder_armor`
+- `minecraft:raiser_armor`
+- `minecraft:shaper_armor`
+- `minecraft:host_armor`
+- `minecraft:ward_armor`
+- `minecraft:silence_armor`
+- `minecraft:tide_armor`
+- `minecraft:snout_armor`
+- `minecraft:rib_armor`
+- `minecraft:eye_armor`
+- `minecraft:spire_armor`
+- `minecraft:flow_armor`
+- `minecraft:bolt_armor`
+- `moresnifferflowers:aroma_armor`
+- `moresnifferflowers:carnage_armor`
+- `moresnifferflowers:carotene_armor`
+- `moresnifferflowers:tater_armor`
+- `moresnifferflowers:grain_armor`
+- `moresnifferflowers:beat_armor`
+- `moresnifferflowers:nether_wart_armor`
