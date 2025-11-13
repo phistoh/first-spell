@@ -1,0 +1,15 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "You can enchant "
+    },
+    {
+      "text": "Spyglasses",
+      "color": "dark_aqua"
+    },
+    {
+      "text": "."
+    }
+  ]
+}

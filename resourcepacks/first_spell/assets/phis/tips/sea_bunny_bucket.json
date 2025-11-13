@@ -1,0 +1,19 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "Sea Bunnies",
+      "color": "red"
+    },
+    {
+      "text": " can be picked up with a "
+    },
+    {
+      "text": "Bucket",
+      "color": "dark_aqua"
+    },
+    {
+      "text": "."
+    }
+  ]
+}

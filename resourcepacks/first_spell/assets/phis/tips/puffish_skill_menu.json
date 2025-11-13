@@ -1,0 +1,15 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "You can open your skill tree with ["
+    },
+    {
+      "keybind": "key.puffish_skills.open",
+      "color": "gold"
+    },
+    {
+      "text": "]."
+    }
+  ]
+}

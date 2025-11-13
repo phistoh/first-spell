@@ -1,0 +1,16 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "The "
+    },
+    {
+      "text": "Tuff Golem",
+      "color": "red"
+    },
+
+    {
+      "text": " can hold and display any item you give it."
+    }
+  ]
+}

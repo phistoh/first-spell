@@ -1,0 +1,22 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "You can open a map of your surroundings by pressing ["
+    },
+    {
+      "keybind": "key.map_atlases.open_minimap",
+      "color": "gold"
+    },
+    {
+      "text": "] when you are carrying a "
+    },
+    {
+      "text": "Map Atlas",
+      "color": "dark_aqua"
+    },
+    {
+      "text": "."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "Groups of "
+    },
+    {
+      "text": "Koi Fish",
+      "color": "red"
+    },
+    {
+      "text": " will give you the  "
+    },
+    {
+      "text": "Luck",
+      "color": "green"
+    },
+    {
+      "text": " effect."
+    }
+  ]
+}

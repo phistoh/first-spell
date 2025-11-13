@@ -1,0 +1,22 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "You can heal a "
+    },
+    {
+      "text": "Tuff Golems",
+      "color": "red"
+    },
+    {
+      "text": " by giving it "
+    },
+    {
+      "text": "Tuff",
+      "color": "dark_aqua"
+    },
+    {
+      "text": "."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "While carrying a "
+    },
+    {
+      "text": "Map Atlas",
+      "color": "dark_aqua"
+    },
+    {
+      "text": " you can see the biome you are currently in on screen."
+    }
+  ]
+}

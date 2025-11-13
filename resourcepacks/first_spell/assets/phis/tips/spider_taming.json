@@ -1,0 +1,19 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "Jumping Spiders",
+      "color": "red"
+    },
+    {
+      "text": " can be tamed with "
+    },
+    {
+      "text": "Dragonfly Wings",
+      "color": "dark_aqua"
+    },
+    {
+      "text": "."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "Otters",
+      "color": "red"
+    },
+    {
+      "text": " will open "
+    },
+    {
+      "text": "Clams",
+      "color": "dark_aqua"
+    },
+    {
+      "text": " to find "
+    },
+    {
+      "text": "Pearls",
+      "color": "dark_aqua"
+    },
+    {
+      "text": "."
+    },
+    {
+      "text": "Pearls",
+      "color": "dark_aqua"
+    },
+    {
+      "text": " are used to craft "
+    },
+    {
+      "text": "Pearl Necklaces",
+      "color": "dark_aqua"
+    },
+    {
+      "text": "."
+    }
+  ]
+}

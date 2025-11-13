@@ -1,0 +1,43 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "You can bind your "
+    },
+    {
+      "text": "Copper Horn",
+      "color": "dark_aqua"
+    },
+    {
+      "text": " to your "
+    },
+    {
+      "text": "horse",
+      "color": "red"
+    },
+    {
+      "text": " by pressing ["
+    },
+    {
+      "keybind": "key.sneak",
+      "color": "gold"
+    },
+    {
+      "text": "] and ["
+    },
+    {
+      "keybind": "key.use",
+      "color": "gold"
+    },
+    {
+      "text": "]. Then you can call your "
+    },
+    {
+      "text": "horse",
+      "color": "red"
+    },
+    {
+      "text": " just tooting it."
+    }
+  ]
+}

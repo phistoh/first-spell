@@ -1,0 +1,22 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "You can press ["
+    },
+    {
+      "keybind": "key.spyglass-improvements.use",
+      "color": "gold"
+    },
+    {
+      "text": "] to quickly use your "
+    },
+    {
+      "text": "Spyglass",
+      "color": "dark_aqua"
+    },
+    {
+      "text": ". This even works, when it is equipped on your belt!"
+    }
+  ]
+}

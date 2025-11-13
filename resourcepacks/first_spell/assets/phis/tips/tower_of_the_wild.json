@@ -1,0 +1,22 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "You will find a "
+    },
+    {
+      "text": "Waystone",
+      "color": "dark_green"
+    },
+    {
+      "text": " at the top of each "
+    },
+    {
+      "text": "Tower of the Wild",
+      "color": "dark_green"
+    },
+    {
+      "text": "."
+    }
+  ]
+}

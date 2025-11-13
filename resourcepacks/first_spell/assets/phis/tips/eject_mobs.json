@@ -1,0 +1,22 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "You can press ["
+    },
+    {
+      "keybind": "key.sneak",
+      "color": "gold"
+    },
+    {
+      "text": "] and ["
+    },
+    {
+      "keybind": "key.use",
+      "color": "gold"
+    },
+    {
+      "text": "] to safely eject any mob out of a boat or minecart."
+    }
+  ]
+}

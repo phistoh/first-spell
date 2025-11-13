@@ -1,0 +1,15 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "You can see the current time when you carry a "
+    },
+    {
+      "text": "Watch",
+      "color": "dark_aqua"
+    },
+    {
+      "text": "."
+    }
+  ]
+}

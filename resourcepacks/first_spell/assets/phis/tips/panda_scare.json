@@ -1,0 +1,15 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "Tamed "
+    },
+    {
+      "text": "Red Pandas",
+      "color": "red"
+    },
+    {
+      "text": " will scare away most aggresive neutral mobs!"
+    }
+  ]
+}

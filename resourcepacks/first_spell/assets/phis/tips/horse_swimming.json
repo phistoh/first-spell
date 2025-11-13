@@ -1,0 +1,22 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "Ridden "
+    },
+    {
+      "text": "horses",
+      "color": "red"
+    },
+    {
+      "text": " can swim now. Press ["
+    },
+    {
+      "keybind": "key.jump",
+      "color": "gold"
+    },
+    {
+      "text": "] when in water."
+    }
+  ]
+}

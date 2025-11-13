@@ -1,0 +1,22 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "Tamed "
+    },
+    {
+      "text": "Ferrets",
+      "color": "red"
+    },
+    {
+      "text": " can dig for loot after being fed "
+    },
+    {
+      "text": "Raw Chicken",
+      "color": "dark_aqua"
+    },
+    {
+      "text": "."
+    }
+  ]
+}

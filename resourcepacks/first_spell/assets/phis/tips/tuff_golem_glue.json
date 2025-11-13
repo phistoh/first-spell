@@ -1,0 +1,19 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "Tuff Golems",
+      "color": "red"
+    },
+    {
+      "text": " can be glued to the current place by using a "
+    },
+    {
+      "text": "Honeycomb",
+      "color": "dark_aqua"
+    },
+    {
+      "text": " on them."
+    }
+  ]
+}

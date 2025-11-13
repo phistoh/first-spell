@@ -1,0 +1,15 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "You can have up to three different food buffs active. Eat "
+    },
+    {
+      "text": "Rotten Flesh",
+      "color": "dark_aqua"
+    },
+    {
+      "text": " to preemptively empty your stomach and be able to eat something different."
+    }
+  ]
+}

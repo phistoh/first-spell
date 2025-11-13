@@ -1,0 +1,19 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "Red Pandas",
+      "color": "red"
+    },
+    {
+      "text": " are tameable with "
+    },
+    {
+      "text": "Sweet Berries",
+      "color": "dark_aqua"
+    },
+    {
+      "text": "."
+    }
+  ]
+}

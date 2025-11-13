@@ -1,0 +1,22 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "There is no generic "
+    },
+    {
+      "text": "Sharpness",
+      "color": "dark_purple"
+    },
+    {
+      "text": " enchantment—only specific damage enchantments. The same goes for "
+    },
+    {
+      "text": "Protection",
+      "color": "dark_purple"
+    },
+    {
+      "text": ". So bring the right tool for the right job!"
+    }
+  ]
+}

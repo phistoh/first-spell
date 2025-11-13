@@ -1,0 +1,33 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "Ferrets",
+      "color": "red"
+    },
+    {
+      "text": " can be tamed with "
+    },
+    {
+      "text": "Raw Rabbit",
+      "color": "dark_aqua"
+    },
+    {
+      "text": " to help you hunt "
+    },
+    {
+      "text": "Chickens",
+      "color": "red"
+    },
+    {
+      "text": " and "
+    },
+    {
+      "text": "Rabbits",
+      "color": "red"
+    },
+    {
+      "text": "."
+    }
+  ]
+}

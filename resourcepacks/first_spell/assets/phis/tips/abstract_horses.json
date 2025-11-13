@@ -1,0 +1,48 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "Donkeys",
+      "color": "red"
+    },
+    {
+      "text": ", "
+    },
+    {
+      "text": "mules",
+      "color": "red"
+    },
+    {
+      "text": ", "
+    },
+    {
+      "text": "llamas",
+      "color": "red"
+    },
+    {
+      "text": " and "
+    },
+    {
+      "text": "camels",
+      "color": "red"
+    },
+    {
+      "text": " are "
+    },
+    {
+      "text": "abstract horses",
+      "italic": true
+    },
+    {
+      "text": ". That means that most of the features of "
+    },
+    {
+      "text": "Horseman",
+      "color": "blue",
+      "bold": true
+    },
+    {
+      "text": "are applicable to these creatures as well."
+    }
+  ]
+}

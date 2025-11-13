@@ -1,0 +1,15 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "Holding a "
+    },
+    {
+      "text": "Torch",
+      "color": "dark_aqua"
+    },
+    {
+      "text": " (or any other light source) in your hand lights your surroundings!"
+    }
+  ]
+}
