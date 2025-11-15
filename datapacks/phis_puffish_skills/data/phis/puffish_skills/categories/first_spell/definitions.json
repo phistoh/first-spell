@@ -64,12 +64,17 @@
     "description": [
       "",
       { "text": "You are able to craft and use " },
-      { "text": "armor", "italic": true, "color": "gold" },
+      { "text": "armor", "italic": true, "color": "dark_aqua" },
       { "text": " and  " },
-      { "text": "tools", "italic": true, "color": "gold" },
+      { "text": "tools", "italic": true, "color": "dark_aqua" },
       { "text": " made of " },
       { "text": "iron", "color": "green" },
-      { "text": "." }
+      { "text": "." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
     ],
     "extra_description": "'Armor' encompasses helmets, chestplates, leggings and boots. 'Tools' encompasses axes, hoes, knives, pickaxes, shovels, swords and spears.",
     "rewards": [
@@ -102,12 +107,17 @@
     "description": [
       "",
       { "text": "You are able to craft and use " },
-      { "text": "armor", "italic": true, "color": "gold" },
+      { "text": "armor", "italic": true, "color": "dark_aqua" },
       { "text": " and " },
-      { "text": "tools", "italic": true, "color": "gold" },
+      { "text": "tools", "italic": true, "color": "dark_aqua" },
       { "text": " made of " },
       { "text": "diamond", "color": "green" },
-      { "text": "." }
+      { "text": "." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
     ],
     "extra_description": "'Armor' encompasses helmets, chestplates, leggings and boots. 'Tools' encompasses axes, hoes, knives, pickaxes, shovels, swords and spears.",
     "rewards": [
@@ -140,12 +150,17 @@
     "description": [
       "",
       { "text": "You are able to craft and use " },
-      { "text": "armor", "italic": true, "color": "gold" },
+      { "text": "armor", "italic": true, "color": "dark_aqua" },
       { "text": " and  " },
-      { "text": "tools", "italic": true, "color": "gold" },
+      { "text": "tools", "italic": true, "color": "dark_aqua" },
       { "text": " made of " },
       { "text": "netherite", "color": "green" },
-      { "text": "." }
+      { "text": "." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
     ],
     "extra_description": "'Armor' encompasses helmets, chestplates, leggings and boots. 'Tools' encompasses axes, hoes, knives, pickaxes, shovels, swords and spears.",
     "rewards": [
@@ -178,14 +193,19 @@
     "description": [
       "",
       { "text": "You are able to craft and use " },
-      { "text": "armor", "italic": true, "color": "gold" },
+      { "text": "armor", "italic": true, "color": "dark_aqua" },
       { "text": " and  " },
-      { "text": "tools", "italic": true, "color": "gold" },
+      { "text": "tools", "italic": true, "color": "dark_aqua" },
       { "text": " made of " },
       { "text": "Reinforced Echo Shards", "color": "green" },
       { "text": " and " },
       { "text": "Resonarium", "color": "green" },
-      { "text": "." }
+      { "text": "." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
     ],
     "extra_description": "'Armor' encompasses helmets, chestplates, leggings and boots. 'Tools' encompasses axes, hoes, knives, pickaxes, shovels, swords and spears.",
     "rewards": [
@@ -218,7 +238,7 @@
     "description": [
       "",
       { "text": "You are able to craft " },
-      { "text": "Return Scrolls", "italic": true, "color": "gold" },
+      { "text": "Return Scrolls", "italic": true, "color": "dark_aqua" },
       { "text": "." }
     ],
     "rewards": [
@@ -251,7 +271,7 @@
     "description": [
       "",
       { "text": "You are able to craft and use " },
-      { "text": "Warp Stones", "italic": true, "color": "gold" },
+      { "text": "Warp Stones", "italic": true, "color": "dark_aqua" },
       { "text": "." }
     ],
     "rewards": [
@@ -284,7 +304,7 @@
     "description": [
       "",
       { "text": "You are able to craft " },
-      { "text": "Waystones", "italic": true, "color": "gold" },
+      { "text": "Waystones", "italic": true, "color": "dark_aqua" },
       { "text": "." }
     ],
     "rewards": [
@@ -317,7 +337,7 @@
     "description": [
       "",
       { "text": "You are able to craft " },
-      { "text": "Arcane Essence", "italic": true, "color": "gold" },
+      { "text": "Arcane Essence", "italic": true, "color": "dark_aqua" },
       { "text": "." }
     ],
     "rewards": [
@@ -350,7 +370,7 @@
     "description": [
       "",
       { "text": "You sometimes find " },
-      { "text": "Arcane Essence", "italic": true, "color": "gold" },
+      { "text": "Arcane Essence", "italic": true, "color": "dark_aqua" },
       { "text": " when slaying mobs." }
     ],
     "rewards": [
@@ -412,7 +432,7 @@
       { "text": "You have a " },
       { "text": "50%", "color": "green" },
       { "text": " chance to keep " },
-      { "text": "spell scrolls", "italic": true, "color": "gold" },
+      { "text": "spell scrolls", "italic": true, "color": "dark_aqua" },
       { "text": " when using them to cast a spell." }
     ],
     "rewards": [
@@ -448,7 +468,7 @@
       { "text": "You " },
       { "text": "always", "color": "green" },
       { "text": " keep " },
-      { "text": "spell scrolls", "italic": true, "color": "gold" },
+      { "text": "spell scrolls", "italic": true, "color": "dark_aqua" },
       { "text": " when using them to cast a spell." }
     ],
     "rewards": [
@@ -482,7 +502,7 @@
     "description": [
       "",
       { "text": "You are able to craft and use " },
-      { "text": "Scroll Forges", "italic": true, "color": "gold" },
+      { "text": "Scroll Forges", "italic": true, "color": "dark_aqua" },
       { "text": "." }
     ],
     "rewards": [
@@ -515,7 +535,7 @@
     "description": [
       "",
       { "text": "You are able to craft and use " },
-      { "text": "Arcane Anvils", "italic": true, "color": "gold" },
+      { "text": "Arcane Anvils", "italic": true, "color": "dark_aqua" },
       { "text": "." }
     ],
     "rewards": [
@@ -587,7 +607,7 @@
       { "text": "You gain " },
       { "text": "one level", "color": "green" },
       { "text": " of " },
-      { "text": "looting", "italic": true, "color": "gold" },
+      { "text": "looting", "italic": true, "color": "dark_purple" },
       { "text": "." }
     ],
     "rewards": [
@@ -689,7 +709,12 @@
       { "text": "immune", "color": "green" },
       { "text": " to " },
       { "text": "fall damage", "italic": true, "color": "gold" },
-      { "text": "." }
+      { "text": "." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
     ],
     "extra_description": "This skill extends your safe fall damage by 1000 blocks.",
     "rewards": [
@@ -723,9 +748,9 @@
     "description": [
       "",
       { "text": "You are able to craft and use " },
-      { "text": "Muskets", "italic": true, "color": "gold" },
+      { "text": "Muskets", "italic": true, "color": "dark_aqua" },
       { "text": " and " },
-      { "text": "Bombs", "italic": true, "color": "gold" },
+      { "text": "Bombs", "italic": true, "color": "dark_aqua" },
       { "text": "." }
     ],
     "rewards": [
@@ -758,10 +783,15 @@
     "description": [
       "",
       { "text": "You are able to craft and use " },
-      { "text": "Hellfire Cartridges", "italic": true, "color": "gold" },
-      { "text": "." }
+      { "text": "Hellfire Cartridges", "italic": true, "color": "dark_aqua" },
+      { "text": "." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
     ],
-    "extra_description": "Hellfire ammo is used for muskets",
+    "extra_description": "Hellfire cartridges are used for muskets",
     "rewards": [
       {
         "type": "astages:stage_reward",
@@ -792,8 +822,13 @@
     "description": [
       "",
       { "text": "You are able to craft and use " },
-      { "text": "Firework Rockets", "italic": true, "color": "gold" },
-      { "text": "." }
+      { "text": "Firework Rockets", "italic": true, "color": "dark_aqua" },
+      { "text": "." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
     ],
     "extra_description": "Using firework rockets encompasses using them as elytra boost.",
     "rewards": [
@@ -892,7 +927,7 @@
     "description": [
       "",
       { "text": "You are able to craft and use " },
-      { "text": "Linked Pouches", "italic": true, "color": "gold" },
+      { "text": "Linked Pouches", "italic": true, "color": "dark_aqua" },
       { "text": "." }
     ],
     "rewards": [
@@ -961,9 +996,9 @@
     "description": [
       "",
       { "text": "When mining diamond ore you find " },
-      { "text": "one additional ", "color": "green" },
+      { "text": "one additional", "color": "green" },
       { "text": " " },
-      { "text": "diamond", "italic": true, "color": "gold" },
+      { "text": "diamond", "italic": true, "color": "dark_aqua" },
       { "text": "." }
     ],
     "rewards": [
@@ -1000,7 +1035,7 @@
       {
         "text": "dust of different materials",
         "italic": true,
-        "color": "gold"
+        "color": "dark_aqua"
       },
       { "text": "." }
     ],
@@ -1034,7 +1069,12 @@
       "",
       { "text": "You understand the forbidden knowledge of the " },
       { "text": "Eldritch", "color": "dark_purple" },
-      { "text": " spell school." }
+      { "text": " spell school." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
     ],
     "extra_description": "You can craft and use 'Eldritch Manuscripts'.",
     "rewards": [
@@ -1116,11 +1156,11 @@
     "description": [
       "",
       { "text": "You can equip " },
-      { "text": "Elytra", "italic": true, "color": "gold" },
+      { "text": "Elytra", "italic": true, "color": "dark_aqua" },
       { "text": " in " },
       { "text": "addition", "color": "green" },
       { "text": " to your " },
-      { "text": "Backpack", "italic": true, "color": "gold" },
+      { "text": "Backpack", "italic": true, "color": "dark_aqua" },
       { "text": "." }
     ],
     "rewards": [
@@ -1155,7 +1195,7 @@
       { "text": "You can equip " },
       { "text": "one additional", "color": "green" },
       { "text": " " },
-      { "text": "ring", "italic": true, "color": "gold" },
+      { "text": "ring", "italic": true, "color": "dark_aqua" },
       { "text": "." }
     ],
     "rewards": [
@@ -1188,7 +1228,7 @@
     "description": [
       "",
       { "text": "You sometimes find " },
-      { "text": "Spawn Eggs", "italic": true, "color": "gold" },
+      { "text": "Spawn Eggs", "italic": true, "color": "dark_aqua" },
       { "text": " when slaying mobs." }
     ],
     "rewards": [
@@ -1252,7 +1292,7 @@
     "description": [
       "",
       { "text": "You are able to craft and mine " },
-      { "text": "Fated Altars", "italic": true, "color": "gold" },
+      { "text": "Fated Altars", "italic": true, "color": "dark_aqua" },
       { "text": "." }
     ],
     "rewards": [
@@ -1318,7 +1358,21 @@
         "item": "minecraft:skeleton_skull"
       }
     },
-    "description": "Sometimes, you escape death...",
+    "description": [
+      "",
+      { "text": "When you take lethal damage, you " },
+      {
+        "text": "survive with one heart",
+        "color": "gold"
+      },
+      { "text": ". This effect cannot occur more than once every " },
+      {
+        "text": "five minutes",
+        "italic": true,
+        "color": "blue"
+      },
+      { "text": "." }
+    ],
     "rewards": [
       {
         "type": "puffish_skills:tag",
@@ -1345,12 +1399,20 @@
         "item": "minecraft:milk_bucket"
       }
     },
-    "description": "You are able to milk goats and sheep.",
+    "description": [
+      "",
+      { "text": "You are able to " },
+      {
+        "text": "milk sheep",
+        "color": "gold"
+      },
+      { "text": "." }
+    ],
     "rewards": [
       {
         "type": "puffish_skills:tag",
         "data": {
-          "tag": "phis.goat_milk"
+          "tag": "phis.sheep_milk"
         }
       }
     ]
@@ -1372,7 +1434,15 @@
         "item": "minecraft:milk_bucket"
       }
     },
-    "description": "You are able to milk ...everything?",
+    "description": [
+      "",
+      { "text": "You are able to " },
+      {
+        "text": "milk ...everything",
+        "color": "gold"
+      },
+      { "text": "?" }
+    ],
     "rewards": [
       {
         "type": "puffish_skills:tag",
@@ -1399,8 +1469,21 @@
         "item": "minecraft:red_bed"
       }
     },
-    "description": "You do not need to sleep.",
-    "extra_description": "You do not spawn Phantoms",
+    "description": [
+      "",
+      { "text": "You do not need to " },
+      {
+        "text": "sleep",
+        "color": "gold"
+      },
+      { "text": "." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "This means you do not spawn Phantoms.",
     "rewards": [
       {
         "type": "puffish_skills:tag",
@@ -1427,7 +1510,46 @@
         "item": "artifacts:digging_claws"
       }
     },
-    "description": "You deal more damage, but also take more damage.",
+    "description": [
+      "",
+      { "text": "You deal " },
+      {
+        "text": "50%",
+        "color": "green"
+      },
+      { "text": " more " },
+      {
+        "text": "melee damage",
+        "color": "gold"
+      },
+      { "text": " but in addition you also take " },
+      {
+        "text": "10%",
+        "color": "green"
+      },
+      { "text": " more " },
+      {
+        "text": "damage",
+        "color": "gold"
+      },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": [
+      "",
+      {
+        "text": "Damage is considered melee if damage source is direct and damage type is not in "
+      },
+      {
+        "text": "minecraft:is_projectile",
+        "underlined": true,
+        "color": "gray"
+      },
+      { "text": " tag." }
+    ],
     "rewards": [
       {
         "type": "puffish_skills:attribute",
@@ -1464,7 +1586,15 @@
         "effect": "minecraft:instant_damage"
       }
     },
-    "description": "You gain attack and movement speed when on low health.",
+    "description": [
+      "",
+      { "text": "You gain " },
+      {
+        "text": "attack and movement speed",
+        "color": "gold"
+      },
+      { "text": " when low on health." }
+    ],
     "rewards": [
       {
         "type": "puffish_skills:tag",
@@ -1475,7 +1605,7 @@
     ]
   },
   "warrior_3": {
-    "title": "[NYI] Bleed With Me",
+    "title": "[NYI] Bleed With Me -- Use Apothic Attributes Bleeding effect!",
     "frame": {
       "type": "texture",
       "data": {
@@ -1491,7 +1621,37 @@
         "item": "minecraft:iron_sword"
       }
     },
-    "description": "tbd. (Bleed effect on hit)",
+    "description": [
+      "",
+      { "text": "Your attacks have a chance to inflict " },
+      {
+        "text": "Bleeding",
+        "color": "dark_red"
+      },
+      { "text": " on your enemies." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": [
+      "",
+      {
+        "text": "Bleeding",
+        "color": "dark_red"
+      },
+      {
+        "text": " inflicts "
+      },
+      {
+        "text": " 1 + level damage every two seconds.",
+        "color": "green"
+      },
+      {
+        "text": " Things that apply bleeding usually stack."
+      }
+    ],
     "rewards": [
       {
         "type": "puffish_skills:tag",
@@ -1518,7 +1678,21 @@
         "item": "endermanoverhaul:enderman_tooth"
       }
     },
-    "description": "You deal more damage the lower your health is.",
+    "description": [
+      "",
+      { "text": "You deal more damage the lower your health is." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": [
+      "",
+      {
+        "text": "You deal your missing health as additional bonus damage."
+      }
+    ],
     "rewards": [
       {
         "type": "puffish_skills:tag",
@@ -1529,7 +1703,7 @@
     ]
   },
   "warrior_5": {
-    "title": "[NYI] ...As Long As Winds Will Blow...",
+    "title": "[NYI] ...As Long As Winds Will Blow... -- Überarbeiten?",
     "frame": {
       "type": "texture",
       "data": {
@@ -1545,7 +1719,32 @@
         "effect": "minecraft:wind_charged"
       }
     },
-    "description": "tbd. (Staggered Death)",
+    "description": [
+      "",
+      { "text": "Most attacks from mobs cannot kill you. You " },
+      {
+        "text": "survive with one heart",
+        "color": "gold"
+      },
+      { "text": " instead." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": [
+      "",
+      {
+        "text": "Mob attacks encompass all damage sources of the "
+      },
+      {
+        "text": "mob_attack",
+        "underlined": true,
+        "color": "gray"
+      },
+      { "text": " damage type." }
+    ],
     "rewards": [
       {
         "type": "puffish_skills:tag",
@@ -2192,7 +2391,12 @@
       { "text": "15 percent", "color": "green" },
       { "text": " more " },
       { "text": "melee damage", "italic": true, "color": "gold" },
-      { "text": "." }
+      { "text": "." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
     ],
     "extra_description": [
       "",
@@ -2240,7 +2444,12 @@
       { "text": "15 percent", "color": "green" },
       { "text": " more " },
       { "text": "ranged damage", "italic": true, "color": "gold" },
-      { "text": "." }
+      { "text": "." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
     ],
     "extra_description": [
       "",
@@ -2288,7 +2497,12 @@
       { "text": "15 percent", "color": "green" },
       { "text": " less " },
       { "text": "melee damage", "italic": true, "color": "gold" },
-      { "text": "." }
+      { "text": "." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
     ],
     "extra_description": [
       "",
@@ -2336,7 +2550,12 @@
       { "text": "15 percent", "color": "green" },
       { "text": " less " },
       { "text": "ranged damage", "italic": true, "color": "gold" },
-      { "text": "." }
+      { "text": "." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
     ],
     "extra_description": [
       "",
@@ -2384,7 +2603,12 @@
       { "text": "15 percent", "color": "green" },
       { "text": " less " },
       { "text": "magic damage", "italic": true, "color": "gold" },
-      { "text": "." }
+      { "text": "." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
     ],
     "extra_description": [
       "",
