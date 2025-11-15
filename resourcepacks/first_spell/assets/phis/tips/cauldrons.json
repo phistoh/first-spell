@@ -1,0 +1,12 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "Cauldrons",
+      "color": "dark_aqua"
+    },
+    {
+      "text": " can store any liquid and can be used to mix potions and dyes."
+    }
+  ]
+}

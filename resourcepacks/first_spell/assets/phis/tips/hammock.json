@@ -1,0 +1,15 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "You can sleep in a "
+    },
+    {
+      "text": "Hammock",
+      "color": "dark_aqua"
+    },
+    {
+      "text": " to skip the day."
+    }
+  ]
+}

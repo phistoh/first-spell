@@ -1,0 +1,22 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "Sleeping in a "
+    },
+    {
+      "text": "Sleeping Bag",
+      "color": "dark_aqua"
+    },
+    {
+      "text": " does "
+    },
+    {
+      "text": "not",
+      "bold": true
+    },
+    {
+      "text": " set your spawn point."
+    }
+  ]
+}

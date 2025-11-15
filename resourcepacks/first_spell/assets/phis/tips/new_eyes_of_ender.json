@@ -1,0 +1,29 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "To reach the "
+    },
+    {
+      "text": "End",
+      "color": "dark_green"
+    },
+    {
+      "text": " and beat the "
+    },
+    {
+      "text": "Ender Dragon",
+      "color": "red"
+    },
+    {
+      "text": ", you will have to find different "
+    },
+    {
+      "text": "Eyes of Ender",
+      "color": "dark_aqua"
+    },
+    {
+      "text": " by exploring structures and fighting bosses."
+    }
+  ]
+}

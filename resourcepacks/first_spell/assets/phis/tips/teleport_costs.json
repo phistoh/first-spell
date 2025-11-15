@@ -1,0 +1,29 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "Using "
+    },
+    {
+      "text": "Waystones",
+      "color": "dark_aqua"
+    },
+    {
+      "text": " or "
+    },
+    {
+      "text": "Warp Stones",
+      "color": "dark_aqua"
+    },
+    {
+      "text": " costs "
+    },
+    {
+      "text": "Arcane Essence",
+      "color": "dark_aqua"
+    },
+    {
+      "text": "—the amount depends on the teleported distance."
+    }
+  ]
+}

@@ -125,21 +125,21 @@ AStages.addRestrictionForItem(
   .setCanPickedUp(true);
 
 const waystone_recipe_ids = [
-  "waystones:waystone",
-  "waystones:mossy_waystone",
-  "waystones:mossy_waystone_from_moss_blocks",
-  "waystones:mossy_waystone_from_vines",
-  "waystones:sandy_waystone",
-  "waystones:deepslate_waystone",
-  "waystones:blackstone_waystone",
-  "waystones:end_stone_waystone",
+  "waystone",
+  "mossy_waystone",
+  "mossy_waystone_from_moss_blocks",
+  "mossy_waystone_from_vines",
+  "sandy_waystone",
+  "deepslate_waystone",
+  "blackstone_waystone",
+  "end_stone_waystone",
 ];
 for (const id of waystone_recipe_ids) {
   AStages.addRestrictionForRecipe(
-    "phis/crafting_waystone",
+    `phis/crafting_${id}`,
     "phis_stage_crafting_waystone",
     "minecraft:crafting",
-    id
+    `waystones:${id}`
   );
 }
 
@@ -242,6 +242,73 @@ AStages.addRestrictionForItem(
   "phis_stage_muskets_and_bombs",
   "supplementaries:bomb",
   "supplementaries:bomb_blue"
+)
+  .setCanBeStoredInInventory(true)
+  .setCanBeStoredInContainers(true)
+  .setCanPickedUp(true);
+
+// Fireworks
+const fireworks_recipe_ids = ["firework_rocket", "firework_rocket_simple"];
+for (const id of fireworks_recipe_ids) {
+  AStages.addRestrictionForRecipe(
+    `phis/crafting_${id}`,
+    "phis_stage_fireworks",
+    "minecraft:crafting",
+    `minecraft:${id}`
+  );
+}
+AStages.addRestrictionForItem(
+  "phis/use_fireworks",
+  "phis_stage_fireworks",
+  "minecraft:firework_rocket"
+)
+  .setCanBeStoredInInventory(true)
+  .setCanBeStoredInContainers(true)
+  .setCanPickedUp(true);
+
+// Linked Pouch
+AStages.addRestrictionForRecipe(
+  "phis/crafting_linked_pouch",
+  "phis_stage_linked_pouch",
+  "minecraft:crafting",
+  "linkedchests:linked_pouch"
+);
+AStages.addRestrictionForItem(
+  "phis/use_linked_pouch",
+  "phis_stage_linked_pouch",
+  "linkedchests:linked_pouch"
+)
+  .setCanBeStoredInInventory(true)
+  .setCanBeStoredInContainers(true)
+  .setCanPickedUp(true);
+
+// Eldritch
+AStages.addRestrictionForRecipe(
+  "phis/crafting_eldritch_manuscript",
+  "phis_stage_eldritch_spells",
+  "minecraft:crafting",
+  "irons_spellbooks:eldritch_manuscript"
+);
+AStages.addRestrictionForItem(
+  "phis/use_eldritch_manuscript",
+  "phis_stage_eldritch_spells",
+  "irons_spellbooks:eldritch_manuscript"
+)
+  .setCanBeStoredInInventory(true)
+  .setCanBeStoredInContainers(true)
+  .setCanPickedUp(true);
+
+  // Fated Altar
+AStages.addRestrictionForRecipe(
+  "phis/crafting_fated_altar",
+  "phis_stage_fated_inventory",
+  "minecraft:crafting",
+  "fated_inventory:fated_altar"
+);
+AStages.addRestrictionForItem(
+  "phis/use_fated_altar",
+  "phis_stage_fated_inventory",
+  "fated_inventory:fated_altar"
 )
   .setCanBeStoredInInventory(true)
   .setCanBeStoredInContainers(true)

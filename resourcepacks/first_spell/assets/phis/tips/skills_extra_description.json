@@ -1,0 +1,23 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "Skills marked with "
+    },
+    {
+      "text": "[...]",
+      "italic": true,
+      "color": "gray"
+    },
+    {
+      "text": " offer more explanation when you press ["
+    },
+    {
+      "text": "Shift",
+      "color": "gold"
+    },
+    {
+      "text": "] while hovering over them in the skill tree."
+    }
+  ]
+}

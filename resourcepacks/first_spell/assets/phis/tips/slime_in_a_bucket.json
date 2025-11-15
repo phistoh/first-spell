@@ -1,0 +1,26 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "Slimes",
+      "color": "red"
+    },
+    {
+      "text": " can be picked up with a "
+    },
+    {
+      "text": "Bucket",
+      "color": "dark_aqua"
+    },
+    {
+      "text": ". When you are in a slime chunk, the "
+    },
+    {
+      "text": "Slime in a Bucket",
+      "color": "dark_aqua"
+    },
+    {
+      "text": " gets excited."
+    }
+  ]
+}

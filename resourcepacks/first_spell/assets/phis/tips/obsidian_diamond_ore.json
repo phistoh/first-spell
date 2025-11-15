@@ -1,0 +1,22 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "When a dragon's fireball lands near "
+    },
+    {
+      "text": "Obsidian",
+      "color": "dark_aqua"
+    },
+    {
+      "text": ", it will turn into "
+    },
+    {
+      "text": "Obsidian Diamond Ore",
+      "color": "dark_aqua"
+    },
+    {
+      "text": "."
+    }
+  ]
+}

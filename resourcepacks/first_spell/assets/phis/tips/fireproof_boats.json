@@ -1,0 +1,22 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "Boats made of"
+    },
+    {
+      "text": "Warped",
+      "color": "dark_aqua"
+    },
+    {
+      "text": " or "
+    },
+    {
+      "text": "Crimson Planks",
+      "color": "dark_aqua"
+    },
+    {
+      "text": " are fireproof."
+    }
+  ]
+}

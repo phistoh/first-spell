@@ -1,0 +1,15 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "You deserve a break! Press ["
+    },
+    {
+      "keybind": "key.personality.sit",
+      "color": "gold"
+    },
+    {
+      "text": "] to sit down."
+    }
+  ]
+}

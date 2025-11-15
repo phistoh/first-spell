@@ -19,14 +19,19 @@
     "description": [
       "",
       { "text": "You are able to craft and use " },
-      { "text": "armor", "italic": true, "color": "gold" },
+      { "text": "armor", "color": "dark_aqua" },
       { "text": " and  " },
-      { "text": "tools", "italic": true, "color": "gold" },
+      { "text": "tools", "color": "dark_aqua" },
       { "text": " made of " },
       { "text": "copper", "color": "green" },
       { "text": " and  " },
       { "text": "gold", "color": "green" },
-      { "text": "." }
+      { "text": "." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
     ],
     "extra_description": "'Armor' encompasses helmets, chestplates, leggings and boots. 'Tools' encompasses axes, hoes, knives, pickaxes, shovels, swords and spears.",
     "rewards": [
@@ -795,7 +800,7 @@
       {
         "type": "astages:stage_reward",
         "data": {
-          "stage": "phis_stage_elytra_boost",
+          "stage": "phis_stage_fireworks",
           "operation": "add"
         }
       }
@@ -989,9 +994,9 @@
     },
     "description": [
       "",
-      { "text": "When collecting rocks or gravel you " },
-      { "text": "sometimes ", "color": "green" },
-      { "text": " find additional " },
+      { "text": "When collecting rocks you " },
+      { "text": "sometimes", "color": "green" },
+      { "text": " find " },
       {
         "text": "dust of different materials",
         "italic": true,
@@ -1061,18 +1066,32 @@
     },
     "description": [
       "",
-      { "text": "You learn how to transmute  " },
-      { "text": "Iron Ingots", "italic": true, "color": "gold" },
+      { "text": "You learn how to transmute " },
+      { "text": "Iron Ingots", "color": "dark_aqua" },
       { "text": " to " },
-      { "text": "Gold Ingots", "italic": true, "color": "gold" },
-      { "text": " using an Alchemist Cauldron." }
+      { "text": "Gold Ingots", "color": "dark_aqua" },
+      { "text": " using a Cauldron." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": [
+      "",
+      { "text": "To transmute an " },
+      { "text": "Iron Ingot", "color": "dark_aqua" },
+      { "text": " hold it in your hand and press [" },
+      { "keybind": "key.use", "color": "gold" },
+      { "text": "] on a (regular) cauldron filled with " },
+      { "text": "Lumisene", "color": "dark_aqua" },
+      { "text": "." }
     ],
     "rewards": [
       {
-        "type": "astages:stage_reward",
+        "type": "puffish_skills:tag",
         "data": {
-          "stage": "phis_stage_iron_to_gold",
-          "operation": "add"
+          "tag": "phis.irontogold"
         }
       }
     ]
@@ -1108,14 +1127,14 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "unlock_command": "curios add back @s 1",
-          "lock_command": "curios remove back @s 1"
+          "unlock_command": "curios add elytra @s 1",
+          "lock_command": "curios remove elytra @s 1"
         }
       }
     ]
   },
   "curios_ring": {
-    "title": "[NYI] tbd.",
+    "title": "tbd.",
     "frame": {
       "type": "texture",
       "data": {
@@ -1182,7 +1201,7 @@
     ]
   },
   "no_farmland_trample": {
-    "title": "[NYI] Barefoot Ghost Dance on Bloodsoaked Soil",
+    "title": "Barefoot Ghost Dance on Bloodsoaked Soil",
     "frame": {
       "type": "texture",
       "data": {

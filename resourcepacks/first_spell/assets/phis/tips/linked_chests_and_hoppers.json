@@ -1,0 +1,29 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "Unlike "
+    },
+    {
+      "text": "Ender Chests",
+      "color": "dark_aqua"
+    },
+    {
+      "text": ", "
+    },
+    {
+      "text": "Linked Chests",
+      "color": "dark_aqua"
+    },
+    {
+      "text": " work with "
+    },
+    {
+      "text": "Hoppers",
+      "color": "dark_aqua"
+    },
+    {
+      "text": "."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "Sniffers",
+      "color": "red"
+    },
+    {
+      "text": " can dig up a plethora of interesting items like "
+    },
+    {
+      "text": "Caulorflowers",
+      "color": "dark_aqua"
+    },
+    {
+      "text": " or "
+    },
+    {
+      "text": "Ambushes",
+      "color": "dark_aqua"
+    },
+    {
+      "text": "."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "You can press ["
+    },
+    {
+      "keybind": "key.personality.crawl",
+      "color": "gold"
+    },
+    {
+      "text": "] to crawl into small spaces."
+    }
+  ]
+}

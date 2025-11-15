@@ -1,0 +1,22 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "To use an "
+    },
+    {
+      "text": "Altar of Fate",
+      "color": "dark_aqua"
+    },
+    {
+      "text": ", you need to charge it using "
+    },
+    {
+      "text": "Arcane Essence",
+      "color": "dark_aqua"
+    },
+    {
+      "text": "."
+    }
+  ]
+}

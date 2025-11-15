@@ -1,0 +1,33 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "Armorers",
+      "color": "red"
+    },
+    {
+      "text": ", "
+    },
+    {
+      "text": "Toolsmiths",
+      "color": "red"
+    },
+    {
+      "text": " and "
+    },
+    {
+      "text": "Weaponsmiths",
+      "color": "red"
+    },
+    {
+      "text": " will attempt to repair damaged "
+    },
+    {
+      "text": "Iron Golems",
+      "color": "red"
+    },
+    {
+      "text": " in their village during daytime."
+    }
+  ]
+}

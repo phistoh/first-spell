@@ -1,0 +1,22 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "You can harvest crops by pressing ["
+    },
+    {
+      "keybind": "key.use",
+      "color": "gold"
+    },
+    {
+      "text": "]. Holding a "
+    },
+    {
+      "text": "Hoe",
+      "color": "dark_aqua"
+    },
+    {
+      "text": " lets you harvest multiple blocks at the same time."
+    }
+  ]
+}

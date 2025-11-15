@@ -1,0 +1,15 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "The "
+    },
+    {
+      "text": "Glare",
+      "color": "red"
+    },
+    {
+      "text": " can show you areas that are dark enough for monsters to spawn."
+    }
+  ]
+}

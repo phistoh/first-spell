@@ -1,0 +1,12 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "Ducts",
+      "color": "dark_aqua"
+    },
+    {
+      "text": " send items into connected containers, but won't pull from them."
+    }
+  ]
+}

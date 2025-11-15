@@ -1,0 +1,15 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "You can craft "
+    },
+    {
+      "text": "Advancement Frames",
+      "color": "dark_aqua"
+    },
+    {
+      "text": " to show off your hard earned achievements!"
+    }
+  ]
+}

@@ -4,6 +4,7 @@ LootJS.lootTables((event) => {
     "minecraft:deepslate_diamond_ore",
     "deeperdarker:gloomslate_diamond_ore",
     "deeperdarker:sculk_stone_diamond_ore",
+    "ditr:obsidian_diamond_ore"
   ];
   for (const block of block_tables) {
     event.modifyBlockTables(block).createPool((pool) => {

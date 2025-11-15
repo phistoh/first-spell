@@ -1,0 +1,15 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "Every slot of a "
+    },
+    {
+      "text": "Nether Chests",
+      "color": "dark_aqua"
+    },
+    {
+      "text": " can hold up to eight times as many stackable items as normal."
+    }
+  ]
+}

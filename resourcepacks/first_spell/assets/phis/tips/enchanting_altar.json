@@ -1,0 +1,15 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "Using the "
+    },
+    {
+      "text": "Enchanting Altar",
+      "color": "dark_aqua"
+    },
+    {
+      "text": " lets you choose the enchantments you want to put on your equipment."
+    }
+  ]
+}

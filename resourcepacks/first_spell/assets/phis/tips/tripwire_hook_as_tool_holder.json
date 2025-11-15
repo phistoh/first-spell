@@ -1,8 +1,13 @@
 {
   "type": "tipsmod:simple",
   "text": [
+    "",
     {
-      "text": "Pressing ["
+      "text": "Tripwire Hooks",
+      "color": "dark_aqua"
+    },
+    {
+      "text": " can hold tools when you press "
     },
     {
       "keybind": "key.sneak",
@@ -16,7 +21,7 @@
       "color": "gold"
     },
     {
-      "text": "] with an empty hand toggles a filled item frame's visibility."
+      "text": "] on one."
     }
   ]
 }

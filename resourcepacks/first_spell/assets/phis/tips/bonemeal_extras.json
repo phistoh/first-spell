@@ -1,0 +1,50 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "You can use "
+    },
+    {
+      "text": "Bone Meal",
+      "color": "dark_aqua"
+    },
+    {
+      "text": " on "
+    },
+    {
+      "text": "Chorus Plants",
+      "color": "dark_aqua"
+    },
+    {
+      "text": ", "
+    },
+    {
+      "text": "Nether Warts",
+      "color": "dark_aqua"
+    },
+    {
+      "text": ", "
+    },
+    {
+      "text": "Pumpkins",
+      "color": "dark_aqua"
+    },
+    {
+      "text": ", "
+    },
+    {
+      "text": "Melons",
+      "color": "dark_aqua"
+    },
+    {
+      "text": " and "
+    },
+    {
+      "text": "Vines",
+      "color": "dark_aqua"
+    },
+    {
+      "text": " to accelerate their growth."
+    }
+  ]
+}

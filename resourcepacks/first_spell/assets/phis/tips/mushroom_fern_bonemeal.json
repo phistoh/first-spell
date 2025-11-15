@@ -1,0 +1,43 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "You can grow "
+    },
+    {
+      "text": "Mushrooms",
+      "color": "dark_aqua"
+    },
+    {
+      "text": " and "
+    },
+    {
+      "text": "Fern",
+      "color": "dark_aqua"
+    },
+    {
+      "text": " by using "
+    },
+    {
+      "text": "Bone Meal",
+      "color": "dark_aqua"
+    },
+    {
+      "text": " on "
+    },
+    {
+      "text": "Mycelium",
+      "color": "dark_aqua"
+    },
+    {
+      "text": " and "
+    },
+    {
+      "text": "Podzol",
+      "color": "dark_aqua"
+    },
+    {
+      "text": " respectively."
+    }
+  ]
+}

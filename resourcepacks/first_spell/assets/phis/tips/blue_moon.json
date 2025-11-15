@@ -1,0 +1,15 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "The blue moon is a lunar event that gives you the "
+    },
+    {
+      "text": "Luck",
+      "color": "green"
+    },
+    {
+      "text": " effect!"
+    }
+  ]
+}

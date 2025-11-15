@@ -1,0 +1,28 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "You can switch your offhand items by scrolling your mouse wheel while holding  ["
+    },
+    {
+      "keybind": "key.moreoffhandslots.scrollwheel_modifier",
+      "color": "gold"
+    },
+    {
+      "text": "]. Alternatively you can use ["
+    },
+    {
+      "keybind": "key.moreoffhandslots.prev_offhand",
+      "color": "gold"
+    },
+    {
+      "text": "] and ["
+    },{
+      "keybind": "key.moreoffhandslots.next_offhand",
+      "color": "gold"
+    },
+    {
+      "text": "] to switch between offhand items."
+    }
+  ]
+}

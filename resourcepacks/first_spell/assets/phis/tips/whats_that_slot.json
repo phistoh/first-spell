@@ -1,0 +1,22 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "Holding ["
+    },
+    {
+      "text": "Left Alt",
+      "color": "gold"
+    },
+    {
+      "text": "] over an empty slot shows which items the slot accepts. (Some slots accept items which do"
+    },
+    {
+      "text": "not",
+      "italic": true
+    },
+    {
+      "text": "correspond to a valid recipe. These still are shown.)"
+    }
+  ]
+}

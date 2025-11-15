@@ -1,0 +1,22 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    {
+      "text": "You can reveal the "
+    },
+    {
+      "text": "curse",
+      "obfuscated": true
+    },
+    {
+      "text": " of an cursed item by using it or by combining it with "
+    },
+    {
+      "text": "Arcane Essence",
+      "color": "dark_aqua"
+    },
+    {
+      "text": " in an anvil."
+    }
+  ]
+}
