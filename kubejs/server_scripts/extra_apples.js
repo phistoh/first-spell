@@ -13,7 +13,7 @@ const entry = LootEntry.alternative(
     ).negate()
   ) &&
     condition.matchPlayerCustom((player) => {
-      return player.tags.contains("phis.extraapples");
+      return player && player.tags.contains("phis.extraapples");
     });
 });
 

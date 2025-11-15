@@ -11,6 +11,7 @@ EntityEvents.beforeHurt((event) => {
   if (
     player.tags.contains("phis.kiss_of_our_dark_mother") &&
     player.mainHandItem.hasTag("c:tools/knife") &&
+    player.hasEffect("minecraft:invisibility") &&
     entity.health <= player.health
   ) {
     entity.kill();

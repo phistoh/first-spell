@@ -16,17 +16,3 @@ StartupEvents.registry("mob_effect", (event) => {
       "add_multiplied_base"
     );
 });
-
-StartupEvents.registry("mob_effect", (event) => {
-  event
-    .create("bleeding")
-    .color(0x330000)
-    .harmful()
-    .effectTick((entity, lvl) => {
-      if (!entity || entity.level.isClientSide()) return;
-      if (entity.server.tickCount % 20 == 0) {
-        const damageAmount = entity.getMaxHealth() * (0.05 + lvl/100);
-        entity.attack(entity.damageSources().generic(), damageAmount);
-      }
-    });
-});

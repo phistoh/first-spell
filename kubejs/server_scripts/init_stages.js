@@ -155,7 +155,8 @@ AStages.addRestrictionForItem(
 )
   .setCanBeStoredInInventory(true)
   .setCanBeStoredInContainers(true)
-  .setCanPickedUp(true);
+  .setCanPickedUp(true)
+  .setJadeBlockMessage(stack => Component.gray(stack.getHoverName()));
 
 // Arcane Essence
 AStages.addRestrictionForRecipe(

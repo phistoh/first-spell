@@ -1088,7 +1088,7 @@
     ]
   },
   "iron_to_gold": {
-    "title": "[NYI] The Alchemist's Dream",
+    "title": "The Alchemist's Dream",
     "frame": {
       "type": "texture",
       "data": {
@@ -1273,7 +1273,7 @@
     ]
   },
   "craft_fated_altar": {
-    "title": "[NYI] I Raised this Stone as a Ghastly Memorial",
+    "title": "I Raised this Stone as a Ghastly Memorial",
     "frame": {
       "type": "texture",
       "data": {
@@ -1342,7 +1342,7 @@
     ]
   },
   "cheat_death": {
-    "title": "[NYI] Withstand the Fall of Time",
+    "title": "Withstand the Fall of Time",
     "frame": {
       "type": "texture",
       "data": {
@@ -1441,7 +1441,18 @@
         "text": "milk ...everything",
         "color": "gold"
       },
-      { "text": "?" }
+      { "text": "?" },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": [
+      "",
+      { "text": "'Everything' includes every " },
+      { "text": "entity", "underlined": true, "color": "gray" },
+      { "text": "." }
     ],
     "rewards": [
       {
@@ -1453,7 +1464,7 @@
     ]
   },
   "no_phantoms": {
-    "title": "[NYI] Somniphobia",
+    "title": "Somniphobia",
     "frame": {
       "type": "texture",
       "data": {
@@ -1494,7 +1505,7 @@
     ]
   },
   "warrior_1": {
-    "title": "[NYI] You Will Know the Lion by His Claws",
+    "title": "You Will Know the Lion by His Claws",
     "frame": {
       "type": "texture",
       "data": {
@@ -1570,7 +1581,7 @@
     ]
   },
   "warrior_2": {
-    "title": "[NYI] Speed of Blood",
+    "title": "Speed of Blood",
     "frame": {
       "type": "texture",
       "data": {
@@ -1605,7 +1616,7 @@
     ]
   },
   "warrior_3": {
-    "title": "[NYI] Bleed With Me -- Use Apothic Attributes Bleeding effect!",
+    "title": "Bleed With Me",
     "frame": {
       "type": "texture",
       "data": {
@@ -1623,7 +1634,9 @@
     },
     "description": [
       "",
-      { "text": "Your attacks have a chance to inflict " },
+      { "text": "Your attacks have a " },
+      { "text": "25%", "color": "green" },
+      { "text": " chance to inflict " },
       {
         "text": "Bleeding",
         "color": "dark_red"
@@ -1662,7 +1675,7 @@
     ]
   },
   "warrior_4": {
-    "title": "[NYI] Teeth Grinding",
+    "title": "Teeth Grinding",
     "frame": {
       "type": "texture",
       "data": {
@@ -1703,7 +1716,7 @@
     ]
   },
   "warrior_5": {
-    "title": "[NYI] ...As Long As Winds Will Blow... -- Überarbeiten?",
+    "title": "...As Long As Winds Will Blow...",
     "frame": {
       "type": "texture",
       "data": {
@@ -1791,7 +1804,7 @@
     "required_skills": 0
   },
   "assassin_2": {
-    "title": "[NYI] Hide in Shade",
+    "title": "Hide in Shade",
     "frame": {
       "type": "texture",
       "data": {
@@ -1807,7 +1820,15 @@
         "effect": "minecraft:invisibility"
       }
     },
-    "description": "You become invisible after killing an enemy.",
+    "description": [
+      "",
+      { "text": "When you kill an enemy, you become " },
+      {
+        "text": "invisible",
+        "color": "green"
+      },
+      { "text": " for a short time." }
+    ],
     "rewards": [
       {
         "type": "puffish_skills:tag",
@@ -1818,7 +1839,7 @@
     ]
   },
   "assassin_3": {
-    "title": "[NYI] In Mist We Walk",
+    "title": "In Mist We Walk",
     "frame": {
       "type": "texture",
       "data": {
@@ -1855,7 +1876,7 @@
     ]
   },
   "assassin_4": {
-    "title": "[NYI] Disciple of the Heinous Path",
+    "title": "Disciple of the Heinous Path",
     "frame": {
       "type": "texture",
       "data": {
@@ -1871,7 +1892,21 @@
         "item": "farmersdelight:iron_knife"
       }
     },
-    "description": "You deal more damage with knives.",
+    "description": [
+      "",
+      { "text": "You deal " },
+      {
+        "text": "50%",
+        "color": "green"
+      },
+      { "text": " more " },
+      {
+        "text": "damage",
+        "color": "gold"
+      },
+      { "text": " with knives." }
+      
+    ],
     "rewards": [
       {
         "type": "puffish_skills:tag",
@@ -1882,7 +1917,7 @@
     ]
   },
   "assassin_5": {
-    "title": "[NYI] Kiss of our Dark Mother",
+    "title": "Kiss of our Dark Mother",
     "frame": {
       "type": "texture",
       "data": {
@@ -1898,7 +1933,26 @@
         "item": "minecraft:wither_rose"
       }
     },
-    "description": "tbd. (Kill on HP)",
+    "description": [
+      "",
+      { "text": "While " },
+      {
+        "text": "invisible",
+        "color": "green"
+      },
+      { "text": " and using a  " },
+      {
+        "text": "knife",
+        "color": "gold"
+      },
+      { "text": " you instantly slay enemies which have " },
+      {
+        "text": "less health than you",
+        "color": "green"
+      },
+      { "text": "." }
+      
+    ],
     "rewards": [
       {
         "type": "puffish_skills:tag",

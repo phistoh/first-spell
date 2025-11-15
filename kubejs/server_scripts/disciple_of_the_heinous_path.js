@@ -9,7 +9,6 @@ EntityEvents.beforeHurt((event) => {
   if (entity.level.clientSide) return;
 
   if (
-    player.hasEffect("minecraft:invisibility") &&
     player.tags.contains("phis.disciple_of_the_heinous_path") &&
     player.mainHandItem.hasTag("c:tools/knife")
   ) {
