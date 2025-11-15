@@ -1266,7 +1266,7 @@
     ]
   },
   "extra_apples": {
-    "title": "[NYI] And the Forests Dream Eternally",
+    "title": "And the Forests Dream Eternally",
     "frame": {
       "type": "texture",
       "data": {
@@ -1282,12 +1282,21 @@
         "item": "minecraft:oak_sapling"
       }
     },
-    "description": "When collecting leaves, you sometimes are able to find {item}.",
+    "description": [
+      "",
+      { "text": "When collecting leaves, you sometimes are able to find " },
+      {
+        "text": "Golden Apples and Encahnted Golden Apples",
+        "italic": true,
+        "color": "dark_aqua"
+      },
+      { "text": "." }
+    ],
     "rewards": [
       {
         "type": "puffish_skills:tag",
         "data": {
-          "tag": "phis.extrasomething"
+          "tag": "phis.extraapples"
         }
       }
     ]
