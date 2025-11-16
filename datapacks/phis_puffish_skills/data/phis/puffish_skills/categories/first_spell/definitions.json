@@ -2029,7 +2029,7 @@
         "item": "minecraft:campfire"
       }
     },
-    "description": "You gain knockback resistance",
+    "description": "tbd. (You gain knockback resistance)",
     "rewards": [
       {
         "type": "puffish_skills:attribute",
@@ -2066,7 +2066,7 @@
         "item": "minecraft:white_wool"
       }
     },
-    "description": "You gain absorbtion when blocking an attack",
+    "description": "tbd. (You gain absorbtion when blocking an attack)",
     "rewards": [
       {
         "type": "puffish_skills:tag",
@@ -2140,7 +2140,7 @@
     ]
   },
   "hunter_1": {
-    "title": "[NYI] An Arrow in Heart",
+    "title": "Dread Reaver",
     "frame": {
       "type": "texture",
       "data": {
@@ -2153,20 +2153,18 @@
     "icon": {
       "type": "item",
       "data": {
-        "item": "minecraft:arrow"
+        "item": "minecraft:yellow_concrete"
       }
     },
-    "description": "You are able to craft special arrows.",
+    "description": "You deal increased damage against fully healed enemies",
     "rewards": [
       {
-        "type": "astages:stage_reward",
+        "type": "puffish_skills:tag",
         "data": {
-          "stage": "phis_stage_hunter_arrows",
-          "operation": "add"
+          "tag": "phis.dread_reaver"
         }
       }
-    ],
-    "required_skills": 0
+    ]
   },
   "hunter_2": {
     "title": "From Wilderness Came Death",
@@ -2185,7 +2183,7 @@
         "item": "minecraft:bone"
       }
     },
-    "description": "You tamed creatures are more effective",
+    "description": "tbd. (You tamed creatures are more effective)",
     "rewards": [
       {
         "type": "puffish_skills:attribute",
@@ -2206,7 +2204,7 @@
     ]
   },
   "hunter_3": {
-    "title": "[NYI] Wolves Guard my Coffin",
+    "title": "Wolves Guard my Coffin",
     "frame": {
       "type": "texture",
       "data": {
@@ -2233,7 +2231,7 @@
     ]
   },
   "hunter_4": {
-    "title": "[NYI] tbd.",
+    "title": "tbd.",
     "frame": {
       "type": "texture",
       "data": {
@@ -2246,21 +2244,22 @@
     "icon": {
       "type": "item",
       "data": {
-        "item": "minecraft:yellow_concrete"
+        "item": "minecraft:arrow"
       }
     },
-    "description": "You deal increased damage against fully healed enemies",
+    "description": "tbd. (Mehr Schaden, wenn weiter weg)",
     "rewards": [
       {
         "type": "puffish_skills:tag",
         "data": {
-          "tag": "phis.full_health_damage"
+          "tag": "phis.dragons_breath"
         }
       }
-    ]
+    ],
+    "required_skills": 0
   },
   "hunter_5": {
-    "title": "[NYI] One by One",
+    "title": "One by One",
     "frame": {
       "type": "texture",
       "data": {
