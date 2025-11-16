@@ -1905,7 +1905,6 @@
         "color": "gold"
       },
       { "text": " with knives." }
-      
     ],
     "rewards": [
       {
@@ -1951,7 +1950,6 @@
         "color": "green"
       },
       { "text": "." }
-      
     ],
     "rewards": [
       {
@@ -1970,7 +1968,7 @@
     ]
   },
   "knight_1": {
-    "title": "[NYI] The Last Guardian",
+    "title": "The Last Guardian",
     "frame": {
       "type": "texture",
       "data": {
@@ -1986,7 +1984,25 @@
         "item": "minecraft:shield"
       }
     },
-    "description": "You gain additional damage reduction when carrying a shield.",
+    "description": [
+      "",
+      { "text": "You take " },
+      {
+        "text": "25%",
+        "color": "green"
+      },
+      { "text": " less " },
+      {
+        "text": "damage",
+        "color": "gold"
+      },
+      { "text": " while carrying a " },
+      {
+        "text": "shield",
+        "color": "dark_aqua"
+      },
+      { "text": " in your offhand." }
+    ],
     "rewards": [
       {
         "type": "puffish_skills:tag",
@@ -1997,7 +2013,7 @@
     ]
   },
   "knight_2": {
-    "title": "[NYI] Baptised in Fire and Ice",
+    "title": "Baptised in Fire and Ice",
     "frame": {
       "type": "texture",
       "data": {
@@ -2034,7 +2050,7 @@
     ]
   },
   "knight_3": {
-    "title": "[NYI] tbd.",
+    "title": "A Shield with an Iron Face",
     "frame": {
       "type": "texture",
       "data": {
@@ -2061,7 +2077,7 @@
     ]
   },
   "knight_4": {
-    "title": "tbd.",
+    "title": "Shadow of the Mountain",
     "frame": {
       "type": "texture",
       "data": {
@@ -2077,7 +2093,7 @@
         "item": "minecraft:anvil"
       }
     },
-    "description": "Your invincibility windows after taking damage is increased.",
+    "description": "Your invincibility window after taking damage is increased.",
     "rewards": [
       {
         "type": "puffish_skills:attribute",
@@ -2090,7 +2106,7 @@
     ]
   },
   "knight_5": {
-    "title": "[NYI] Messenger of the Light",
+    "title": "Messenger of the Light",
     "frame": {
       "type": "texture",
       "data": {
@@ -2300,7 +2316,7 @@
       { "text": "You gain " },
       { "text": "one", "color": "green" },
       { "text": " additional " },
-      { "text": "heart", "italic": true, "color": "gold" },
+      { "text": "♥", "color": "dark_red" },
       { "text": "." }
     ],
     "rewards": [

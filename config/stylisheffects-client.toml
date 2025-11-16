@@ -233,7 +233,7 @@
 		hide_infinite_duration = false
 		#Show duration for ambient effects.
 		#Default Value: false
-		ambient_duration = false
+		ambient_duration = true
 		#Top corner to draw effect amplifier in, or none.
 		#Default Value: TOP_RIGHT
 		#Allowed Values: NONE, TOP_LEFT, TOP_RIGHT

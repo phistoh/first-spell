@@ -722,7 +722,7 @@ _version = 3
 				# 
 				# USE_WORLD_FOG_COLOR: Use the world's fog color. 
 				# USE_SKY_COLOR: Use the sky's color.
-				colorMode = "USE_WORLD_FOG_COLOR"
+				colorMode = "USE_SKY_COLOR"
 				#
 				# How should the fog thickness should be calculated? 
 				# 
