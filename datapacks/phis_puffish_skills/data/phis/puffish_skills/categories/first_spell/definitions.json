@@ -2292,6 +2292,133 @@
       }
     ]
   },
+  "fire_mage_1": {
+    "title": "[NYI] As Embers Dress the Sky",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": "You deal increased damage against fully healed enemies",
+    "rewards": []
+  },
+  "fire_mage_2": {
+    "title": "A Sword of Promethean Fire",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": "tbd. (You learn how to cast Firebolt without a spell book.)",
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "additional_attributes:innate_spell/irons_spellbooks/firebolt",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fire_mage_3": {
+    "title": "A Sword of Promethean Fire",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": "You learn how to cast Firebolt without a spell book.",
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:fire_spell_power",
+          "value": 0.1,
+          "operation": "multiply_base"
+        }
+      }
+    ]
+  },
+  "fire_mage_4": {
+    "title": "[NYI] Gloria Ablaze",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": "You learn how to cast Firebolt without a spell book.",
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:fire_spell_power",
+          "value": 0.2,
+          "operation": "multiply_base"
+        }
+      }
+    ]
+  },
+  "fire_mage_5": {
+    "title": "[NYI] Blessing of the Fire-Bearer",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": "You learn how to cast Firebolt without a spell book.",
+    "rewards": []
+  },
 
   "max_health": {
     "title": "tbd.",
@@ -2312,11 +2439,8 @@
     },
     "description": [
       "",
-      { "text": "You gain " },
-      { "text": "one", "color": "green" },
-      { "text": " additional " },
-      { "text": "♥", "color": "dark_red" },
-      { "text": "." }
+      { "text": "+1 " },
+      { "text": "♥", "color": "#ff1313" }
     ],
     "rewards": [
       {
@@ -2348,11 +2472,8 @@
     },
     "description": [
       "",
-      { "text": "You gain " },
-      { "text": "50", "color": "green" },
-      { "text": " additional " },
-      { "text": "mana", "italic": true, "color": "gold" },
-      { "text": "." }
+      { "text": "+50 " },
+      { "text": "mana", "color": "#008fb9" }
     ],
     "rewards": [
       {
@@ -2384,11 +2505,8 @@
     },
     "description": [
       "",
-      { "text": "Your " },
-      { "text": "mana", "italic": true, "color": "gold" },
-      { "text": " regenerates " },
-      { "text": "20 percent", "color": "green" },
-      { "text": " faster." }
+      { "text": "+20% " },
+      { "text": "mana regeneration", "color": "#008fb9" }
     ],
     "rewards": [
       {
@@ -2420,11 +2538,8 @@
     },
     "description": [
       "",
-      { "text": "Your " },
-      { "text": "spell cooldowns", "italic": true, "color": "gold" },
-      { "text": " are " },
-      { "text": "25 percent", "color": "green" },
-      { "text": " faster." }
+      { "text": "+25% " },
+      { "text": "spell cooldown reduction", "color": "#008fb9" }
     ],
     "rewards": [
       {
@@ -2456,11 +2571,8 @@
     },
     "description": [
       "",
-      { "text": "You deal " },
-      { "text": "15 percent", "color": "green" },
-      { "text": " more " },
-      { "text": "melee damage", "italic": true, "color": "gold" },
-      { "text": "." },
+      { "text": "+5% " },
+      { "text": "melee damage", "color": "dark_green" },
       {
         "text": " [...]",
         "italic": true,
@@ -2484,7 +2596,7 @@
         "type": "puffish_skills:attribute",
         "data": {
           "attribute": "puffish_attributes:melee_damage",
-          "value": 0.15,
+          "value": 0.05,
           "operation": "multiply_base"
         }
       }
@@ -2509,11 +2621,8 @@
     },
     "description": [
       "",
-      { "text": "You deal " },
-      { "text": "15 percent", "color": "green" },
-      { "text": " more " },
-      { "text": "ranged damage", "italic": true, "color": "gold" },
-      { "text": "." },
+      { "text": "+5% " },
+      { "text": "ranged damage", "color": "dark_green" },
       {
         "text": " [...]",
         "italic": true,
@@ -2562,11 +2671,8 @@
     },
     "description": [
       "",
-      { "text": "You take " },
-      { "text": "15 percent", "color": "green" },
-      { "text": " less " },
-      { "text": "melee damage", "italic": true, "color": "gold" },
-      { "text": "." },
+      { "text": "+15% " },
+      { "text": "melee damage reduction", "color": "dark_green" },
       {
         "text": " [...]",
         "italic": true,
@@ -2615,11 +2721,8 @@
     },
     "description": [
       "",
-      { "text": "You take " },
-      { "text": "15 percent", "color": "green" },
-      { "text": " less " },
-      { "text": "ranged damage", "italic": true, "color": "gold" },
-      { "text": "." },
+      { "text": "+15% " },
+      { "text": "ranged damage reduction", "color": "dark_green" },
       {
         "text": " [...]",
         "italic": true,
@@ -2668,11 +2771,8 @@
     },
     "description": [
       "",
-      { "text": "You take " },
-      { "text": "15 percent", "color": "green" },
-      { "text": " less " },
-      { "text": "magic damage", "italic": true, "color": "gold" },
-      { "text": "." },
+      { "text": "+15% " },
+      { "text": "magic damage reduction", "color": "dark_green" },
       {
         "text": " [...]",
         "italic": true,
@@ -2725,11 +2825,8 @@
     },
     "description": [
       "",
-      { "text": "When you are healed, you " },
-      { "text": "heal", "italic": true, "color": "gold" },
-      { "text": " for " },
-      { "text": "50 percent", "color": "green" },
-      { "text": " more." }
+      { "text": "+50% " },
+      { "text": "healing from all sources", "color": "dark_green" }
     ],
     "rewards": [
       {
@@ -2761,11 +2858,8 @@
     },
     "description": [
       "",
-      { "text": "Your " },
-      { "text": "mining speed", "italic": true, "color": "gold" },
-      { "text": " increases by " },
-      { "text": "15 percent", "color": "green" },
-      { "text": "." }
+      { "text": "+15% " },
+      { "text": "mining speed", "color": "dark_green" }
     ],
     "rewards": [
       {
@@ -2797,11 +2891,8 @@
     },
     "description": [
       "",
-      { "text": "Your " },
-      { "text": "sprint speed", "italic": true, "color": "gold" },
-      { "text": " increases by " },
-      { "text": "15 percent", "color": "green" },
-      { "text": "." }
+      { "text": "+15% " },
+      { "text": "sprint speed", "color": "dark_green" }
     ],
     "rewards": [
       {
@@ -2833,12 +2924,15 @@
     },
     "description": [
       "",
-      { "text": "Your " },
-      { "text": "safe fall height", "italic": true, "color": "gold" },
-      { "text": " increases by " },
-      { "text": "one block", "color": "green" },
-      { "text": "." }
+      { "text": "+1 block " },
+      { "text": "safe fall height", "color": "dark_green" },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
     ],
+    "extra_description": "The default safe fall height is four blocks.",
     "rewards": [
       {
         "type": "puffish_skills:attribute",
@@ -2869,11 +2963,8 @@
     },
     "description": [
       "",
-      { "text": "Your " },
-      { "text": "speed while mounted", "italic": true, "color": "gold" },
-      { "text": " increases by " },
-      { "text": "25 percent", "color": "green" },
-      { "text": "." }
+      { "text": "+25% " },
+      { "text": "mount speed", "color": "dark_green" }
     ],
     "rewards": [
       {
@@ -2905,11 +2996,9 @@
     },
     "description": [
       "",
-      { "text": "While on snow, your " },
-      { "text": "movement speed", "italic": true, "color": "gold" },
-      { "text": " increases by " },
-      { "text": "50 percent", "color": "green" },
-      { "text": "." }
+      { "text": "+50% " },
+      { "text": "movement speed", "color": "dark_green" },
+      { "text": " while on snow" }
     ],
     "rewards": [
       {
