@@ -1,48 +1,53 @@
-// Listen to item registry event
 ServerEvents.tags("item", (event) => {
+  // Make Corrupted Blade behave like Farmer's Delight knives
+  event.add("c:enchantable/damage_primary", "endermanoverhaul:corrupted_blade");
+  event.add(
+    "c:enchantable/fire_aspect_primary",
+    "endermanoverhaul:corrupted_blade"
+  );
+  event.add("c:enchantable/knockback", "endermanoverhaul:corrupted_blade");
+  event.add("c:enchantable/mob_loot", "endermanoverhaul:corrupted_blade");
+  event.add("c:enchantables", "endermanoverhaul:corrupted_blade");
+  event.add("c:tools", "endermanoverhaul:corrupted_blade");
   event.add("c:tools/knife", "endermanoverhaul:corrupted_blade");
+  event.add(
+    "farmersdelight:enchantable/knife",
+    "endermanoverhaul:corrupted_blade"
+  );
+  event.add(
+    "farmersdelight:straw_harvesters",
+    "endermanoverhaul:corrupted_blade"
+  );
+  event.add("farmersdelight:tools/knives", "endermanoverhaul:corrupted_blade");
+  event.add(
+    "majospellenchantment:mana_reaper_compatible",
+    "endermanoverhaul:corrupted_blade"
+  );
+  event.add(
+    "minecraft:breaks_decorated_pots",
+    "endermanoverhaul:corrupted_blade"
+  );
+  event.add(
+    "minecraft:enchantable/durability",
+    "endermanoverhaul:corrupted_blade"
+  );
+  event.add(
+    "minecraft:enchantable/fire_aspect",
+    "endermanoverhaul:corrupted_blade"
+  );
+  event.add("minecraft:enchantable/mining", "endermanoverhaul:corrupted_blade");
+  event.add(
+    "minecraft:enchantable/mining_loot",
+    "endermanoverhaul:corrupted_blade"
+  );
+  event.add(
+    "minecraft:enchantable/sharp_weapon",
+    "endermanoverhaul:corrupted_blade"
+  );
+  event.add("minecraft:enchantable/sword", "endermanoverhaul:corrupted_blade");
+  event.add(
+    "minecraft:enchantable/vanishing",
+    "endermanoverhaul:corrupted_blade"
+  );
+  event.add("minecraft:enchantable/weapon", "endermanoverhaul:corrupted_blade");
 });
-
-/*
-
-Item in hand:
-[22:47:05] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - 'endermanoverhaul:corrupted_blade[damage=1]'
-[22:47:05] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - '#c:tools/knife'
-[22:47:05] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - '#fated_inventory:allow_modified_components'
-[22:47:05] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - '#yigd:soulbindable'
-[22:47:05] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - '#c:tools'
-[22:47:05] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - '#amendments:goes_in_tripwire_hook'
-[22:47:05] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - '@endermanoverhaul'
-[22:47:08] [Thread-30/INFO] [EMI/]: [EMI] Finishing up
-[22:47:08] [Thread-30/INFO] [EMI/]: [EMI] Reloaded EMI in 10483ms
-[22:47:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] Item in hand:
-[22:47:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - 'farmersdelight:diamond_knife'
-[22:47:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - '#minecraft:enchantable/fire_aspect'
-[22:47:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - '#c:tools/knife'
-[22:47:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - '#c:enchantable/knockback'
-[22:47:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - '#minecraft:enchantable/sword'
-[22:47:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - '#minecraft:enchantable/sharp_weapon'
-[22:47:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - '#c:tools'
-[22:47:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - '#majospellenchantment:mana_reaper_compatible'
-[22:47:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - '#farmersdelight:enchantable/knife'
-[22:47:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - '#amendments:goes_in_tripwire_hook'
-[22:47:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - '#c:enchantable/mob_loot'
-[22:47:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - '#yigd:soulbindable'
-[22:47:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - '#minecraft:enchantable/weapon'
-[22:47:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - '#farmersdelight:straw_harvesters'
-[22:47:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - '#c:enchantable/damage_primary'
-[22:47:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - '#c:enchantables'
-[22:47:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - '#minecraft:enchantable/mining'
-[22:47:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - '#minecraft:enchantable/mining_loot'
-[22:47:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - '#minecraft:enchantable/vanishing'
-[22:47:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - '#c:enchantable/fire_aspect_primary'
-[22:47:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - '#farmersdelight:tools/knives'
-[22:47:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - '#minecraft:enchantable/durability'
-[22:47:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - '#fated_inventory:allow_modified_components'
-[22:47:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - '#minecraft:breaks_decorated_pots'
-[22:47:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - '@farmersdelight'
-[22:47:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - '%minecraft:search'
-[22:47:23] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - '%farmersdelight:farmersdelight'
-
-
-*/

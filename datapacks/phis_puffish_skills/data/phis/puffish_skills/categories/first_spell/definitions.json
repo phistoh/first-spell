@@ -88,7 +88,7 @@
     ]
   },
   "tier_diamond": {
-    "title": "A Jewel Traced Through Coal",
+    "title": "Handful of Stars",
     "frame": {
       "type": "texture",
       "data": {
@@ -550,7 +550,7 @@
   },
 
   "fortune_1": {
-    "title": "tbd.",
+    "title": "A Distant Glow",
     "frame": {
       "type": "texture",
       "data": {
@@ -586,7 +586,7 @@
     ]
   },
   "fortune_2": {
-    "title": "tbd.",
+    "title": "Honey and Sulphur",
     "frame": {
       "type": "texture",
       "data": {
@@ -659,7 +659,7 @@
     ]
   },
   "mana_leech": {
-    "title": "[NYI] tbd.",
+    "title": "[NYI] Across the World of Wonders",
     "frame": {
       "type": "texture",
       "data": {
@@ -686,8 +686,8 @@
     "rewards": []
   },
 
-  "fall_damage_reduction_4": {
-    "title": "tbd.",
+  "fall_damage_immunity": {
+    "title": "They Escaped the Weight of Darkness",
     "frame": {
       "type": "texture",
       "data": {
@@ -1174,7 +1174,7 @@
     ]
   },
   "curios_ring": {
-    "title": "tbd.",
+    "title": "Third of the Storms",
     "frame": {
       "type": "texture",
       "data": {
@@ -1504,6 +1504,639 @@
       }
     ]
   },
+  "extract_various": {
+    "title": "[NYI] Children of the Harvest",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_bed"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You learn how to collect " },
+      {
+        "text": "???",
+        "color": "dark_aqua"
+      },
+      { "text": " using glass bottles." },
+      {
+        "text": " [...]\n",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": [
+      "",
+      { "text": "Press [" },
+      {
+        "keybind": "key.use",
+        "color": "gold"
+      },
+      { "text": "] on " },
+      { "text": "the respective fluid holding a " },
+      {
+        "text": "Glass Bottle",
+        "color": "dark_aqua"
+      },
+      {
+        "text": " to get the corresponding bottle."
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "phis.extract_various"
+        }
+      }
+    ]
+  },
+  "extract_blood": {
+    "title": "[NYI] The Soil Runs Red",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_bed"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You learn how to collect " },
+      {
+        "text": "blood",
+        "color": "dark_red"
+      },
+      { "text": "without hurting yourself." },
+      {
+        "text": " [...]\n",
+        "italic": true,
+        "color": "gray"
+      },
+      {
+        "text": "—'Why perform an occult ritual when you can collect the blood for free?'",
+        "color": "gray",
+        "italic": true
+      }
+    ],
+    "extra_description": [
+      "",
+      { "text": "Press [" },
+      {
+        "keybind": "key.use",
+        "color": "gold"
+      },
+      { "text": "] on " },
+      {
+        "text": "Biomes O' Plenty",
+        "color": "blue",
+        "bold": true
+      },
+      { "text": "'s blood while holding an empty " },
+      {
+        "text": "Glass Bottle",
+        "color": "dark_aqua"
+      },
+      {
+        "text": " to get a "
+      },
+      {
+        "text": "Blood Vial",
+        "color": "dark_aqua"
+      },
+      {
+        "text": "."
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "phis.extract_blood"
+        }
+      }
+    ]
+  },
+  "backpack_tier_2": {
+    "title": "[NYI] Inner Sanctum",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:copper_ingot"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You are able to craft and use " },
+      { "text": "Backpacks", "color": "dark_aqua" },
+      { "text": " made of " },
+      { "text": "Diamond", "color": "green" },
+      { "text": "." }
+    ],
+    "rewards": [
+      {
+        "type": "astages:stage_reward",
+        "data": {
+          "stage": "phis_stage_backpack_diamond",
+          "operation": "add"
+        }
+      }
+    ]
+  },
+  "backpack_tier_4": {
+    "title": "[NYI] Infinite Density",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:copper_ingot"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You are able to craft and use " },
+      { "text": "Backpacks", "color": "dark_aqua" },
+      { "text": " made of " },
+      { "text": "(tbd.)", "color": "green" },
+      { "text": "." }
+    ],
+    "rewards": [
+      {
+        "type": "astages:stage_reward",
+        "data": {
+          "stage": "phis_stage_backpack_tbd",
+          "operation": "add"
+        }
+      }
+    ]
+  },
+  "infinite_dimensions": {
+    "title": "[NYI] A Walk Beyond Utter Blackness",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:copper_ingot"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You are able to craft and use " },
+      { "text": "(tbd.)", "color": "dark_aqua" },
+      { "text": " which are used to enter the " },
+      { "text": "Infinite Dimensions", "color": "green", "italic": true },
+      { "text": "." }
+    ],
+    "rewards": [
+      {
+        "type": "astages:stage_reward",
+        "data": {
+          "stage": "phis_stage_infinite_key",
+          "operation": "add"
+        }
+      }
+    ]
+  },
+  "better_hooks": {
+    "title": "[NYI] Out of the Grave",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:copper_ingot"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You are able to craft and use " },
+      { "text": "Diamond", "color": "dark_aqua" },
+      { "text": ", " },
+      { "text": "Redstone", "color": "dark_aqua" },
+      { "text": " and " },
+      { "text": "Ender Grappling Hooks", "color": "dark_aqua" },
+      { "text": "." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "Diamond Hooks have higher reach, Ender Hooks are faster and Redstone Hooks allow creative flight in a small radius.",
+    "rewards": [
+      {
+        "type": "astages:stage_reward",
+        "data": {
+          "stage": "phis_stage_backpack_tbd",
+          "operation": "add"
+        }
+      }
+    ]
+  },
+  "fishing_luck": {
+    "title": "Moonrise in Total Darkness",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:wind_charged"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You gain " },
+      { "text": "one level", "color": "green" },
+      { "text": " of the " },
+      { "text": "Luck", "italic": true, "color": "dark_purple" },
+      { "text": " enchantment." }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "additional_attributes:fishing_luck",
+          "value": 1,
+          "operation": "add"
+        }
+      }
+    ]
+  },
+  "fishing_lure": {
+    "title": "Deep Lake Trespass",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:wind_charged"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You gain " },
+      { "text": "one level", "color": "green" },
+      { "text": " of the " },
+      { "text": "Lure", "italic": true, "color": "dark_purple" },
+      { "text": " enchantment." }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "additional_attributes:fishing_lure",
+          "value": 1,
+          "operation": "add"
+        }
+      }
+    ]
+  },
+  "cold_damage": {
+    "title": "At the Heart of Winter",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:wind_charged"
+      }
+    },
+    "description": [
+      "",
+      { "text": "Your attacks deal " },
+      { "text": "2", "color": "green" },
+      { "text": " additional " },
+      { "text": "Cold Damage", "color": "aqua" },
+      { "text": "." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "Cold damage is bonus magic damage that slows enemies hit.",
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "apothic_attributes:cold_damage",
+          "value": 2,
+          "operation": "add"
+        }
+      }
+    ]
+  },
+  "fire_damage": {
+    "title": "Inhale the Embers",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:wind_charged"
+      }
+    },
+    "description": [
+      "",
+      { "text": "Your attacks deal " },
+      { "text": "2", "color": "green" },
+      { "text": " additional " },
+      { "text": "Fire Damage", "color": "#F9801D" },
+      { "text": "." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "Fire damage is bonus magic damage that burns enemies hit.",
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "apothic_attributes:fire_damage",
+          "value": 2,
+          "operation": "add"
+        }
+      }
+    ]
+  },
+  "casting_movespeed": {
+    "title": "Outstrider",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:wind_charged"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You move " },
+      { "text": "25%", "color": "green" },
+      { "text": " " },
+      { "text": "less slow", "color": "gold" },
+      { "text": " while casting spells." }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:casting_movespeed",
+          "value": 0.25,
+          "operation": "multiply_base"
+        }
+      }
+    ]
+  },
+  "diamond_in_coal": {
+    "title": "[NYI] A Jewel Traced Through Coal",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:diamond_ore"
+      }
+    },
+    "description": [
+      "",
+      { "text": "When mining coal you sometimes find " },
+      { "text": "diamonds", "color": "dark_aqua" },
+      { "text": "." }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "phis.diamond_in_coal"
+        }
+      }
+    ]
+  },
+  "shorter_effects": {
+    "title": "Risen from the Rain",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:diamond_ore"
+      }
+    },
+    "description": [
+      "",
+      { "text": "Negative effects have a shorter duration on you." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "Affected effets are '(tbd.)'.",
+    "rewards": [
+      {
+        "type": "pufferfish_unofficial_additions:effect",
+        "data": {
+          "effect": "minecraft:slowness",
+          "amplifier": -2,
+          "duration_modification": "/2",
+          "type": "MODIFY"
+        }
+      }
+    ]
+  },
+  "void_immunity": {
+    "title": "[NYI] Far Beyond the Stars",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:diamond_ore"
+      }
+    },
+    "description": [
+      "",
+      { "text": "(tbd.)" },
+      {
+        "text": " [...]\n",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "(tbd.)",
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "phis.void_immunity"
+        }
+      }
+    ]
+  },
+  "dragons_breath": {
+    "title": "[NYI] Dragons Breath",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:copper_ingot"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You are able to craft " },
+      { "text": "Dragon's Breath", "color": "dark_aqua" },
+      { "text": "." }
+    ],
+    "rewards": [
+      {
+        "type": "astages:stage_reward",
+        "data": {
+          "stage": "phis_stage_dragons_breath",
+          "operation": "add"
+        }
+      }
+    ]
+  },
+
+  "comment_1": {
+    "title": " ================================================================================ CLASS ARCHETYPES BELOW ================================================================================",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "artifacts:digging_claws"
+      }
+    },
+    "description": "Do not implement",
+    "rewards": []
+  },
+
   "warrior_1": {
     "title": "You Will Know the Lion by His Claws",
     "frame": {
@@ -2252,7 +2885,7 @@
       {
         "type": "puffish_skills:tag",
         "data": {
-          "tag": "phis.dragons_breath"
+          "tag": "phis.tbd"
         }
       }
     ],
@@ -2420,8 +3053,29 @@
     "rewards": []
   },
 
+  "comment_2": {
+    "title": " ================================================================================ STAT BUFFS BELOW ================================================================================",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "artifacts:digging_claws"
+      }
+    },
+    "description": "Do not implement",
+    "rewards": []
+  },
+
   "max_health": {
-    "title": "tbd.",
+    "title": "A Desolate Heart",
     "frame": {
       "type": "texture",
       "data": {
@@ -2437,11 +3091,7 @@
         "effect": "minecraft:regeneration"
       }
     },
-    "description": [
-      "",
-      { "text": "+1 " },
-      { "text": "♥", "color": "#ff1313" }
-    ],
+    "description": ["", { "text": "+1 " }, { "text": "♥", "color": "#ff1313" }],
     "rewards": [
       {
         "type": "puffish_skills:attribute",
@@ -2603,7 +3253,7 @@
     ]
   },
   "ranged_damage": {
-    "title": "tbd.",
+    "title": "An Arrow in Heart",
     "frame": {
       "type": "texture",
       "data": {
@@ -2653,7 +3303,7 @@
     ]
   },
   "melee_resistance": {
-    "title": "tbd.",
+    "title": "Broken Sword",
     "frame": {
       "type": "texture",
       "data": {
@@ -2703,7 +3353,7 @@
     ]
   },
   "ranged_resistance": {
-    "title": "tbd.",
+    "title": "Ethereal",
     "frame": {
       "type": "texture",
       "data": {
@@ -2753,7 +3403,7 @@
     ]
   },
   "magic_resistance": {
-    "title": "tbd.",
+    "title": "Starspawn",
     "frame": {
       "type": "texture",
       "data": {
@@ -2807,7 +3457,7 @@
     ]
   },
   "double_healing": {
-    "title": "tbd.",
+    "title": "Last Benediction",
     "frame": {
       "type": "texture",
       "data": {
@@ -2840,7 +3490,7 @@
     ]
   },
   "mining_speed": {
-    "title": "tbd.",
+    "title": "Come All Ye Coal Miners",
     "frame": {
       "type": "texture",
       "data": {
@@ -2873,7 +3523,7 @@
     ]
   },
   "sprint_speed": {
-    "title": "tbd.",
+    "title": "Unchained",
     "frame": {
       "type": "texture",
       "data": {
@@ -2906,7 +3556,7 @@
     ]
   },
   "fall_damage_reduction": {
-    "title": "tbd.",
+    "title": "From the Pagan Vastlands",
     "frame": {
       "type": "texture",
       "data": {
@@ -2938,6 +3588,45 @@
         "type": "puffish_skills:attribute",
         "data": {
           "attribute": "puffish_attributes:fall_reduction",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "jump_height": {
+    "title": "A Traveller of Unknown Plains",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:slow_falling"
+      }
+    },
+    "description": [
+      "",
+      { "text": "+1 block " },
+      { "text": "jump height", "color": "dark_green" },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "The default jump height is one block.",
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:jump",
           "value": 1,
           "operation": "addition"
         }
@@ -2977,7 +3666,7 @@
       }
     ]
   },
-  "walk_on_snow_1": {
+  "walk_on_snow": {
     "title": "Of Ice and Movement...",
     "frame": {
       "type": "texture",
@@ -3010,5 +3699,25 @@
         }
       }
     ]
+  },
+  "comment_3": {
+    "title": " ================================================================================ MAJOR STAT BUFFS BELOW ================================================================================",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "artifacts:digging_claws"
+      }
+    },
+    "description": "Do not implement",
+    "rewards": []
   }
 }
