@@ -298,7 +298,7 @@
     "icon": {
       "type": "item",
       "data": {
-        "item": "minecraft:andesite"
+        "item": "waystones:waystone"
       }
     },
     "description": [
@@ -481,7 +481,7 @@
       }
     ]
   },
-  "craft_irons_pellbooks_scroll_forge": {
+  "craft_irons_spellbooks_scroll_forge": {
     "title": "[NYI] Moonspell Rites",
     "frame": {
       "type": "texture",
@@ -514,7 +514,7 @@
       }
     ]
   },
-  "craft_ironspellbooks_arcane_anvil": {
+  "craft_irons_spellbooks_arcane_anvil": {
     "title": "Runes Shall You Know",
     "frame": {
       "type": "texture",
@@ -528,7 +528,7 @@
     "icon": {
       "type": "item",
       "data": {
-        "item": "irons_spellbooks:scroll_forge"
+        "item": "irons_spellbooks:arcane_anvil"
       }
     },
     "description": [
@@ -988,7 +988,7 @@
     "icon": {
       "type": "item",
       "data": {
-        "item": "minecraft:diamond_ore"
+        "item": "minecraft:diamond"
       }
     },
     "description": [
@@ -1180,7 +1180,7 @@
     "icon": {
       "type": "item",
       "data": {
-        "item": "minecraft:elytra"
+        "item": "irons_spellbooks:poisonward_ring"
       }
     },
     "description": [
@@ -1310,7 +1310,7 @@
     "icon": {
       "type": "item",
       "data": {
-        "item": "minecraft:oak_sapling"
+        "item": "minecraft:golden_apple"
       }
     },
     "description": [
@@ -1512,7 +1512,7 @@
     "icon": {
       "type": "item",
       "data": {
-        "item": "minecraft:red_bed"
+        "item": "kubejs:arcane_infused_bottle"
       }
     },
     "description": [
@@ -1569,7 +1569,7 @@
     "icon": {
       "type": "item",
       "data": {
-        "item": "minecraft:red_bed"
+        "item": "irons_spellbooks:blood_vial"
       }
     },
     "description": [
@@ -1643,7 +1643,7 @@
     "icon": {
       "type": "item",
       "data": {
-        "item": "minecraft:copper_ingot"
+        "item": "yyzsbackpack:diamond_backpack"
       }
     },
     "description": [
@@ -1678,7 +1678,7 @@
     "icon": {
       "type": "item",
       "data": {
-        "item": "minecraft:copper_ingot"
+        "item": "yyzsbackpack:diamond_backpack"
       }
     },
     "description": [
@@ -1748,7 +1748,7 @@
     "icon": {
       "type": "item",
       "data": {
-        "item": "minecraft:copper_ingot"
+        "item": "hooked:diamond_hook"
       }
     },
     "description": [
@@ -1983,7 +1983,7 @@
     "icon": {
       "type": "item",
       "data": {
-        "item": "minecraft:diamond_ore"
+        "item": "minecraft:diamond"
       }
     },
     "description": [
@@ -2094,7 +2094,7 @@
     "icon": {
       "type": "item",
       "data": {
-        "item": "minecraft:copper_ingot"
+        "item": "minecraft:dragon_breath"
       }
     },
     "description": [
