@@ -23,9 +23,9 @@
       { "text": " and  " },
       { "text": "tools", "color": "dark_aqua" },
       { "text": " made of " },
-      { "text": "copper", "color": "green" },
+      { "text": "copper", "color": "#B4684D" },
       { "text": " and  " },
-      { "text": "gold", "color": "green" },
+      { "text": "gold", "color": "#DEB12D" },
       { "text": "." },
       {
         "text": " [...]",
@@ -68,7 +68,7 @@
       { "text": " and  " },
       { "text": "tools", "italic": true, "color": "dark_aqua" },
       { "text": " made of " },
-      { "text": "iron", "color": "green" },
+      { "text": "iron", "color": "#CECACA" },
       { "text": "." },
       {
         "text": " [...]",
@@ -111,7 +111,7 @@
       { "text": " and " },
       { "text": "tools", "italic": true, "color": "dark_aqua" },
       { "text": " made of " },
-      { "text": "diamond", "color": "green" },
+      { "text": "diamond", "color": "#2CBAA8" },
       { "text": "." },
       {
         "text": " [...]",
@@ -154,7 +154,7 @@
       { "text": " and  " },
       { "text": "tools", "italic": true, "color": "dark_aqua" },
       { "text": " made of " },
-      { "text": "netherite", "color": "green" },
+      { "text": "netherite", "color": "#443A3B" },
       { "text": "." },
       {
         "text": " [...]",
@@ -197,9 +197,9 @@
       { "text": " and  " },
       { "text": "tools", "italic": true, "color": "dark_aqua" },
       { "text": " made of " },
-      { "text": "Reinforced Echo Shards", "color": "green" },
+      { "text": "Reinforced Echo Shards", "color": "#0A5060" },
       { "text": " and " },
-      { "text": "Resonarium", "color": "green" },
+      { "text": "Resonarium", "color": "#4DD4FA" },
       { "text": "." },
       {
         "text": " [...]",
@@ -271,7 +271,7 @@
     "description": [
       "",
       { "text": "You are able to craft and use " },
-      { "text": "Warp Stones", "italic": true, "color": "dark_aqua" },
+      { "text": "Warp Stones", "color": "dark_aqua" },
       { "text": "." }
     ],
     "rewards": [
@@ -304,7 +304,7 @@
     "description": [
       "",
       { "text": "You are able to craft " },
-      { "text": "Waystones", "italic": true, "color": "dark_aqua" },
+      { "text": "Waystones", "color": "dark_aqua" },
       { "text": "." }
     ],
     "rewards": [
@@ -337,7 +337,7 @@
     "description": [
       "",
       { "text": "You are able to craft " },
-      { "text": "Arcane Essence", "italic": true, "color": "dark_aqua" },
+      { "text": "Arcane Essence", "color": "dark_aqua" },
       { "text": "." }
     ],
     "rewards": [
@@ -370,7 +370,7 @@
     "description": [
       "",
       { "text": "You sometimes find " },
-      { "text": "Arcane Essence", "italic": true, "color": "dark_aqua" },
+      { "text": "Arcane Essence", "color": "dark_aqua" },
       { "text": " when slaying mobs." }
     ],
     "rewards": [
@@ -382,7 +382,6 @@
       }
     ]
   },
-
   "regeneration": {
     "title": "[NYI] Blood of the Hermit",
     "frame": {
@@ -403,9 +402,9 @@
     "description": [
       "",
       { "text": "You slowly " },
-      { "text": "regenerate", "color": "green" },
+      { "text": "regenerate", "color": "dark_blue" },
       { "text": " " },
-      { "text": "health", "italic": true, "color": "gold" },
+      { "text": "health", "color": "dark_green" },
       { "text": "." }
     ],
     "rewards": []
@@ -430,9 +429,9 @@
     "description": [
       "",
       { "text": "You have a " },
-      { "text": "50%", "color": "green" },
+      { "text": "50%", "color": "dark_blue" },
       { "text": " chance to keep " },
-      { "text": "spell scrolls", "italic": true, "color": "dark_aqua" },
+      { "text": "spell scrolls", "color": "dark_aqua" },
       { "text": " when using them to cast a spell." }
     ],
     "rewards": [
@@ -466,9 +465,9 @@
     "description": [
       "",
       { "text": "You " },
-      { "text": "always", "color": "green" },
+      { "text": "always", "color": "dark_blue" },
       { "text": " keep " },
-      { "text": "spell scrolls", "italic": true, "color": "dark_aqua" },
+      { "text": "spell scrolls", "color": "dark_aqua" },
       { "text": " when using them to cast a spell." }
     ],
     "rewards": [
@@ -502,7 +501,7 @@
     "description": [
       "",
       { "text": "You are able to craft and use " },
-      { "text": "Scroll Forges", "italic": true, "color": "dark_aqua" },
+      { "text": "Scroll Forges", "color": "dark_aqua" },
       { "text": "." }
     ],
     "rewards": [
@@ -535,7 +534,7 @@
     "description": [
       "",
       { "text": "You are able to craft and use " },
-      { "text": "Arcane Anvils", "italic": true, "color": "dark_aqua" },
+      { "text": "Arcane Anvils", "color": "dark_aqua" },
       { "text": "." }
     ],
     "rewards": [
@@ -569,9 +568,9 @@
     "description": [
       "",
       { "text": "You gain " },
-      { "text": "25%", "color": "green" },
+      { "text": "25%", "color": "dark_blue" },
       { "text": " " },
-      { "text": "fortune", "italic": true, "color": "gold" },
+      { "text": "Fortune", "color": "dark_purple" },
       { "text": "." }
     ],
     "rewards": [
@@ -605,9 +604,9 @@
     "description": [
       "",
       { "text": "You gain " },
-      { "text": "one level", "color": "green" },
+      { "text": "one level", "color": "dark_blue" },
       { "text": " of " },
-      { "text": "looting", "italic": true, "color": "dark_purple" },
+      { "text": "looting", "color": "dark_purple" },
       { "text": "." }
     ],
     "rewards": [
@@ -642,9 +641,9 @@
     "description": [
       "",
       { "text": "When you deal damage you " },
-      { "text": "heal", "italic": true, "color": "gold" },
+      { "text": "heal", "color": "dark_green" },
       { "text": " for " },
-      { "text": "25%", "color": "green" },
+      { "text": "25%", "color": "dark_blue" },
       { "text": " of the damage dealt." }
     ],
     "rewards": [
@@ -678,9 +677,9 @@
     "description": [
       "",
       { "text": "When you deal damage you gain " },
-      { "text": "25%", "color": "green" },
+      { "text": "25%", "color": "dark_blue" },
       { "text": " of the damage dealt as " },
-      { "text": "mana", "italic": true, "color": "gold" },
+      { "text": "mana", "color": "#0093BD" },
       { "text": "." }
     ],
     "rewards": []
@@ -706,9 +705,9 @@
     "description": [
       "",
       { "text": "You are virtually " },
-      { "text": "immune", "color": "green" },
+      { "text": "immune", "color": "dark_blue" },
       { "text": " to " },
-      { "text": "fall damage", "italic": true, "color": "gold" },
+      { "text": "fall damage", "color": "dark_green" },
       { "text": "." },
       {
         "text": " [...]",
@@ -748,9 +747,9 @@
     "description": [
       "",
       { "text": "You are able to craft and use " },
-      { "text": "Muskets", "italic": true, "color": "dark_aqua" },
+      { "text": "Muskets", "color": "dark_aqua" },
       { "text": " and " },
-      { "text": "Bombs", "italic": true, "color": "dark_aqua" },
+      { "text": "Bombs", "color": "dark_aqua" },
       { "text": "." }
     ],
     "rewards": [
@@ -783,7 +782,7 @@
     "description": [
       "",
       { "text": "You are able to craft and use " },
-      { "text": "Hellfire Cartridges", "italic": true, "color": "dark_aqua" },
+      { "text": "Hellfire Cartridges", "color": "dark_aqua" },
       { "text": "." },
       {
         "text": " [...]",
@@ -822,7 +821,7 @@
     "description": [
       "",
       { "text": "You are able to craft and use " },
-      { "text": "Firework Rockets", "italic": true, "color": "dark_aqua" },
+      { "text": "Firework Rockets", "color": "dark_aqua" },
       { "text": "." },
       {
         "text": " [...]",
@@ -863,21 +862,20 @@
       {
         "text": "You are more comfortable underwater. The duration you can hold your "
       },
-      { "text": "breath", "italic": true, "color": "gold" },
+      { "text": "breath", "color": "dark_green" },
       { "text": " is " },
-      { "text": "doubled", "color": "green" },
+      { "text": "doubled", "color": "dark_blue" },
       { "text": ". In addition, your " },
       {
         "text": "mining speed while submerged",
-        "italic": true,
-        "color": "gold"
+        "color": "dark_green"
       },
       { "text": " is " },
-      { "text": "tripled", "color": "green" },
+      { "text": "tripled", "color": "dark_blue" },
       { "text": " and your " },
-      { "text": "water movement efficiency", "italic": true, "color": "gold" },
+      { "text": "water movement efficiency", "color": "dark_green" },
       { "text": " increases by " },
-      { "text": "50%", "color": "green" },
+      { "text": "50%", "color": "dark_blue" },
       { "text": "." }
     ],
     "rewards": [
@@ -927,7 +925,7 @@
     "description": [
       "",
       { "text": "You are able to craft and use " },
-      { "text": "Linked Pouches", "italic": true, "color": "dark_aqua" },
+      { "text": "Linked Pouches", "color": "dark_aqua" },
       { "text": "." }
     ],
     "rewards": [
@@ -960,9 +958,9 @@
     "description": [
       "",
       { "text": "You always gain " },
-      { "text": "one additional", "color": "green" },
+      { "text": "one additional", "color": "dark_blue" },
       { "text": " " },
-      { "text": "crop", "italic": true, "color": "gold" },
+      { "text": "crop", "color": "dark_aqua" },
       { "text": " when harvesting crops." }
     ],
     "rewards": [
@@ -996,9 +994,9 @@
     "description": [
       "",
       { "text": "When mining diamond ore you find " },
-      { "text": "one additional", "color": "green" },
+      { "text": "one additional", "color": "dark_blue" },
       { "text": " " },
-      { "text": "diamond", "italic": true, "color": "dark_aqua" },
+      { "text": "diamond", "color": "#2CBAA8" },
       { "text": "." }
     ],
     "rewards": [
@@ -1029,12 +1027,9 @@
     },
     "description": [
       "",
-      { "text": "When collecting rocks you " },
-      { "text": "sometimes", "color": "green" },
-      { "text": " find " },
+      { "text": "When collecting rocks you sometimes find " },
       {
         "text": "dust of different materials",
-        "italic": true,
         "color": "dark_aqua"
       },
       { "text": "." }
@@ -1068,7 +1063,7 @@
     "description": [
       "",
       { "text": "You understand the forbidden knowledge of the " },
-      { "text": "Eldritch", "color": "dark_purple" },
+      { "text": "Eldritch", "color": "#0f839c" },
       { "text": " spell school." },
       {
         "text": " [...]",
@@ -1107,9 +1102,9 @@
     "description": [
       "",
       { "text": "You learn how to transmute " },
-      { "text": "Iron Ingots", "color": "dark_aqua" },
+      { "text": "Iron Ingots", "color": "#CECACA" },
       { "text": " to " },
-      { "text": "Gold Ingots", "color": "dark_aqua" },
+      { "text": "Gold Ingots", "color": "#DEB12D" },
       { "text": " using a Cauldron." },
       {
         "text": " [...]",
@@ -1120,7 +1115,7 @@
     "extra_description": [
       "",
       { "text": "To transmute an " },
-      { "text": "Iron Ingot", "color": "dark_aqua" },
+      { "text": "Iron Ingot", "color": "#CECACA" },
       { "text": " hold it in your hand and press [" },
       { "keybind": "key.use", "color": "gold" },
       { "text": "] on a (regular) cauldron filled with " },
@@ -1156,11 +1151,9 @@
     "description": [
       "",
       { "text": "You can equip " },
-      { "text": "Elytra", "italic": true, "color": "dark_aqua" },
-      { "text": " in " },
-      { "text": "addition", "color": "green" },
-      { "text": " to your " },
-      { "text": "Backpack", "italic": true, "color": "dark_aqua" },
+      { "text": "Elytra", "color": "dark_aqua" },
+      { "text": " in addition to your " },
+      { "text": "Backpack", "color": "dark_aqua" },
       { "text": "." }
     ],
     "rewards": [
@@ -1192,10 +1185,8 @@
     },
     "description": [
       "",
-      { "text": "You can equip " },
-      { "text": "one additional", "color": "green" },
-      { "text": " " },
-      { "text": "ring", "italic": true, "color": "dark_aqua" },
+      { "text": "You can equip one additional " },
+      { "text": "ring", "color": "dark_aqua" },
       { "text": "." }
     ],
     "rewards": [
@@ -1228,7 +1219,7 @@
     "description": [
       "",
       { "text": "You sometimes find " },
-      { "text": "Spawn Eggs", "italic": true, "color": "dark_aqua" },
+      { "text": "Spawn Eggs", "color": "dark_aqua" },
       { "text": " when slaying mobs." }
     ],
     "rewards": [
@@ -1260,7 +1251,7 @@
     "description": [
       "",
       { "text": "You do not " },
-      { "text": "trample farmland", "italic": true, "color": "gold" },
+      { "text": "trample farmland", "color": "dark_blue" },
       { "text": "." }
     ],
     "rewards": [
@@ -1292,7 +1283,7 @@
     "description": [
       "",
       { "text": "You are able to craft and mine " },
-      { "text": "Fated Altars", "italic": true, "color": "dark_aqua" },
+      { "text": "Fated Altars", "color": "dark_aqua" },
       { "text": "." }
     ],
     "rewards": [
@@ -1326,8 +1317,12 @@
       "",
       { "text": "When collecting leaves, you sometimes are able to find " },
       {
-        "text": "Golden Apples and Encahnted Golden Apples",
-        "italic": true,
+        "text": "Golden Apples",
+        "color": "dark_aqua"
+      },
+      { "text": " and " },
+      {
+        "text": "Enchanted Golden Apples",
         "color": "dark_aqua"
       },
       { "text": "." }
@@ -1363,13 +1358,12 @@
       { "text": "When you take lethal damage, you " },
       {
         "text": "survive with one heart",
-        "color": "gold"
+        "color": "dark_green"
       },
       { "text": ". This effect cannot occur more than once every " },
       {
         "text": "five minutes",
-        "italic": true,
-        "color": "blue"
+        "color": "yellow"
       },
       { "text": "." }
     ],
@@ -1404,7 +1398,7 @@
       { "text": "You are able to " },
       {
         "text": "milk sheep",
-        "color": "gold"
+        "color": "dark_green"
       },
       { "text": "." }
     ],
@@ -1439,7 +1433,7 @@
       { "text": "You are able to " },
       {
         "text": "milk ...everything",
-        "color": "gold"
+        "color": "dark_green"
       },
       { "text": "?" },
       {
@@ -1482,10 +1476,10 @@
     },
     "description": [
       "",
-      { "text": "You do not need to " },
+      { "text": "You do " },
       {
-        "text": "sleep",
-        "color": "gold"
+        "text": "not need to sleep",
+        "color": "dark_green"
       },
       { "text": "." },
       {
@@ -1545,7 +1539,7 @@
       { "text": "] on " },
       { "text": "the respective fluid holding a " },
       {
-        "text": "Glass Bottle",
+        "text": "Arcane Infused Bottle",
         "color": "dark_aqua"
       },
       {
@@ -1612,7 +1606,7 @@
       },
       { "text": "'s blood while holding an empty " },
       {
-        "text": "Glass Bottle",
+        "text": "Arcane Infused Bottle",
         "color": "dark_aqua"
       },
       {
@@ -1657,7 +1651,7 @@
       { "text": "You are able to craft and use " },
       { "text": "Backpacks", "color": "dark_aqua" },
       { "text": " made of " },
-      { "text": "Diamond", "color": "green" },
+      { "text": "Diamond", "color": "#2CBAA8" },
       { "text": "." }
     ],
     "rewards": [
@@ -1727,7 +1721,7 @@
       { "text": "You are able to craft and use " },
       { "text": "(tbd.)", "color": "dark_aqua" },
       { "text": " which are used to enter the " },
-      { "text": "Infinite Dimensions", "color": "green", "italic": true },
+      { "text": "Infinite Dimensions", "italic": true },
       { "text": "." }
     ],
     "rewards": [
@@ -1760,11 +1754,11 @@
     "description": [
       "",
       { "text": "You are able to craft and use " },
-      { "text": "Diamond", "color": "dark_aqua" },
+      { "text": "Diamond", "color": "#2CBAA8" },
       { "text": ", " },
-      { "text": "Redstone", "color": "dark_aqua" },
+      { "text": "Redstone", "color": "#971607" },
       { "text": " and " },
-      { "text": "Ender Grappling Hooks", "color": "dark_aqua" },
+      { "text": "Ender Grappling Hooks", "color": "light_purple" },
       { "text": "." },
       {
         "text": " [...]",
@@ -1803,9 +1797,9 @@
     "description": [
       "",
       { "text": "You gain " },
-      { "text": "one level", "color": "green" },
+      { "text": "one level", "color": "dark_blue" },
       { "text": " of the " },
-      { "text": "Luck", "italic": true, "color": "dark_purple" },
+      { "text": "Luck", "color": "dark_purple" },
       { "text": " enchantment." }
     ],
     "rewards": [
@@ -1839,9 +1833,9 @@
     "description": [
       "",
       { "text": "You gain " },
-      { "text": "one level", "color": "green" },
+      { "text": "one level", "color": "dark_blue" },
       { "text": " of the " },
-      { "text": "Lure", "italic": true, "color": "dark_purple" },
+      { "text": "Lure", "color": "dark_purple" },
       { "text": " enchantment." }
     ],
     "rewards": [
@@ -1875,9 +1869,9 @@
     "description": [
       "",
       { "text": "Your attacks deal " },
-      { "text": "2", "color": "green" },
+      { "text": "2", "color": "dark_blue" },
       { "text": " additional " },
-      { "text": "Cold Damage", "color": "aqua" },
+      { "text": "Frost Damage", "color": "#d0f9ff" },
       { "text": "." },
       {
         "text": " [...]",
@@ -1885,7 +1879,7 @@
         "color": "gray"
       }
     ],
-    "extra_description": "Cold damage is bonus magic damage that slows enemies hit.",
+    "extra_description": "Frost damage is bonus magic damage that slows enemies hit.",
     "rewards": [
       {
         "type": "puffish_skills:attribute",
@@ -1917,9 +1911,9 @@
     "description": [
       "",
       { "text": "Your attacks deal " },
-      { "text": "2", "color": "green" },
+      { "text": "2", "color": "dark_blue" },
       { "text": " additional " },
-      { "text": "Fire Damage", "color": "#F9801D" },
+      { "text": "Flame Damage", "color": "#F9801D" },
       { "text": "." },
       {
         "text": " [...]",
@@ -1927,7 +1921,7 @@
         "color": "gray"
       }
     ],
-    "extra_description": "Fire damage is bonus magic damage that burns enemies hit.",
+    "extra_description": "Flame damage is bonus magic damage that burns enemies hit.",
     "rewards": [
       {
         "type": "puffish_skills:attribute",
@@ -1958,11 +1952,11 @@
     },
     "description": [
       "",
-      { "text": "You move " },
-      { "text": "25%", "color": "green" },
-      { "text": " " },
-      { "text": "less slow", "color": "gold" },
-      { "text": " while casting spells." }
+      { "text": "Your" },
+      { "text": "movement speed while casting", "color": "dark_green" },
+      { "text": " is " },
+      { "text": "25%", "color": "dark_blue" },
+      { "text": " higher." }
     ],
     "rewards": [
       {
@@ -1995,7 +1989,7 @@
     "description": [
       "",
       { "text": "When mining coal you sometimes find " },
-      { "text": "diamonds", "color": "dark_aqua" },
+      { "text": "diamonds", "color": "#2CBAA8" },
       { "text": "." }
     ],
     "rewards": [
@@ -2026,7 +2020,11 @@
     },
     "description": [
       "",
-      { "text": "Negative effects have a shorter duration on you." },
+      { "text": "The " },
+      { "text": "duration of negative effects", "color": "dark_green" },
+      { "text": " affecting you is " },
+      { "text": "halved", "color": "dark_blue" },
+      { "text": "." },
       {
         "text": " [...]",
         "italic": true,
@@ -2159,22 +2157,22 @@
       { "text": "You deal " },
       {
         "text": "50%",
-        "color": "green"
+        "color": "dark_blue"
       },
       { "text": " more " },
       {
         "text": "melee damage",
-        "color": "gold"
+        "color": "dark_green"
       },
       { "text": " but in addition you also take " },
       {
         "text": "10%",
-        "color": "green"
+        "color": "dark_blue"
       },
       { "text": " more " },
       {
         "text": "damage",
-        "color": "gold"
+        "color": "dark_green"
       },
       {
         "text": " [...]",
@@ -2235,7 +2233,7 @@
       { "text": "You gain " },
       {
         "text": "attack and movement speed",
-        "color": "gold"
+        "color": "dark_green"
       },
       { "text": " when low on health." }
     ],
@@ -2268,7 +2266,7 @@
     "description": [
       "",
       { "text": "Your attacks have a " },
-      { "text": "25%", "color": "green" },
+      { "text": "25%", "color": "dark_blue" },
       { "text": " chance to inflict " },
       {
         "text": "Bleeding",
@@ -2292,7 +2290,7 @@
       },
       {
         "text": " 1 + level damage every two seconds.",
-        "color": "green"
+        "color": "dark_blue"
       },
       {
         "text": " Things that apply bleeding usually stack."
@@ -2370,7 +2368,7 @@
       { "text": "Most attacks from mobs cannot kill you. You " },
       {
         "text": "survive with one heart",
-        "color": "gold"
+        "color": "dark_blue"
       },
       { "text": " instead." },
       {
@@ -2425,6 +2423,7 @@
       }
     },
     "description": "You are able to craft special poisons.",
+    "extra_description": "(tbd.)",
     "rewards": [
       {
         "type": "astages:stage_reward",
@@ -2458,7 +2457,7 @@
       { "text": "When you kill an enemy, you become " },
       {
         "text": "invisible",
-        "color": "green"
+        "color": "dark_green"
       },
       { "text": " for a short time." }
     ],
@@ -2488,7 +2487,7 @@
         "item": "minecraft:white_wool"
       }
     },
-    "description": "You sneak faster and are less visible to enemies",
+    "description": "You sneak faster and are less visible to enemies. (tbd.)",
     "rewards": [
       {
         "type": "puffish_skills:attribute",
@@ -2530,12 +2529,12 @@
       { "text": "You deal " },
       {
         "text": "50%",
-        "color": "green"
+        "color": "dark_blue"
       },
       { "text": " more " },
       {
         "text": "damage",
-        "color": "gold"
+        "color": "dark_green"
       },
       { "text": " with knives." }
     ],
@@ -2570,19 +2569,14 @@
       { "text": "While " },
       {
         "text": "invisible",
-        "color": "green"
+        "color": "dark_blue"
       },
-      { "text": " and using a  " },
+      { "text": " and using a " },
       {
         "text": "knife",
-        "color": "gold"
+        "color": "dark_aqua"
       },
-      { "text": " you instantly slay enemies which have " },
-      {
-        "text": "less health than you",
-        "color": "green"
-      },
-      { "text": "." }
+      { "text": " you instantly slay enemies which have less health than you." }
     ],
     "rewards": [
       {
@@ -2622,12 +2616,12 @@
       { "text": "You take " },
       {
         "text": "25%",
-        "color": "green"
+        "color": "dark_blue"
       },
       { "text": " less " },
       {
         "text": "damage",
-        "color": "gold"
+        "color": "dark_green"
       },
       { "text": " while carrying a " },
       {
@@ -2726,7 +2720,7 @@
         "item": "minecraft:anvil"
       }
     },
-    "description": "Your invincibility window after taking damage is increased.",
+    "description": "Your invincibility window after taking damage is doubled.",
     "rewards": [
       {
         "type": "puffish_skills:attribute",
@@ -2942,27 +2936,28 @@
         "item": "minecraft:red_concrete"
       }
     },
-    "description": "You deal increased damage against fully healed enemies",
-    "rewards": []
-  },
-  "fire_mage_2": {
-    "title": "A Sword of Promethean Fire",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+    "description": [
+      "",
+      { "text": "You learn how to cast " },
+      {
+        "text": "Fire Bolt",
+        "color": "gold"
+      },
+      {
+        "text": " without the use of a spell book.\nIn addition, you unlock "
+      },
+      {
+        "text": "Uncommon",
+        "color": "green"
+      },
+      { "text": " spells." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
       }
-    },
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:red_concrete"
-      }
-    },
-    "description": "tbd. (You learn how to cast Firebolt without a spell book.)",
+    ],
+    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
     "rewards": [
       {
         "type": "puffish_skills:attribute",
@@ -2971,11 +2966,18 @@
           "value": 1,
           "operation": "addition"
         }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "rarity set uncommon",
+          "lock_command": "rarity set common"
+        }
       }
     ]
   },
-  "fire_mage_3": {
-    "title": "A Sword of Promethean Fire",
+  "fire_mage_2": {
+    "title": "Feathers in Ashes",
     "frame": {
       "type": "texture",
       "data": {
@@ -2991,20 +2993,129 @@
         "item": "minecraft:red_concrete"
       }
     },
-    "description": "You learn how to cast Firebolt without a spell book.",
+    "description": [
+      "",
+      { "text": "You gain " },
+      {
+        "text": "50%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Fire resistence",
+        "color": "dark_green"
+      },
+      {
+        "text": ".\nIn addition, you unlock "
+      },
+      {
+        "text": "Rare",
+        "color": "aqua"
+      },
+      { "text": " spells." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
     "rewards": [
       {
         "type": "puffish_skills:attribute",
         "data": {
-          "attribute": "irons_spellbooks:fire_spell_power",
-          "value": 0.1,
+          "attribute": "irons_spellbooks:fire_magic_resist",
+          "value": 0.5,
           "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "rarity set rare",
+          "lock_command": "rarity set common"
+        }
+      }
+    ]
+  },
+  "fire_mage_3": {
+    "title": "Gloria Ablaze",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You gain " },
+      {
+        "text": "50%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Mana regeneration",
+        "color": "#0093BD"
+      },
+      {
+        "text": " for "
+      },
+      {
+        "text": "10 seconds",
+        "color": "yellow"
+      },
+      { "text": " after casting a " },
+      {
+        "text": "Fire spell",
+        "color": "gold"
+      },
+      {
+        "text": ".\nIn addition, you learn how to craft "
+      },
+      {
+        "text": "Fire Manuscripts",
+        "color": "gold"
+      },
+      { "text": "." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "Manuscripts are used to learn specific spells of the respective school.",
+    "rewards": [
+      {
+        "type": "astages:stage_reward",
+        "data": {
+          "stage": "phis_stage_manuscript_fire",
+          "operation": "add"
+        }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "phis.mana_regen_fire"
         }
       }
     ]
   },
   "fire_mage_4": {
-    "title": "[NYI] Gloria Ablaze",
+    "title": "[NYI] A Sword of Promethean Fire",
     "frame": {
       "type": "texture",
       "data": {
@@ -3020,14 +3131,56 @@
         "item": "minecraft:red_concrete"
       }
     },
-    "description": "You learn how to cast Firebolt without a spell book.",
+    "description": [
+      "",
+      { "text": "Your " },
+      {
+        "text": "Fire spells",
+        "color": "gold"
+      },
+      {
+        "text": " deal "
+      },
+      {
+        "text": "15%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " more "
+      },
+      {
+        "text": "damage",
+        "color": "dark_green"
+      },
+      {
+        "text": ".\nIn addition, you unlock "
+      },
+      {
+        "text": "Epic",
+        "color": "light_purple"
+      },
+      { "text": " spells." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
     "rewards": [
       {
         "type": "puffish_skills:attribute",
         "data": {
           "attribute": "irons_spellbooks:fire_spell_power",
-          "value": 0.2,
+          "value": 0.15,
           "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "rarity set epic",
+          "lock_command": "rarity set common"
         }
       }
     ]
@@ -3049,8 +3202,2710 @@
         "item": "minecraft:red_concrete"
       }
     },
-    "description": "You learn how to cast Firebolt without a spell book.",
-    "rewards": []
+    "description": [
+      "",
+      {
+        "text": "You learn how to craft "
+      },
+      {
+        "text": "(tbd. -- Fire Focus)",
+        "color": "gold"
+      },
+      { "text": "." },
+      {
+        "text": ".\nIn addition, you unlock "
+      },
+      {
+        "text": "Legendary",
+        "color": "light_purple"
+      },
+      { "text": " spells." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "rewards": [
+      {
+        "type": "astages:stage_reward",
+        "data": {
+          "stage": "phis_stage_focus_fire",
+          "operation": "add"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "rarity set legendary",
+          "lock_command": "rarity set common"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "team join firemage @s",
+          "lock_command": "team leave @s"
+        }
+      }
+    ]
+  },
+  "ice_mage_1": {
+    "title": "[NYI] A Church Bell Tolls Amidst the Frozen Nordic Winds",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You learn how to cast " },
+      {
+        "text": "Icicle",
+        "color": "#d0f9ff"
+      },
+      {
+        "text": " without the use of a spell book.\nIn addition, you unlock "
+      },
+      {
+        "text": "Uncommon",
+        "color": "green"
+      },
+      { "text": " spells." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "additional_attributes:innate_spell/irons_spellbooks/icicle",
+          "value": 1,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "rarity set uncommon",
+          "lock_command": "rarity set common"
+        }
+      }
+    ]
+  },
+  "ice_mage_2": {
+    "title": "Eyeless Winter",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You gain " },
+      {
+        "text": "50%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Ice resistence",
+        "color": "#d0f9ff"
+      },
+      {
+        "text": ".\nIn addition, you unlock "
+      },
+      {
+        "text": "Rare",
+        "color": "aqua"
+      },
+      { "text": " spells." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:ice_magic_resist",
+          "value": 0.5,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "rarity set rare",
+          "lock_command": "rarity set common"
+        }
+      }
+    ]
+  },
+  "ice_mage_3": {
+    "title": "Boreal Fiends",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You gain " },
+      {
+        "text": "50%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Mana regeneration",
+        "color": "#0093BD"
+      },
+      {
+        "text": " for "
+      },
+      {
+        "text": "10 seconds",
+        "color": "yellow"
+      },
+      { "text": " after casting an " },
+      {
+        "text": "Ice spell",
+        "color": "#d0f9ff"
+      },
+      {
+        "text": ".\nIn addition, you learn how to craft "
+      },
+      {
+        "text": "Ice Manuscripts",
+        "color": "#d0f9ff"
+      },
+      { "text": "." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "Manuscripts are used to learn specific spells of the respective school.",
+    "rewards": [
+      {
+        "type": "astages:stage_reward",
+        "data": {
+          "stage": "phis_stage_manuscript_ice",
+          "operation": "add"
+        }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "phis.mana_regen_ice"
+        }
+      }
+    ]
+  },
+  "ice_mage_4": {
+    "title": "The Son of Hoarfrost",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      { "text": "Your " },
+      {
+        "text": "Ice spells",
+        "color": "#d0f9ff"
+      },
+      {
+        "text": " deal "
+      },
+      {
+        "text": "15%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " more "
+      },
+      {
+        "text": "damage",
+        "color": "dark_green"
+      },
+      {
+        "text": ".\nIn addition, you unlock "
+      },
+      {
+        "text": "Epic",
+        "color": "light_purple"
+      },
+      { "text": " spells." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:ice_spell_power",
+          "value": 0.15,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "rarity set epic",
+          "lock_command": "rarity set common"
+        }
+      }
+    ]
+  },
+  "ice_mage_5": {
+    "title": "[NYI] The Call of the Wintermoon",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "You learn how to craft "
+      },
+      {
+        "text": "(tbd. -- Ice Focus)",
+        "color": "#d0f9ff"
+      },
+      { "text": "." },
+      {
+        "text": ".\nIn addition, you unlock "
+      },
+      {
+        "text": "Legendary",
+        "color": "light_purple"
+      },
+      { "text": " spells." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "rewards": [
+      {
+        "type": "astages:stage_reward",
+        "data": {
+          "stage": "phis_stage_focus_ice",
+          "operation": "add"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "rarity set legendary",
+          "lock_command": "rarity set common"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "team join icemage @s",
+          "lock_command": "team leave @s"
+        }
+      }
+    ]
+  },
+  "lightning_mage_1": {
+    "title": "[NYI] Arctic Thunder",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You learn how to cast " },
+      {
+        "text": "Volt Strike",
+        "color": "aqua"
+      },
+      {
+        "text": " without the use of a spell book.\nIn addition, you unlock "
+      },
+      {
+        "text": "Uncommon",
+        "color": "green"
+      },
+      { "text": " spells." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "additional_attributes:innate_spell/irons_spellbooks/volt_strike",
+          "value": 1,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "rarity set uncommon",
+          "lock_command": "rarity set common"
+        }
+      }
+    ]
+  },
+  "lightning_mage_2": {
+    "title": "When Autumn Storms Come",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You gain " },
+      {
+        "text": "50%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Lightning resistence",
+        "color": "aqua"
+      },
+      {
+        "text": ".\nIn addition, you unlock "
+      },
+      {
+        "text": "Rare",
+        "color": "aqua"
+      },
+      { "text": " spells." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:lightning_magic_resist",
+          "value": 0.5,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "rarity set rare",
+          "lock_command": "rarity set common"
+        }
+      }
+    ]
+  },
+  "lightning_mage_3": {
+    "title": "The Sorcerer Above the Clouds",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You gain " },
+      {
+        "text": "50%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Mana regeneration",
+        "color": "#0093BD"
+      },
+      {
+        "text": " for "
+      },
+      {
+        "text": "10 seconds",
+        "color": "yellow"
+      },
+      { "text": " after casting a " },
+      {
+        "text": "Lightning spell",
+        "color": "aqua"
+      },
+      {
+        "text": ".\nIn addition, you learn how to craft "
+      },
+      {
+        "text": "Lightning Manuscripts",
+        "color": "aqua"
+      },
+      { "text": "." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "Manuscripts are used to learn specific spells of the respective school.",
+    "rewards": [
+      {
+        "type": "astages:stage_reward",
+        "data": {
+          "stage": "phis_stage_manuscript_lightning",
+          "operation": "add"
+        }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "phis.mana_regen_lightning"
+        }
+      }
+    ]
+  },
+  "lightning_mage_4": {
+    "title": "Wield Lightning to Split the Sun",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      { "text": "Your " },
+      {
+        "text": "Lightning spells",
+        "color": "aqua"
+      },
+      {
+        "text": " deal "
+      },
+      {
+        "text": "15%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " more "
+      },
+      {
+        "text": "damage",
+        "color": "dark_green"
+      },
+      {
+        "text": ".\nIn addition, you unlock "
+      },
+      {
+        "text": "Epic",
+        "color": "light_purple"
+      },
+      { "text": " spells." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:lightning_spell_power",
+          "value": 0.15,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "rarity set epic",
+          "lock_command": "rarity set common"
+        }
+      }
+    ]
+  },
+  "lightning_mage_5": {
+    "title": "[NYI] Masters of Rain and Storm",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "You learn how to craft "
+      },
+      {
+        "text": "(tbd. -- Lightning Focus)",
+        "color": "aqua"
+      },
+      { "text": "." },
+      {
+        "text": ".\nIn addition, you unlock "
+      },
+      {
+        "text": "Legendary",
+        "color": "light_purple"
+      },
+      { "text": " spells." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "rewards": [
+      {
+        "type": "astages:stage_reward",
+        "data": {
+          "stage": "phis_stage_focus_lightning",
+          "operation": "add"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "rarity set legendary",
+          "lock_command": "rarity set common"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "team join lightningmage @s",
+          "lock_command": "team leave @s"
+        }
+      }
+    ]
+  },
+  "holy_mage_1": {
+    "title": "[NYI] Eternal Summer",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You learn how to cast " },
+      {
+        "text": "Guiding Bolt",
+        "color": "#fff8d4"
+      },
+      {
+        "text": " without the use of a spell book.\nIn addition, you unlock "
+      },
+      {
+        "text": "Uncommon",
+        "color": "green"
+      },
+      { "text": " spells." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "additional_attributes:innate_spell/irons_spellbooks/guiding_bolt",
+          "value": 1,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "rarity set uncommon",
+          "lock_command": "rarity set common"
+        }
+      }
+    ]
+  },
+  "holy_mage_2": {
+    "title": "Life Eternal",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You gain " },
+      {
+        "text": "50%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Holy resistence",
+        "color": "#fff8d4"
+      },
+      {
+        "text": ".\nIn addition, you unlock "
+      },
+      {
+        "text": "Rare",
+        "color": "aqua"
+      },
+      { "text": " spells." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:holy_magic_resist",
+          "value": 0.5,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "rarity set rare",
+          "lock_command": "rarity set common"
+        }
+      }
+    ]
+  },
+  "holy_mage_3": {
+    "title": "Invoke the Oath",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You gain " },
+      {
+        "text": "50%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Mana regeneration",
+        "color": "#0093BD"
+      },
+      {
+        "text": " for "
+      },
+      {
+        "text": "10 seconds",
+        "color": "yellow"
+      },
+      { "text": " after casting a " },
+      {
+        "text": "Holy spell",
+        "color": "#fff8d4"
+      },
+      {
+        "text": ".\nIn addition, you learn how to craft "
+      },
+      {
+        "text": "Holy Manuscripts",
+        "color": "#fff8d4"
+      },
+      { "text": "." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "Manuscripts are used to learn specific spells of the respective school.",
+    "rewards": [
+      {
+        "type": "astages:stage_reward",
+        "data": {
+          "stage": "phis_stage_manuscript_holy",
+          "operation": "add"
+        }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "phis.mana_regen_holy"
+        }
+      }
+    ]
+  },
+  "holy_mage_4": {
+    "title": "As the Sun",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      { "text": "Your " },
+      {
+        "text": "Holy spells",
+        "color": "#fff8d4"
+      },
+      {
+        "text": " deal "
+      },
+      {
+        "text": "15%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " more "
+      },
+      {
+        "text": "damage",
+        "color": "dark_green"
+      },
+      {
+        "text": ".\nIn addition, you unlock "
+      },
+      {
+        "text": "Epic",
+        "color": "light_purple"
+      },
+      { "text": " spells." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:holy_spell_power",
+          "value": 0.15,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "rarity set epic",
+          "lock_command": "rarity set common"
+        }
+      }
+    ]
+  },
+  "holy_mage_5": {
+    "title": "[NYI] The Call of the Wintermoon",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "You learn how to craft "
+      },
+      {
+        "text": "(tbd. -- Holy Focus)",
+        "color": "#fff8d4"
+      },
+      { "text": "." },
+      {
+        "text": ".\nIn addition, you unlock "
+      },
+      {
+        "text": "Legendary",
+        "color": "light_purple"
+      },
+      { "text": " spells." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "rewards": [
+      {
+        "type": "astages:stage_reward",
+        "data": {
+          "stage": "phis_stage_focus_holy",
+          "operation": "add"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "rarity set legendary",
+          "lock_command": "rarity set common"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "team join holymage @s",
+          "lock_command": "team leave @s"
+        }
+      }
+    ]
+  },
+  "ender_mage_1": {
+    "title": "[NYI] Where Dark and Light Don't Differ",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You learn how to cast " },
+      {
+        "text": "Magic Missile",
+        "color": "light_purple"
+      },
+      {
+        "text": " without the use of a spell book.\nIn addition, you unlock "
+      },
+      {
+        "text": "Uncommon",
+        "color": "green"
+      },
+      { "text": " spells." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "additional_attributes:innate_spell/irons_spellbooks/magic_missile",
+          "value": 1,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "rarity set uncommon",
+          "lock_command": "rarity set common"
+        }
+      }
+    ]
+  },
+  "ender_mage_2": {
+    "title": "Unearthing Cosmic Decay",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You gain " },
+      {
+        "text": "50%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Ender resistence",
+        "color": "light_purple"
+      },
+      {
+        "text": ".\nIn addition, you unlock "
+      },
+      {
+        "text": "Rare",
+        "color": "aqua"
+      },
+      { "text": " spells." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:ender_magic_resist",
+          "value": 0.5,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "rarity set rare",
+          "lock_command": "rarity set common"
+        }
+      }
+    ]
+  },
+  "ender_mage_3": {
+    "title": "In the Absence of Matter",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You gain " },
+      {
+        "text": "50%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Mana regeneration",
+        "color": "#0093BD"
+      },
+      {
+        "text": " for "
+      },
+      {
+        "text": "10 seconds",
+        "color": "yellow"
+      },
+      { "text": " after casting an " },
+      {
+        "text": "Ender spell",
+        "color": "light_purple"
+      },
+      {
+        "text": ".\nIn addition, you learn how to craft "
+      },
+      {
+        "text": "Ender Manuscripts",
+        "color": "light_purple"
+      },
+      { "text": "." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "Manuscripts are used to learn specific spells of the respective school.",
+    "rewards": [
+      {
+        "type": "astages:stage_reward",
+        "data": {
+          "stage": "phis_stage_manuscript_ender",
+          "operation": "add"
+        }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "phis.mana_regen_ender"
+        }
+      }
+    ]
+  },
+  "ender_mage_4": {
+    "title": "Bearer of Blackest Might",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      { "text": "Your " },
+      {
+        "text": "Ender spells",
+        "color": "light_purple"
+      },
+      {
+        "text": " deal "
+      },
+      {
+        "text": "15%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " more "
+      },
+      {
+        "text": "damage",
+        "color": "dark_green"
+      },
+      {
+        "text": ".\nIn addition, you unlock "
+      },
+      {
+        "text": "Epic",
+        "color": "light_purple"
+      },
+      { "text": " spells." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:ender_spell_power",
+          "value": 0.15,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "rarity set epic",
+          "lock_command": "rarity set common"
+        }
+      }
+    ]
+  },
+  "ender_mage_5": {
+    "title": "[NYI] Cosmic Significance",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "You learn how to craft "
+      },
+      {
+        "text": "(tbd. -- Ender Focus)",
+        "color": "light_purple"
+      },
+      { "text": "." },
+      {
+        "text": ".\nIn addition, you unlock "
+      },
+      {
+        "text": "Legendary",
+        "color": "light_purple"
+      },
+      { "text": " spells." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "rewards": [
+      {
+        "type": "astages:stage_reward",
+        "data": {
+          "stage": "phis_stage_focus_ender",
+          "operation": "add"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "rarity set legendary",
+          "lock_command": "rarity set common"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "team join endermage @s",
+          "lock_command": "team leave @s"
+        }
+      }
+    ]
+  },
+  "blood_mage_1": {
+    "title": "[NYI] A Scarlet Witch Lit the Season",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You learn how to cast " },
+      {
+        "text": "Ray of Siphoning",
+        "color": "dark_red"
+      },
+      {
+        "text": " without the use of a spell book.\nIn addition, you unlock "
+      },
+      {
+        "text": "Uncommon",
+        "color": "green"
+      },
+      { "text": " spells." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "additional_attributes:innate_spell/irons_spellbooks/ray_of_siphoning",
+          "value": 1,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "rarity set uncommon",
+          "lock_command": "rarity set common"
+        }
+      }
+    ]
+  },
+  "blood_mage_2": {
+    "title": "Sanguine Rituals",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You gain " },
+      {
+        "text": "50%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Blood resistence",
+        "color": "dark_red"
+      },
+      {
+        "text": ".\nIn addition, you unlock "
+      },
+      {
+        "text": "Rare",
+        "color": "aqua"
+      },
+      { "text": " spells." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:blood_magic_resist",
+          "value": 0.5,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "rarity set rare",
+          "lock_command": "rarity set common"
+        }
+      }
+    ]
+  },
+  "blood_mage_3": {
+    "title": "A Sanguine Tide Unleashed",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You gain " },
+      {
+        "text": "50%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Mana regeneration",
+        "color": "#0093BD"
+      },
+      {
+        "text": " for "
+      },
+      {
+        "text": "10 seconds",
+        "color": "yellow"
+      },
+      { "text": " after casting a " },
+      {
+        "text": "Blood spell",
+        "color": "dark_red"
+      },
+      {
+        "text": ".\nIn addition, you learn how to craft "
+      },
+      {
+        "text": "Blood Manuscripts",
+        "color": "dark_red"
+      },
+      { "text": "." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "Manuscripts are used to learn specific spells of the respective school.",
+    "rewards": [
+      {
+        "type": "astages:stage_reward",
+        "data": {
+          "stage": "phis_stage_manuscript_blood",
+          "operation": "add"
+        }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "phis.mana_regen_blood"
+        }
+      }
+    ]
+  },
+  "blood_mage_4": {
+    "title": "...where Blood Will Soon Be Shed",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      { "text": "Your " },
+      {
+        "text": "Blood spells",
+        "color": "dark_red"
+      },
+      {
+        "text": " deal "
+      },
+      {
+        "text": "15%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " more "
+      },
+      {
+        "text": "damage",
+        "color": "dark_green"
+      },
+      {
+        "text": ".\nIn addition, you unlock "
+      },
+      {
+        "text": "Epic",
+        "color": "light_purple"
+      },
+      { "text": " spells." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:blood_spell_power",
+          "value": 0.15,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "rarity set epic",
+          "lock_command": "rarity set common"
+        }
+      }
+    ]
+  },
+  "blood_mage_5": {
+    "title": "[NYI] Blood Magick Necromance",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "You learn how to craft "
+      },
+      {
+        "text": "(tbd. -- Blood Focus)",
+        "color": "dark_red"
+      },
+      { "text": "." },
+      {
+        "text": ".\nIn addition, you unlock "
+      },
+      {
+        "text": "Legendary",
+        "color": "light_purple"
+      },
+      { "text": " spells." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "rewards": [
+      {
+        "type": "astages:stage_reward",
+        "data": {
+          "stage": "phis_stage_focus_blood",
+          "operation": "add"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "rarity set legendary",
+          "lock_command": "rarity set common"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "team join bloodmage @s",
+          "lock_command": "team leave @s"
+        }
+      }
+    ]
+  },
+  "evocation_mage_1": {
+    "title": "[NYI] A Witch Is Born",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You learn how to cast " },
+      {
+        "text": "Firecracker",
+        "color": "white"
+      },
+      {
+        "text": " without the use of a spell book.\nIn addition, you unlock "
+      },
+      {
+        "text": "Uncommon",
+        "color": "green"
+      },
+      { "text": " spells." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "additional_attributes:innate_spell/irons_spellbooks/firecracker",
+          "value": 1,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "rarity set uncommon",
+          "lock_command": "rarity set common"
+        }
+      }
+    ]
+  },
+  "evocation_mage_2": {
+    "title": "Archaic Magic... A Cenotaph Below the Cursed Moon",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You gain " },
+      {
+        "text": "50%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Evocation resistence",
+        "color": "white"
+      },
+      {
+        "text": ".\nIn addition, you unlock "
+      },
+      {
+        "text": "Rare",
+        "color": "aqua"
+      },
+      { "text": " spells." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:evocation_magic_resist",
+          "value": 0.5,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "rarity set rare",
+          "lock_command": "rarity set common"
+        }
+      }
+    ]
+  },
+  "evocation_mage_3": {
+    "title": "Enthralling Mystery",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You gain " },
+      {
+        "text": "50%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Mana regeneration",
+        "color": "#0093BD"
+      },
+      {
+        "text": " for "
+      },
+      {
+        "text": "10 seconds",
+        "color": "yellow"
+      },
+      { "text": " after casting an " },
+      {
+        "text": "Evocation spell",
+        "color": "white"
+      },
+      {
+        "text": ".\nIn addition, you learn how to craft "
+      },
+      {
+        "text": "Evocation Manuscripts",
+        "color": "white"
+      },
+      { "text": "." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "Manuscripts are used to learn specific spells of the respective school.",
+    "rewards": [
+      {
+        "type": "astages:stage_reward",
+        "data": {
+          "stage": "phis_stage_manuscript_evocation",
+          "operation": "add"
+        }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "phis.mana_regen_evocation"
+        }
+      }
+    ]
+  },
+  "evocation_mage_4": {
+    "title": "Nameless Rites",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      { "text": "Your " },
+      {
+        "text": "Evocation spells",
+        "color": "white"
+      },
+      {
+        "text": " deal "
+      },
+      {
+        "text": "15%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " more "
+      },
+      {
+        "text": "damage",
+        "color": "dark_green"
+      },
+      {
+        "text": ".\nIn addition, you unlock "
+      },
+      {
+        "text": "Epic",
+        "color": "light_purple"
+      },
+      { "text": " spells." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:evocation_spell_power",
+          "value": 0.15,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "rarity set epic",
+          "lock_command": "rarity set common"
+        }
+      }
+    ]
+  },
+  "evocation_mage_5": {
+    "title": "[NYI] To Eve the Art of Witchcraft",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "You learn how to craft "
+      },
+      {
+        "text": "(tbd. -- Evocation Focus)",
+        "color": "white"
+      },
+      { "text": "." },
+      {
+        "text": ".\nIn addition, you unlock "
+      },
+      {
+        "text": "Legendary",
+        "color": "light_purple"
+      },
+      { "text": " spells." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "rewards": [
+      {
+        "type": "astages:stage_reward",
+        "data": {
+          "stage": "phis_stage_focus_evocation",
+          "operation": "add"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "rarity set legendary",
+          "lock_command": "rarity set common"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "team join evocationmage @s",
+          "lock_command": "team leave @s"
+        }
+      }
+    ]
+  },
+  "nature_mage_1": {
+    "title": "[NYI] Forest Whispers My Name",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You learn how to cast " },
+      {
+        "text": "Poison Arrow",
+        "color": "green"
+      },
+      {
+        "text": " without the use of a spell book.\nIn addition, you unlock "
+      },
+      {
+        "text": "Uncommon",
+        "color": "green"
+      },
+      { "text": " spells." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "additional_attributes:innate_spell/irons_spellbooks/poison_arrow",
+          "value": 1,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "rarity set uncommon",
+          "lock_command": "rarity set common"
+        }
+      }
+    ]
+  },
+  "nature_mage_2": {
+    "title": "In the Garden",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You gain " },
+      {
+        "text": "50%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Nature resistence",
+        "color": "green"
+      },
+      {
+        "text": ".\nIn addition, you unlock "
+      },
+      {
+        "text": "Rare",
+        "color": "aqua"
+      },
+      { "text": " spells." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:nature_magic_resist",
+          "value": 0.5,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "rarity set rare",
+          "lock_command": "rarity set common"
+        }
+      }
+    ]
+  },
+  "nature_mage_3": {
+    "title": "Chlorophyll",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You gain " },
+      {
+        "text": "50%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Mana regeneration",
+        "color": "#0093BD"
+      },
+      {
+        "text": " for "
+      },
+      {
+        "text": "10 seconds",
+        "color": "yellow"
+      },
+      { "text": " after casting a " },
+      {
+        "text": "Nature spell",
+        "color": "green"
+      },
+      {
+        "text": ".\nIn addition, you learn how to craft "
+      },
+      {
+        "text": "Nature Manuscripts",
+        "color": "green"
+      },
+      { "text": "." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "Manuscripts are used to learn specific spells of the respective school.",
+    "rewards": [
+      {
+        "type": "astages:stage_reward",
+        "data": {
+          "stage": "phis_stage_manuscript_nature",
+          "operation": "add"
+        }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "phis.mana_regen_nature"
+        }
+      }
+    ]
+  },
+  "nature_mage_4": {
+    "title": "Ferns and Roads",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      { "text": "Your " },
+      {
+        "text": "Nature spells",
+        "color": "green"
+      },
+      {
+        "text": " deal "
+      },
+      {
+        "text": "15%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " more "
+      },
+      {
+        "text": "damage",
+        "color": "dark_green"
+      },
+      {
+        "text": ".\nIn addition, you unlock "
+      },
+      {
+        "text": "Epic",
+        "color": "light_purple"
+      },
+      { "text": " spells." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:nature_spell_power",
+          "value": 0.15,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "rarity set epic",
+          "lock_command": "rarity set common"
+        }
+      }
+    ]
+  },
+  "nature_mage_5": {
+    "title": "[NYI] The Call of the Woods",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "You learn how to craft "
+      },
+      {
+        "text": "(tbd. -- Nature Focus)",
+        "color": "green"
+      },
+      { "text": "." },
+      {
+        "text": ".\nIn addition, you unlock "
+      },
+      {
+        "text": "Legendary",
+        "color": "light_purple"
+      },
+      { "text": " spells." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "rewards": [
+      {
+        "type": "astages:stage_reward",
+        "data": {
+          "stage": "phis_stage_focus_nature",
+          "operation": "add"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "rarity set legendary",
+          "lock_command": "rarity set common"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "team join naturemage @s",
+          "lock_command": "team leave @s"
+        }
+      }
+    ]
+  },
+  "sound_mage_1": {
+    "title": "[NYI] Primal Beauty of Silence",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You learn how to cast " },
+      {
+        "text": "[NYI -- search attribute] Clef",
+        "color": "#CFFFD2"
+      },
+      {
+        "text": " without the use of a spell book.\nIn addition, you unlock "
+      },
+      {
+        "text": "Uncommon",
+        "color": "green"
+      },
+      { "text": " spells." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "additional_attributes:innate_spell/irons_spellbooks/icicle",
+          "value": 1,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "rarity set uncommon",
+          "lock_command": "rarity set common"
+        }
+      }
+    ]
+  },
+  "sound_mage_2": {
+    "title": "Song to Hall Up High",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You gain " },
+      {
+        "text": "50%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Sound resistence",
+        "color": "#CFFFD2"
+      },
+      {
+        "text": ".\nIn addition, you unlock "
+      },
+      {
+        "text": "Rare",
+        "color": "aqua"
+      },
+      { "text": " spells." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "familiarslib:sound_magic_resist",
+          "value": 0.5,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "rarity set rare",
+          "lock_command": "rarity set common"
+        }
+      }
+    ]
+  },
+  "sound_mage_3": {
+    "title": "Boreal Fiends",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      { "text": "You gain " },
+      {
+        "text": "50%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Mana regeneration",
+        "color": "#0093BD"
+      },
+      {
+        "text": " for "
+      },
+      {
+        "text": "10 seconds",
+        "color": "yellow"
+      },
+      { "text": " after casting a " },
+      {
+        "text": "Sound spell",
+        "color": "#CFFFD2"
+      },
+      {
+        "text": ".\nIn addition, you learn how to craft "
+      },
+      {
+        "text": "Sound Manuscripts",
+        "color": "#CFFFD2"
+      },
+      { "text": "." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "Manuscripts are used to learn specific spells of the respective school.",
+    "rewards": [
+      {
+        "type": "astages:stage_reward",
+        "data": {
+          "stage": "phis_stage_manuscript_sound",
+          "operation": "add"
+        }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "phis.mana_regen_sound"
+        }
+      }
+    ]
+  },
+  "sound_mage_4": {
+    "title": "Temple of the Silent Curses",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      { "text": "Your " },
+      {
+        "text": "Sound spells",
+        "color": "#CFFFD2"
+      },
+      {
+        "text": " deal "
+      },
+      {
+        "text": "15%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " more "
+      },
+      {
+        "text": "damage",
+        "color": "dark_green"
+      },
+      {
+        "text": ".\nIn addition, you unlock "
+      },
+      {
+        "text": "Epic",
+        "color": "light_purple"
+      },
+      { "text": " spells." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "familiarslib:sound_spell_power",
+          "value": 0.15,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "rarity set epic",
+          "lock_command": "rarity set common"
+        }
+      }
+    ]
+  },
+  "sound_mage_5": {
+    "title": "[NYI] The Sounds of the Universe",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_concrete"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "You learn how to craft "
+      },
+      {
+        "text": "(tbd. -- Sound Focus)",
+        "color": "#CFFFD2"
+      },
+      { "text": "." },
+      {
+        "text": ".\nIn addition, you unlock "
+      },
+      {
+        "text": "Legendary",
+        "color": "light_purple"
+      },
+      { "text": " spells." },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "rewards": [
+      {
+        "type": "astages:stage_reward",
+        "data": {
+          "stage": "phis_stage_focus_sound",
+          "operation": "add"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "rarity set legendary",
+          "lock_command": "rarity set common"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "unlock_command": "team join soundmage @s",
+          "lock_command": "team leave @s"
+        }
+      }
+    ]
   },
 
   "comment_2": {
@@ -3123,7 +5978,7 @@
     "description": [
       "",
       { "text": "+50 " },
-      { "text": "mana", "color": "#008fb9" }
+      { "text": "mana", "color": "#0093BD" }
     ],
     "rewards": [
       {
@@ -3156,7 +6011,7 @@
     "description": [
       "",
       { "text": "+20% " },
-      { "text": "mana regeneration", "color": "#008fb9" }
+      { "text": "mana regeneration", "color": "#0093BD" }
     ],
     "rewards": [
       {
@@ -3700,8 +6555,656 @@
       }
     ]
   },
+
   "comment_3": {
     "title": " ================================================================================ MAJOR STAT BUFFS BELOW ================================================================================",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "artifacts:digging_claws"
+      }
+    },
+    "description": "Do not implement",
+    "rewards": []
+  },
+
+  "max_health_major": {
+    "title": "I Am the World",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:regeneration"
+      }
+    },
+    "description": ["", { "text": "+2 " }, { "text": "♥", "color": "#ff1313" }],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "max_mana_major": {
+    "title": "Mountain Magick",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:wind_charged"
+      }
+    },
+    "description": [
+      "",
+      { "text": "+100 " },
+      { "text": "mana", "color": "#0093BD" }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:max_mana",
+          "value": 100,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mana_regen_major": {
+    "title": "The Witching Meadow",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:wind_charged"
+      }
+    },
+    "description": [
+      "",
+      { "text": "+40% " },
+      { "text": "mana regeneration", "color": "#0093BD" }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:mana_regen",
+          "value": 0.4,
+          "operation": "multiply_base"
+        }
+      }
+    ]
+  },
+  "spell_cooldown_major": {
+    "title": "Forgotten Empire of Dark Witchcraft",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:wind_charged"
+      }
+    },
+    "description": [
+      "",
+      { "text": "+50% " },
+      { "text": "spell cooldown reduction", "color": "dark_green" }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:cooldown_reduction",
+          "value": 0.5,
+          "operation": "multiply_base"
+        }
+      }
+    ]
+  },
+  "melee_damage_major": {
+    "title": "Going Berserk",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "description": [
+      "",
+      { "text": "+10% " },
+      { "text": "melee damage", "color": "dark_green" },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": [
+      "",
+      {
+        "text": "Damage is considered melee if damage source is direct and damage type is not in "
+      },
+      {
+        "text": "minecraft:is_projectile",
+        "underlined": true,
+        "color": "gray"
+      },
+      { "text": " tag." }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.1,
+          "operation": "multiply_base"
+        }
+      }
+    ]
+  },
+  "ranged_damage_major": {
+    "title": "The Knell",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:bow"
+      }
+    },
+    "description": [
+      "",
+      { "text": "+10% " },
+      { "text": "ranged damage", "color": "dark_green" },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": [
+      "",
+      {
+        "text": "Damage is considered ranged if damage source is indirect or damage type is in "
+      },
+      {
+        "text": "minecraft:is_projectile",
+        "underlined": true,
+        "color": "gray"
+      },
+      { "text": " tag." }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.1,
+          "operation": "multiply_base"
+        }
+      }
+    ]
+  },
+  "melee_resistance_major": {
+    "title": "As the Wounds Gently Bleed",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "description": [
+      "",
+      { "text": "+30% " },
+      { "text": "melee damage reduction", "color": "dark_green" },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": [
+      "",
+      {
+        "text": "Damage is considered melee if damage source is direct and damage type is not in "
+      },
+      {
+        "text": "minecraft:is_projectile",
+        "underlined": true,
+        "color": "gray"
+      },
+      { "text": " tag." }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_resistance",
+          "value": 0.3,
+          "operation": "multiply_base"
+        }
+      }
+    ]
+  },
+  "ranged_resistance_major": {
+    "title": "Lamp of Invisible Lights",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "description": [
+      "",
+      { "text": "+30% " },
+      { "text": "ranged damage reduction", "color": "dark_green" },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": [
+      "",
+      {
+        "text": "Damage is considered ranged if damage source is indirect or damage type is in "
+      },
+      {
+        "text": "minecraft:is_projectile",
+        "underlined": true,
+        "color": "gray"
+      },
+      { "text": " tag." }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_resistance",
+          "value": 0.3,
+          "operation": "multiply_base"
+        }
+      }
+    ]
+  },
+  "magic_resistance_major": {
+    "title": "The Apotheosis of the Unnamable",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "description": [
+      "",
+      { "text": "+30% " },
+      { "text": "magic damage reduction", "color": "dark_green" },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": [
+      "",
+      { "text": "Damage is considered magic if damage type is " },
+      { "text": "minecraft:magic", "underlined": true, "color": "gray" },
+      { "text": " or " },
+      {
+        "text": "minecraft:indirect_magic",
+        "underlined": true,
+        "color": "gray"
+      },
+      { "text": " or is in " },
+      { "text": "c:is_magic", "underlined": true, "color": "gray" },
+      { "text": " tag or " },
+      { "text": "neoforge:is_magic", "underlined": true, "color": "gray" },
+      { "text": " tag." }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:magic_resistance",
+          "value": 0.3,
+          "operation": "multiply_base"
+        }
+      }
+    ]
+  },
+  "double_healing_major": {
+    "title": "Nocturnal, Transparent Rainbow",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:instant_health"
+      }
+    },
+    "description": [
+      "",
+      { "text": "+100% " },
+      { "text": "healing from all sources", "color": "dark_green" }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:healing",
+          "value": 1,
+          "operation": "multiply_total"
+        }
+      }
+    ]
+  },
+  "mining_speed_major": {
+    "title": "Chants of the Deep Ones",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "description": [
+      "",
+      { "text": "+30% " },
+      { "text": "mining speed", "color": "dark_green" }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 0.3,
+          "operation": "multiply_base"
+        }
+      }
+    ]
+  },
+  "sprint_speed_major": {
+    "title": "Caravan of Broken Ghosts",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "description": [
+      "",
+      { "text": "+30% " },
+      { "text": "sprint speed", "color": "dark_green" }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sprinting_speed",
+          "value": 0.3,
+          "operation": "multiply_base"
+        }
+      }
+    ]
+  },
+  "fall_damage_reduction_major": {
+    "title": "The Thorns That Guide My Warpath",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:slow_falling"
+      }
+    },
+    "description": [
+      "",
+      { "text": "+2 blocks " },
+      { "text": "safe fall height", "color": "dark_green" },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "The default safe fall height is four blocks.",
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "jump_height_major": {
+    "title": "That Cannot Be Dreamed",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:slow_falling"
+      }
+    },
+    "description": [
+      "",
+      { "text": "+2 blocks " },
+      { "text": "jump height", "color": "dark_green" },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "gray"
+      }
+    ],
+    "extra_description": "The default jump height is one block.",
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:jump",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mount_speed_major": {
+    "title": "Pale Horse",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "description": [
+      "",
+      { "text": "+50% " },
+      { "text": "mount speed", "color": "dark_green" }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "artifacts:generic.mount_speed",
+          "value": 0.5,
+          "operation": "multiply_base"
+        }
+      }
+    ]
+  },
+  "walk_on_snow_major": {
+    "title": "Beyond the North Waves",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:snowball"
+      }
+    },
+    "description": [
+      "",
+      { "text": "+100% " },
+      { "text": "movement speed", "color": "dark_green" },
+      { "text": " while on snow" }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "artifacts:generic.movement_speed_on_snow",
+          "value": 1,
+          "operation": "multiply_base"
+        }
+      }
+    ]
+  },
+  "comment_4": {
+    "title": " ================================================================================ TECHNICAL NODES TO USE AS PREREQUISITES BELOW ================================================================================",
     "frame": {
       "type": "texture",
       "data": {

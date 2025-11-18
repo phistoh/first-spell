@@ -1,0 +1,3 @@
+[coppergolemai]
+	#Enable/Disable Copper Golem randomly pressing copper buttons
+	golemPressesButtons = true

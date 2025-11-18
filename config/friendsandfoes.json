@@ -2,7 +2,7 @@
 	"enableBeekeeperVillagerProfession": true,
 	"generateBeekeeperAreaStructureInVillages": true,
 	"beekeeperAreaStructureWeight": 2,
-	"enableCopperGolem": true,
+	"enableCopperGolem": false,
 	"generateCopperGolemWorkstationStructureInVillages": true,
 	"copperGolemWorkstationStructureWeight": 1,
 	"generateCopperGolemInAncientCity": true,
