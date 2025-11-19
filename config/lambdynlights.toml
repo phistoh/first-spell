@@ -327,6 +327,9 @@ chunk_rebuild_scheduler = "culling"
 			[light_sources.settings.entities.mynethersdelight]
 				strider_rock = true
 
+			[light_sources.settings.entities.coppergolemlegacy]
+				copper_golem = true
+
 			[light_sources.settings.entities.artifacts]
 				mimic = true
 
@@ -441,6 +444,12 @@ chunk_rebuild_scheduler = "culling"
 				red_panda = true
 				sea_bunny = true
 
+			[light_sources.settings.entities.mounts_of_mayhem]
+				parched = true
+				projectile_parched = true
+				zombie_nautilus = true
+				nautilus = true
+
 			[light_sources.settings.entities.simplemusket]
 				musket_pillager = true
 				bullet = true
@@ -494,6 +503,18 @@ chunk_rebuild_scheduler = "culling"
 				fortressgrouper = true
 				magmacubefish = true
 				searing_cod = true
+
+			[light_sources.settings.entities.bosses_of_mass_destruction]
+				blue_fireball = true
+				lich = true
+				spore_ball = true
+				obsidilith = true
+				petal_blade = true
+				charged_ender_pearl = true
+				comet = true
+				gauntlet = true
+				soul_star = true
+				void_blossom = true
 
 			[light_sources.settings.entities.blueprint]
 				falling_block = true

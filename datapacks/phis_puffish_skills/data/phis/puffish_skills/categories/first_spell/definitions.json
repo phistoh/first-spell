@@ -10,6 +10,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -18,19 +19,41 @@
     },
     "description": [
       "",
-      { "text": "You are able to craft and use " },
-      { "text": "armor", "color": "dark_aqua" },
-      { "text": " and  " },
-      { "text": "tools", "color": "dark_aqua" },
-      { "text": " made of " },
-      { "text": "copper", "color": "#B4684D" },
-      { "text": " and  " },
-      { "text": "gold", "color": "#DEB12D" },
-      { "text": "." },
+      {
+        "text": "You are able to craft and use "
+      },
+      {
+        "text": "armor",
+        "color": "dark_aqua"
+      },
+      {
+        "text": " and  "
+      },
+      {
+        "text": "tools",
+        "color": "dark_aqua"
+      },
+      {
+        "text": " made of "
+      },
+      {
+        "text": "copper",
+        "color": "#B4684D"
+      },
+      {
+        "text": " and "
+      },
+      {
+        "text": "gold",
+        "color": "#DEB12D"
+      },
+      {
+        "text": "."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Armor' encompasses helmets, chestplates, leggings and boots. 'Tools' encompasses axes, hoes, knives, pickaxes, shovels, swords and spears.",
@@ -42,7 +65,10 @@
           "operation": "add"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "64x4239386phacvx"
+    }
   },
   "tier_iron": {
     "title": "In the Wake of an Iron Wind",
@@ -55,6 +81,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -63,17 +90,36 @@
     },
     "description": [
       "",
-      { "text": "You are able to craft and use " },
-      { "text": "armor", "italic": true, "color": "dark_aqua" },
-      { "text": " and  " },
-      { "text": "tools", "italic": true, "color": "dark_aqua" },
-      { "text": " made of " },
-      { "text": "iron", "color": "#CECACA" },
-      { "text": "." },
+      {
+        "text": "You are able to craft and use "
+      },
+      {
+        "text": "armor",
+        "italic": true,
+        "color": "dark_aqua"
+      },
+      {
+        "text": " and  "
+      },
+      {
+        "text": "tools",
+        "italic": true,
+        "color": "dark_aqua"
+      },
+      {
+        "text": " made of "
+      },
+      {
+        "text": "iron",
+        "color": "#CECACA"
+      },
+      {
+        "text": "."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Armor' encompasses helmets, chestplates, leggings and boots. 'Tools' encompasses axes, hoes, knives, pickaxes, shovels, swords and spears.",
@@ -85,7 +131,10 @@
           "operation": "add"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "42bon54llh2cnvbn"
+    }
   },
   "tier_diamond": {
     "title": "Handful of Stars",
@@ -98,6 +147,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -106,17 +156,36 @@
     },
     "description": [
       "",
-      { "text": "You are able to craft and use " },
-      { "text": "armor", "italic": true, "color": "dark_aqua" },
-      { "text": " and " },
-      { "text": "tools", "italic": true, "color": "dark_aqua" },
-      { "text": " made of " },
-      { "text": "diamond", "color": "#2CBAA8" },
-      { "text": "." },
+      {
+        "text": "You are able to craft and use "
+      },
+      {
+        "text": "armor",
+        "italic": true,
+        "color": "dark_aqua"
+      },
+      {
+        "text": " and "
+      },
+      {
+        "text": "tools",
+        "italic": true,
+        "color": "dark_aqua"
+      },
+      {
+        "text": " made of "
+      },
+      {
+        "text": "diamond",
+        "color": "#2CBAA8"
+      },
+      {
+        "text": "."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Armor' encompasses helmets, chestplates, leggings and boots. 'Tools' encompasses axes, hoes, knives, pickaxes, shovels, swords and spears.",
@@ -128,7 +197,10 @@
           "operation": "add"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "cjy6bvudmk1i08cl"
+    }
   },
   "tier_netherite": {
     "title": "Invoking the Ancient",
@@ -141,6 +213,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -149,17 +222,36 @@
     },
     "description": [
       "",
-      { "text": "You are able to craft and use " },
-      { "text": "armor", "italic": true, "color": "dark_aqua" },
-      { "text": " and  " },
-      { "text": "tools", "italic": true, "color": "dark_aqua" },
-      { "text": " made of " },
-      { "text": "netherite", "color": "#443A3B" },
-      { "text": "." },
+      {
+        "text": "You are able to craft and use "
+      },
+      {
+        "text": "armor",
+        "italic": true,
+        "color": "dark_aqua"
+      },
+      {
+        "text": " and  "
+      },
+      {
+        "text": "tools",
+        "italic": true,
+        "color": "dark_aqua"
+      },
+      {
+        "text": " made of "
+      },
+      {
+        "text": "netherite",
+        "color": "#443A3B"
+      },
+      {
+        "text": "."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Armor' encompasses helmets, chestplates, leggings and boots. 'Tools' encompasses axes, hoes, knives, pickaxes, shovels, swords and spears.",
@@ -171,7 +263,10 @@
           "operation": "add"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "hb7w2r5heqfx6z49"
+    }
   },
   "tier_warden": {
     "title": "Exile Amongst the Ruins",
@@ -184,6 +279,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -192,19 +288,43 @@
     },
     "description": [
       "",
-      { "text": "You are able to craft and use " },
-      { "text": "armor", "italic": true, "color": "dark_aqua" },
-      { "text": " and  " },
-      { "text": "tools", "italic": true, "color": "dark_aqua" },
-      { "text": " made of " },
-      { "text": "Reinforced Echo Shards", "color": "#0A5060" },
-      { "text": " and " },
-      { "text": "Resonarium", "color": "#4DD4FA" },
-      { "text": "." },
+      {
+        "text": "You are able to craft and use "
+      },
+      {
+        "text": "armor",
+        "italic": true,
+        "color": "dark_aqua"
+      },
+      {
+        "text": " and  "
+      },
+      {
+        "text": "tools",
+        "italic": true,
+        "color": "dark_aqua"
+      },
+      {
+        "text": " made of "
+      },
+      {
+        "text": "Reinforced Echo Shards",
+        "color": "#0A5060"
+      },
+      {
+        "text": " and "
+      },
+      {
+        "text": "Resonarium",
+        "color": "#4DD4FA"
+      },
+      {
+        "text": "."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Armor' encompasses helmets, chestplates, leggings and boots. 'Tools' encompasses axes, hoes, knives, pickaxes, shovels, swords and spears.",
@@ -216,7 +336,10 @@
           "operation": "add"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "k0i3j0c336wgrmuw"
+    }
   },
   "craft_waystones_return_scroll": {
     "title": "Throw Me Through the Marshes",
@@ -229,6 +352,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -237,9 +361,17 @@
     },
     "description": [
       "",
-      { "text": "You are able to craft " },
-      { "text": "Return Scrolls", "italic": true, "color": "dark_aqua" },
-      { "text": "." }
+      {
+        "text": "You are able to craft "
+      },
+      {
+        "text": "Return Scrolls",
+        "italic": true,
+        "color": "dark_aqua"
+      },
+      {
+        "text": "."
+      }
     ],
     "rewards": [
       {
@@ -249,7 +381,10 @@
           "operation": "add"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "8p9hitz7614r7nx1"
+    }
   },
   "craft_waystones_warp_scroll": {
     "title": "Soulside Journey",
@@ -262,6 +397,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -270,9 +406,16 @@
     },
     "description": [
       "",
-      { "text": "You are able to craft and use " },
-      { "text": "Warp Stones", "color": "dark_aqua" },
-      { "text": "." }
+      {
+        "text": "You are able to craft and use "
+      },
+      {
+        "text": "Warp Stones",
+        "color": "dark_aqua"
+      },
+      {
+        "text": "."
+      }
     ],
     "rewards": [
       {
@@ -282,7 +425,10 @@
           "operation": "add"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "58cokgx7arl1sxui"
+    }
   },
   "craft_waystones_waystone": {
     "title": "Stone Stands in Silent Vigil",
@@ -295,6 +441,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -303,9 +450,16 @@
     },
     "description": [
       "",
-      { "text": "You are able to craft " },
-      { "text": "Waystones", "color": "dark_aqua" },
-      { "text": "." }
+      {
+        "text": "You are able to craft "
+      },
+      {
+        "text": "Waystones",
+        "color": "dark_aqua"
+      },
+      {
+        "text": "."
+      }
     ],
     "rewards": [
       {
@@ -315,7 +469,10 @@
           "operation": "add"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "ay09vpb06sbxy4l9"
+    }
   },
   "craft_arcane_essence": {
     "title": "A Magician's Lapis-Lazuli",
@@ -328,6 +485,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -336,9 +494,16 @@
     },
     "description": [
       "",
-      { "text": "You are able to craft " },
-      { "text": "Arcane Essence", "color": "dark_aqua" },
-      { "text": "." }
+      {
+        "text": "You are able to craft "
+      },
+      {
+        "text": "Arcane Essence",
+        "color": "dark_aqua"
+      },
+      {
+        "text": "."
+      }
     ],
     "rewards": [
       {
@@ -348,7 +513,10 @@
           "operation": "add"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "m0wwfr9p9ze4fy5g"
+    }
   },
   "loot_arcane_essence": {
     "title": "[NYI] Nucleation Seed",
@@ -361,6 +529,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -369,9 +538,16 @@
     },
     "description": [
       "",
-      { "text": "You sometimes find " },
-      { "text": "Arcane Essence", "color": "dark_aqua" },
-      { "text": " when slaying mobs." }
+      {
+        "text": "You sometimes find "
+      },
+      {
+        "text": "Arcane Essence",
+        "color": "dark_aqua"
+      },
+      {
+        "text": " when slaying mobs."
+      }
     ],
     "rewards": [
       {
@@ -380,7 +556,10 @@
           "tag": "phis.arcane_essence"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "zqlqk04pn8p4j194"
+    }
   },
   "regeneration": {
     "title": "[NYI] Blood of the Hermit",
@@ -393,6 +572,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "effect",
       "data": {
@@ -401,13 +581,28 @@
     },
     "description": [
       "",
-      { "text": "You slowly " },
-      { "text": "regenerate", "color": "dark_blue" },
-      { "text": " " },
-      { "text": "health", "color": "dark_green" },
-      { "text": "." }
+      {
+        "text": "You slowly "
+      },
+      {
+        "text": "regenerate",
+        "color": "dark_blue"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "health",
+        "color": "dark_green"
+      },
+      {
+        "text": "."
+      }
     ],
-    "rewards": []
+    "rewards": [],
+    "metadata": {
+      "icon": "p323ulhn1llha0uy"
+    }
   },
   "keep_scrolls_1": {
     "title": "Echoes of the Past",
@@ -420,6 +615,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "effect",
       "data": {
@@ -428,11 +624,23 @@
     },
     "description": [
       "",
-      { "text": "You have a " },
-      { "text": "50%", "color": "dark_blue" },
-      { "text": " chance to keep " },
-      { "text": "spell scrolls", "color": "dark_aqua" },
-      { "text": " when using them to cast a spell." }
+      {
+        "text": "You have a "
+      },
+      {
+        "text": "50%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " chance to keep "
+      },
+      {
+        "text": "spell scrolls",
+        "color": "dark_aqua"
+      },
+      {
+        "text": " when using them to cast a spell."
+      }
     ],
     "rewards": [
       {
@@ -443,7 +651,10 @@
           "operation": "addition"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "2fpbr3eil4e04z44"
+    }
   },
   "keep_scrolls_2": {
     "title": "Flight of Thought and Memory",
@@ -456,6 +667,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "effect",
       "data": {
@@ -464,11 +676,23 @@
     },
     "description": [
       "",
-      { "text": "You " },
-      { "text": "always", "color": "dark_blue" },
-      { "text": " keep " },
-      { "text": "spell scrolls", "color": "dark_aqua" },
-      { "text": " when using them to cast a spell." }
+      {
+        "text": "You "
+      },
+      {
+        "text": "always",
+        "color": "dark_blue"
+      },
+      {
+        "text": " keep "
+      },
+      {
+        "text": "spell scrolls",
+        "color": "dark_aqua"
+      },
+      {
+        "text": " when using them to cast a spell."
+      }
     ],
     "rewards": [
       {
@@ -479,7 +703,10 @@
           "operation": "addition"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "2vyw3mq0a40ra2e9"
+    }
   },
   "craft_irons_spellbooks_scroll_forge": {
     "title": "[NYI] Moonspell Rites",
@@ -492,6 +719,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -500,9 +728,16 @@
     },
     "description": [
       "",
-      { "text": "You are able to craft and use " },
-      { "text": "Scroll Forges", "color": "dark_aqua" },
-      { "text": "." }
+      {
+        "text": "You are able to craft and use "
+      },
+      {
+        "text": "Scroll Forges",
+        "color": "dark_aqua"
+      },
+      {
+        "text": "."
+      }
     ],
     "rewards": [
       {
@@ -512,7 +747,10 @@
           "operation": "add"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "onwyvgot4a25k0r0"
+    }
   },
   "craft_irons_spellbooks_arcane_anvil": {
     "title": "Runes Shall You Know",
@@ -525,6 +763,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -533,9 +772,16 @@
     },
     "description": [
       "",
-      { "text": "You are able to craft and use " },
-      { "text": "Arcane Anvils", "color": "dark_aqua" },
-      { "text": "." }
+      {
+        "text": "You are able to craft and use "
+      },
+      {
+        "text": "Arcane Anvils",
+        "color": "dark_aqua"
+      },
+      {
+        "text": "."
+      }
     ],
     "rewards": [
       {
@@ -545,9 +791,11 @@
           "operation": "add"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "3lhvvi3ix3t2xvix"
+    }
   },
-
   "fortune_1": {
     "title": "A Distant Glow",
     "frame": {
@@ -559,6 +807,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "effect",
       "data": {
@@ -567,11 +816,23 @@
     },
     "description": [
       "",
-      { "text": "You gain " },
-      { "text": "25%", "color": "dark_blue" },
-      { "text": " " },
-      { "text": "Fortune", "color": "dark_purple" },
-      { "text": "." }
+      {
+        "text": "You gain "
+      },
+      {
+        "text": "25%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Fortune",
+        "color": "dark_purple"
+      },
+      {
+        "text": "."
+      }
     ],
     "rewards": [
       {
@@ -582,7 +843,10 @@
           "operation": "multiply_base"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "wgphwk54y0bse3gj"
+    }
   },
   "fortune_2": {
     "title": "Honey and Sulphur",
@@ -595,6 +859,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "effect",
       "data": {
@@ -603,11 +868,23 @@
     },
     "description": [
       "",
-      { "text": "You gain " },
-      { "text": "one level", "color": "dark_blue" },
-      { "text": " of " },
-      { "text": "looting", "color": "dark_purple" },
-      { "text": "." }
+      {
+        "text": "You gain "
+      },
+      {
+        "text": "one level",
+        "color": "dark_blue"
+      },
+      {
+        "text": " of "
+      },
+      {
+        "text": "looting",
+        "color": "dark_purple"
+      },
+      {
+        "text": "."
+      }
     ],
     "rewards": [
       {
@@ -618,9 +895,11 @@
           "operation": "add"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "82hrnt61m6auoj6h"
+    }
   },
-
   "life_leech": {
     "title": "Transilvanian Hunger",
     "frame": {
@@ -632,6 +911,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "effect",
       "data": {
@@ -640,11 +920,23 @@
     },
     "description": [
       "",
-      { "text": "When you deal damage you " },
-      { "text": "heal", "color": "dark_green" },
-      { "text": " for " },
-      { "text": "25%", "color": "dark_blue" },
-      { "text": " of the damage dealt." }
+      {
+        "text": "When you deal damage you "
+      },
+      {
+        "text": "heal",
+        "color": "dark_green"
+      },
+      {
+        "text": " for "
+      },
+      {
+        "text": "25%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " of the damage dealt."
+      }
     ],
     "rewards": [
       {
@@ -655,7 +947,10 @@
           "operation": "add"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "h83p0uepw2uw46ax"
+    }
   },
   "mana_leech": {
     "title": "[NYI] Across the World of Wonders",
@@ -668,6 +963,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "effect",
       "data": {
@@ -676,15 +972,29 @@
     },
     "description": [
       "",
-      { "text": "When you deal damage you gain " },
-      { "text": "25%", "color": "dark_blue" },
-      { "text": " of the damage dealt as " },
-      { "text": "mana", "color": "#0093BD" },
-      { "text": "." }
+      {
+        "text": "When you deal damage you gain "
+      },
+      {
+        "text": "25%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " of the damage dealt as "
+      },
+      {
+        "text": "mana",
+        "color": "#0093BD"
+      },
+      {
+        "text": "."
+      }
     ],
-    "rewards": []
+    "rewards": [],
+    "metadata": {
+      "icon": "dfsur40vcd222oux"
+    }
   },
-
   "fall_damage_immunity": {
     "title": "They Escaped the Weight of Darkness",
     "frame": {
@@ -696,6 +1006,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "effect",
       "data": {
@@ -704,15 +1015,27 @@
     },
     "description": [
       "",
-      { "text": "You are virtually " },
-      { "text": "immune", "color": "dark_blue" },
-      { "text": " to " },
-      { "text": "fall damage", "color": "dark_green" },
-      { "text": "." },
+      {
+        "text": "You are virtually "
+      },
+      {
+        "text": "immune",
+        "color": "dark_blue"
+      },
+      {
+        "text": " to "
+      },
+      {
+        "text": "fall damage",
+        "color": "dark_green"
+      },
+      {
+        "text": "."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "This skill extends your safe fall damage by 1000 blocks.",
@@ -725,7 +1048,10 @@
           "operation": "addition"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "2bvboafyzgbf2tfk"
+    }
   },
   "craft_explosives_musket": {
     "title": "[NYI] Fires That Light the Earth",
@@ -738,6 +1064,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -746,11 +1073,23 @@
     },
     "description": [
       "",
-      { "text": "You are able to craft and use " },
-      { "text": "Muskets", "color": "dark_aqua" },
-      { "text": " and " },
-      { "text": "Bombs", "color": "dark_aqua" },
-      { "text": "." }
+      {
+        "text": "You are able to craft and use "
+      },
+      {
+        "text": "Muskets",
+        "color": "dark_aqua"
+      },
+      {
+        "text": " and "
+      },
+      {
+        "text": "Bombs",
+        "color": "dark_aqua"
+      },
+      {
+        "text": "."
+      }
     ],
     "rewards": [
       {
@@ -760,7 +1099,10 @@
           "operation": "add"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "u65irbg7folr8gf1"
+    }
   },
   "craft_explosives_hellfire_cartridge": {
     "title": "Spirit the Earth Aflame",
@@ -773,6 +1115,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -781,13 +1124,20 @@
     },
     "description": [
       "",
-      { "text": "You are able to craft and use " },
-      { "text": "Hellfire Cartridges", "color": "dark_aqua" },
-      { "text": "." },
+      {
+        "text": "You are able to craft and use "
+      },
+      {
+        "text": "Hellfire Cartridges",
+        "color": "dark_aqua"
+      },
+      {
+        "text": "."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "Hellfire cartridges are used for muskets",
@@ -799,7 +1149,10 @@
           "operation": "add"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "o53r1kf8ja07h2es"
+    }
   },
   "craft_explosives_fireworks": {
     "title": "[NYI] A Blaze in the Northern Sky",
@@ -812,6 +1165,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -820,13 +1174,20 @@
     },
     "description": [
       "",
-      { "text": "You are able to craft and use " },
-      { "text": "Firework Rockets", "color": "dark_aqua" },
-      { "text": "." },
+      {
+        "text": "You are able to craft and use "
+      },
+      {
+        "text": "Firework Rockets",
+        "color": "dark_aqua"
+      },
+      {
+        "text": "."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "Using firework rockets encompasses using them as elytra boost.",
@@ -838,7 +1199,10 @@
           "operation": "add"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "2lfc3vsgneu3rx9t"
+    }
   },
   "under_water_buffs": {
     "title": "The Sea Beneath the Seas of the Sea",
@@ -851,6 +1215,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -862,21 +1227,48 @@
       {
         "text": "You are more comfortable underwater. The duration you can hold your "
       },
-      { "text": "breath", "color": "dark_green" },
-      { "text": " is " },
-      { "text": "doubled", "color": "dark_blue" },
-      { "text": ". In addition, your " },
+      {
+        "text": "breath",
+        "color": "dark_green"
+      },
+      {
+        "text": " is "
+      },
+      {
+        "text": "doubled",
+        "color": "dark_blue"
+      },
+      {
+        "text": ". In addition, your "
+      },
       {
         "text": "mining speed while submerged",
         "color": "dark_green"
       },
-      { "text": " is " },
-      { "text": "tripled", "color": "dark_blue" },
-      { "text": " and your " },
-      { "text": "water movement efficiency", "color": "dark_green" },
-      { "text": " increases by " },
-      { "text": "50%", "color": "dark_blue" },
-      { "text": "." }
+      {
+        "text": " is "
+      },
+      {
+        "text": "tripled",
+        "color": "dark_blue"
+      },
+      {
+        "text": " and your "
+      },
+      {
+        "text": "water movement efficiency",
+        "color": "dark_green"
+      },
+      {
+        "text": " increases by "
+      },
+      {
+        "text": "50%",
+        "color": "dark_blue"
+      },
+      {
+        "text": "."
+      }
     ],
     "rewards": [
       {
@@ -903,7 +1295,10 @@
           "operation": "multiply_base"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "yw59x0v3om4zuwmp"
+    }
   },
   "craft_linked_pouch": {
     "title": "[NYI] Sacred Geometry",
@@ -916,6 +1311,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -924,9 +1320,16 @@
     },
     "description": [
       "",
-      { "text": "You are able to craft and use " },
-      { "text": "Linked Pouches", "color": "dark_aqua" },
-      { "text": "." }
+      {
+        "text": "You are able to craft and use "
+      },
+      {
+        "text": "Linked Pouches",
+        "color": "dark_aqua"
+      },
+      {
+        "text": "."
+      }
     ],
     "rewards": [
       {
@@ -936,7 +1339,10 @@
           "operation": "add"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "pda9ep47gr0yy5jd"
+    }
   },
   "extra_harvest": {
     "title": "How Many Tears to Nurture a Rose?",
@@ -949,6 +1355,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -957,11 +1364,23 @@
     },
     "description": [
       "",
-      { "text": "You always gain " },
-      { "text": "one additional", "color": "dark_blue" },
-      { "text": " " },
-      { "text": "crop", "color": "dark_aqua" },
-      { "text": " when harvesting crops." }
+      {
+        "text": "You always gain "
+      },
+      {
+        "text": "one additional",
+        "color": "dark_blue"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "crop",
+        "color": "dark_aqua"
+      },
+      {
+        "text": " when harvesting crops."
+      }
     ],
     "rewards": [
       {
@@ -972,7 +1391,10 @@
           "operation": "addition"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "2dtqyy1dz7u6rvjc"
+    }
   },
   "extra_diamond": {
     "title": "The Secrets of the Earth",
@@ -985,6 +1407,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -993,11 +1416,23 @@
     },
     "description": [
       "",
-      { "text": "When mining diamond ore you find " },
-      { "text": "one additional", "color": "dark_blue" },
-      { "text": " " },
-      { "text": "diamond", "color": "#2CBAA8" },
-      { "text": "." }
+      {
+        "text": "When mining diamond ore you find "
+      },
+      {
+        "text": "one additional",
+        "color": "dark_blue"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "diamond",
+        "color": "#2CBAA8"
+      },
+      {
+        "text": "."
+      }
     ],
     "rewards": [
       {
@@ -1006,7 +1441,10 @@
           "tag": "phis.extradiamond"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "jiresxeazweqx314"
+    }
   },
   "extra_dust": {
     "title": "[NYI] Buried by Time and Dust",
@@ -1019,6 +1457,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -1027,12 +1466,16 @@
     },
     "description": [
       "",
-      { "text": "When collecting rocks you sometimes find " },
+      {
+        "text": "When collecting rocks you sometimes find "
+      },
       {
         "text": "dust of different materials",
         "color": "dark_aqua"
       },
-      { "text": "." }
+      {
+        "text": "."
+      }
     ],
     "rewards": [
       {
@@ -1041,7 +1484,10 @@
           "tag": "phis.extradust"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "t3mn9b9g0u5fnprz"
+    }
   },
   "eldritch_spells": {
     "title": "Blackest Magick in Practice",
@@ -1054,6 +1500,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -1062,13 +1509,20 @@
     },
     "description": [
       "",
-      { "text": "You understand the forbidden knowledge of the " },
-      { "text": "Eldritch", "color": "#0f839c" },
-      { "text": " spell school." },
+      {
+        "text": "You understand the forbidden knowledge of the "
+      },
+      {
+        "text": "Eldritch",
+        "color": "#0f839c"
+      },
+      {
+        "text": " spell school."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "You can craft and use 'Eldritch Manuscripts'.",
@@ -1080,7 +1534,10 @@
           "operation": "add"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "zpx1afobpa79tblp"
+    }
   },
   "iron_to_gold": {
     "title": "The Alchemist's Dream",
@@ -1093,6 +1550,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -1101,26 +1559,55 @@
     },
     "description": [
       "",
-      { "text": "You learn how to transmute " },
-      { "text": "Iron Ingots", "color": "#CECACA" },
-      { "text": " to " },
-      { "text": "Gold Ingots", "color": "#DEB12D" },
-      { "text": " using a Cauldron." },
+      {
+        "text": "You learn how to transmute "
+      },
+      {
+        "text": "Iron Ingots",
+        "color": "#CECACA"
+      },
+      {
+        "text": " to "
+      },
+      {
+        "text": "Gold Ingots",
+        "color": "#DEB12D"
+      },
+      {
+        "text": " using a Cauldron."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": [
       "",
-      { "text": "To transmute an " },
-      { "text": "Iron Ingot", "color": "#CECACA" },
-      { "text": " hold it in your hand and press [" },
-      { "keybind": "key.use", "color": "gold" },
-      { "text": "] on a (regular) cauldron filled with " },
-      { "text": "Lumisene", "color": "dark_aqua" },
-      { "text": "." }
+      {
+        "text": "To transmute an "
+      },
+      {
+        "text": "Iron Ingot",
+        "color": "#CECACA"
+      },
+      {
+        "text": " hold it in your hand and press ["
+      },
+      {
+        "keybind": "key.use",
+        "color": "gold"
+      },
+      {
+        "text": "] on a (regular) cauldron filled with "
+      },
+      {
+        "text": "Lumisene",
+        "color": "dark_aqua"
+      },
+      {
+        "text": "."
+      }
     ],
     "rewards": [
       {
@@ -1129,7 +1616,10 @@
           "tag": "phis.irontogold"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "ujit0vmuewrrghs5"
+    }
   },
   "curios_elytra": {
     "title": "[NYI] Swansong for a Raven",
@@ -1142,6 +1632,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -1150,11 +1641,23 @@
     },
     "description": [
       "",
-      { "text": "You can equip " },
-      { "text": "Elytra", "color": "dark_aqua" },
-      { "text": " in addition to your " },
-      { "text": "Backpack", "color": "dark_aqua" },
-      { "text": "." }
+      {
+        "text": "You can equip "
+      },
+      {
+        "text": "Elytra",
+        "color": "dark_aqua"
+      },
+      {
+        "text": " in addition to your "
+      },
+      {
+        "text": "Backpack",
+        "color": "dark_aqua"
+      },
+      {
+        "text": "."
+      }
     ],
     "rewards": [
       {
@@ -1164,7 +1667,10 @@
           "lock_command": "curios remove elytra @s 1"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "nj5u3vckbs5b1hsg"
+    }
   },
   "curios_ring": {
     "title": "Third of the Storms",
@@ -1177,6 +1683,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -1185,9 +1692,16 @@
     },
     "description": [
       "",
-      { "text": "You can equip one additional " },
-      { "text": "ring", "color": "dark_aqua" },
-      { "text": "." }
+      {
+        "text": "You can equip one additional "
+      },
+      {
+        "text": "ring",
+        "color": "dark_aqua"
+      },
+      {
+        "text": "."
+      }
     ],
     "rewards": [
       {
@@ -1197,7 +1711,10 @@
           "lock_command": "curios remove ring @s 1"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "ilje0cfpk1it1vw5"
+    }
   },
   "loot_spawn_eggs": {
     "title": "[NYI] The Ones You Left Behind",
@@ -1210,6 +1727,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -1218,9 +1736,16 @@
     },
     "description": [
       "",
-      { "text": "You sometimes find " },
-      { "text": "Spawn Eggs", "color": "dark_aqua" },
-      { "text": " when slaying mobs." }
+      {
+        "text": "You sometimes find "
+      },
+      {
+        "text": "Spawn Eggs",
+        "color": "dark_aqua"
+      },
+      {
+        "text": " when slaying mobs."
+      }
     ],
     "rewards": [
       {
@@ -1229,7 +1754,10 @@
           "tag": "phis.spawn_eggs"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "7lp9onmsa4nq7mbf"
+    }
   },
   "no_farmland_trample": {
     "title": "Barefoot Ghost Dance on Bloodsoaked Soil",
@@ -1242,6 +1770,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -1250,9 +1779,16 @@
     },
     "description": [
       "",
-      { "text": "You do not " },
-      { "text": "trample farmland", "color": "dark_blue" },
-      { "text": "." }
+      {
+        "text": "You do not "
+      },
+      {
+        "text": "trample farmland",
+        "color": "dark_blue"
+      },
+      {
+        "text": "."
+      }
     ],
     "rewards": [
       {
@@ -1261,7 +1797,10 @@
           "tag": "phis.notrample"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "66acgeh65uz3ux6g"
+    }
   },
   "craft_fated_altar": {
     "title": "I Raised this Stone as a Ghastly Memorial",
@@ -1274,6 +1813,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -1282,9 +1822,16 @@
     },
     "description": [
       "",
-      { "text": "You are able to craft and mine " },
-      { "text": "Fated Altars", "color": "dark_aqua" },
-      { "text": "." }
+      {
+        "text": "You are able to craft and mine "
+      },
+      {
+        "text": "Fated Altars",
+        "color": "dark_aqua"
+      },
+      {
+        "text": "."
+      }
     ],
     "rewards": [
       {
@@ -1294,7 +1841,10 @@
           "operation": "add"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "u64vce2l49vqd7n6"
+    }
   },
   "extra_apples": {
     "title": "And the Forests Dream Eternally",
@@ -1307,6 +1857,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -1315,17 +1866,23 @@
     },
     "description": [
       "",
-      { "text": "When collecting leaves, you sometimes are able to find " },
+      {
+        "text": "When collecting leaves, you sometimes are able to find "
+      },
       {
         "text": "Golden Apples",
         "color": "dark_aqua"
       },
-      { "text": " and " },
+      {
+        "text": " and "
+      },
       {
         "text": "Enchanted Golden Apples",
         "color": "dark_aqua"
       },
-      { "text": "." }
+      {
+        "text": "."
+      }
     ],
     "rewards": [
       {
@@ -1334,7 +1891,10 @@
           "tag": "phis.extraapples"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "qmwjosrvfife6ieu"
+    }
   },
   "cheat_death": {
     "title": "Withstand the Fall of Time",
@@ -1347,6 +1907,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -1355,17 +1916,23 @@
     },
     "description": [
       "",
-      { "text": "When you take lethal damage, you " },
+      {
+        "text": "When you take lethal damage, you "
+      },
       {
         "text": "survive with one heart",
         "color": "dark_green"
       },
-      { "text": ". This effect cannot occur more than once every " },
+      {
+        "text": ". This effect cannot occur more than once every "
+      },
       {
         "text": "five minutes",
         "color": "yellow"
       },
-      { "text": "." }
+      {
+        "text": "."
+      }
     ],
     "rewards": [
       {
@@ -1374,7 +1941,10 @@
           "tag": "phis.cheat_death"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "2ryns87e44qj9too"
+    }
   },
   "additional_milk_1": {
     "title": "[NYI] Soliloquy of the Stigmatised Shepherd",
@@ -1387,6 +1957,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -1395,12 +1966,16 @@
     },
     "description": [
       "",
-      { "text": "You are able to " },
+      {
+        "text": "You are able to "
+      },
       {
         "text": "milk sheep",
         "color": "dark_green"
       },
-      { "text": "." }
+      {
+        "text": "."
+      }
     ],
     "rewards": [
       {
@@ -1409,7 +1984,10 @@
           "tag": "phis.sheep_milk"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "jujno635lagb2muj"
+    }
   },
   "additional_milk_2": {
     "title": "[NYI] When Milk Runs Dry",
@@ -1422,6 +2000,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -1430,23 +2009,35 @@
     },
     "description": [
       "",
-      { "text": "You are able to " },
+      {
+        "text": "You are able to "
+      },
       {
         "text": "milk ...everything",
         "color": "dark_green"
       },
-      { "text": "?" },
+      {
+        "text": "?"
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": [
       "",
-      { "text": "'Everything' includes every " },
-      { "text": "entity", "underlined": true, "color": "gray" },
-      { "text": "." }
+      {
+        "text": "'Everything' includes every "
+      },
+      {
+        "text": "entity",
+        "underlined": true,
+        "color": "gray"
+      },
+      {
+        "text": "."
+      }
     ],
     "rewards": [
       {
@@ -1455,7 +2046,10 @@
           "tag": "phis.omni_milk"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "ej6fbq4w23itj2xf"
+    }
   },
   "no_phantoms": {
     "title": "Somniphobia",
@@ -1468,6 +2062,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -1476,16 +2071,20 @@
     },
     "description": [
       "",
-      { "text": "You do " },
+      {
+        "text": "You do "
+      },
       {
         "text": "not need to sleep",
         "color": "dark_green"
       },
-      { "text": "." },
+      {
+        "text": "."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "This means you do not spawn Phantoms.",
@@ -1496,7 +2095,10 @@
           "tag": "phis.no_phantoms"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "ifl9ozt4wrcf71ee"
+    }
   },
   "extract_various": {
     "title": "[NYI] Children of the Harvest",
@@ -1509,6 +2111,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -1517,12 +2120,16 @@
     },
     "description": [
       "",
-      { "text": "You learn how to collect " },
+      {
+        "text": "You learn how to collect "
+      },
       {
         "text": "???",
         "color": "dark_aqua"
       },
-      { "text": " using glass bottles." },
+      {
+        "text": " using glass bottles."
+      },
       {
         "text": " [...]\n",
         "italic": true,
@@ -1531,13 +2138,19 @@
     ],
     "extra_description": [
       "",
-      { "text": "Press [" },
+      {
+        "text": "Press ["
+      },
       {
         "keybind": "key.use",
         "color": "gold"
       },
-      { "text": "] on " },
-      { "text": "the respective fluid holding a " },
+      {
+        "text": "] on "
+      },
+      {
+        "text": "the respective fluid holding a "
+      },
       {
         "text": "Arcane Infused Bottle",
         "color": "dark_aqua"
@@ -1553,7 +2166,10 @@
           "tag": "phis.extract_various"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "8k0pw40zup2bt6zl"
+    }
   },
   "extract_blood": {
     "title": "[NYI] The Soil Runs Red",
@@ -1566,6 +2182,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -1574,12 +2191,16 @@
     },
     "description": [
       "",
-      { "text": "You learn how to collect " },
+      {
+        "text": "You learn how to collect "
+      },
       {
         "text": "blood",
         "color": "dark_red"
       },
-      { "text": "without hurting yourself." },
+      {
+        "text": "without hurting yourself."
+      },
       {
         "text": " [...]\n",
         "italic": true,
@@ -1593,18 +2214,24 @@
     ],
     "extra_description": [
       "",
-      { "text": "Press [" },
+      {
+        "text": "Press ["
+      },
       {
         "keybind": "key.use",
         "color": "gold"
       },
-      { "text": "] on " },
+      {
+        "text": "] on "
+      },
       {
         "text": "Biomes O' Plenty",
         "color": "blue",
         "bold": true
       },
-      { "text": "'s blood while holding an empty " },
+      {
+        "text": "'s blood while holding an empty "
+      },
       {
         "text": "Arcane Infused Bottle",
         "color": "dark_aqua"
@@ -1627,7 +2254,10 @@
           "tag": "phis.extract_blood"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "tfai0vjvuof3sk09"
+    }
   },
   "backpack_tier_2": {
     "title": "[NYI] Inner Sanctum",
@@ -1640,6 +2270,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -1648,11 +2279,23 @@
     },
     "description": [
       "",
-      { "text": "You are able to craft and use " },
-      { "text": "Backpacks", "color": "dark_aqua" },
-      { "text": " made of " },
-      { "text": "Diamond", "color": "#2CBAA8" },
-      { "text": "." }
+      {
+        "text": "You are able to craft and use "
+      },
+      {
+        "text": "Backpacks",
+        "color": "dark_aqua"
+      },
+      {
+        "text": " made of "
+      },
+      {
+        "text": "Diamond",
+        "color": "#2CBAA8"
+      },
+      {
+        "text": "."
+      }
     ],
     "rewards": [
       {
@@ -1662,7 +2305,10 @@
           "operation": "add"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "fsbjon44oc8pafha"
+    }
   },
   "backpack_tier_4": {
     "title": "[NYI] Infinite Density",
@@ -1675,6 +2321,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -1683,11 +2330,23 @@
     },
     "description": [
       "",
-      { "text": "You are able to craft and use " },
-      { "text": "Backpacks", "color": "dark_aqua" },
-      { "text": " made of " },
-      { "text": "(tbd.)", "color": "green" },
-      { "text": "." }
+      {
+        "text": "You are able to craft and use "
+      },
+      {
+        "text": "Backpacks",
+        "color": "dark_aqua"
+      },
+      {
+        "text": " made of "
+      },
+      {
+        "text": "(tbd.)",
+        "color": "green"
+      },
+      {
+        "text": "."
+      }
     ],
     "rewards": [
       {
@@ -1697,7 +2356,10 @@
           "operation": "add"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "pk5q3tv81dqs5x5s"
+    }
   },
   "infinite_dimensions": {
     "title": "[NYI] A Walk Beyond Utter Blackness",
@@ -1710,6 +2372,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -1718,11 +2381,23 @@
     },
     "description": [
       "",
-      { "text": "You are able to craft and use " },
-      { "text": "(tbd.)", "color": "dark_aqua" },
-      { "text": " which are used to enter the " },
-      { "text": "Infinite Dimensions", "italic": true },
-      { "text": "." }
+      {
+        "text": "You are able to craft and use "
+      },
+      {
+        "text": "(tbd.)",
+        "color": "dark_aqua"
+      },
+      {
+        "text": " which are used to enter the "
+      },
+      {
+        "text": "Infinite Dimensions",
+        "italic": true
+      },
+      {
+        "text": "."
+      }
     ],
     "rewards": [
       {
@@ -1732,7 +2407,10 @@
           "operation": "add"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "ji8lulki27i3kv4b"
+    }
   },
   "better_hooks": {
     "title": "[NYI] Out of the Grave",
@@ -1745,6 +2423,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -1753,17 +2432,34 @@
     },
     "description": [
       "",
-      { "text": "You are able to craft and use " },
-      { "text": "Diamond", "color": "#2CBAA8" },
-      { "text": ", " },
-      { "text": "Redstone", "color": "#971607" },
-      { "text": " and " },
-      { "text": "Ender Grappling Hooks", "color": "light_purple" },
-      { "text": "." },
+      {
+        "text": "You are able to craft and use "
+      },
+      {
+        "text": "Diamond",
+        "color": "#2CBAA8"
+      },
+      {
+        "text": ", "
+      },
+      {
+        "text": "Redstone",
+        "color": "#971607"
+      },
+      {
+        "text": " and "
+      },
+      {
+        "text": "Ender Grappling Hooks",
+        "color": "light_purple"
+      },
+      {
+        "text": "."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "Diamond Hooks have higher reach, Ender Hooks are faster and Redstone Hooks allow creative flight in a small radius.",
@@ -1775,7 +2471,10 @@
           "operation": "add"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "r6ni3uv0qp953smt"
+    }
   },
   "fishing_luck": {
     "title": "Moonrise in Total Darkness",
@@ -1788,6 +2487,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "effect",
       "data": {
@@ -1796,11 +2496,23 @@
     },
     "description": [
       "",
-      { "text": "You gain " },
-      { "text": "one level", "color": "dark_blue" },
-      { "text": " of the " },
-      { "text": "Luck", "color": "dark_purple" },
-      { "text": " enchantment." }
+      {
+        "text": "You gain "
+      },
+      {
+        "text": "one level",
+        "color": "dark_blue"
+      },
+      {
+        "text": " of the "
+      },
+      {
+        "text": "Luck",
+        "color": "dark_purple"
+      },
+      {
+        "text": " enchantment."
+      }
     ],
     "rewards": [
       {
@@ -1811,7 +2523,10 @@
           "operation": "add"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "trxypk8ix4mk24td"
+    }
   },
   "fishing_lure": {
     "title": "Deep Lake Trespass",
@@ -1824,6 +2539,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "effect",
       "data": {
@@ -1832,11 +2548,23 @@
     },
     "description": [
       "",
-      { "text": "You gain " },
-      { "text": "one level", "color": "dark_blue" },
-      { "text": " of the " },
-      { "text": "Lure", "color": "dark_purple" },
-      { "text": " enchantment." }
+      {
+        "text": "You gain "
+      },
+      {
+        "text": "one level",
+        "color": "dark_blue"
+      },
+      {
+        "text": " of the "
+      },
+      {
+        "text": "Lure",
+        "color": "dark_purple"
+      },
+      {
+        "text": " enchantment."
+      }
     ],
     "rewards": [
       {
@@ -1847,7 +2575,10 @@
           "operation": "add"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "jclfpv8vodgt8zv7"
+    }
   },
   "cold_damage": {
     "title": "At the Heart of Winter",
@@ -1860,6 +2591,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "effect",
       "data": {
@@ -1868,15 +2600,27 @@
     },
     "description": [
       "",
-      { "text": "Your attacks deal " },
-      { "text": "2", "color": "dark_blue" },
-      { "text": " additional " },
-      { "text": "Frost Damage", "color": "#d0f9ff" },
-      { "text": "." },
+      {
+        "text": "Your attacks deal "
+      },
+      {
+        "text": "2",
+        "color": "dark_blue"
+      },
+      {
+        "text": " additional "
+      },
+      {
+        "text": "Frost Damage",
+        "color": "#d0f9ff"
+      },
+      {
+        "text": "."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "Frost damage is bonus magic damage that slows enemies hit.",
@@ -1889,7 +2633,10 @@
           "operation": "add"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "253ejm27abm5xj85"
+    }
   },
   "fire_damage": {
     "title": "Inhale the Embers",
@@ -1902,6 +2649,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "effect",
       "data": {
@@ -1910,15 +2658,27 @@
     },
     "description": [
       "",
-      { "text": "Your attacks deal " },
-      { "text": "2", "color": "dark_blue" },
-      { "text": " additional " },
-      { "text": "Flame Damage", "color": "#F9801D" },
-      { "text": "." },
+      {
+        "text": "Your attacks deal "
+      },
+      {
+        "text": "2",
+        "color": "dark_blue"
+      },
+      {
+        "text": " additional "
+      },
+      {
+        "text": "Flame Damage",
+        "color": "#F9801D"
+      },
+      {
+        "text": "."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "Flame damage is bonus magic damage that burns enemies hit.",
@@ -1931,7 +2691,10 @@
           "operation": "add"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "m107x7szsvai7to9"
+    }
   },
   "casting_movespeed": {
     "title": "Outstrider",
@@ -1944,6 +2707,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "effect",
       "data": {
@@ -1952,11 +2716,23 @@
     },
     "description": [
       "",
-      { "text": "Your" },
-      { "text": "movement speed while casting", "color": "dark_green" },
-      { "text": " is " },
-      { "text": "25%", "color": "dark_blue" },
-      { "text": " higher." }
+      {
+        "text": "Your"
+      },
+      {
+        "text": "movement speed while casting",
+        "color": "dark_green"
+      },
+      {
+        "text": " is "
+      },
+      {
+        "text": "25%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " higher."
+      }
     ],
     "rewards": [
       {
@@ -1967,7 +2743,10 @@
           "operation": "multiply_base"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "02xxwzoa50mse1bw"
+    }
   },
   "diamond_in_coal": {
     "title": "[NYI] A Jewel Traced Through Coal",
@@ -1980,6 +2759,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -1988,9 +2768,16 @@
     },
     "description": [
       "",
-      { "text": "When mining coal you sometimes find " },
-      { "text": "diamonds", "color": "#2CBAA8" },
-      { "text": "." }
+      {
+        "text": "When mining coal you sometimes find "
+      },
+      {
+        "text": "diamonds",
+        "color": "#2CBAA8"
+      },
+      {
+        "text": "."
+      }
     ],
     "rewards": [
       {
@@ -1999,7 +2786,10 @@
           "tag": "phis.diamond_in_coal"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "w0vs5larl5ktpwov"
+    }
   },
   "shorter_effects": {
     "title": "Risen from the Rain",
@@ -2012,6 +2802,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -2020,15 +2811,27 @@
     },
     "description": [
       "",
-      { "text": "The " },
-      { "text": "duration of negative effects", "color": "dark_green" },
-      { "text": " affecting you is " },
-      { "text": "halved", "color": "dark_blue" },
-      { "text": "." },
+      {
+        "text": "The "
+      },
+      {
+        "text": "duration of negative effects",
+        "color": "dark_green"
+      },
+      {
+        "text": " affecting you is "
+      },
+      {
+        "text": "halved",
+        "color": "dark_blue"
+      },
+      {
+        "text": "."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "Affected effets are '(tbd.)'.",
@@ -2042,7 +2845,10 @@
           "type": "MODIFY"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "x29j3acthu85griz"
+    }
   },
   "void_immunity": {
     "title": "[NYI] Far Beyond the Stars",
@@ -2055,6 +2861,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -2063,7 +2870,9 @@
     },
     "description": [
       "",
-      { "text": "(tbd.)" },
+      {
+        "text": "(tbd.)"
+      },
       {
         "text": " [...]\n",
         "italic": true,
@@ -2078,7 +2887,10 @@
           "tag": "phis.void_immunity"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "c5irr513r7jhossn"
+    }
   },
   "dragons_breath": {
     "title": "[NYI] Dragons Breath",
@@ -2091,6 +2903,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -2099,9 +2912,16 @@
     },
     "description": [
       "",
-      { "text": "You are able to craft " },
-      { "text": "Dragon's Breath", "color": "dark_aqua" },
-      { "text": "." }
+      {
+        "text": "You are able to craft "
+      },
+      {
+        "text": "Dragon's Breath",
+        "color": "dark_aqua"
+      },
+      {
+        "text": "."
+      }
     ],
     "rewards": [
       {
@@ -2111,9 +2931,11 @@
           "operation": "add"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "4pm34sl1uyqjuj4f"
+    }
   },
-
   "comment_1": {
     "title": " ================================================================================ CLASS ARCHETYPES BELOW ================================================================================",
     "frame": {
@@ -2125,6 +2947,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -2132,9 +2955,11 @@
       }
     },
     "description": "Do not implement",
-    "rewards": []
+    "rewards": [],
+    "metadata": {
+      "icon": "vtagj9l1ztvlleah"
+    }
   },
-
   "warrior_1": {
     "title": "You Will Know the Lion by His Claws",
     "frame": {
@@ -2146,6 +2971,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -2154,22 +2980,30 @@
     },
     "description": [
       "",
-      { "text": "You deal " },
+      {
+        "text": "You deal "
+      },
       {
         "text": "50%",
         "color": "dark_blue"
       },
-      { "text": " more " },
+      {
+        "text": " more "
+      },
       {
         "text": "melee damage",
         "color": "dark_green"
       },
-      { "text": " but in addition you also take " },
+      {
+        "text": " but in addition you also take "
+      },
       {
         "text": "10%",
         "color": "dark_blue"
       },
-      { "text": " more " },
+      {
+        "text": " more "
+      },
       {
         "text": "damage",
         "color": "dark_green"
@@ -2177,7 +3011,7 @@
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": [
@@ -2190,7 +3024,9 @@
         "underlined": true,
         "color": "gray"
       },
-      { "text": " tag." }
+      {
+        "text": " tag."
+      }
     ],
     "rewards": [
       {
@@ -2209,7 +3045,10 @@
           "operation": "multiply_base"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "qa3o9367l94jnfmu"
+    }
   },
   "warrior_2": {
     "title": "Speed of Blood",
@@ -2222,6 +3061,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "effect",
       "data": {
@@ -2230,12 +3070,16 @@
     },
     "description": [
       "",
-      { "text": "You gain " },
+      {
+        "text": "You gain "
+      },
       {
         "text": "attack and movement speed",
         "color": "dark_green"
       },
-      { "text": " when low on health." }
+      {
+        "text": " when low on health."
+      }
     ],
     "rewards": [
       {
@@ -2244,7 +3088,10 @@
           "tag": "phis.speed_of_blood"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "hoys3xr88unqamr6"
+    }
   },
   "warrior_3": {
     "title": "Bleed With Me",
@@ -2257,6 +3104,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -2265,18 +3113,27 @@
     },
     "description": [
       "",
-      { "text": "Your attacks have a " },
-      { "text": "25%", "color": "dark_blue" },
-      { "text": " chance to inflict " },
+      {
+        "text": "Your attacks have a "
+      },
+      {
+        "text": "25%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " chance to inflict "
+      },
       {
         "text": "Bleeding",
         "color": "dark_red"
       },
-      { "text": " on your enemies." },
+      {
+        "text": " on your enemies."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": [
@@ -2303,7 +3160,10 @@
           "tag": "phis.bleed_with_me"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "1zm12zmw59jvofll"
+    }
   },
   "warrior_4": {
     "title": "Teeth Grinding",
@@ -2316,6 +3176,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -2324,11 +3185,13 @@
     },
     "description": [
       "",
-      { "text": "You deal more damage the lower your health is." },
+      {
+        "text": "You deal more damage the lower your health is."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": [
@@ -2344,19 +3207,23 @@
           "tag": "phis.teeth_grinding"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "m4lu8otm2h194b1t"
+    }
   },
   "warrior_5": {
     "title": "...As Long As Winds Will Blow...",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/unlocked_capstone.png",
+        "available": "phis:textures/gui/available_capstone.png",
+        "locked": "phis:textures/gui/locked_capstone.png",
+        "excluded": "phis:textures/gui/excluded_capstone.png"
       }
     },
+    "size": 3,
     "icon": {
       "type": "effect",
       "data": {
@@ -2365,16 +3232,20 @@
     },
     "description": [
       "",
-      { "text": "Most attacks from mobs cannot kill you. You " },
+      {
+        "text": "Most attacks from mobs cannot kill you. You "
+      },
       {
         "text": "survive with one heart",
         "color": "dark_blue"
       },
-      { "text": " instead." },
+      {
+        "text": " instead."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": [
@@ -2387,7 +3258,9 @@
         "underlined": true,
         "color": "gray"
       },
-      { "text": " damage type." }
+      {
+        "text": " damage type."
+      }
     ],
     "rewards": [
       {
@@ -2403,7 +3276,10 @@
           "lock_command": "team leave @s"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "ddgeofvw1v9rduzu"
+    }
   },
   "assassin_1": {
     "title": "[NYI] The Poisonous Path",
@@ -2416,6 +3292,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -2433,7 +3310,9 @@
         }
       }
     ],
-    "required_skills": 0
+    "metadata": {
+      "icon": "vl3kswwtgh8k5wve"
+    }
   },
   "assassin_2": {
     "title": "Hide in Shade",
@@ -2446,6 +3325,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "effect",
       "data": {
@@ -2454,12 +3334,16 @@
     },
     "description": [
       "",
-      { "text": "When you kill an enemy, you become " },
+      {
+        "text": "When you kill an enemy, you become "
+      },
       {
         "text": "invisible",
         "color": "dark_green"
       },
-      { "text": " for a short time." }
+      {
+        "text": " for a short time."
+      }
     ],
     "rewards": [
       {
@@ -2468,7 +3352,10 @@
           "tag": "phis.hide_in_shade"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "uqjaudlb0izqaac2"
+    }
   },
   "assassin_3": {
     "title": "In Mist We Walk",
@@ -2481,6 +3368,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -2505,7 +3393,10 @@
           "operation": "addition"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "91obznytrmcjx8vg"
+    }
   },
   "assassin_4": {
     "title": "Disciple of the Heinous Path",
@@ -2518,6 +3409,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -2526,17 +3418,23 @@
     },
     "description": [
       "",
-      { "text": "You deal " },
+      {
+        "text": "You deal "
+      },
       {
         "text": "50%",
         "color": "dark_blue"
       },
-      { "text": " more " },
+      {
+        "text": " more "
+      },
       {
         "text": "damage",
         "color": "dark_green"
       },
-      { "text": " with knives." }
+      {
+        "text": " with knives."
+      }
     ],
     "rewards": [
       {
@@ -2545,19 +3443,23 @@
           "tag": "phis.disciple_of_the_heinous_path"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "vpg71q5qhcvzej6f"
+    }
   },
   "assassin_5": {
     "title": "Kiss of our Dark Mother",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/unlocked_capstone.png",
+        "available": "phis:textures/gui/available_capstone.png",
+        "locked": "phis:textures/gui/locked_capstone.png",
+        "excluded": "phis:textures/gui/excluded_capstone.png"
       }
     },
+    "size": 3,
     "icon": {
       "type": "item",
       "data": {
@@ -2566,17 +3468,23 @@
     },
     "description": [
       "",
-      { "text": "While " },
+      {
+        "text": "While "
+      },
       {
         "text": "invisible",
         "color": "dark_blue"
       },
-      { "text": " and using a " },
+      {
+        "text": " and using a "
+      },
       {
         "text": "knife",
         "color": "dark_aqua"
       },
-      { "text": " you instantly slay enemies which have less health than you." }
+      {
+        "text": " you instantly slay enemies which have less health than you."
+      }
     ],
     "rewards": [
       {
@@ -2592,7 +3500,10 @@
           "lock_command": "team leave @s"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "cawgehgkic62r9qw"
+    }
   },
   "knight_1": {
     "title": "The Last Guardian",
@@ -2605,6 +3516,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -2613,22 +3525,30 @@
     },
     "description": [
       "",
-      { "text": "You take " },
+      {
+        "text": "You take "
+      },
       {
         "text": "25%",
         "color": "dark_blue"
       },
-      { "text": " less " },
+      {
+        "text": " less "
+      },
       {
         "text": "damage",
         "color": "dark_green"
       },
-      { "text": " while carrying a " },
+      {
+        "text": " while carrying a "
+      },
       {
         "text": "shield",
         "color": "dark_aqua"
       },
-      { "text": " in your offhand." }
+      {
+        "text": " in your offhand."
+      }
     ],
     "rewards": [
       {
@@ -2637,7 +3557,10 @@
           "tag": "phis.last_guardian"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "osmtiscc3uh9hgve"
+    }
   },
   "knight_2": {
     "title": "Baptised in Fire and Ice",
@@ -2650,6 +3573,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -2674,7 +3598,10 @@
           "operation": "multiply_base"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "9069xi01w2k27fg1"
+    }
   },
   "knight_3": {
     "title": "A Shield with an Iron Face",
@@ -2687,6 +3614,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -2701,7 +3629,10 @@
           "tag": "phis.blocking"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "21sketnp2tvzyml8"
+    }
   },
   "knight_4": {
     "title": "Shadow of the Mountain",
@@ -2714,6 +3645,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -2730,19 +3662,23 @@
           "operation": "multiply_base"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "6lhucggkb1b241lq"
+    }
   },
   "knight_5": {
     "title": "Messenger of the Light",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/unlocked_capstone.png",
+        "available": "phis:textures/gui/available_capstone.png",
+        "locked": "phis:textures/gui/locked_capstone.png",
+        "excluded": "phis:textures/gui/excluded_capstone.png"
       }
     },
+    "size": 3,
     "icon": {
       "type": "item",
       "data": {
@@ -2764,7 +3700,10 @@
           "lock_command": "team leave @s"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "ljymwvv5cgdmyh01"
+    }
   },
   "hunter_1": {
     "title": "Dread Reaver",
@@ -2777,6 +3716,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -2791,7 +3731,10 @@
           "tag": "phis.dread_reaver"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "9uvxdkpo2ycacmep"
+    }
   },
   "hunter_2": {
     "title": "From Wilderness Came Death",
@@ -2804,6 +3747,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -2828,7 +3772,10 @@
           "operation": "multiply_base"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "3ffcs85vs39yws4f"
+    }
   },
   "hunter_3": {
     "title": "Wolves Guard my Coffin",
@@ -2841,6 +3788,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -2855,10 +3803,13 @@
           "tag": "phis.wolves_guard_my_coffin"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "mxz8wve0pzj6psv8"
+    }
   },
   "hunter_4": {
-    "title": "tbd.",
+    "title": "The Ghostly Pallid Hand of Fear",
     "frame": {
       "type": "texture",
       "data": {
@@ -2868,6 +3819,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -2883,19 +3835,22 @@
         }
       }
     ],
-    "required_skills": 0
+    "metadata": {
+      "icon": "pjur2gu099rq1cyx"
+    }
   },
   "hunter_5": {
     "title": "One by One",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/unlocked_capstone.png",
+        "available": "phis:textures/gui/available_capstone.png",
+        "locked": "phis:textures/gui/locked_capstone.png",
+        "excluded": "phis:textures/gui/excluded_capstone.png"
       }
     },
+    "size": 3,
     "icon": {
       "type": "item",
       "data": {
@@ -2917,7 +3872,10 @@
           "lock_command": "team leave @s"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "yojshwea0rcpmb5k"
+    }
   },
   "fire_mage_1": {
     "title": "[NYI] As Embers Dress the Sky",
@@ -2930,6 +3888,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -2938,7 +3897,9 @@
     },
     "description": [
       "",
-      { "text": "You learn how to cast " },
+      {
+        "text": "You learn how to cast "
+      },
       {
         "text": "Fire Bolt",
         "color": "gold"
@@ -2950,11 +3911,13 @@
         "text": "Uncommon",
         "color": "green"
       },
-      { "text": " spells." },
+      {
+        "text": " spells."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
@@ -2974,7 +3937,10 @@
           "lock_command": "rarity set common"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "2gdrpg5knvzjb1je"
+    }
   },
   "fire_mage_2": {
     "title": "Feathers in Ashes",
@@ -2987,6 +3953,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -2995,7 +3962,9 @@
     },
     "description": [
       "",
-      { "text": "You gain " },
+      {
+        "text": "You gain "
+      },
       {
         "text": "50%",
         "color": "dark_blue"
@@ -3014,11 +3983,13 @@
         "text": "Rare",
         "color": "aqua"
       },
-      { "text": " spells." },
+      {
+        "text": " spells."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
@@ -3038,7 +4009,10 @@
           "lock_command": "rarity set common"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "1hgq2hkbkjh4p0hp"
+    }
   },
   "fire_mage_3": {
     "title": "Gloria Ablaze",
@@ -3051,6 +4025,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -3059,7 +4034,9 @@
     },
     "description": [
       "",
-      { "text": "You gain " },
+      {
+        "text": "You gain "
+      },
       {
         "text": "50%",
         "color": "dark_blue"
@@ -3078,7 +4055,9 @@
         "text": "10 seconds",
         "color": "yellow"
       },
-      { "text": " after casting a " },
+      {
+        "text": " after casting a "
+      },
       {
         "text": "Fire spell",
         "color": "gold"
@@ -3090,11 +4069,13 @@
         "text": "Fire Manuscripts",
         "color": "gold"
       },
-      { "text": "." },
+      {
+        "text": "."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "Manuscripts are used to learn specific spells of the respective school.",
@@ -3112,7 +4093,10 @@
           "tag": "phis.mana_regen_fire"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "3e97is5xswockoa8"
+    }
   },
   "fire_mage_4": {
     "title": "[NYI] A Sword of Promethean Fire",
@@ -3125,6 +4109,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -3133,23 +4118,25 @@
     },
     "description": [
       "",
-      { "text": "Your " },
+      {
+        "text": "When casting "
+      },
       {
         "text": "Fire spells",
         "color": "gold"
       },
       {
-        "text": " deal "
+        "text": " you have a chance to gain "
       },
       {
-        "text": "15%",
+        "text": "10%",
         "color": "dark_blue"
       },
       {
-        "text": " more "
+        "text": " of the mana costs as "
       },
       {
-        "text": "damage",
+        "text": "health",
         "color": "dark_green"
       },
       {
@@ -3159,11 +4146,13 @@
         "text": "Epic",
         "color": "light_purple"
       },
-      { "text": " spells." },
+      {
+        "text": " spells."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
@@ -3183,19 +4172,23 @@
           "lock_command": "rarity set common"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "jamtwai6pdlzhivu"
+    }
   },
   "fire_mage_5": {
     "title": "[NYI] Blessing of the Fire-Bearer",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/unlocked_capstone.png",
+        "available": "phis:textures/gui/available_capstone.png",
+        "locked": "phis:textures/gui/locked_capstone.png",
+        "excluded": "phis:textures/gui/excluded_capstone.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -3211,7 +4204,9 @@
         "text": "(tbd. -- Fire Focus)",
         "color": "gold"
       },
-      { "text": "." },
+      {
+        "text": "."
+      },
       {
         "text": ".\nIn addition, you unlock "
       },
@@ -3219,11 +4214,13 @@
         "text": "Legendary",
         "color": "light_purple"
       },
-      { "text": " spells." },
+      {
+        "text": " spells."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
@@ -3249,7 +4246,10 @@
           "lock_command": "team leave @s"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "4jpy6y61u10lnsku"
+    }
   },
   "ice_mage_1": {
     "title": "[NYI] A Church Bell Tolls Amidst the Frozen Nordic Winds",
@@ -3262,6 +4262,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -3270,7 +4271,9 @@
     },
     "description": [
       "",
-      { "text": "You learn how to cast " },
+      {
+        "text": "You learn how to cast "
+      },
       {
         "text": "Icicle",
         "color": "#d0f9ff"
@@ -3282,11 +4285,13 @@
         "text": "Uncommon",
         "color": "green"
       },
-      { "text": " spells." },
+      {
+        "text": " spells."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
@@ -3306,7 +4311,10 @@
           "lock_command": "rarity set common"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "21hbxln0o7nf1cw2"
+    }
   },
   "ice_mage_2": {
     "title": "Eyeless Winter",
@@ -3319,6 +4327,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -3327,7 +4336,9 @@
     },
     "description": [
       "",
-      { "text": "You gain " },
+      {
+        "text": "You gain "
+      },
       {
         "text": "50%",
         "color": "dark_blue"
@@ -3346,11 +4357,13 @@
         "text": "Rare",
         "color": "aqua"
       },
-      { "text": " spells." },
+      {
+        "text": " spells."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
@@ -3370,7 +4383,10 @@
           "lock_command": "rarity set common"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "h5w6dw4ex7lm1f4j"
+    }
   },
   "ice_mage_3": {
     "title": "Boreal Fiends",
@@ -3383,6 +4399,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -3391,7 +4408,9 @@
     },
     "description": [
       "",
-      { "text": "You gain " },
+      {
+        "text": "You gain "
+      },
       {
         "text": "50%",
         "color": "dark_blue"
@@ -3410,7 +4429,9 @@
         "text": "10 seconds",
         "color": "yellow"
       },
-      { "text": " after casting an " },
+      {
+        "text": " after casting an "
+      },
       {
         "text": "Ice spell",
         "color": "#d0f9ff"
@@ -3422,11 +4443,13 @@
         "text": "Ice Manuscripts",
         "color": "#d0f9ff"
       },
-      { "text": "." },
+      {
+        "text": "."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "Manuscripts are used to learn specific spells of the respective school.",
@@ -3444,7 +4467,10 @@
           "tag": "phis.mana_regen_ice"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "5yb091ykomo3d6uw"
+    }
   },
   "ice_mage_4": {
     "title": "The Son of Hoarfrost",
@@ -3457,6 +4483,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 3,
     "icon": {
       "type": "item",
       "data": {
@@ -3465,7 +4492,9 @@
     },
     "description": [
       "",
-      { "text": "Your " },
+      {
+        "text": "Your "
+      },
       {
         "text": "Ice spells",
         "color": "#d0f9ff"
@@ -3491,11 +4520,13 @@
         "text": "Epic",
         "color": "light_purple"
       },
-      { "text": " spells." },
+      {
+        "text": " spells."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
@@ -3515,19 +4546,23 @@
           "lock_command": "rarity set common"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "sdrs5kgm3nb8ijt6"
+    }
   },
   "ice_mage_5": {
     "title": "[NYI] The Call of the Wintermoon",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/unlocked_capstone.png",
+        "available": "phis:textures/gui/available_capstone.png",
+        "locked": "phis:textures/gui/locked_capstone.png",
+        "excluded": "phis:textures/gui/excluded_capstone.png"
       }
     },
+    "size": 3,
     "icon": {
       "type": "item",
       "data": {
@@ -3543,7 +4578,9 @@
         "text": "(tbd. -- Ice Focus)",
         "color": "#d0f9ff"
       },
-      { "text": "." },
+      {
+        "text": "."
+      },
       {
         "text": ".\nIn addition, you unlock "
       },
@@ -3551,11 +4588,13 @@
         "text": "Legendary",
         "color": "light_purple"
       },
-      { "text": " spells." },
+      {
+        "text": " spells."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
@@ -3581,7 +4620,10 @@
           "lock_command": "team leave @s"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "bs0ntalc8hcgffpn"
+    }
   },
   "lightning_mage_1": {
     "title": "[NYI] Arctic Thunder",
@@ -3594,6 +4636,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -3602,7 +4645,9 @@
     },
     "description": [
       "",
-      { "text": "You learn how to cast " },
+      {
+        "text": "You learn how to cast "
+      },
       {
         "text": "Volt Strike",
         "color": "aqua"
@@ -3614,11 +4659,13 @@
         "text": "Uncommon",
         "color": "green"
       },
-      { "text": " spells." },
+      {
+        "text": " spells."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
@@ -3638,7 +4685,10 @@
           "lock_command": "rarity set common"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "66ih9aaeq2s343it"
+    }
   },
   "lightning_mage_2": {
     "title": "When Autumn Storms Come",
@@ -3651,6 +4701,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -3659,7 +4710,9 @@
     },
     "description": [
       "",
-      { "text": "You gain " },
+      {
+        "text": "You gain "
+      },
       {
         "text": "50%",
         "color": "dark_blue"
@@ -3678,11 +4731,13 @@
         "text": "Rare",
         "color": "aqua"
       },
-      { "text": " spells." },
+      {
+        "text": " spells."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
@@ -3702,7 +4757,10 @@
           "lock_command": "rarity set common"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "2vxv504y0o8mcklh"
+    }
   },
   "lightning_mage_3": {
     "title": "The Sorcerer Above the Clouds",
@@ -3715,6 +4773,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -3723,7 +4782,9 @@
     },
     "description": [
       "",
-      { "text": "You gain " },
+      {
+        "text": "You gain "
+      },
       {
         "text": "50%",
         "color": "dark_blue"
@@ -3742,7 +4803,9 @@
         "text": "10 seconds",
         "color": "yellow"
       },
-      { "text": " after casting a " },
+      {
+        "text": " after casting a "
+      },
       {
         "text": "Lightning spell",
         "color": "aqua"
@@ -3754,11 +4817,13 @@
         "text": "Lightning Manuscripts",
         "color": "aqua"
       },
-      { "text": "." },
+      {
+        "text": "."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "Manuscripts are used to learn specific spells of the respective school.",
@@ -3776,7 +4841,10 @@
           "tag": "phis.mana_regen_lightning"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "1f3hw6aey2yz0rz0"
+    }
   },
   "lightning_mage_4": {
     "title": "Wield Lightning to Split the Sun",
@@ -3789,6 +4857,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -3797,7 +4866,9 @@
     },
     "description": [
       "",
-      { "text": "Your " },
+      {
+        "text": "Your "
+      },
       {
         "text": "Lightning spells",
         "color": "aqua"
@@ -3823,11 +4894,13 @@
         "text": "Epic",
         "color": "light_purple"
       },
-      { "text": " spells." },
+      {
+        "text": " spells."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
@@ -3847,19 +4920,23 @@
           "lock_command": "rarity set common"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "qt9k67sd2npfyoq0"
+    }
   },
   "lightning_mage_5": {
     "title": "[NYI] Masters of Rain and Storm",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/unlocked_capstone.png",
+        "available": "phis:textures/gui/available_capstone.png",
+        "locked": "phis:textures/gui/locked_capstone.png",
+        "excluded": "phis:textures/gui/excluded_capstone.png"
       }
     },
+    "size": 3,
     "icon": {
       "type": "item",
       "data": {
@@ -3875,7 +4952,9 @@
         "text": "(tbd. -- Lightning Focus)",
         "color": "aqua"
       },
-      { "text": "." },
+      {
+        "text": "."
+      },
       {
         "text": ".\nIn addition, you unlock "
       },
@@ -3883,11 +4962,13 @@
         "text": "Legendary",
         "color": "light_purple"
       },
-      { "text": " spells." },
+      {
+        "text": " spells."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
@@ -3913,7 +4994,10 @@
           "lock_command": "team leave @s"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "9rm4ynjdog6rqrcw"
+    }
   },
   "holy_mage_1": {
     "title": "[NYI] Eternal Summer",
@@ -3926,6 +5010,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -3934,7 +5019,9 @@
     },
     "description": [
       "",
-      { "text": "You learn how to cast " },
+      {
+        "text": "You learn how to cast "
+      },
       {
         "text": "Guiding Bolt",
         "color": "#fff8d4"
@@ -3946,11 +5033,13 @@
         "text": "Uncommon",
         "color": "green"
       },
-      { "text": " spells." },
+      {
+        "text": " spells."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
@@ -3970,7 +5059,10 @@
           "lock_command": "rarity set common"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "gdf7uh9iia7c2p4a"
+    }
   },
   "holy_mage_2": {
     "title": "Life Eternal",
@@ -3983,6 +5075,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -3991,7 +5084,9 @@
     },
     "description": [
       "",
-      { "text": "You gain " },
+      {
+        "text": "You gain "
+      },
       {
         "text": "50%",
         "color": "dark_blue"
@@ -4010,11 +5105,13 @@
         "text": "Rare",
         "color": "aqua"
       },
-      { "text": " spells." },
+      {
+        "text": " spells."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
@@ -4034,7 +5131,10 @@
           "lock_command": "rarity set common"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "3m2bb8svz06y65vz"
+    }
   },
   "holy_mage_3": {
     "title": "Invoke the Oath",
@@ -4047,6 +5147,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -4055,7 +5156,9 @@
     },
     "description": [
       "",
-      { "text": "You gain " },
+      {
+        "text": "You gain "
+      },
       {
         "text": "50%",
         "color": "dark_blue"
@@ -4074,7 +5177,9 @@
         "text": "10 seconds",
         "color": "yellow"
       },
-      { "text": " after casting a " },
+      {
+        "text": " after casting a "
+      },
       {
         "text": "Holy spell",
         "color": "#fff8d4"
@@ -4086,11 +5191,13 @@
         "text": "Holy Manuscripts",
         "color": "#fff8d4"
       },
-      { "text": "." },
+      {
+        "text": "."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "Manuscripts are used to learn specific spells of the respective school.",
@@ -4108,7 +5215,10 @@
           "tag": "phis.mana_regen_holy"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "xyi1cbvs41pa71c1"
+    }
   },
   "holy_mage_4": {
     "title": "As the Sun",
@@ -4121,6 +5231,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -4129,7 +5240,9 @@
     },
     "description": [
       "",
-      { "text": "Your " },
+      {
+        "text": "Your "
+      },
       {
         "text": "Holy spells",
         "color": "#fff8d4"
@@ -4155,11 +5268,13 @@
         "text": "Epic",
         "color": "light_purple"
       },
-      { "text": " spells." },
+      {
+        "text": " spells."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
@@ -4179,19 +5294,23 @@
           "lock_command": "rarity set common"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "wudj2jjijvptoy3i"
+    }
   },
   "holy_mage_5": {
     "title": "[NYI] The Call of the Wintermoon",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/unlocked_capstone.png",
+        "available": "phis:textures/gui/available_capstone.png",
+        "locked": "phis:textures/gui/locked_capstone.png",
+        "excluded": "phis:textures/gui/excluded_capstone.png"
       }
     },
+    "size": 3,
     "icon": {
       "type": "item",
       "data": {
@@ -4207,7 +5326,9 @@
         "text": "(tbd. -- Holy Focus)",
         "color": "#fff8d4"
       },
-      { "text": "." },
+      {
+        "text": "."
+      },
       {
         "text": ".\nIn addition, you unlock "
       },
@@ -4215,11 +5336,13 @@
         "text": "Legendary",
         "color": "light_purple"
       },
-      { "text": " spells." },
+      {
+        "text": " spells."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
@@ -4245,7 +5368,10 @@
           "lock_command": "team leave @s"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "8bmcks25cuus25ot"
+    }
   },
   "ender_mage_1": {
     "title": "[NYI] Where Dark and Light Don't Differ",
@@ -4258,6 +5384,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -4266,7 +5393,9 @@
     },
     "description": [
       "",
-      { "text": "You learn how to cast " },
+      {
+        "text": "You learn how to cast "
+      },
       {
         "text": "Magic Missile",
         "color": "light_purple"
@@ -4278,11 +5407,13 @@
         "text": "Uncommon",
         "color": "green"
       },
-      { "text": " spells." },
+      {
+        "text": " spells."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
@@ -4302,7 +5433,10 @@
           "lock_command": "rarity set common"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "i9lfjdwaha38cpyi"
+    }
   },
   "ender_mage_2": {
     "title": "Unearthing Cosmic Decay",
@@ -4315,6 +5449,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -4323,7 +5458,9 @@
     },
     "description": [
       "",
-      { "text": "You gain " },
+      {
+        "text": "You gain "
+      },
       {
         "text": "50%",
         "color": "dark_blue"
@@ -4342,11 +5479,13 @@
         "text": "Rare",
         "color": "aqua"
       },
-      { "text": " spells." },
+      {
+        "text": " spells."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
@@ -4366,7 +5505,10 @@
           "lock_command": "rarity set common"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "741b5s9bo8lhq3x4"
+    }
   },
   "ender_mage_3": {
     "title": "In the Absence of Matter",
@@ -4379,6 +5521,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -4387,7 +5530,9 @@
     },
     "description": [
       "",
-      { "text": "You gain " },
+      {
+        "text": "You gain "
+      },
       {
         "text": "50%",
         "color": "dark_blue"
@@ -4406,7 +5551,9 @@
         "text": "10 seconds",
         "color": "yellow"
       },
-      { "text": " after casting an " },
+      {
+        "text": " after casting an "
+      },
       {
         "text": "Ender spell",
         "color": "light_purple"
@@ -4418,11 +5565,13 @@
         "text": "Ender Manuscripts",
         "color": "light_purple"
       },
-      { "text": "." },
+      {
+        "text": "."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "Manuscripts are used to learn specific spells of the respective school.",
@@ -4440,7 +5589,10 @@
           "tag": "phis.mana_regen_ender"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "qsyx5opaa525xyqr"
+    }
   },
   "ender_mage_4": {
     "title": "Bearer of Blackest Might",
@@ -4453,6 +5605,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -4461,7 +5614,9 @@
     },
     "description": [
       "",
-      { "text": "Your " },
+      {
+        "text": "Your "
+      },
       {
         "text": "Ender spells",
         "color": "light_purple"
@@ -4487,11 +5642,13 @@
         "text": "Epic",
         "color": "light_purple"
       },
-      { "text": " spells." },
+      {
+        "text": " spells."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
@@ -4511,19 +5668,23 @@
           "lock_command": "rarity set common"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "29oc7d50qam3glt1"
+    }
   },
   "ender_mage_5": {
     "title": "[NYI] Cosmic Significance",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/unlocked_capstone.png",
+        "available": "phis:textures/gui/available_capstone.png",
+        "locked": "phis:textures/gui/locked_capstone.png",
+        "excluded": "phis:textures/gui/excluded_capstone.png"
       }
     },
+    "size": 3,
     "icon": {
       "type": "item",
       "data": {
@@ -4539,7 +5700,9 @@
         "text": "(tbd. -- Ender Focus)",
         "color": "light_purple"
       },
-      { "text": "." },
+      {
+        "text": "."
+      },
       {
         "text": ".\nIn addition, you unlock "
       },
@@ -4547,11 +5710,13 @@
         "text": "Legendary",
         "color": "light_purple"
       },
-      { "text": " spells." },
+      {
+        "text": " spells."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
@@ -4577,7 +5742,10 @@
           "lock_command": "team leave @s"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "zc1j4j019qw955qq"
+    }
   },
   "blood_mage_1": {
     "title": "[NYI] A Scarlet Witch Lit the Season",
@@ -4590,6 +5758,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -4598,7 +5767,9 @@
     },
     "description": [
       "",
-      { "text": "You learn how to cast " },
+      {
+        "text": "You learn how to cast "
+      },
       {
         "text": "Ray of Siphoning",
         "color": "dark_red"
@@ -4610,11 +5781,13 @@
         "text": "Uncommon",
         "color": "green"
       },
-      { "text": " spells." },
+      {
+        "text": " spells."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
@@ -4634,7 +5807,10 @@
           "lock_command": "rarity set common"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "hix47nuwhtonkva1"
+    }
   },
   "blood_mage_2": {
     "title": "Sanguine Rituals",
@@ -4647,6 +5823,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -4655,7 +5832,9 @@
     },
     "description": [
       "",
-      { "text": "You gain " },
+      {
+        "text": "You gain "
+      },
       {
         "text": "50%",
         "color": "dark_blue"
@@ -4674,11 +5853,13 @@
         "text": "Rare",
         "color": "aqua"
       },
-      { "text": " spells." },
+      {
+        "text": " spells."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
@@ -4698,7 +5879,10 @@
           "lock_command": "rarity set common"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "hw6jpjm7s00kjuvn"
+    }
   },
   "blood_mage_3": {
     "title": "A Sanguine Tide Unleashed",
@@ -4711,6 +5895,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -4719,7 +5904,9 @@
     },
     "description": [
       "",
-      { "text": "You gain " },
+      {
+        "text": "You gain "
+      },
       {
         "text": "50%",
         "color": "dark_blue"
@@ -4738,7 +5925,9 @@
         "text": "10 seconds",
         "color": "yellow"
       },
-      { "text": " after casting a " },
+      {
+        "text": " after casting a "
+      },
       {
         "text": "Blood spell",
         "color": "dark_red"
@@ -4750,11 +5939,13 @@
         "text": "Blood Manuscripts",
         "color": "dark_red"
       },
-      { "text": "." },
+      {
+        "text": "."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "Manuscripts are used to learn specific spells of the respective school.",
@@ -4772,7 +5963,10 @@
           "tag": "phis.mana_regen_blood"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "04b1qg7g90vdoc66"
+    }
   },
   "blood_mage_4": {
     "title": "...where Blood Will Soon Be Shed",
@@ -4785,6 +5979,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -4793,7 +5988,9 @@
     },
     "description": [
       "",
-      { "text": "Your " },
+      {
+        "text": "Your "
+      },
       {
         "text": "Blood spells",
         "color": "dark_red"
@@ -4819,11 +6016,13 @@
         "text": "Epic",
         "color": "light_purple"
       },
-      { "text": " spells." },
+      {
+        "text": " spells."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
@@ -4843,19 +6042,23 @@
           "lock_command": "rarity set common"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "0onh6lxkz1ha6vif"
+    }
   },
   "blood_mage_5": {
     "title": "[NYI] Blood Magick Necromance",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/unlocked_capstone.png",
+        "available": "phis:textures/gui/available_capstone.png",
+        "locked": "phis:textures/gui/locked_capstone.png",
+        "excluded": "phis:textures/gui/excluded_capstone.png"
       }
     },
+    "size": 3,
     "icon": {
       "type": "item",
       "data": {
@@ -4871,7 +6074,9 @@
         "text": "(tbd. -- Blood Focus)",
         "color": "dark_red"
       },
-      { "text": "." },
+      {
+        "text": "."
+      },
       {
         "text": ".\nIn addition, you unlock "
       },
@@ -4879,11 +6084,13 @@
         "text": "Legendary",
         "color": "light_purple"
       },
-      { "text": " spells." },
+      {
+        "text": " spells."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
@@ -4909,7 +6116,10 @@
           "lock_command": "team leave @s"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "ev92um5u4xlmrd3o"
+    }
   },
   "evocation_mage_1": {
     "title": "[NYI] A Witch Is Born",
@@ -4922,6 +6132,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -4930,7 +6141,9 @@
     },
     "description": [
       "",
-      { "text": "You learn how to cast " },
+      {
+        "text": "You learn how to cast "
+      },
       {
         "text": "Firecracker",
         "color": "white"
@@ -4942,11 +6155,13 @@
         "text": "Uncommon",
         "color": "green"
       },
-      { "text": " spells." },
+      {
+        "text": " spells."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
@@ -4966,7 +6181,10 @@
           "lock_command": "rarity set common"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "d6bxvv6uc2gity8u"
+    }
   },
   "evocation_mage_2": {
     "title": "Archaic Magic... A Cenotaph Below the Cursed Moon",
@@ -4979,6 +6197,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -4987,7 +6206,9 @@
     },
     "description": [
       "",
-      { "text": "You gain " },
+      {
+        "text": "You gain "
+      },
       {
         "text": "50%",
         "color": "dark_blue"
@@ -5006,11 +6227,13 @@
         "text": "Rare",
         "color": "aqua"
       },
-      { "text": " spells." },
+      {
+        "text": " spells."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
@@ -5030,7 +6253,10 @@
           "lock_command": "rarity set common"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "xdpyxrhtadet85ox"
+    }
   },
   "evocation_mage_3": {
     "title": "Enthralling Mystery",
@@ -5043,6 +6269,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -5051,7 +6278,9 @@
     },
     "description": [
       "",
-      { "text": "You gain " },
+      {
+        "text": "You gain "
+      },
       {
         "text": "50%",
         "color": "dark_blue"
@@ -5070,7 +6299,9 @@
         "text": "10 seconds",
         "color": "yellow"
       },
-      { "text": " after casting an " },
+      {
+        "text": " after casting an "
+      },
       {
         "text": "Evocation spell",
         "color": "white"
@@ -5082,11 +6313,13 @@
         "text": "Evocation Manuscripts",
         "color": "white"
       },
-      { "text": "." },
+      {
+        "text": "."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "Manuscripts are used to learn specific spells of the respective school.",
@@ -5104,7 +6337,10 @@
           "tag": "phis.mana_regen_evocation"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "8jwzhjyb4ruys60p"
+    }
   },
   "evocation_mage_4": {
     "title": "Nameless Rites",
@@ -5117,6 +6353,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 3,
     "icon": {
       "type": "item",
       "data": {
@@ -5125,7 +6362,9 @@
     },
     "description": [
       "",
-      { "text": "Your " },
+      {
+        "text": "Your "
+      },
       {
         "text": "Evocation spells",
         "color": "white"
@@ -5151,11 +6390,13 @@
         "text": "Epic",
         "color": "light_purple"
       },
-      { "text": " spells." },
+      {
+        "text": " spells."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
@@ -5175,19 +6416,23 @@
           "lock_command": "rarity set common"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "a9qbwyveubwn5cq9"
+    }
   },
   "evocation_mage_5": {
     "title": "[NYI] To Eve the Art of Witchcraft",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/unlocked_capstone.png",
+        "available": "phis:textures/gui/available_capstone.png",
+        "locked": "phis:textures/gui/locked_capstone.png",
+        "excluded": "phis:textures/gui/excluded_capstone.png"
       }
     },
+    "size": 3,
     "icon": {
       "type": "item",
       "data": {
@@ -5203,7 +6448,9 @@
         "text": "(tbd. -- Evocation Focus)",
         "color": "white"
       },
-      { "text": "." },
+      {
+        "text": "."
+      },
       {
         "text": ".\nIn addition, you unlock "
       },
@@ -5211,11 +6458,13 @@
         "text": "Legendary",
         "color": "light_purple"
       },
-      { "text": " spells." },
+      {
+        "text": " spells."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
@@ -5241,7 +6490,10 @@
           "lock_command": "team leave @s"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "htcpgh44zj2ldukl"
+    }
   },
   "nature_mage_1": {
     "title": "[NYI] Forest Whispers My Name",
@@ -5254,6 +6506,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -5262,7 +6515,9 @@
     },
     "description": [
       "",
-      { "text": "You learn how to cast " },
+      {
+        "text": "You learn how to cast "
+      },
       {
         "text": "Poison Arrow",
         "color": "green"
@@ -5274,11 +6529,13 @@
         "text": "Uncommon",
         "color": "green"
       },
-      { "text": " spells." },
+      {
+        "text": " spells."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
@@ -5298,7 +6555,10 @@
           "lock_command": "rarity set common"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "v2j8lpzp274zzde2"
+    }
   },
   "nature_mage_2": {
     "title": "In the Garden",
@@ -5311,6 +6571,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -5319,7 +6580,9 @@
     },
     "description": [
       "",
-      { "text": "You gain " },
+      {
+        "text": "You gain "
+      },
       {
         "text": "50%",
         "color": "dark_blue"
@@ -5338,11 +6601,13 @@
         "text": "Rare",
         "color": "aqua"
       },
-      { "text": " spells." },
+      {
+        "text": " spells."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
@@ -5362,7 +6627,10 @@
           "lock_command": "rarity set common"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "jfh2yobpqdyd9l9p"
+    }
   },
   "nature_mage_3": {
     "title": "Chlorophyll",
@@ -5375,6 +6643,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -5383,7 +6652,9 @@
     },
     "description": [
       "",
-      { "text": "You gain " },
+      {
+        "text": "You gain "
+      },
       {
         "text": "50%",
         "color": "dark_blue"
@@ -5402,7 +6673,9 @@
         "text": "10 seconds",
         "color": "yellow"
       },
-      { "text": " after casting a " },
+      {
+        "text": " after casting a "
+      },
       {
         "text": "Nature spell",
         "color": "green"
@@ -5414,11 +6687,13 @@
         "text": "Nature Manuscripts",
         "color": "green"
       },
-      { "text": "." },
+      {
+        "text": "."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "Manuscripts are used to learn specific spells of the respective school.",
@@ -5436,7 +6711,10 @@
           "tag": "phis.mana_regen_nature"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "aw5l8jskywk2azco"
+    }
   },
   "nature_mage_4": {
     "title": "Ferns and Roads",
@@ -5449,6 +6727,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -5457,7 +6736,9 @@
     },
     "description": [
       "",
-      { "text": "Your " },
+      {
+        "text": "Your "
+      },
       {
         "text": "Nature spells",
         "color": "green"
@@ -5483,11 +6764,13 @@
         "text": "Epic",
         "color": "light_purple"
       },
-      { "text": " spells." },
+      {
+        "text": " spells."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
@@ -5507,19 +6790,23 @@
           "lock_command": "rarity set common"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "bhmlmsw8atzljjuj"
+    }
   },
   "nature_mage_5": {
     "title": "[NYI] The Call of the Woods",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/unlocked_capstone.png",
+        "available": "phis:textures/gui/available_capstone.png",
+        "locked": "phis:textures/gui/locked_capstone.png",
+        "excluded": "phis:textures/gui/excluded_capstone.png"
       }
     },
+    "size": 3,
     "icon": {
       "type": "item",
       "data": {
@@ -5535,7 +6822,9 @@
         "text": "(tbd. -- Nature Focus)",
         "color": "green"
       },
-      { "text": "." },
+      {
+        "text": "."
+      },
       {
         "text": ".\nIn addition, you unlock "
       },
@@ -5543,11 +6832,13 @@
         "text": "Legendary",
         "color": "light_purple"
       },
-      { "text": " spells." },
+      {
+        "text": " spells."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
@@ -5573,7 +6864,10 @@
           "lock_command": "team leave @s"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "ecugp729vzlmnnx7"
+    }
   },
   "sound_mage_1": {
     "title": "[NYI] Primal Beauty of Silence",
@@ -5586,6 +6880,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -5594,7 +6889,9 @@
     },
     "description": [
       "",
-      { "text": "You learn how to cast " },
+      {
+        "text": "You learn how to cast "
+      },
       {
         "text": "[NYI -- search attribute] Clef",
         "color": "#CFFFD2"
@@ -5606,11 +6903,13 @@
         "text": "Uncommon",
         "color": "green"
       },
-      { "text": " spells." },
+      {
+        "text": " spells."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
@@ -5630,7 +6929,10 @@
           "lock_command": "rarity set common"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "vwxh804n89rmay2o"
+    }
   },
   "sound_mage_2": {
     "title": "Song to Hall Up High",
@@ -5643,6 +6945,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -5651,7 +6954,9 @@
     },
     "description": [
       "",
-      { "text": "You gain " },
+      {
+        "text": "You gain "
+      },
       {
         "text": "50%",
         "color": "dark_blue"
@@ -5670,11 +6975,13 @@
         "text": "Rare",
         "color": "aqua"
       },
-      { "text": " spells." },
+      {
+        "text": " spells."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
@@ -5694,7 +7001,10 @@
           "lock_command": "rarity set common"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "8o648wdrpl2wbpjz"
+    }
   },
   "sound_mage_3": {
     "title": "Boreal Fiends",
@@ -5707,6 +7017,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -5715,7 +7026,9 @@
     },
     "description": [
       "",
-      { "text": "You gain " },
+      {
+        "text": "You gain "
+      },
       {
         "text": "50%",
         "color": "dark_blue"
@@ -5734,7 +7047,9 @@
         "text": "10 seconds",
         "color": "yellow"
       },
-      { "text": " after casting a " },
+      {
+        "text": " after casting a "
+      },
       {
         "text": "Sound spell",
         "color": "#CFFFD2"
@@ -5746,11 +7061,13 @@
         "text": "Sound Manuscripts",
         "color": "#CFFFD2"
       },
-      { "text": "." },
+      {
+        "text": "."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "Manuscripts are used to learn specific spells of the respective school.",
@@ -5768,7 +7085,10 @@
           "tag": "phis.mana_regen_sound"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "cql4q41pwuc557nn"
+    }
   },
   "sound_mage_4": {
     "title": "Temple of the Silent Curses",
@@ -5781,6 +7101,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2.5,
     "icon": {
       "type": "item",
       "data": {
@@ -5789,7 +7110,9 @@
     },
     "description": [
       "",
-      { "text": "Your " },
+      {
+        "text": "Your "
+      },
       {
         "text": "Sound spells",
         "color": "#CFFFD2"
@@ -5815,11 +7138,13 @@
         "text": "Epic",
         "color": "light_purple"
       },
-      { "text": " spells." },
+      {
+        "text": " spells."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
@@ -5839,19 +7164,23 @@
           "lock_command": "rarity set common"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "5meikpncq9rxfiib"
+    }
   },
   "sound_mage_5": {
     "title": "[NYI] The Sounds of the Universe",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/unlocked_capstone.png",
+        "available": "phis:textures/gui/available_capstone.png",
+        "locked": "phis:textures/gui/locked_capstone.png",
+        "excluded": "phis:textures/gui/excluded_capstone.png"
       }
     },
+    "size": 3,
     "icon": {
       "type": "item",
       "data": {
@@ -5867,7 +7196,9 @@
         "text": "(tbd. -- Sound Focus)",
         "color": "#CFFFD2"
       },
-      { "text": "." },
+      {
+        "text": "."
+      },
       {
         "text": ".\nIn addition, you unlock "
       },
@@ -5875,11 +7206,13 @@
         "text": "Legendary",
         "color": "light_purple"
       },
-      { "text": " spells." },
+      {
+        "text": " spells."
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
@@ -5905,9 +7238,11 @@
           "lock_command": "team leave @s"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "yg6l2uqn8v17si6m"
+    }
   },
-
   "comment_2": {
     "title": " ================================================================================ STAT BUFFS BELOW ================================================================================",
     "frame": {
@@ -5919,6 +7254,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2,
     "icon": {
       "type": "item",
       "data": {
@@ -5926,9 +7262,11 @@
       }
     },
     "description": "Do not implement",
-    "rewards": []
+    "rewards": [],
+    "metadata": {
+      "icon": "g5x2usnqsenpe63o"
+    }
   },
-
   "max_health": {
     "title": "A Desolate Heart",
     "frame": {
@@ -5940,13 +7278,23 @@
         "excluded": "phis:textures/gui/excluded_minor.png"
       }
     },
+    "size": 2,
     "icon": {
       "type": "effect",
       "data": {
         "effect": "minecraft:regeneration"
       }
     },
-    "description": ["", { "text": "+1 " }, { "text": "♥", "color": "#ff1313" }],
+    "description": [
+      "",
+      {
+        "text": "+1 "
+      },
+      {
+        "text": "♥",
+        "color": "#ff1313"
+      }
+    ],
     "rewards": [
       {
         "type": "puffish_skills:attribute",
@@ -5956,7 +7304,10 @@
           "operation": "addition"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "6f5bepz3bvvzywx7"
+    }
   },
   "max_mana": {
     "title": "A Few Shreds of Thoughts",
@@ -5969,6 +7320,7 @@
         "excluded": "phis:textures/gui/excluded_minor.png"
       }
     },
+    "size": 2,
     "icon": {
       "type": "effect",
       "data": {
@@ -5977,8 +7329,13 @@
     },
     "description": [
       "",
-      { "text": "+50 " },
-      { "text": "mana", "color": "#0093BD" }
+      {
+        "text": "+50 "
+      },
+      {
+        "text": "mana",
+        "color": "#0093BD"
+      }
     ],
     "rewards": [
       {
@@ -5989,7 +7346,10 @@
           "operation": "addition"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "mqvcbickmjjwnph6"
+    }
   },
   "mana_regen": {
     "title": "Enlightment",
@@ -6002,6 +7362,7 @@
         "excluded": "phis:textures/gui/excluded_minor.png"
       }
     },
+    "size": 2,
     "icon": {
       "type": "effect",
       "data": {
@@ -6010,8 +7371,13 @@
     },
     "description": [
       "",
-      { "text": "+20% " },
-      { "text": "mana regeneration", "color": "#0093BD" }
+      {
+        "text": "+20% "
+      },
+      {
+        "text": "mana regeneration",
+        "color": "#0093BD"
+      }
     ],
     "rewards": [
       {
@@ -6022,7 +7388,10 @@
           "operation": "multiply_base"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "s3osrtsf565dde6s"
+    }
   },
   "spell_cooldown": {
     "title": "And in That Moment I Knew the Answer",
@@ -6035,6 +7404,7 @@
         "excluded": "phis:textures/gui/excluded_minor.png"
       }
     },
+    "size": 2,
     "icon": {
       "type": "effect",
       "data": {
@@ -6043,8 +7413,13 @@
     },
     "description": [
       "",
-      { "text": "+25% " },
-      { "text": "spell cooldown reduction", "color": "#008fb9" }
+      {
+        "text": "+25% "
+      },
+      {
+        "text": "spell cooldown reduction",
+        "color": "#008fb9"
+      }
     ],
     "rewards": [
       {
@@ -6055,7 +7430,10 @@
           "operation": "multiply_base"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "hkbkgk7rsjsec3cd"
+    }
   },
   "melee_damage": {
     "title": "Warlust",
@@ -6068,6 +7446,7 @@
         "excluded": "phis:textures/gui/excluded_minor.png"
       }
     },
+    "size": 2,
     "icon": {
       "type": "item",
       "data": {
@@ -6076,12 +7455,17 @@
     },
     "description": [
       "",
-      { "text": "+5% " },
-      { "text": "melee damage", "color": "dark_green" },
+      {
+        "text": "+5% "
+      },
+      {
+        "text": "melee damage",
+        "color": "dark_green"
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": [
@@ -6094,7 +7478,9 @@
         "underlined": true,
         "color": "gray"
       },
-      { "text": " tag." }
+      {
+        "text": " tag."
+      }
     ],
     "rewards": [
       {
@@ -6105,7 +7491,10 @@
           "operation": "multiply_base"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "ybscz5p2di8tjnv8"
+    }
   },
   "ranged_damage": {
     "title": "An Arrow in Heart",
@@ -6118,6 +7507,7 @@
         "excluded": "phis:textures/gui/excluded_minor.png"
       }
     },
+    "size": 2,
     "icon": {
       "type": "item",
       "data": {
@@ -6126,12 +7516,17 @@
     },
     "description": [
       "",
-      { "text": "+5% " },
-      { "text": "ranged damage", "color": "dark_green" },
+      {
+        "text": "+5% "
+      },
+      {
+        "text": "ranged damage",
+        "color": "dark_green"
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": [
@@ -6144,7 +7539,9 @@
         "underlined": true,
         "color": "gray"
       },
-      { "text": " tag." }
+      {
+        "text": " tag."
+      }
     ],
     "rewards": [
       {
@@ -6155,7 +7552,10 @@
           "operation": "multiply_base"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "0mj89j5ydgkbnojv"
+    }
   },
   "melee_resistance": {
     "title": "Broken Sword",
@@ -6168,6 +7568,7 @@
         "excluded": "phis:textures/gui/excluded_minor.png"
       }
     },
+    "size": 2,
     "icon": {
       "type": "item",
       "data": {
@@ -6176,12 +7577,17 @@
     },
     "description": [
       "",
-      { "text": "+15% " },
-      { "text": "melee damage reduction", "color": "dark_green" },
+      {
+        "text": "+15% "
+      },
+      {
+        "text": "melee damage reduction",
+        "color": "dark_green"
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": [
@@ -6194,7 +7600,9 @@
         "underlined": true,
         "color": "gray"
       },
-      { "text": " tag." }
+      {
+        "text": " tag."
+      }
     ],
     "rewards": [
       {
@@ -6205,7 +7613,10 @@
           "operation": "multiply_base"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "cxxaryush7x8fbwg"
+    }
   },
   "ranged_resistance": {
     "title": "Ethereal",
@@ -6218,6 +7629,7 @@
         "excluded": "phis:textures/gui/excluded_minor.png"
       }
     },
+    "size": 2,
     "icon": {
       "type": "item",
       "data": {
@@ -6226,12 +7638,17 @@
     },
     "description": [
       "",
-      { "text": "+15% " },
-      { "text": "ranged damage reduction", "color": "dark_green" },
+      {
+        "text": "+15% "
+      },
+      {
+        "text": "ranged damage reduction",
+        "color": "dark_green"
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": [
@@ -6244,7 +7661,9 @@
         "underlined": true,
         "color": "gray"
       },
-      { "text": " tag." }
+      {
+        "text": " tag."
+      }
     ],
     "rewards": [
       {
@@ -6255,7 +7674,10 @@
           "operation": "multiply_base"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "k7qg1akl0s2i4sdw"
+    }
   },
   "magic_resistance": {
     "title": "Starspawn",
@@ -6268,6 +7690,7 @@
         "excluded": "phis:textures/gui/excluded_minor.png"
       }
     },
+    "size": 2,
     "icon": {
       "type": "item",
       "data": {
@@ -6276,29 +7699,56 @@
     },
     "description": [
       "",
-      { "text": "+15% " },
-      { "text": "magic damage reduction", "color": "dark_green" },
+      {
+        "text": "+15% "
+      },
+      {
+        "text": "magic damage reduction",
+        "color": "dark_green"
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": [
       "",
-      { "text": "Damage is considered magic if damage type is " },
-      { "text": "minecraft:magic", "underlined": true, "color": "gray" },
-      { "text": " or " },
+      {
+        "text": "Damage is considered magic if damage type is "
+      },
+      {
+        "text": "minecraft:magic",
+        "underlined": true,
+        "color": "gray"
+      },
+      {
+        "text": " or "
+      },
       {
         "text": "minecraft:indirect_magic",
         "underlined": true,
         "color": "gray"
       },
-      { "text": " or is in " },
-      { "text": "c:is_magic", "underlined": true, "color": "gray" },
-      { "text": " tag or " },
-      { "text": "neoforge:is_magic", "underlined": true, "color": "gray" },
-      { "text": " tag." }
+      {
+        "text": " or is in "
+      },
+      {
+        "text": "c:is_magic",
+        "underlined": true,
+        "color": "gray"
+      },
+      {
+        "text": " tag or "
+      },
+      {
+        "text": "neoforge:is_magic",
+        "underlined": true,
+        "color": "gray"
+      },
+      {
+        "text": " tag."
+      }
     ],
     "rewards": [
       {
@@ -6309,7 +7759,10 @@
           "operation": "multiply_base"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "67mgzkwj2ivoqy4p"
+    }
   },
   "double_healing": {
     "title": "Last Benediction",
@@ -6322,6 +7775,7 @@
         "excluded": "phis:textures/gui/excluded_minor.png"
       }
     },
+    "size": 2,
     "icon": {
       "type": "effect",
       "data": {
@@ -6330,22 +7784,30 @@
     },
     "description": [
       "",
-      { "text": "+50% " },
-      { "text": "healing from all sources", "color": "dark_green" }
+      {
+        "text": "+25% "
+      },
+      {
+        "text": "healing from all sources",
+        "color": "dark_green"
+      }
     ],
     "rewards": [
       {
         "type": "puffish_skills:attribute",
         "data": {
           "attribute": "puffish_attributes:healing",
-          "value": 0.5,
+          "value": 0.25,
           "operation": "multiply_total"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "a4ir9ossg0rrlix7"
+    }
   },
   "mining_speed": {
-    "title": "Come All Ye Coal Miners",
+    "title": "tbd.",
     "frame": {
       "type": "texture",
       "data": {
@@ -6355,6 +7817,7 @@
         "excluded": "phis:textures/gui/excluded_minor.png"
       }
     },
+    "size": 2,
     "icon": {
       "type": "item",
       "data": {
@@ -6363,8 +7826,13 @@
     },
     "description": [
       "",
-      { "text": "+15% " },
-      { "text": "mining speed", "color": "dark_green" }
+      {
+        "text": "+15% "
+      },
+      {
+        "text": "mining speed",
+        "color": "dark_green"
+      }
     ],
     "rewards": [
       {
@@ -6375,7 +7843,136 @@
           "operation": "multiply_base"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "vbzlttj0315nqzpv"
+    }
+  },
+  "pickaxe_speed": {
+    "title": "Come All Ye Coal Miners",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "size": 2,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "+15% "
+      },
+      {
+        "text": "mining speed",
+        "color": "dark_green"
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:pickaxe_speed",
+          "value": 0.15,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "gp178gptkcxp7o7e"
+    }
+  },
+  "shovel_speed": {
+    "title": "tbd.",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "size": 2,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "+15% "
+      },
+      {
+        "text": "mining speed",
+        "color": "dark_green"
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 0.15,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "bt49x7xcsvscza8u"
+    }
+  },
+  "axe_speed": {
+    "title": "tbd.",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "size": 2,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "+15% "
+      },
+      {
+        "text": "mining speed",
+        "color": "dark_green"
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.15,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "bvz56xnktfgts952"
+    }
   },
   "sprint_speed": {
     "title": "Unchained",
@@ -6388,6 +7985,7 @@
         "excluded": "phis:textures/gui/excluded_minor.png"
       }
     },
+    "size": 2,
     "icon": {
       "type": "item",
       "data": {
@@ -6396,8 +7994,13 @@
     },
     "description": [
       "",
-      { "text": "+15% " },
-      { "text": "sprint speed", "color": "dark_green" }
+      {
+        "text": "+15% "
+      },
+      {
+        "text": "sprint speed",
+        "color": "dark_green"
+      }
     ],
     "rewards": [
       {
@@ -6408,7 +8011,10 @@
           "operation": "multiply_base"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "6szddbrza79bdnv1"
+    }
   },
   "fall_damage_reduction": {
     "title": "From the Pagan Vastlands",
@@ -6421,6 +8027,7 @@
         "excluded": "phis:textures/gui/excluded_minor.png"
       }
     },
+    "size": 2,
     "icon": {
       "type": "effect",
       "data": {
@@ -6429,12 +8036,17 @@
     },
     "description": [
       "",
-      { "text": "+1 block " },
-      { "text": "safe fall height", "color": "dark_green" },
+      {
+        "text": "+1 block "
+      },
+      {
+        "text": "safe fall height",
+        "color": "dark_green"
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "The default safe fall height is four blocks.",
@@ -6447,7 +8059,10 @@
           "operation": "addition"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "hc7igkdxdiz4ohek"
+    }
   },
   "jump_height": {
     "title": "A Traveller of Unknown Plains",
@@ -6460,6 +8075,7 @@
         "excluded": "phis:textures/gui/excluded_minor.png"
       }
     },
+    "size": 2,
     "icon": {
       "type": "effect",
       "data": {
@@ -6468,12 +8084,17 @@
     },
     "description": [
       "",
-      { "text": "+1 block " },
-      { "text": "jump height", "color": "dark_green" },
+      {
+        "text": "+1 block "
+      },
+      {
+        "text": "jump height",
+        "color": "dark_green"
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "The default jump height is one block.",
@@ -6486,7 +8107,10 @@
           "operation": "addition"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "giruapnym25vp70g"
+    }
   },
   "mount_speed": {
     "title": "One Rode to Asa Bay",
@@ -6499,6 +8123,7 @@
         "excluded": "phis:textures/gui/excluded_minor.png"
       }
     },
+    "size": 2,
     "icon": {
       "type": "item",
       "data": {
@@ -6507,8 +8132,13 @@
     },
     "description": [
       "",
-      { "text": "+25% " },
-      { "text": "mount speed", "color": "dark_green" }
+      {
+        "text": "+25% "
+      },
+      {
+        "text": "mount speed",
+        "color": "dark_green"
+      }
     ],
     "rewards": [
       {
@@ -6519,7 +8149,10 @@
           "operation": "multiply_base"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "km9z3bjjr9eb2vvq"
+    }
   },
   "walk_on_snow": {
     "title": "Of Ice and Movement...",
@@ -6532,6 +8165,7 @@
         "excluded": "phis:textures/gui/excluded_minor.png"
       }
     },
+    "size": 2,
     "icon": {
       "type": "item",
       "data": {
@@ -6540,9 +8174,16 @@
     },
     "description": [
       "",
-      { "text": "+50% " },
-      { "text": "movement speed", "color": "dark_green" },
-      { "text": " while on snow" }
+      {
+        "text": "+50% "
+      },
+      {
+        "text": "movement speed",
+        "color": "dark_green"
+      },
+      {
+        "text": " while on snow"
+      }
     ],
     "rewards": [
       {
@@ -6553,9 +8194,533 @@
           "operation": "multiply_base"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "qbgw0dc67rz7uqpz"
+    }
   },
-
+  "crit_chance": {
+    "title": "As the Wounds Gently Bleed",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "size": 2,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:snowball"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "+2% "
+      },
+      {
+        "text": "critical strike chance",
+        "color": "dark_green"
+      },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "dark_gray"
+      }
+    ],
+    "extra_description": "Not related to vanilla (jump) critical strikes.",
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "apothic_attributes:crit_chance",
+          "value": 0.02,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "3tkkjc326o0nalu1"
+    }
+  },
+  "crit_damage": {
+    "title": "Deathwish",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "size": 2,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:snowball"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "+25% "
+      },
+      {
+        "text": "critical strike damage",
+        "color": "dark_green"
+      },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "dark_gray"
+      }
+    ],
+    "extra_description": "Not related to vanilla (jump) critical strikes.",
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "apothic_attributes:crit_chance",
+          "value": 0.25,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "cu0agy54vogh8met"
+    }
+  },
+  "dodge_chance": {
+    "title": "As Mist Descends from the Hills",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "size": 2,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:snowball"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "+5% "
+      },
+      {
+        "text": "melee dodge chance",
+        "color": "dark_green"
+      },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "dark_gray"
+      }
+    ],
+    "extra_description": "'Melee' damage is considered as damage from another entity within the player's attack range.",
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "artifacts:generic.movement_speed_on_snow",
+          "value": 0.5,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "6u0vh7r4eqaazblp"
+    }
+  },
+  "ice_spell_damage": {
+    "title": "tbd.",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "size": 2,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "+5% "
+      },
+      {
+        "text": "ice damage",
+        "color": "#d0f9ff"
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:ice_spell_power",
+          "value": 0.05,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "fazs3qcvean70vyf"
+    }
+  },
+  "lightning_spell_damage": {
+    "title": "tbd.",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "size": 2,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "+5% "
+      },
+      {
+        "text": "lightning damage",
+        "color": "aqua"
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:lightning_spell_power",
+          "value": 0.05,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "yeay2k4vg038tfvl"
+    }
+  },
+  "holy_spell_damage": {
+    "title": "tbd.",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "size": 2,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "+5% "
+      },
+      {
+        "text": "holy damage",
+        "color": "#fff8d4"
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:holy_spell_power",
+          "value": 0.05,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "7unb9whe4rc5fdk6"
+    }
+  },
+  "ender_spell_damage": {
+    "title": "tbd.",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "size": 2,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "+5% "
+      },
+      {
+        "text": "ender damage",
+        "color": "light_purple"
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:ender_spell_power",
+          "value": 0.05,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "hqx3e91wdatp6r0f"
+    }
+  },
+  "blood_spell_damage": {
+    "title": "tbd.",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "size": 2,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "+5% "
+      },
+      {
+        "text": "blood damage",
+        "color": "dark_red"
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:blood_spell_power",
+          "value": 0.05,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "iokt6iv0qkzn3etw"
+    }
+  },
+  "evocation_spell_damage": {
+    "title": "tbd.",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "size": 2,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "+5% "
+      },
+      {
+        "text": "evocation damage",
+        "color": "white"
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:evocation_spell_power",
+          "value": 0.05,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "kvzsdb2rfhabwvxc"
+    }
+  },
+  "nature_spell_damage": {
+    "title": "tbd.",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "size": 2,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "+5% "
+      },
+      {
+        "text": "nature damage",
+        "color": "green"
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:nature_spell_power",
+          "value": 0.05,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "a691u14vltzbdl4b"
+    }
+  },
+  "sound_spell_damage": {
+    "title": "tbd.",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "size": 2,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "+5% "
+      },
+      {
+        "text": "sound damage",
+        "color": "#CFFFD2"
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "familiarslib:sound_spell_power",
+          "value": 0.05,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "kf25b7m2dwf3tcj2"
+    }
+  },
+  "fire_spell_damage": {
+    "title": "tbd.",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "size": 2,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "+5% "
+      },
+      {
+        "text": "fire damage",
+        "color": "gold"
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:fire_spell_power",
+          "value": 0.05,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "cpbyr7wnpgq04j81"
+    }
+  },
   "comment_3": {
     "title": " ================================================================================ MAJOR STAT BUFFS BELOW ================================================================================",
     "frame": {
@@ -6567,6 +8732,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2,
     "icon": {
       "type": "item",
       "data": {
@@ -6574,9 +8740,11 @@
       }
     },
     "description": "Do not implement",
-    "rewards": []
+    "rewards": [],
+    "metadata": {
+      "icon": "4a6ivvquj0qp394f"
+    }
   },
-
   "max_health_major": {
     "title": "I Am the World",
     "frame": {
@@ -6588,13 +8756,23 @@
         "excluded": "phis:textures/gui/excluded_minor.png"
       }
     },
+    "size": 2,
     "icon": {
       "type": "effect",
       "data": {
         "effect": "minecraft:regeneration"
       }
     },
-    "description": ["", { "text": "+2 " }, { "text": "♥", "color": "#ff1313" }],
+    "description": [
+      "",
+      {
+        "text": "+2 "
+      },
+      {
+        "text": "♥",
+        "color": "#ff1313"
+      }
+    ],
     "rewards": [
       {
         "type": "puffish_skills:attribute",
@@ -6604,7 +8782,10 @@
           "operation": "addition"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "e58c2y2dqpkod38w"
+    }
   },
   "max_mana_major": {
     "title": "Mountain Magick",
@@ -6617,6 +8798,7 @@
         "excluded": "phis:textures/gui/excluded_minor.png"
       }
     },
+    "size": 2,
     "icon": {
       "type": "effect",
       "data": {
@@ -6625,8 +8807,13 @@
     },
     "description": [
       "",
-      { "text": "+100 " },
-      { "text": "mana", "color": "#0093BD" }
+      {
+        "text": "+100 "
+      },
+      {
+        "text": "mana",
+        "color": "#0093BD"
+      }
     ],
     "rewards": [
       {
@@ -6637,7 +8824,10 @@
           "operation": "addition"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "9gtzo0v98elkrddi"
+    }
   },
   "mana_regen_major": {
     "title": "The Witching Meadow",
@@ -6650,6 +8840,7 @@
         "excluded": "phis:textures/gui/excluded_minor.png"
       }
     },
+    "size": 2,
     "icon": {
       "type": "effect",
       "data": {
@@ -6658,8 +8849,13 @@
     },
     "description": [
       "",
-      { "text": "+40% " },
-      { "text": "mana regeneration", "color": "#0093BD" }
+      {
+        "text": "+40% "
+      },
+      {
+        "text": "mana regeneration",
+        "color": "#0093BD"
+      }
     ],
     "rewards": [
       {
@@ -6670,7 +8866,10 @@
           "operation": "multiply_base"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "59goqzzco30ox9j0"
+    }
   },
   "spell_cooldown_major": {
     "title": "Forgotten Empire of Dark Witchcraft",
@@ -6683,6 +8882,7 @@
         "excluded": "phis:textures/gui/excluded_minor.png"
       }
     },
+    "size": 2,
     "icon": {
       "type": "effect",
       "data": {
@@ -6691,8 +8891,13 @@
     },
     "description": [
       "",
-      { "text": "+50% " },
-      { "text": "spell cooldown reduction", "color": "dark_green" }
+      {
+        "text": "+50% "
+      },
+      {
+        "text": "spell cooldown reduction",
+        "color": "dark_green"
+      }
     ],
     "rewards": [
       {
@@ -6703,7 +8908,10 @@
           "operation": "multiply_base"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "494u9sutudi46v29"
+    }
   },
   "melee_damage_major": {
     "title": "Going Berserk",
@@ -6716,6 +8924,7 @@
         "excluded": "phis:textures/gui/excluded_minor.png"
       }
     },
+    "size": 2,
     "icon": {
       "type": "item",
       "data": {
@@ -6724,12 +8933,17 @@
     },
     "description": [
       "",
-      { "text": "+10% " },
-      { "text": "melee damage", "color": "dark_green" },
+      {
+        "text": "+10% "
+      },
+      {
+        "text": "melee damage",
+        "color": "dark_green"
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": [
@@ -6742,7 +8956,9 @@
         "underlined": true,
         "color": "gray"
       },
-      { "text": " tag." }
+      {
+        "text": " tag."
+      }
     ],
     "rewards": [
       {
@@ -6753,7 +8969,10 @@
           "operation": "multiply_base"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "0txga8rngnnggshl"
+    }
   },
   "ranged_damage_major": {
     "title": "The Knell",
@@ -6766,6 +8985,7 @@
         "excluded": "phis:textures/gui/excluded_minor.png"
       }
     },
+    "size": 2,
     "icon": {
       "type": "item",
       "data": {
@@ -6774,12 +8994,17 @@
     },
     "description": [
       "",
-      { "text": "+10% " },
-      { "text": "ranged damage", "color": "dark_green" },
+      {
+        "text": "+10% "
+      },
+      {
+        "text": "ranged damage",
+        "color": "dark_green"
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": [
@@ -6792,7 +9017,9 @@
         "underlined": true,
         "color": "gray"
       },
-      { "text": " tag." }
+      {
+        "text": " tag."
+      }
     ],
     "rewards": [
       {
@@ -6803,10 +9030,13 @@
           "operation": "multiply_base"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "m9xmrooozjpjeb03"
+    }
   },
   "melee_resistance_major": {
-    "title": "As the Wounds Gently Bleed",
+    "title": "Circle of the Tyrants",
     "frame": {
       "type": "texture",
       "data": {
@@ -6816,6 +9046,7 @@
         "excluded": "phis:textures/gui/excluded_minor.png"
       }
     },
+    "size": 2,
     "icon": {
       "type": "item",
       "data": {
@@ -6824,12 +9055,17 @@
     },
     "description": [
       "",
-      { "text": "+30% " },
-      { "text": "melee damage reduction", "color": "dark_green" },
+      {
+        "text": "+30% "
+      },
+      {
+        "text": "melee damage reduction",
+        "color": "dark_green"
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": [
@@ -6842,7 +9078,9 @@
         "underlined": true,
         "color": "gray"
       },
-      { "text": " tag." }
+      {
+        "text": " tag."
+      }
     ],
     "rewards": [
       {
@@ -6853,7 +9091,10 @@
           "operation": "multiply_base"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "awr7z9u04b305b0g"
+    }
   },
   "ranged_resistance_major": {
     "title": "Lamp of Invisible Lights",
@@ -6866,6 +9107,7 @@
         "excluded": "phis:textures/gui/excluded_minor.png"
       }
     },
+    "size": 2,
     "icon": {
       "type": "item",
       "data": {
@@ -6874,12 +9116,17 @@
     },
     "description": [
       "",
-      { "text": "+30% " },
-      { "text": "ranged damage reduction", "color": "dark_green" },
+      {
+        "text": "+30% "
+      },
+      {
+        "text": "ranged damage reduction",
+        "color": "dark_green"
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": [
@@ -6892,7 +9139,9 @@
         "underlined": true,
         "color": "gray"
       },
-      { "text": " tag." }
+      {
+        "text": " tag."
+      }
     ],
     "rewards": [
       {
@@ -6903,7 +9152,10 @@
           "operation": "multiply_base"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "vggtqejz7a46rg7v"
+    }
   },
   "magic_resistance_major": {
     "title": "The Apotheosis of the Unnamable",
@@ -6916,6 +9168,7 @@
         "excluded": "phis:textures/gui/excluded_minor.png"
       }
     },
+    "size": 2,
     "icon": {
       "type": "item",
       "data": {
@@ -6924,29 +9177,56 @@
     },
     "description": [
       "",
-      { "text": "+30% " },
-      { "text": "magic damage reduction", "color": "dark_green" },
+      {
+        "text": "+30% "
+      },
+      {
+        "text": "magic damage reduction",
+        "color": "dark_green"
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": [
       "",
-      { "text": "Damage is considered magic if damage type is " },
-      { "text": "minecraft:magic", "underlined": true, "color": "gray" },
-      { "text": " or " },
+      {
+        "text": "Damage is considered magic if damage type is "
+      },
+      {
+        "text": "minecraft:magic",
+        "underlined": true,
+        "color": "gray"
+      },
+      {
+        "text": " or "
+      },
       {
         "text": "minecraft:indirect_magic",
         "underlined": true,
         "color": "gray"
       },
-      { "text": " or is in " },
-      { "text": "c:is_magic", "underlined": true, "color": "gray" },
-      { "text": " tag or " },
-      { "text": "neoforge:is_magic", "underlined": true, "color": "gray" },
-      { "text": " tag." }
+      {
+        "text": " or is in "
+      },
+      {
+        "text": "c:is_magic",
+        "underlined": true,
+        "color": "gray"
+      },
+      {
+        "text": " tag or "
+      },
+      {
+        "text": "neoforge:is_magic",
+        "underlined": true,
+        "color": "gray"
+      },
+      {
+        "text": " tag."
+      }
     ],
     "rewards": [
       {
@@ -6957,7 +9237,10 @@
           "operation": "multiply_base"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "x8qeon4vqvbrrep6"
+    }
   },
   "double_healing_major": {
     "title": "Nocturnal, Transparent Rainbow",
@@ -6970,6 +9253,7 @@
         "excluded": "phis:textures/gui/excluded_minor.png"
       }
     },
+    "size": 2,
     "icon": {
       "type": "effect",
       "data": {
@@ -6978,19 +9262,27 @@
     },
     "description": [
       "",
-      { "text": "+100% " },
-      { "text": "healing from all sources", "color": "dark_green" }
+      {
+        "text": "+50% "
+      },
+      {
+        "text": "healing from all sources",
+        "color": "dark_green"
+      }
     ],
     "rewards": [
       {
         "type": "puffish_skills:attribute",
         "data": {
           "attribute": "puffish_attributes:healing",
-          "value": 1,
+          "value": 0.5,
           "operation": "multiply_total"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "v6zzfuktk7oczfnd"
+    }
   },
   "mining_speed_major": {
     "title": "Chants of the Deep Ones",
@@ -7003,6 +9295,7 @@
         "excluded": "phis:textures/gui/excluded_minor.png"
       }
     },
+    "size": 2,
     "icon": {
       "type": "item",
       "data": {
@@ -7011,8 +9304,13 @@
     },
     "description": [
       "",
-      { "text": "+30% " },
-      { "text": "mining speed", "color": "dark_green" }
+      {
+        "text": "+30% "
+      },
+      {
+        "text": "mining speed",
+        "color": "dark_green"
+      }
     ],
     "rewards": [
       {
@@ -7023,7 +9321,10 @@
           "operation": "multiply_base"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "jc871bom18igttp2"
+    }
   },
   "sprint_speed_major": {
     "title": "Caravan of Broken Ghosts",
@@ -7036,6 +9337,7 @@
         "excluded": "phis:textures/gui/excluded_minor.png"
       }
     },
+    "size": 2,
     "icon": {
       "type": "item",
       "data": {
@@ -7044,8 +9346,13 @@
     },
     "description": [
       "",
-      { "text": "+30% " },
-      { "text": "sprint speed", "color": "dark_green" }
+      {
+        "text": "+30% "
+      },
+      {
+        "text": "sprint speed",
+        "color": "dark_green"
+      }
     ],
     "rewards": [
       {
@@ -7056,7 +9363,10 @@
           "operation": "multiply_base"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "527exv2ai20cdxkw"
+    }
   },
   "fall_damage_reduction_major": {
     "title": "The Thorns That Guide My Warpath",
@@ -7069,6 +9379,7 @@
         "excluded": "phis:textures/gui/excluded_minor.png"
       }
     },
+    "size": 2,
     "icon": {
       "type": "effect",
       "data": {
@@ -7077,12 +9388,17 @@
     },
     "description": [
       "",
-      { "text": "+2 blocks " },
-      { "text": "safe fall height", "color": "dark_green" },
+      {
+        "text": "+2 blocks "
+      },
+      {
+        "text": "safe fall height",
+        "color": "dark_green"
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "The default safe fall height is four blocks.",
@@ -7095,7 +9411,10 @@
           "operation": "addition"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "24dry0smwvb68q9y"
+    }
   },
   "jump_height_major": {
     "title": "That Cannot Be Dreamed",
@@ -7108,6 +9427,7 @@
         "excluded": "phis:textures/gui/excluded_minor.png"
       }
     },
+    "size": 2,
     "icon": {
       "type": "effect",
       "data": {
@@ -7116,12 +9436,17 @@
     },
     "description": [
       "",
-      { "text": "+2 blocks " },
-      { "text": "jump height", "color": "dark_green" },
+      {
+        "text": "+2 blocks "
+      },
+      {
+        "text": "jump height",
+        "color": "dark_green"
+      },
       {
         "text": " [...]",
         "italic": true,
-        "color": "gray"
+        "color": "dark_gray"
       }
     ],
     "extra_description": "The default jump height is one block.",
@@ -7134,7 +9459,10 @@
           "operation": "addition"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "nf0p36pk4y1olx6r"
+    }
   },
   "mount_speed_major": {
     "title": "Pale Horse",
@@ -7147,6 +9475,7 @@
         "excluded": "phis:textures/gui/excluded_minor.png"
       }
     },
+    "size": 2,
     "icon": {
       "type": "item",
       "data": {
@@ -7155,8 +9484,13 @@
     },
     "description": [
       "",
-      { "text": "+50% " },
-      { "text": "mount speed", "color": "dark_green" }
+      {
+        "text": "+50% "
+      },
+      {
+        "text": "mount speed",
+        "color": "dark_green"
+      }
     ],
     "rewards": [
       {
@@ -7167,7 +9501,10 @@
           "operation": "multiply_base"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "bn9x00elnry76uk3"
+    }
   },
   "walk_on_snow_major": {
     "title": "Beyond the North Waves",
@@ -7180,6 +9517,7 @@
         "excluded": "phis:textures/gui/excluded_minor.png"
       }
     },
+    "size": 2,
     "icon": {
       "type": "item",
       "data": {
@@ -7188,9 +9526,16 @@
     },
     "description": [
       "",
-      { "text": "+100% " },
-      { "text": "movement speed", "color": "dark_green" },
-      { "text": " while on snow" }
+      {
+        "text": "+100% "
+      },
+      {
+        "text": "movement speed",
+        "color": "dark_green"
+      },
+      {
+        "text": " while on snow"
+      }
     ],
     "rewards": [
       {
@@ -7201,10 +9546,535 @@
           "operation": "multiply_base"
         }
       }
-    ]
+    ],
+    "metadata": {
+      "icon": "dq94ynpzk9zn0dvs"
+    }
+  },
+  "crit_chance_major": {
+    "title": "The Final Architect",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "size": 2,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:snowball"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "+5% "
+      },
+      {
+        "text": "critical strike chance",
+        "color": "dark_green"
+      },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "dark_gray"
+      }
+    ],
+    "extra_description": "Not related to vanilla (jump) critical strikes.",
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "apothic_attributes:crit_chance",
+          "value": 0.05,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "r036ylitzhpxwsbl"
+    }
+  },
+  "crit_damage_major": {
+    "title": "Massacre",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "size": 2,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:snowball"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "+50% "
+      },
+      {
+        "text": "critical strike damage",
+        "color": "dark_green"
+      },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "dark_gray"
+      }
+    ],
+    "extra_description": "Not related to vanilla (jump) critical strikes.",
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "apothic_attributes:crit_chance",
+          "value": 0.5,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "nemdt83ax8yim7xp"
+    }
+  },
+  "dodge_chance_major": {
+    "title": "The Shivering Voice of the Ghost",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "size": 2,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:snowball"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "+10% "
+      },
+      {
+        "text": "melee dodge chance",
+        "color": "dark_green"
+      },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "dark_gray"
+      }
+    ],
+    "extra_description": "'Melee' damage is considered as damage from another entity within the player's attack range.",
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "artifacts:generic.movement_speed_on_snow",
+          "value": 0.1,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "cxbua9b0jo9hwure"
+    }
+  },
+  "ice_spell_damage_major": {
+    "title": "tbd.",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "size": 2,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "+10% "
+      },
+      {
+        "text": "ice damage",
+        "color": "#d0f9ff"
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:ice_spell_power",
+          "value": 0.1,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "dua25mn9hrjngs03"
+    }
+  },
+  "lightning_spell_damage_major": {
+    "title": "tbd.",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "size": 2,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "+10% "
+      },
+      {
+        "text": "lightning damage",
+        "color": "aqua"
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:lightning_spell_power",
+          "value": 0.1,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "sczjdv989ci86yx2"
+    }
+  },
+  "holy_spell_damage_major": {
+    "title": "tbd.",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "size": 2,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "+10% "
+      },
+      {
+        "text": "holy damage",
+        "color": "#fff8d4"
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:holy_spell_power",
+          "value": 0.1,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "5xjcghfwxor58mnh"
+    }
+  },
+  "ender_spell_damage_major": {
+    "title": "tbd.",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "size": 2,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "+10% "
+      },
+      {
+        "text": "ender damage",
+        "color": "light_purple"
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:ender_spell_power",
+          "value": 0.1,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "mav77o9xyahqmsgv"
+    }
+  },
+  "blood_spell_damage_major": {
+    "title": "tbd.",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "size": 2,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "+10% "
+      },
+      {
+        "text": "blood damage",
+        "color": "dark_red"
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:blood_spell_power",
+          "value": 0.1,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "6prm9trd0wabu7bf"
+    }
+  },
+  "evocation_spell_damage_major": {
+    "title": "tbd.",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "size": 2,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "+10% "
+      },
+      {
+        "text": "evocation damage",
+        "color": "white"
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:evocation_spell_power",
+          "value": 0.1,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "599per2v7wyr4jij"
+    }
+  },
+  "nature_spell_damage_major": {
+    "title": "tbd.",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "size": 2,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "+10% "
+      },
+      {
+        "text": "nature damage",
+        "color": "green"
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:nature_spell_power",
+          "value": 0.1,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "lusdzschbh8kr48c"
+    }
+  },
+  "sound_spell_damage_major": {
+    "title": "tbd.",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "size": 2,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "+10% "
+      },
+      {
+        "text": "sound damage",
+        "color": "#CFFFD2"
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "familiarslib:sound_spell_power",
+          "value": 0.1,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "g35b1gzh7140kau5"
+    }
+  },
+  "fire_spell_damage_major": {
+    "title": "tbd.",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "size": 2,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "+10% "
+      },
+      {
+        "text": "fire damage",
+        "color": "gold"
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:fire_spell_power",
+          "value": 0.1,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "0l3mb1y1jiddfq3o"
+    }
   },
   "comment_4": {
-    "title": " ================================================================================ TECHNICAL NODES TO USE AS PREREQUISITES BELOW ================================================================================",
+    "title": " ================================================================================ TECHNICAL NODES ================================================================================",
     "frame": {
       "type": "texture",
       "data": {
@@ -7214,6 +10084,7 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
+    "size": 2,
     "icon": {
       "type": "item",
       "data": {
@@ -7221,6 +10092,41 @@
       }
     },
     "description": "Do not implement",
-    "rewards": []
+    "rewards": [],
+    "metadata": {
+      "icon": "v0e179hi1q12rsj6"
+    }
+  },
+  "root": {
+    "cost": 0,
+    "title": "Anew",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "size": 2,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:copper_ingot"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "Dust gathers into form.\nOnce again now and before.\nAs all this was to dream again once more.",
+        "color": "gray",
+        "italic": true
+      }
+    ],
+    "rewards": [],
+    "metadata": {
+      "icon": "48rmcv90wy5934o0"
+    }
   }
 }

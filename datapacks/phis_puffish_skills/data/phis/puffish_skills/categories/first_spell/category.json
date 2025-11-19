@@ -11,5 +11,25 @@
     "width": 1920,
     "height": 1080,
     "position": "fill"
-  }
+  },
+  "colors": {
+        "connections": {
+            "locked": {
+                "fill": "#403f3500",
+                "stroke": "#444444FF"
+            },
+            "available": {
+                "fill": "#2CBAA899",
+                "stroke": "#2CBAA899"
+            },
+            "unlocked": {
+                "fill": "#ffffff",
+                "stroke": "#ffffff"
+            },
+            "excluded": {
+                "fill": "#FF000000",
+                "stroke": "#FF000000"
+            }
+        }
+    }
 }
