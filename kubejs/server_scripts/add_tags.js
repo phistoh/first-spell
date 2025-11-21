@@ -27,4 +27,6 @@ ServerEvents.tags("item", (event) => {
      event.add(tag, "endermanoverhaul:corrupted_blade");
   }
 
+  // Charge Altar of Fate with Arcane Essence
+  event.add("fated_inventory:charges_fated_altar", "irons_spellbooks:arcane_essence");
 });

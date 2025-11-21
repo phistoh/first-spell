@@ -3,12 +3,12 @@
   "COMMENT": "Further customization is possible through datapacks - see Modrinth page",
   "fateStoresXp": true,
   "fateStoresItems": true,
-  "fatedAltarRequiresCharges": false,
-  "runningOutOfChargesClearsFate": true,
+  "fatedAltarRequiresCharges": true,
+  "runningOutOfChargesClearsFate": false,
   "showMessageOnRespawn": true,
   "generateAltarBuildingsInVillages": true,
   "villageAltarBuildingWeight": 2,
-  "anyNonstackableAllowsModifiedComponents": false,
+  "anyNonstackableAllowsModifiedComponents": true,
   "anyDurabilityItemAllowsModifiedComponents": true,
   "experimentalFlattenContainerItems": false
 }

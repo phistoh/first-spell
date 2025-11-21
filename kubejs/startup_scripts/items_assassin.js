@@ -2,6 +2,7 @@ StartupEvents.registry("item", (event) => {
   //Offensive Poison
   event
     .create("deadly_poison")
+    .texture('phis:item/deadly_poison')
     .displayName("Deadly Poison")
     .tooltip(
       "Coats your weapons with an §4Offensive Poison§r that lasts for 1 hour. Each strike has a 30% chance to poison the enemy for §o2 Void damage each second over 6 seconds§r.\nSubsequent applications increase the damage by 1 per second (up to a maximum of 5 damage per second)."
@@ -15,6 +16,7 @@ StartupEvents.registry("item", (event) => {
 
     event
     .create("amplifying_poison")
+    .texture('phis:item/amplifying_poison')
     .displayName("Amplifying Poison")
     .tooltip(
       "Coats your weapons with an §4Offensive Poison§r that lasts for 1 hour. Each strike has a 30% chance to poison the enemy for 6 seconds §oincreasing their damage taken by 50%§r."
@@ -28,6 +30,7 @@ StartupEvents.registry("item", (event) => {
 
     event
     .create("instant_poison")
+    .texture('phis:item/instant_poison')
     .displayName("Instant Poison")
     .tooltip(
       "Coats your weapons with an §4Offensive Poison§r that lasts for 1 hour. Each strike has a 30% chance of poisoning the enemy which §oinstantly inflicts 3 Void damage§r."
@@ -42,6 +45,7 @@ StartupEvents.registry("item", (event) => {
   // Defensive Poisons
   event
     .create("crippling_poison")
+    .texture('phis:item/crippling_poison')
     .displayName("Crippling Poison")
     .tooltip(
       "Coats your weapons with a §2Defensive Poison§r that lasts for 1 hour. Each strike has a 30% chance to poison the enemy, §oslowing their movement speed by 50% for 6 seconds§r."
@@ -55,6 +59,7 @@ StartupEvents.registry("item", (event) => {
 
     event
     .create("numbing_poison")
+    .texture('phis:item/numbing_poison')
     .displayName("Numbing Poison")
     .tooltip(
       "Coats your weapons with a §2Defensive Poison§r that lasts for 1 hour. Each strike has a 30% chance of poisoning the enemy, clouding their mind and §oslowing their attack and casting speed by 30% for 10 seconds§r."
@@ -68,6 +73,7 @@ StartupEvents.registry("item", (event) => {
 
     event
     .create("atrophic_poison")
+    .texture('phis:item/atrophic_poison')
     .displayName("Atrophic Poison")
     .tooltip(
       "Coats your weapons with a §2Defensive Poison§r that lasts for 1 hour. Each strike has a 30% chance of poisoning the enemy, §oreducing their damage by 10% for 10 seconds§r."
@@ -81,6 +87,7 @@ StartupEvents.registry("item", (event) => {
 
     event
     .create("leeching_poison")
+    .texture('phis:item/leeching_poison')
     .displayName("Leeching Poison")
     .tooltip(
       "Coats your weapons with a §2Defensive Poison§r that lasts for 1 hour. Each strike siphons the enemies life force away, §ohealing you for 25% of the damage dealt§r."
