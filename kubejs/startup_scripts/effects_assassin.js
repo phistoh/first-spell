@@ -32,6 +32,11 @@ StartupEvents.registry("mob_effect", (event) => {
   event.create("deadly_poison_indicator").color(0x00aa55).beneficial();
 });
 
+StartupEvents.registry("mob_effect", (event) => {
+  event.create("instant_poison_indicator").color(0x11dd22).beneficial();
+});
+
+
 // Actual effects for mobs
 StartupEvents.registry("mob_effect", (event) => {
   event
@@ -41,7 +46,7 @@ StartupEvents.registry("mob_effect", (event) => {
     .modifyAttribute(
       "minecraft:generic.movement_speed",
       "458a6192-fb4c-44f2-8f0b-e4949ccf16a9",
-      -0.25,
+      -0.5,
       "add_multiplied_base"
     );
 });
@@ -54,13 +59,13 @@ StartupEvents.registry("mob_effect", (event) => {
     .modifyAttribute(
       "minecraft:generic.attack_speed",
       "705cc779-ba44-43d4-ae8a-ff00318d2cb7",
-      -0.5,
+      -0.3,
       "add_multiplied_base"
     )
     .modifyAttribute(
       "irons_spellbooks:cast_time_reduction",
       "7d0927e4-55d3-4790-9a9c-adb770988246",
-      -0.5,
+      -0.3,
       "add_multiplied_base"
     );
 });
@@ -73,19 +78,19 @@ StartupEvents.registry("mob_effect", (event) => {
     .modifyAttribute(
       "puffish_attributes:magic_damage",
       "56c8e830-fc06-4f16-8b30-c211f93f1a79",
-      -0.5,
+      -0.1,
       "add_multiplied_base"
     )
     .modifyAttribute(
       "puffish_attributes:melee_damage",
       "0f2c5af2-ee19-4e13-bbcf-e845a47f5a80",
-      -0.5,
+      -0.1,
       "add_multiplied_base"
     )
     .modifyAttribute(
       "puffish_attributes:ranged_damage",
       "d13c3edd-4425-447e-ac97-4512057b6e5c",
-      -0.5,
+      -0.1,
       "add_multiplied_base"
     );
 });

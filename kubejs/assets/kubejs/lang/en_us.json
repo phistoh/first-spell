@@ -1,0 +1,17 @@
+{
+  "effect.kubejs.crippling_poison_indicator": "Crippling Poison",
+  "effect.kubejs.numbing_poison_indicator": "Numbing Poison",
+  "effect.kubejs.atrophic_poison_indicator": "Atrophic Poison",
+  "effect.kubejs.leeching_poison": "Leeching Poison",
+  "effect.kubejs.amplifying_poison_indicator": "Amplifying Poison",
+  "effect.kubejs.deadly_poison_indicator": "Deadly Poison",
+  "effect.kubejs.instant_poison_indicator": "Instant Poison",
+
+  "lore.kubejs.crippling_poison_indicator": "Each strike has a 30% chance to poison the enemy, §oslowing their movement speed by 50% for 6 seconds§r.",
+  "lore.kubejs.numbing_poison_indicator": "Each strike has a 30% chance of poisoning the enemy, clouding their mind and §oslowing their attack and casting speed by 30% for 10 seconds§r.",
+  "lore.kubejs.atrophic_poison_indicator": "Each strike has a 30% chance of poisoning the enemy, §oreducing their damage by 10% for 10 seconds§r.",
+  "lore.kubejs.leeching_poison": "Each strike siphons the enemies life force away, §ohealing you for 25% of the damage dealt§r.",
+  "lore.kubejs.amplifying_poison_indicator": "Each strike has a 30% chance to poison the enemy for 6 seconds §oincreasing their damage taken by 50%§r.",
+  "lore.kubejs.deadly_poison_indicator": "Each strike has a 30% chance to poison the enemy for §o2 Void damage each second over 6 seconds§r.\nSubsequent applications increase the damage by 1 per second (up to a maximum of 5 damage per second).",
+  "lore.kubejs.instant_poison_indicator": "Each strike has a 30% chance of poisoning the enemy which §oinstantly inflicts 3 Void damage§r."
+}
