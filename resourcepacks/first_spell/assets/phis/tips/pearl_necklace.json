@@ -1,6 +1,7 @@
 {
   "type": "tipsmod:simple",
   "text": [
+    "",
     {
       "text": "Otters",
       "color": "red"
@@ -20,7 +21,7 @@
       "color": "dark_aqua"
     },
     {
-      "text": "."
+      "text": ". "
     },
     {
       "text": "Pearls",

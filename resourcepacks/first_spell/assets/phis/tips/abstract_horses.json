@@ -1,6 +1,7 @@
 {
   "type": "tipsmod:simple",
   "text": [
+    "",
     {
       "text": "Donkeys",
       "color": "red"
@@ -42,7 +43,7 @@
       "bold": true
     },
     {
-      "text": "are applicable to these creatures as well."
+      "text": " are applicable to these creatures as well."
     }
   ]
 }
