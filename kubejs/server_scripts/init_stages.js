@@ -20,7 +20,8 @@ for (const tier of tiers) {
     `minecraft:${tier}_chestplate`,
     `minecraft:${tier}_boots`,
     `minecraft:${tier}_leggings`,
-    `mounts_of_mayhem:${tier}_spear`
+    `mounts_of_mayhem:${tier}_spear`,
+    `farmersdelight:${tier}_knife`
   )
     .setCanBeStoredInInventory(true)
     .setCanBeStoredInContainers(true)
@@ -84,7 +85,9 @@ for (const tier of tiers) {
     if (tier == "copper" || tier == "golden") {
       stage = "phis_stage_copper_and_gold";
     }
+
     let recipeID = `minecraft:${tier}_${item}`;
+
     if (tier == "warden") {
       recipeID = `deeperdarker:${tier}_${item}_smithing`;
     } else if (tier == "copper") {
@@ -98,6 +101,18 @@ for (const tier of tiers) {
       recipeID
     );
   }
+  let restriction = `phis/crafting_${tier}_knife`;
+  let stage = `phis_stage_${tier}`;
+  if (tier == "copper" || tier == "golden") {
+    stage = "phis_stage_copper_and_gold";
+  }
+  let recipeID = `farmersdelight:${tier}_knife`;
+  AStages.addRestrictionForRecipe(
+    restriction,
+    stage,
+    "minecraft:crafting",
+    recipeID
+  );
 }
 
 // Crafting Waystones
@@ -156,7 +171,7 @@ AStages.addRestrictionForItem(
   .setCanBeStoredInInventory(true)
   .setCanBeStoredInContainers(true)
   .setCanPickedUp(true)
-  .setJadeBlockMessage(stack => Component.gray(stack.getHoverName()));
+  .setJadeBlockMessage((stack) => Component.gray(stack.getHoverName()));
 
 // Arcane Essence
 AStages.addRestrictionForRecipe(
@@ -299,7 +314,7 @@ AStages.addRestrictionForItem(
   .setCanBeStoredInContainers(true)
   .setCanPickedUp(true);
 
-  // Fated Altar
+// Fated Altar
 AStages.addRestrictionForRecipe(
   "phis/crafting_fated_altar",
   "phis_stage_fated_inventory",
@@ -314,4 +329,24 @@ AStages.addRestrictionForItem(
   .setCanBeStoredInInventory(true)
   .setCanBeStoredInContainers(true)
   .setCanPickedUp(true)
-  .setJadeBlockMessage(stack => Component.gray(stack.getHoverName()));
+  .setJadeBlockMessage((stack) => Component.gray(stack.getHoverName()));
+
+// Assassin poisons
+const poisons = [
+  "deadly_poison",
+  "instant_poison",
+  "amplifying_poison",
+  "numbing_poison",
+  "crippling_poison",
+  "atrophic_poison",
+  "leeching_poison",
+];
+for (const poison of poisons) {
+  console.log(`kubejs:${poison}`)
+  AStages.addRestrictionForRecipe(
+    `phis/crafting_${poison}`,
+    "phis_stage_assassin_poisons",
+    "minecraft:crafting",
+    `kubejs:${poison}`
+  );
+}

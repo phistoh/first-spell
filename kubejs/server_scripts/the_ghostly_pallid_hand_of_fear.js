@@ -8,7 +8,7 @@ EntityEvents.beforeHurt((event) => {
   if (!player) return;
   if (!entity.living) return;
   if (entity.level.clientSide) return;
-  if (!player.tags.contains("phis.dread_reaver")) return;
+  if (!player.tags.contains("phis.the_ghostly_pallid_hand_of_fear")) return;
 
   const dx = player.x - entity.x;
   const dy = player.y - entity.y;

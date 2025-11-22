@@ -17,9 +17,8 @@ EntityEvents.afterHurt((event) => {
   if (!player) return;
   const damage_type = event.getSource().getType();
   if (
-    (player.tags.contains("phis.wolves_guard_my_coffin") &&
-      damage_type == "arrow") ||
-    damage_type == "bullet"
+    player.tags.contains("phis.wolves_guard_my_coffin") &&
+    (damage_type == "arrow" || damage_type == "bullet")
   ) {
     if (Math.random() < 0.05) {
       let variant = variants[Math.floor(Math.random() * variants.length)];

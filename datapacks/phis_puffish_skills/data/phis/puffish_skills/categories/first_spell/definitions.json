@@ -3586,16 +3586,16 @@
         "type": "puffish_skills:attribute",
         "data": {
           "attribute": "minecraft:generic.explosion_knockback_resistance",
-          "value": 2,
-          "operation": "multiply_base"
+          "value": 0.75,
+          "operation": "addition"
         }
       },
       {
         "type": "puffish_skills:attribute",
         "data": {
           "attribute": "minecraft:generic.knockback_resistance",
-          "value": 2,
-          "operation": "multiply_base"
+          "value": 0.75,
+          "operation": "addition"
         }
       }
     ],
@@ -3831,7 +3831,7 @@
       {
         "type": "puffish_skills:tag",
         "data": {
-          "tag": "phis.tbd"
+          "tag": "phis.the_ghostly_pallid_hand_of_fear"
         }
       }
     ],
@@ -3933,8 +3933,8 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "unlock_command": "rarity set uncommon",
-          "lock_command": "rarity set common"
+          "unlock_command": "rarity set UNCOMMON",
+          "lock_command": "rarity set COMMON"
         }
       }
     ],
@@ -4005,8 +4005,8 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "unlock_command": "rarity set rare",
-          "lock_command": "rarity set common"
+          "unlock_command": "rarity set RARE",
+          "lock_command": "rarity set COMMON"
         }
       }
     ],
@@ -4168,8 +4168,8 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "unlock_command": "rarity set epic",
-          "lock_command": "rarity set common"
+          "unlock_command": "rarity set EPIC",
+          "lock_command": "rarity set COMMON"
         }
       }
     ],
@@ -4235,8 +4235,8 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "unlock_command": "rarity set legendary",
-          "lock_command": "rarity set common"
+          "unlock_command": "rarity set LEGENDARY",
+          "lock_command": "rarity set COMMON"
         }
       },
       {
@@ -4307,8 +4307,8 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "unlock_command": "rarity set uncommon",
-          "lock_command": "rarity set common"
+          "unlock_command": "rarity set UNCOMMON",
+          "lock_command": "rarity set COMMON"
         }
       }
     ],
@@ -4379,8 +4379,8 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "unlock_command": "rarity set rare",
-          "lock_command": "rarity set common"
+          "unlock_command": "rarity set RARE",
+          "lock_command": "rarity set COMMON"
         }
       }
     ],
@@ -4542,8 +4542,8 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "unlock_command": "rarity set epic",
-          "lock_command": "rarity set common"
+          "unlock_command": "rarity set EPIC",
+          "lock_command": "rarity set COMMON"
         }
       }
     ],
@@ -4609,8 +4609,8 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "unlock_command": "rarity set legendary",
-          "lock_command": "rarity set common"
+          "unlock_command": "rarity set LEGENDARY",
+          "lock_command": "rarity set COMMON"
         }
       },
       {
@@ -4681,8 +4681,8 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "unlock_command": "rarity set uncommon",
-          "lock_command": "rarity set common"
+          "unlock_command": "rarity set UNCOMMON",
+          "lock_command": "rarity set COMMON"
         }
       }
     ],
@@ -4753,8 +4753,8 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "unlock_command": "rarity set rare",
-          "lock_command": "rarity set common"
+          "unlock_command": "rarity set RARE",
+          "lock_command": "rarity set COMMON"
         }
       }
     ],
@@ -4916,8 +4916,8 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "unlock_command": "rarity set epic",
-          "lock_command": "rarity set common"
+          "unlock_command": "rarity set EPIC",
+          "lock_command": "rarity set COMMON"
         }
       }
     ],
@@ -4983,8 +4983,8 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "unlock_command": "rarity set legendary",
-          "lock_command": "rarity set common"
+          "unlock_command": "rarity set LEGENDARY",
+          "lock_command": "rarity set COMMON"
         }
       },
       {
@@ -5055,8 +5055,8 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "unlock_command": "rarity set uncommon",
-          "lock_command": "rarity set common"
+          "unlock_command": "rarity set UNCOMMON",
+          "lock_command": "rarity set COMMON"
         }
       }
     ],
@@ -5127,8 +5127,8 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "unlock_command": "rarity set rare",
-          "lock_command": "rarity set common"
+          "unlock_command": "rarity set RARE",
+          "lock_command": "rarity set COMMON"
         }
       }
     ],
@@ -5290,8 +5290,8 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "unlock_command": "rarity set epic",
-          "lock_command": "rarity set common"
+          "unlock_command": "rarity set EPIC",
+          "lock_command": "rarity set COMMON"
         }
       }
     ],
@@ -5357,8 +5357,8 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "unlock_command": "rarity set legendary",
-          "lock_command": "rarity set common"
+          "unlock_command": "rarity set LEGENDARY",
+          "lock_command": "rarity set COMMON"
         }
       },
       {
@@ -5429,8 +5429,8 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "unlock_command": "rarity set uncommon",
-          "lock_command": "rarity set common"
+          "unlock_command": "rarity set UNCOMMON",
+          "lock_command": "rarity set COMMON"
         }
       }
     ],
@@ -5501,8 +5501,8 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "unlock_command": "rarity set rare",
-          "lock_command": "rarity set common"
+          "unlock_command": "rarity set RARE",
+          "lock_command": "rarity set COMMON"
         }
       }
     ],
@@ -5664,8 +5664,8 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "unlock_command": "rarity set epic",
-          "lock_command": "rarity set common"
+          "unlock_command": "rarity set EPIC",
+          "lock_command": "rarity set COMMON"
         }
       }
     ],
@@ -5731,8 +5731,8 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "unlock_command": "rarity set legendary",
-          "lock_command": "rarity set common"
+          "unlock_command": "rarity set LEGENDARY",
+          "lock_command": "rarity set COMMON"
         }
       },
       {
@@ -5803,8 +5803,8 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "unlock_command": "rarity set uncommon",
-          "lock_command": "rarity set common"
+          "unlock_command": "rarity set UNCOMMON",
+          "lock_command": "rarity set COMMON"
         }
       }
     ],
@@ -5875,8 +5875,8 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "unlock_command": "rarity set rare",
-          "lock_command": "rarity set common"
+          "unlock_command": "rarity set RARE",
+          "lock_command": "rarity set COMMON"
         }
       }
     ],
@@ -6038,8 +6038,8 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "unlock_command": "rarity set epic",
-          "lock_command": "rarity set common"
+          "unlock_command": "rarity set EPIC",
+          "lock_command": "rarity set COMMON"
         }
       }
     ],
@@ -6105,8 +6105,8 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "unlock_command": "rarity set legendary",
-          "lock_command": "rarity set common"
+          "unlock_command": "rarity set LEGENDARY",
+          "lock_command": "rarity set COMMON"
         }
       },
       {
@@ -6177,8 +6177,8 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "unlock_command": "rarity set uncommon",
-          "lock_command": "rarity set common"
+          "unlock_command": "rarity set UNCOMMON",
+          "lock_command": "rarity set COMMON"
         }
       }
     ],
@@ -6249,8 +6249,8 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "unlock_command": "rarity set rare",
-          "lock_command": "rarity set common"
+          "unlock_command": "rarity set RARE",
+          "lock_command": "rarity set COMMON"
         }
       }
     ],
@@ -6412,8 +6412,8 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "unlock_command": "rarity set epic",
-          "lock_command": "rarity set common"
+          "unlock_command": "rarity set EPIC",
+          "lock_command": "rarity set COMMON"
         }
       }
     ],
@@ -6479,8 +6479,8 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "unlock_command": "rarity set legendary",
-          "lock_command": "rarity set common"
+          "unlock_command": "rarity set LEGENDARY",
+          "lock_command": "rarity set COMMON"
         }
       },
       {
@@ -6551,8 +6551,8 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "unlock_command": "rarity set uncommon",
-          "lock_command": "rarity set common"
+          "unlock_command": "rarity set UNCOMMON",
+          "lock_command": "rarity set COMMON"
         }
       }
     ],
@@ -6623,8 +6623,8 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "unlock_command": "rarity set rare",
-          "lock_command": "rarity set common"
+          "unlock_command": "rarity set RARE",
+          "lock_command": "rarity set COMMON"
         }
       }
     ],
@@ -6786,8 +6786,8 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "unlock_command": "rarity set epic",
-          "lock_command": "rarity set common"
+          "unlock_command": "rarity set EPIC",
+          "lock_command": "rarity set COMMON"
         }
       }
     ],
@@ -6853,8 +6853,8 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "unlock_command": "rarity set legendary",
-          "lock_command": "rarity set common"
+          "unlock_command": "rarity set LEGENDARY",
+          "lock_command": "rarity set COMMON"
         }
       },
       {
@@ -6925,8 +6925,8 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "unlock_command": "rarity set uncommon",
-          "lock_command": "rarity set common"
+          "unlock_command": "rarity set UNCOMMON",
+          "lock_command": "rarity set COMMON"
         }
       }
     ],
@@ -6997,8 +6997,8 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "unlock_command": "rarity set rare",
-          "lock_command": "rarity set common"
+          "unlock_command": "rarity set RARE",
+          "lock_command": "rarity set COMMON"
         }
       }
     ],
@@ -7160,8 +7160,8 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "unlock_command": "rarity set epic",
-          "lock_command": "rarity set common"
+          "unlock_command": "rarity set EPIC",
+          "lock_command": "rarity set COMMON"
         }
       }
     ],
@@ -7227,8 +7227,8 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "unlock_command": "rarity set legendary",
-          "lock_command": "rarity set common"
+          "unlock_command": "rarity set LEGENDARY",
+          "lock_command": "rarity set COMMON"
         }
       },
       {
