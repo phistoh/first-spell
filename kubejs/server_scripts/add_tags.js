@@ -20,13 +20,48 @@ ServerEvents.tags("item", (event) => {
     "minecraft:enchantable/sharp_weapon",
     "minecraft:enchantable/sword",
     "minecraft:enchantable/vanishing",
-    "minecraft:enchantable/weapon"
-  ]
+    "minecraft:enchantable/weapon",
+  ];
 
-  for(let tag of knife_tags){
-     event.add(tag, "endermanoverhaul:corrupted_blade");
+  for (let tag of knife_tags) {
+    event.add(tag, "endermanoverhaul:corrupted_blade");
   }
 
-  // Charge Altar of Fate with Arcane Essence
-  event.add("fated_inventory:charges_fated_altar", "irons_spellbooks:arcane_essence");
+  // Corrupted Shield is a Shield!
+  event.add('c:tools/shield', 'endermanoverhaul:corrupted_shield')
+  event.add('c:tools/shields', 'endermanoverhaul:corrupted_shield')
+
+  // Arcane Essence related
+  event.add(
+    "fated_inventory:charges_fated_altar",
+    "irons_spellbooks:arcane_essence"
+  );
+  event.add(
+    "sneakycurses:reveals_curses",
+    "irons_spellbooks:arcane_essence"
+  );
+
+  // Rock splitter tag
+  const rock_splitter = [
+    "rocks:cobblestone_splitter",
+    "rocks:granite_splitter",
+    "rocks:diorite_splitter",
+    "rocks:andesite_splitter",
+    "rocks:sandstone_splitter",
+    "rocks:red_sandstone_splitter",
+    "rocks:end_stone_splitter_splitter",
+    "rocks:netherrack_splitter",
+    "rocks:soul_soil_splitter",
+    "minecraft:flint"
+  ]
+  for (const splitter of rock_splitter) {
+    event.add("rocks:splitter", splitter);
+  }
+});
+
+ServerEvents.tags("block", (event) => {
+  // Heat Sources
+  event.add("farmersdelight:heat_sources", "rubinated_nether:ruby_brazier");
+  event.add("farmersdelight:heat_sources", "irons_spellbooks:brazier");
+  event.add("farmersdelight:heat_sources", "irons_spellbooks:brazier_soul");
 });

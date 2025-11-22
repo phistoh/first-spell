@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:clock",
+    "minecraft:compass",
+    "minecraft:recovery_compass",
+    "irons_spellbooks:wayward_compass",
+    "supplementaries:altimeter",
+    "supplementaries:wind_vane"
+  ]
+}

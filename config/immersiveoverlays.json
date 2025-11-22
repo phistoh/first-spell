@@ -21,7 +21,8 @@
     "minecraft:recovery_compass",
     "spelunkery:magnetic_compass",
     "firmaciv:nav_clock",
-    "firmaciv:firmaciv_compass"
+    "firmaciv:firmaciv_compass",
+    "irons_spellbooks:wayward_compass"
   ],
   "compass_y_items": [
     "spelunkery:depth_gauge",
@@ -46,7 +47,8 @@
   ],
   "clock_weather_items": [
     "caverns_and_chasms:barometer",
-    "firmaciv:barometer"
+    "firmaciv:barometer",
+    "supplementaries:wind_vane"
   ],
   "temperature_enable": true,
   "temperature_icons": true,
@@ -97,7 +99,7 @@
     "speedometer:speedometer"
   ],
   "compat_oreganized_speed": true,
-  "compat_jade": false,
+  "compat_jade": true,
   "compat_waila_items": [
     "minecraft:spyglass",
     "create:goggles"
