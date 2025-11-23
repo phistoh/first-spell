@@ -1,8 +1,0 @@
-type = user_variables
-
-variable {
-  name = play_menu_music
-  value = true
-  reset_on_launch = true
-}
-

@@ -1,16 +1,14 @@
-// EntityEvents.beforeHurt((event) => {
-//   const {
-//     entity,
-//     source: { player },
-//     damage,
-//   } = event;
-//   if (!player) return;
+ItemEvents.firstLeftClicked((event) => {
+//   const { item } = event;
 
-//     console.log(player.mainHandItem.toStringJS().includes("level:1,"))
-//     console.log(player.mainHandItem.id)
-//     console.log(player.mainHandItem.rarity)
-// });
+//   console.log(item)
+//   console.log(item.getItem().get)
+  // console.log(item.getAttributeModifiers())
 
-// // AModels.createPredicateModel("astages:rarity", stack => stack.toStringJS().includes("level:1,") && stack.id == "irons_spellbooks:scroll")
-// AModels.createPredicateModel("astages:rarity", stack => stack.rarity == $Rarity.EPIC)
-// AStages.addRestrictionForPredicate("astages/item5/", "stage_item", "astages:rarity")
+//   for (const entry of item.getAttributeModifiers().modifiers()) {
+//     console.log(entry.attribute());
+//     if (entry.attribute() == "generic.armor") {
+//       console.log(entry.attribute());
+//     }
+//   }
+});
