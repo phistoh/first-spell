@@ -331,6 +331,29 @@ AStages.addRestrictionForItem(
   .setCanPickedUp(true)
   .setJadeBlockMessage((stack) => Component.gray(stack.getHoverName()));
 
+// Grappling Hooks
+const hooks = [
+  "hooked:diamond_hook",
+  "hooked:redstone_hook",
+  "hooked:ender_hook",
+];
+for (const hook of hooks) {
+  AStages.addRestrictionForRecipe(
+    `phis/crafting_${hook}`,
+    "phis_stage_grappling_hooks",
+    "minecraft:crafting",
+    hook
+  );
+  AStages.addRestrictionForItem(
+    `phis/use_${hook}`,
+    "phis_stage_grappling_hooks",
+    hook
+  )
+    .setCanBeStoredInInventory(true)
+    .setCanBeStoredInContainers(true)
+    .setCanPickedUp(true);
+}
+
 // Assassin poisons
 const poisons = [
   "deadly_poison",
@@ -342,11 +365,31 @@ const poisons = [
   "leeching_poison",
 ];
 for (const poison of poisons) {
-  console.log(`kubejs:${poison}`)
   AStages.addRestrictionForRecipe(
     `phis/crafting_${poison}`,
     "phis_stage_assassin_poisons",
     "minecraft:crafting",
     `kubejs:${poison}`
+  );
+}
+
+// Manuscripts
+const schools = [
+  "fire",
+  "ice",
+  "lightning",
+  "holy",
+  "ender",
+  "blood",
+  "evocation",
+  "nature",
+  "sound"
+]
+for (const school of schools) {
+  AStages.addRestrictionForRecipe(
+    `phis/crafting_${school}_manuscript`,
+    `phis_stage_manuscript_${school}`,
+    "minecraft:crafting",
+    `irons_restrictions:${school}_manuscript`
   );
 }

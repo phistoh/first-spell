@@ -27,5 +27,6 @@ StartupEvents.registry('item', event => {
    .rarity("Uncommon")
    .tooltip(`This bottled soul is used as a focus for the sound spell school.`)
    .tag("irons_spellbooks:school_focus")
-   .tag("irons_spellbooks:sound_focus")
+  //  .tag("irons_spellbooks:sound_focus")
+   .tag("familiarslib:sound_focus")
 })

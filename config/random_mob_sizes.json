@@ -1,16 +1,22 @@
 {
-  "default_scaling": {
-    "type": "gaussian",
-    "min_scaling": 0.5,
-    "max_scaling": 1.5,
-    "close_to_original": true,
-    "scale_loot": true,
-    "scale_xp": true,
-    "scale_health": "none",
-    "scale_damage": "none",
-    "scale_speed": "none"
-  },
-  "include_list": ["minecraft:*"],
-  "exclude_list": ["minecraft:shulker", "minecraft:wither"],
-  "keep_scaling_on_conversion": true
+	"default_scaling": {
+		"type": "gaussian",
+		"min_scaling": 0.5,
+		"max_scaling": 1.5,
+		"close_to_original": true,
+		"scale_loot": true,
+		"scale_xp": true,
+		"scale_health": "none",
+		"scale_damage": "none",
+		"scale_speed": "none"
+	},
+	"include_list": [
+		"minecraft:*"
+	],
+	"exclude_list": [
+		"minecraft:shulker",
+		"minecraft:wither"
+	],
+	"keep_scaling_on_conversion": true,
+	"scaling_overrides": {}
 }

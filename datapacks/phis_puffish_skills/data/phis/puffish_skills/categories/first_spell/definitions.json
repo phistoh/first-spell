@@ -599,7 +599,14 @@
         "text": "."
       }
     ],
-    "rewards": [],
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "phis.regeneration"
+        }
+      }
+    ],
     "metadata": {
       "icon": "p323ulhn1llha0uy"
     }
@@ -2467,7 +2474,7 @@
       {
         "type": "astages:stage_reward",
         "data": {
-          "stage": "phis_stage_backpack_tbd",
+          "stage": "phis_stage_grappling_hooks",
           "operation": "add"
         }
       }
@@ -6917,7 +6924,7 @@
       {
         "type": "puffish_skills:attribute",
         "data": {
-          "attribute": "additional_attributes:innate_spell/irons_spellbooks/icicle",
+          "attribute": "additional_attributes:innate_spell/alshanex_familiars/music_bolt",
           "value": 1,
           "operation": "addition"
         }
@@ -7007,7 +7014,7 @@
     }
   },
   "sound_mage_3": {
-    "title": "Boreal Fiends",
+    "title": "tbd.",
     "frame": {
       "type": "texture",
       "data": {

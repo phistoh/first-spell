@@ -5,7 +5,7 @@ tintOverlayPage = true
 #If true, to use a spell on an imbued item, the spell must be learnt
 imbuedItemsRequireLearning = false
 #A list of spells that the player will already know
-defaultLearntSpells = []
+defaultLearntSpells = ["irons_spellbooks:firebolt", "irons_spellbooks:icicle", "irons_spellbooks:volt_strike", "irons_spellbooks:guiding_bolt", "irons_spellbooks:magic_missile", "irons_spellbooks:ray_of_siphoning", "irons_spellbooks:firecracker", "irons_spellbooks:poison_arrow", "alshanex_familiars:music_bolt"]
 #A list of spells that will not be able to be learnt through the Unfinished Manuscript
 excludeRandomLearntSpells = ["irons_spellbooks:abyssal_shroud", "irons_spellbooks:sculk_tentacles", "irons_spellbooks:sonic_boom", "irons_spellbooks:planar_sight", "irons_spellbooks:telekinesis", "irons_spellbooks:eldritch_blast", "irons_spellbooks:pocket_dimension"]
 #The chance for an Unfinished Manuscript to fail
