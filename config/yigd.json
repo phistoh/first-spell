@@ -133,7 +133,7 @@
   },
   "respawnConfig": {
     "respawnEffects": [],
-    "respawnHealth": -1,
+    "respawnHealth": 6,
     "resetHunger": true,
     "respawnHunger": -1,
     "resetSaturation": true,

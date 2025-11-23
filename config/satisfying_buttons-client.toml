@@ -24,7 +24,7 @@ FadeInVanillaWidgetTexture = true
 FadeInVanillaWidgetTextureOnHoverTime = 300
 #.
 #Whether button sounds are enabled or not. Turning this off toggles off all audio changes.
-SoundEnabled = true
+SoundEnabled = false
 #.
 #Whether a secondary, quieter sound should play when a button is unhovered..
 ButtonUnhoverSoundEnabled = true
