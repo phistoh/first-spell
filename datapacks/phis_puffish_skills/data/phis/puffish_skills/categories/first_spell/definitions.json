@@ -1061,7 +1061,7 @@
     }
   },
   "craft_explosives_musket": {
-    "title": "[NYI] Fires That Light the Earth",
+    "title": "Fires That Light the Earth",
     "frame": {
       "type": "texture",
       "data": {
@@ -1162,7 +1162,7 @@
     }
   },
   "craft_explosives_fireworks": {
-    "title": "[NYI] A Blaze in the Northern Sky",
+    "title": "A Blaze in the Northern Sky",
     "frame": {
       "type": "texture",
       "data": {
@@ -1308,7 +1308,7 @@
     }
   },
   "craft_linked_pouch": {
-    "title": "[NYI] Sacred Geometry",
+    "title": "Sacred Geometry",
     "frame": {
       "type": "texture",
       "data": {
@@ -1454,7 +1454,7 @@
     }
   },
   "extra_dust": {
-    "title": "[NYI] Buried by Time and Dust",
+    "title": "Buried by Time and Dust",
     "frame": {
       "type": "texture",
       "data": {
@@ -1629,7 +1629,7 @@
     }
   },
   "curios_elytra": {
-    "title": "[NYI] Swansong for a Raven",
+    "title": "Swansong for a Raven",
     "frame": {
       "type": "texture",
       "data": {
@@ -1954,7 +1954,7 @@
     }
   },
   "additional_milk_1": {
-    "title": "[NYI] Soliloquy of the Stigmatised Shepherd",
+    "title": "Soliloquy of the Stigmatised Shepherd",
     "frame": {
       "type": "texture",
       "data": {
@@ -1997,7 +1997,7 @@
     }
   },
   "additional_milk_2": {
-    "title": "[NYI] When Milk Runs Dry",
+    "title": "When Milk Runs Dry",
     "frame": {
       "type": "texture",
       "data": {
@@ -2179,7 +2179,7 @@
     }
   },
   "extract_blood": {
-    "title": "[NYI] The Soil Runs Red",
+    "title": "The Soil Runs Red",
     "frame": {
       "type": "texture",
       "data": {
@@ -2206,7 +2206,7 @@
         "color": "dark_red"
       },
       {
-        "text": "without hurting yourself."
+        "text": " without hurting yourself."
       },
       {
         "text": " [...]\n",
@@ -2420,7 +2420,7 @@
     }
   },
   "better_hooks": {
-    "title": "[NYI] Out of the Grave",
+    "title": "Out of the Grave",
     "frame": {
       "type": "texture",
       "data": {
@@ -2724,7 +2724,7 @@
     "description": [
       "",
       {
-        "text": "Your"
+        "text": "Your "
       },
       {
         "text": "movement speed while casting",
@@ -2799,7 +2799,7 @@
     }
   },
   "shorter_effects": {
-    "title": "Risen from the Rain",
+    "title": "[NYI] Risen from the Rain",
     "frame": {
       "type": "texture",
       "data": {
@@ -2847,7 +2847,7 @@
         "type": "pufferfish_unofficial_additions:effect",
         "data": {
           "effect": "minecraft:slowness",
-          "amplifier": -2,
+          "amplifier": 0,
           "duration_modification": "/2",
           "type": "MODIFY"
         }
@@ -2858,7 +2858,7 @@
     }
   },
   "void_immunity": {
-    "title": "[NYI] Far Beyond the Stars",
+    "title": "Far Beyond the Stars",
     "frame": {
       "type": "texture",
       "data": {
@@ -2941,6 +2941,58 @@
     ],
     "metadata": {
       "icon": "4pm34sl1uyqjuj4f"
+    }
+  },
+  "extra_roll": {
+    "title": "tbd.",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "size": 2.5,
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:wind_charged"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "Your gain "
+      },
+      {
+        "text": "two",
+        "color": "dark_blue"
+      },
+      {
+        "text": " additional "
+      },
+      {
+        "text": "roll charges",
+        "color": "dark_green"
+      },
+      {
+        "text": "."
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "combat_roll:count",
+          "value": 2,
+          "operation": "add"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "nb33vc1zazras1k9"
     }
   },
   "comment_1": {
@@ -7274,7 +7326,7 @@
       "icon": "g5x2usnqsenpe63o"
     }
   },
-  "max_health": {
+  "max_health_1": {
     "title": "A Desolate Heart",
     "frame": {
       "type": "texture",
@@ -7316,7 +7368,133 @@
       "icon": "6f5bepz3bvvzywx7"
     }
   },
-  "max_mana": {
+  "max_health_2": {
+    "title": "tbd.",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "size": 2,
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:regeneration"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "+2 "
+      },
+      {
+        "text": "♥",
+        "color": "#ff1313"
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 4,
+          "operation": "addition"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "6f5bepz3bvvzywx7"
+    }
+  },
+  "max_health_3": {
+    "title": "Nocturnal, Transparent Rainbow",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "size": 2,
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:regeneration"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "+3 "
+      },
+      {
+        "text": "♥",
+        "color": "#ff1313"
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 6,
+          "operation": "addition"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "6f5bepz3bvvzywx7"
+    }
+  },
+  "max_health_4": {
+    "title": "I Am the World",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "size": 2,
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:regeneration"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "+4 "
+      },
+      {
+        "text": "♥",
+        "color": "#ff1313"
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 8,
+          "operation": "addition"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "6f5bepz3bvvzywx7"
+    }
+  },
+  "max_mana_1": {
     "title": "A Few Shreds of Thoughts",
     "frame": {
       "type": "texture",
@@ -7337,7 +7515,7 @@
     "description": [
       "",
       {
-        "text": "+50 "
+        "text": "+10 "
       },
       {
         "text": "mana",
@@ -7349,7 +7527,133 @@
         "type": "puffish_skills:attribute",
         "data": {
           "attribute": "irons_spellbooks:max_mana",
-          "value": 50,
+          "value": 10,
+          "operation": "addition"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "mqvcbickmjjwnph6"
+    }
+  },
+  "max_mana_2": {
+    "title": "The Witching Meadow",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "size": 2,
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:wind_charged"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "+20 "
+      },
+      {
+        "text": "mana",
+        "color": "#0093BD"
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:max_mana",
+          "value": 20,
+          "operation": "addition"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "mqvcbickmjjwnph6"
+    }
+  },
+  "max_mana_3": {
+    "title": "Mountain Magick",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "size": 2,
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:wind_charged"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "+30 "
+      },
+      {
+        "text": "mana",
+        "color": "#0093BD"
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:max_mana",
+          "value": 30,
+          "operation": "addition"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "mqvcbickmjjwnph6"
+    }
+  },
+  "max_mana_4": {
+    "title": "Forgotten Empire of Dark Witchcraft",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "size": 2,
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:wind_charged"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "+40 "
+      },
+      {
+        "text": "mana",
+        "color": "#0093BD"
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:max_mana",
+          "value": 40,
           "operation": "addition"
         }
       }
@@ -7379,7 +7683,7 @@
     "description": [
       "",
       {
-        "text": "+20% "
+        "text": "+50% "
       },
       {
         "text": "mana regeneration",
@@ -7391,7 +7695,7 @@
         "type": "puffish_skills:attribute",
         "data": {
           "attribute": "irons_spellbooks:mana_regen",
-          "value": 0.2,
+          "value": 0.5,
           "operation": "multiply_base"
         }
       }
@@ -7463,7 +7767,7 @@
     "description": [
       "",
       {
-        "text": "+5% "
+        "text": "+25% "
       },
       {
         "text": "melee damage",
@@ -7494,7 +7798,7 @@
         "type": "puffish_skills:attribute",
         "data": {
           "attribute": "puffish_attributes:melee_damage",
-          "value": 0.05,
+          "value": 0.25,
           "operation": "multiply_base"
         }
       }
@@ -7524,7 +7828,7 @@
     "description": [
       "",
       {
-        "text": "+5% "
+        "text": "+25% "
       },
       {
         "text": "ranged damage",
@@ -7555,7 +7859,7 @@
         "type": "puffish_skills:attribute",
         "data": {
           "attribute": "puffish_attributes:ranged_damage",
-          "value": 0.05,
+          "value": 0.25,
           "operation": "multiply_base"
         }
       }
@@ -7585,7 +7889,7 @@
     "description": [
       "",
       {
-        "text": "+15% "
+        "text": "+30% "
       },
       {
         "text": "melee damage reduction",
@@ -7616,7 +7920,7 @@
         "type": "puffish_skills:attribute",
         "data": {
           "attribute": "puffish_attributes:melee_resistance",
-          "value": 0.15,
+          "value": 0.3,
           "operation": "multiply_base"
         }
       }
@@ -7646,7 +7950,7 @@
     "description": [
       "",
       {
-        "text": "+15% "
+        "text": "+30% "
       },
       {
         "text": "ranged damage reduction",
@@ -7677,7 +7981,7 @@
         "type": "puffish_skills:attribute",
         "data": {
           "attribute": "puffish_attributes:ranged_resistance",
-          "value": 0.15,
+          "value": 0.3,
           "operation": "multiply_base"
         }
       }
@@ -7707,7 +8011,7 @@
     "description": [
       "",
       {
-        "text": "+15% "
+        "text": "+30% "
       },
       {
         "text": "magic damage reduction",
@@ -7762,7 +8066,7 @@
         "type": "puffish_skills:attribute",
         "data": {
           "attribute": "puffish_attributes:magic_resistance",
-          "value": 0.15,
+          "value": 0.3,
           "operation": "multiply_base"
         }
       }
@@ -7792,7 +8096,7 @@
     "description": [
       "",
       {
-        "text": "+25% "
+        "text": "+100% "
       },
       {
         "text": "healing from all sources",
@@ -7804,7 +8108,7 @@
         "type": "puffish_skills:attribute",
         "data": {
           "attribute": "puffish_attributes:healing",
-          "value": 0.25,
+          "value": 1,
           "operation": "multiply_total"
         }
       }
@@ -7814,7 +8118,7 @@
     }
   },
   "mining_speed": {
-    "title": "tbd.",
+    "title": "The Final Architect",
     "frame": {
       "type": "texture",
       "data": {
@@ -7834,7 +8138,7 @@
     "description": [
       "",
       {
-        "text": "+15% "
+        "text": "+25% "
       },
       {
         "text": "mining speed",
@@ -7846,7 +8150,7 @@
         "type": "puffish_skills:attribute",
         "data": {
           "attribute": "puffish_attributes:mining_speed",
-          "value": 0.15,
+          "value": 0.25,
           "operation": "multiply_base"
         }
       }
@@ -7876,7 +8180,7 @@
     "description": [
       "",
       {
-        "text": "+15% "
+        "text": "+30% "
       },
       {
         "text": "mining speed",
@@ -7888,7 +8192,7 @@
         "type": "puffish_skills:attribute",
         "data": {
           "attribute": "puffish_attributes:pickaxe_speed",
-          "value": 0.15,
+          "value": 0.3,
           "operation": "multiply_base"
         }
       }
@@ -7918,7 +8222,7 @@
     "description": [
       "",
       {
-        "text": "+15% "
+        "text": "+30% "
       },
       {
         "text": "mining speed",
@@ -7930,7 +8234,7 @@
         "type": "puffish_skills:attribute",
         "data": {
           "attribute": "puffish_attributes:mining_speed",
-          "value": 0.15,
+          "value": 0.3,
           "operation": "multiply_base"
         }
       }
@@ -7960,7 +8264,7 @@
     "description": [
       "",
       {
-        "text": "+15% "
+        "text": "+30% "
       },
       {
         "text": "mining speed",
@@ -7972,7 +8276,7 @@
         "type": "puffish_skills:attribute",
         "data": {
           "attribute": "puffish_attributes:axe_speed",
-          "value": 0.15,
+          "value": 0.3,
           "operation": "multiply_base"
         }
       }
@@ -8002,7 +8306,7 @@
     "description": [
       "",
       {
-        "text": "+15% "
+        "text": "+30% "
       },
       {
         "text": "sprint speed",
@@ -8014,7 +8318,7 @@
         "type": "puffish_skills:attribute",
         "data": {
           "attribute": "puffish_attributes:sprinting_speed",
-          "value": 0.15,
+          "value": 0.3,
           "operation": "multiply_base"
         }
       }
@@ -8023,7 +8327,7 @@
       "icon": "6szddbrza79bdnv1"
     }
   },
-  "fall_damage_reduction": {
+  "fall_damage_reduction_1": {
     "title": "From the Pagan Vastlands",
     "frame": {
       "type": "texture",
@@ -8071,1312 +8375,8 @@
       "icon": "hc7igkdxdiz4ohek"
     }
   },
-  "jump_height": {
-    "title": "A Traveller of Unknown Plains",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
-      }
-    },
-    "size": 2,
-    "icon": {
-      "type": "effect",
-      "data": {
-        "effect": "minecraft:slow_falling"
-      }
-    },
-    "description": [
-      "",
-      {
-        "text": "+1 block "
-      },
-      {
-        "text": "jump height",
-        "color": "dark_green"
-      },
-      {
-        "text": " [...]",
-        "italic": true,
-        "color": "dark_gray"
-      }
-    ],
-    "extra_description": "The default jump height is one block.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:jump",
-          "value": 1,
-          "operation": "addition"
-        }
-      }
-    ],
-    "metadata": {
-      "icon": "giruapnym25vp70g"
-    }
-  },
-  "mount_speed": {
-    "title": "One Rode to Asa Bay",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
-      }
-    },
-    "size": 2,
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:shield"
-      }
-    },
-    "description": [
-      "",
-      {
-        "text": "+25% "
-      },
-      {
-        "text": "mount speed",
-        "color": "dark_green"
-      }
-    ],
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "artifacts:generic.mount_speed",
-          "value": 0.25,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "metadata": {
-      "icon": "km9z3bjjr9eb2vvq"
-    }
-  },
-  "walk_on_snow": {
-    "title": "Of Ice and Movement...",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
-      }
-    },
-    "size": 2,
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:snowball"
-      }
-    },
-    "description": [
-      "",
-      {
-        "text": "+50% "
-      },
-      {
-        "text": "movement speed",
-        "color": "dark_green"
-      },
-      {
-        "text": " while on snow"
-      }
-    ],
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "artifacts:generic.movement_speed_on_snow",
-          "value": 0.5,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "metadata": {
-      "icon": "qbgw0dc67rz7uqpz"
-    }
-  },
-  "crit_chance": {
-    "title": "As the Wounds Gently Bleed",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
-      }
-    },
-    "size": 2,
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:snowball"
-      }
-    },
-    "description": [
-      "",
-      {
-        "text": "+2% "
-      },
-      {
-        "text": "critical strike chance",
-        "color": "dark_green"
-      },
-      {
-        "text": " [...]",
-        "italic": true,
-        "color": "dark_gray"
-      }
-    ],
-    "extra_description": "Not related to vanilla (jump) critical strikes.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "apothic_attributes:crit_chance",
-          "value": 0.02,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "metadata": {
-      "icon": "3tkkjc326o0nalu1"
-    }
-  },
-  "crit_damage": {
-    "title": "Deathwish",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
-      }
-    },
-    "size": 2,
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:snowball"
-      }
-    },
-    "description": [
-      "",
-      {
-        "text": "+25% "
-      },
-      {
-        "text": "critical strike damage",
-        "color": "dark_green"
-      },
-      {
-        "text": " [...]",
-        "italic": true,
-        "color": "dark_gray"
-      }
-    ],
-    "extra_description": "Not related to vanilla (jump) critical strikes.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "apothic_attributes:crit_chance",
-          "value": 0.25,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "metadata": {
-      "icon": "cu0agy54vogh8met"
-    }
-  },
-  "dodge_chance": {
-    "title": "As Mist Descends from the Hills",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
-      }
-    },
-    "size": 2,
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:snowball"
-      }
-    },
-    "description": [
-      "",
-      {
-        "text": "+5% "
-      },
-      {
-        "text": "melee dodge chance",
-        "color": "dark_green"
-      },
-      {
-        "text": " [...]",
-        "italic": true,
-        "color": "dark_gray"
-      }
-    ],
-    "extra_description": "'Melee' damage is considered as damage from another entity within the player's attack range.",
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "artifacts:generic.movement_speed_on_snow",
-          "value": 0.5,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "metadata": {
-      "icon": "6u0vh7r4eqaazblp"
-    }
-  },
-  "ice_spell_damage": {
-    "title": "tbd.",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
-      }
-    },
-    "size": 2,
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:iron_sword"
-      }
-    },
-    "description": [
-      "",
-      {
-        "text": "+5% "
-      },
-      {
-        "text": "ice damage",
-        "color": "#d0f9ff"
-      }
-    ],
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "irons_spellbooks:ice_spell_power",
-          "value": 0.05,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "metadata": {
-      "icon": "fazs3qcvean70vyf"
-    }
-  },
-  "lightning_spell_damage": {
-    "title": "tbd.",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
-      }
-    },
-    "size": 2,
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:iron_sword"
-      }
-    },
-    "description": [
-      "",
-      {
-        "text": "+5% "
-      },
-      {
-        "text": "lightning damage",
-        "color": "aqua"
-      }
-    ],
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "irons_spellbooks:lightning_spell_power",
-          "value": 0.05,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "metadata": {
-      "icon": "yeay2k4vg038tfvl"
-    }
-  },
-  "holy_spell_damage": {
-    "title": "tbd.",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
-      }
-    },
-    "size": 2,
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:iron_sword"
-      }
-    },
-    "description": [
-      "",
-      {
-        "text": "+5% "
-      },
-      {
-        "text": "holy damage",
-        "color": "#fff8d4"
-      }
-    ],
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "irons_spellbooks:holy_spell_power",
-          "value": 0.05,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "metadata": {
-      "icon": "7unb9whe4rc5fdk6"
-    }
-  },
-  "ender_spell_damage": {
-    "title": "tbd.",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
-      }
-    },
-    "size": 2,
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:iron_sword"
-      }
-    },
-    "description": [
-      "",
-      {
-        "text": "+5% "
-      },
-      {
-        "text": "ender damage",
-        "color": "light_purple"
-      }
-    ],
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "irons_spellbooks:ender_spell_power",
-          "value": 0.05,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "metadata": {
-      "icon": "hqx3e91wdatp6r0f"
-    }
-  },
-  "blood_spell_damage": {
-    "title": "tbd.",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
-      }
-    },
-    "size": 2,
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:iron_sword"
-      }
-    },
-    "description": [
-      "",
-      {
-        "text": "+5% "
-      },
-      {
-        "text": "blood damage",
-        "color": "dark_red"
-      }
-    ],
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "irons_spellbooks:blood_spell_power",
-          "value": 0.05,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "metadata": {
-      "icon": "iokt6iv0qkzn3etw"
-    }
-  },
-  "evocation_spell_damage": {
-    "title": "tbd.",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
-      }
-    },
-    "size": 2,
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:iron_sword"
-      }
-    },
-    "description": [
-      "",
-      {
-        "text": "+5% "
-      },
-      {
-        "text": "evocation damage",
-        "color": "white"
-      }
-    ],
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "irons_spellbooks:evocation_spell_power",
-          "value": 0.05,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "metadata": {
-      "icon": "kvzsdb2rfhabwvxc"
-    }
-  },
-  "nature_spell_damage": {
-    "title": "tbd.",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
-      }
-    },
-    "size": 2,
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:iron_sword"
-      }
-    },
-    "description": [
-      "",
-      {
-        "text": "+5% "
-      },
-      {
-        "text": "nature damage",
-        "color": "green"
-      }
-    ],
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "irons_spellbooks:nature_spell_power",
-          "value": 0.05,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "metadata": {
-      "icon": "a691u14vltzbdl4b"
-    }
-  },
-  "sound_spell_damage": {
-    "title": "tbd.",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
-      }
-    },
-    "size": 2,
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:iron_sword"
-      }
-    },
-    "description": [
-      "",
-      {
-        "text": "+5% "
-      },
-      {
-        "text": "sound damage",
-        "color": "#CFFFD2"
-      }
-    ],
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "familiarslib:sound_spell_power",
-          "value": 0.05,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "metadata": {
-      "icon": "kf25b7m2dwf3tcj2"
-    }
-  },
-  "fire_spell_damage": {
-    "title": "tbd.",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
-      }
-    },
-    "size": 2,
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:iron_sword"
-      }
-    },
-    "description": [
-      "",
-      {
-        "text": "+5% "
-      },
-      {
-        "text": "fire damage",
-        "color": "gold"
-      }
-    ],
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "irons_spellbooks:fire_spell_power",
-          "value": 0.05,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "metadata": {
-      "icon": "cpbyr7wnpgq04j81"
-    }
-  },
-  "comment_3": {
-    "title": " ================================================================================ MAJOR STAT BUFFS BELOW ================================================================================",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "size": 2,
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "artifacts:digging_claws"
-      }
-    },
-    "description": "Do not implement",
-    "rewards": [],
-    "metadata": {
-      "icon": "4a6ivvquj0qp394f"
-    }
-  },
-  "max_health_major": {
-    "title": "I Am the World",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
-      }
-    },
-    "size": 2,
-    "icon": {
-      "type": "effect",
-      "data": {
-        "effect": "minecraft:regeneration"
-      }
-    },
-    "description": [
-      "",
-      {
-        "text": "+2 "
-      },
-      {
-        "text": "♥",
-        "color": "#ff1313"
-      }
-    ],
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "generic.max_health",
-          "value": 4,
-          "operation": "addition"
-        }
-      }
-    ],
-    "metadata": {
-      "icon": "e58c2y2dqpkod38w"
-    }
-  },
-  "max_mana_major": {
-    "title": "Mountain Magick",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
-      }
-    },
-    "size": 2,
-    "icon": {
-      "type": "effect",
-      "data": {
-        "effect": "minecraft:wind_charged"
-      }
-    },
-    "description": [
-      "",
-      {
-        "text": "+100 "
-      },
-      {
-        "text": "mana",
-        "color": "#0093BD"
-      }
-    ],
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "irons_spellbooks:max_mana",
-          "value": 100,
-          "operation": "addition"
-        }
-      }
-    ],
-    "metadata": {
-      "icon": "9gtzo0v98elkrddi"
-    }
-  },
-  "mana_regen_major": {
-    "title": "The Witching Meadow",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
-      }
-    },
-    "size": 2,
-    "icon": {
-      "type": "effect",
-      "data": {
-        "effect": "minecraft:wind_charged"
-      }
-    },
-    "description": [
-      "",
-      {
-        "text": "+40% "
-      },
-      {
-        "text": "mana regeneration",
-        "color": "#0093BD"
-      }
-    ],
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "irons_spellbooks:mana_regen",
-          "value": 0.4,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "metadata": {
-      "icon": "59goqzzco30ox9j0"
-    }
-  },
-  "spell_cooldown_major": {
-    "title": "Forgotten Empire of Dark Witchcraft",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
-      }
-    },
-    "size": 2,
-    "icon": {
-      "type": "effect",
-      "data": {
-        "effect": "minecraft:wind_charged"
-      }
-    },
-    "description": [
-      "",
-      {
-        "text": "+50% "
-      },
-      {
-        "text": "spell cooldown reduction",
-        "color": "dark_green"
-      }
-    ],
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "irons_spellbooks:cooldown_reduction",
-          "value": 0.5,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "metadata": {
-      "icon": "494u9sutudi46v29"
-    }
-  },
-  "melee_damage_major": {
-    "title": "Going Berserk",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
-      }
-    },
-    "size": 2,
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:iron_sword"
-      }
-    },
-    "description": [
-      "",
-      {
-        "text": "+10% "
-      },
-      {
-        "text": "melee damage",
-        "color": "dark_green"
-      },
-      {
-        "text": " [...]",
-        "italic": true,
-        "color": "dark_gray"
-      }
-    ],
-    "extra_description": [
-      "",
-      {
-        "text": "Damage is considered melee if damage source is direct and damage type is not in "
-      },
-      {
-        "text": "minecraft:is_projectile",
-        "underlined": true,
-        "color": "gray"
-      },
-      {
-        "text": " tag."
-      }
-    ],
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:melee_damage",
-          "value": 0.1,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "metadata": {
-      "icon": "0txga8rngnnggshl"
-    }
-  },
-  "ranged_damage_major": {
-    "title": "The Knell",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
-      }
-    },
-    "size": 2,
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:bow"
-      }
-    },
-    "description": [
-      "",
-      {
-        "text": "+10% "
-      },
-      {
-        "text": "ranged damage",
-        "color": "dark_green"
-      },
-      {
-        "text": " [...]",
-        "italic": true,
-        "color": "dark_gray"
-      }
-    ],
-    "extra_description": [
-      "",
-      {
-        "text": "Damage is considered ranged if damage source is indirect or damage type is in "
-      },
-      {
-        "text": "minecraft:is_projectile",
-        "underlined": true,
-        "color": "gray"
-      },
-      {
-        "text": " tag."
-      }
-    ],
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:ranged_damage",
-          "value": 0.1,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "metadata": {
-      "icon": "m9xmrooozjpjeb03"
-    }
-  },
-  "melee_resistance_major": {
-    "title": "Circle of the Tyrants",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
-      }
-    },
-    "size": 2,
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:shield"
-      }
-    },
-    "description": [
-      "",
-      {
-        "text": "+30% "
-      },
-      {
-        "text": "melee damage reduction",
-        "color": "dark_green"
-      },
-      {
-        "text": " [...]",
-        "italic": true,
-        "color": "dark_gray"
-      }
-    ],
-    "extra_description": [
-      "",
-      {
-        "text": "Damage is considered melee if damage source is direct and damage type is not in "
-      },
-      {
-        "text": "minecraft:is_projectile",
-        "underlined": true,
-        "color": "gray"
-      },
-      {
-        "text": " tag."
-      }
-    ],
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:melee_resistance",
-          "value": 0.3,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "metadata": {
-      "icon": "awr7z9u04b305b0g"
-    }
-  },
-  "ranged_resistance_major": {
-    "title": "Lamp of Invisible Lights",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
-      }
-    },
-    "size": 2,
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:shield"
-      }
-    },
-    "description": [
-      "",
-      {
-        "text": "+30% "
-      },
-      {
-        "text": "ranged damage reduction",
-        "color": "dark_green"
-      },
-      {
-        "text": " [...]",
-        "italic": true,
-        "color": "dark_gray"
-      }
-    ],
-    "extra_description": [
-      "",
-      {
-        "text": "Damage is considered ranged if damage source is indirect or damage type is in "
-      },
-      {
-        "text": "minecraft:is_projectile",
-        "underlined": true,
-        "color": "gray"
-      },
-      {
-        "text": " tag."
-      }
-    ],
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:ranged_resistance",
-          "value": 0.3,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "metadata": {
-      "icon": "vggtqejz7a46rg7v"
-    }
-  },
-  "magic_resistance_major": {
-    "title": "The Apotheosis of the Unnamable",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
-      }
-    },
-    "size": 2,
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:shield"
-      }
-    },
-    "description": [
-      "",
-      {
-        "text": "+30% "
-      },
-      {
-        "text": "magic damage reduction",
-        "color": "dark_green"
-      },
-      {
-        "text": " [...]",
-        "italic": true,
-        "color": "dark_gray"
-      }
-    ],
-    "extra_description": [
-      "",
-      {
-        "text": "Damage is considered magic if damage type is "
-      },
-      {
-        "text": "minecraft:magic",
-        "underlined": true,
-        "color": "gray"
-      },
-      {
-        "text": " or "
-      },
-      {
-        "text": "minecraft:indirect_magic",
-        "underlined": true,
-        "color": "gray"
-      },
-      {
-        "text": " or is in "
-      },
-      {
-        "text": "c:is_magic",
-        "underlined": true,
-        "color": "gray"
-      },
-      {
-        "text": " tag or "
-      },
-      {
-        "text": "neoforge:is_magic",
-        "underlined": true,
-        "color": "gray"
-      },
-      {
-        "text": " tag."
-      }
-    ],
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:magic_resistance",
-          "value": 0.3,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "metadata": {
-      "icon": "x8qeon4vqvbrrep6"
-    }
-  },
-  "double_healing_major": {
-    "title": "Nocturnal, Transparent Rainbow",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
-      }
-    },
-    "size": 2,
-    "icon": {
-      "type": "effect",
-      "data": {
-        "effect": "minecraft:instant_health"
-      }
-    },
-    "description": [
-      "",
-      {
-        "text": "+50% "
-      },
-      {
-        "text": "healing from all sources",
-        "color": "dark_green"
-      }
-    ],
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:healing",
-          "value": 0.5,
-          "operation": "multiply_total"
-        }
-      }
-    ],
-    "metadata": {
-      "icon": "v6zzfuktk7oczfnd"
-    }
-  },
-  "mining_speed_major": {
-    "title": "Chants of the Deep Ones",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
-      }
-    },
-    "size": 2,
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:shield"
-      }
-    },
-    "description": [
-      "",
-      {
-        "text": "+30% "
-      },
-      {
-        "text": "mining speed",
-        "color": "dark_green"
-      }
-    ],
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:mining_speed",
-          "value": 0.3,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "metadata": {
-      "icon": "jc871bom18igttp2"
-    }
-  },
-  "sprint_speed_major": {
-    "title": "Caravan of Broken Ghosts",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
-      }
-    },
-    "size": 2,
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:shield"
-      }
-    },
-    "description": [
-      "",
-      {
-        "text": "+30% "
-      },
-      {
-        "text": "sprint speed",
-        "color": "dark_green"
-      }
-    ],
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:sprinting_speed",
-          "value": 0.3,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "metadata": {
-      "icon": "527exv2ai20cdxkw"
-    }
-  },
-  "fall_damage_reduction_major": {
-    "title": "The Thorns That Guide My Warpath",
+  "fall_damage_reduction_2": {
+    "title": "Beyond the North Waves",
     "frame": {
       "type": "texture",
       "data": {
@@ -9420,11 +8420,11 @@
       }
     ],
     "metadata": {
-      "icon": "24dry0smwvb68q9y"
+      "icon": "hc7igkdxdiz4ohek"
     }
   },
-  "jump_height_major": {
-    "title": "That Cannot Be Dreamed",
+  "jump_height": {
+    "title": "A Traveller of Unknown Plains",
     "frame": {
       "type": "texture",
       "data": {
@@ -9468,11 +8468,11 @@
       }
     ],
     "metadata": {
-      "icon": "nf0p36pk4y1olx6r"
+      "icon": "giruapnym25vp70g"
     }
   },
-  "mount_speed_major": {
-    "title": "Pale Horse",
+  "mount_speed": {
+    "title": "One Rode to Asa Bay",
     "frame": {
       "type": "texture",
       "data": {
@@ -9492,7 +8492,7 @@
     "description": [
       "",
       {
-        "text": "+50% "
+        "text": "+100% "
       },
       {
         "text": "mount speed",
@@ -9504,17 +8504,17 @@
         "type": "puffish_skills:attribute",
         "data": {
           "attribute": "artifacts:generic.mount_speed",
-          "value": 0.5,
+          "value": 1,
           "operation": "multiply_base"
         }
       }
     ],
     "metadata": {
-      "icon": "bn9x00elnry76uk3"
+      "icon": "km9z3bjjr9eb2vvq"
     }
   },
-  "walk_on_snow_major": {
-    "title": "Beyond the North Waves",
+  "walk_on_snow": {
+    "title": "Of Ice and Movement...",
     "frame": {
       "type": "texture",
       "data": {
@@ -9555,11 +8555,11 @@
       }
     ],
     "metadata": {
-      "icon": "dq94ynpzk9zn0dvs"
+      "icon": "qbgw0dc67rz7uqpz"
     }
   },
-  "crit_chance_major": {
-    "title": "The Final Architect",
+  "crit_chance": {
+    "title": "As the Wounds Gently Bleed",
     "frame": {
       "type": "texture",
       "data": {
@@ -9579,7 +8579,7 @@
     "description": [
       "",
       {
-        "text": "+5% "
+        "text": "+25% "
       },
       {
         "text": "critical strike chance",
@@ -9597,17 +8597,17 @@
         "type": "puffish_skills:attribute",
         "data": {
           "attribute": "apothic_attributes:crit_chance",
-          "value": 0.05,
+          "value": 0.25,
           "operation": "multiply_base"
         }
       }
     ],
     "metadata": {
-      "icon": "r036ylitzhpxwsbl"
+      "icon": "3tkkjc326o0nalu1"
     }
   },
-  "crit_damage_major": {
-    "title": "Massacre",
+  "crit_damage": {
+    "title": "Deathwish",
     "frame": {
       "type": "texture",
       "data": {
@@ -9627,7 +8627,7 @@
     "description": [
       "",
       {
-        "text": "+50% "
+        "text": "+75% "
       },
       {
         "text": "critical strike damage",
@@ -9644,18 +8644,18 @@
       {
         "type": "puffish_skills:attribute",
         "data": {
-          "attribute": "apothic_attributes:crit_chance",
-          "value": 0.5,
+          "attribute": "apothic_attributes:crit_damage",
+          "value": 0.75,
           "operation": "multiply_base"
         }
       }
     ],
     "metadata": {
-      "icon": "nemdt83ax8yim7xp"
+      "icon": "cu0agy54vogh8met"
     }
   },
-  "dodge_chance_major": {
-    "title": "The Shivering Voice of the Ghost",
+  "dodge_chance": {
+    "title": "As Mist Descends from the Hills",
     "frame": {
       "type": "texture",
       "data": {
@@ -9675,7 +8675,7 @@
     "description": [
       "",
       {
-        "text": "+10% "
+        "text": "+15% "
       },
       {
         "text": "melee dodge chance",
@@ -9692,17 +8692,62 @@
       {
         "type": "puffish_skills:attribute",
         "data": {
-          "attribute": "artifacts:generic.movement_speed_on_snow",
-          "value": 0.1,
+          "attribute": "apothic_attributes:dodge_chance",
+          "value": 0.15,
           "operation": "multiply_base"
         }
       }
     ],
     "metadata": {
-      "icon": "cxbua9b0jo9hwure"
+      "icon": "6u0vh7r4eqaazblp"
     }
   },
-  "ice_spell_damage_major": {
+  "armor_shred": {
+    "title": "The Thorns That Guide My Warpath",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked_minor.png",
+        "available": "phis:textures/gui/available_minor.png",
+        "locked": "phis:textures/gui/locked_minor.png",
+        "excluded": "phis:textures/gui/excluded_minor.png"
+      }
+    },
+    "size": 2,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:snowball"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "+25% "
+      },
+      {
+        "text": "melee dodge chance",
+        "color": "dark_green"
+      },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "dark_gray"
+      }
+    ],
+    "extra_description": "'Melee' damage is considered as damage from another entity within the player's attack range.",
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "apothic_attributes:armor_shred",
+          "value": 0.25,
+          "operation": "multiply_base"
+        }
+      }
+    ]
+  },
+  "draw_speed": {
     "title": "tbd.",
     "frame": {
       "type": "texture",
@@ -9717,423 +8762,34 @@
     "icon": {
       "type": "item",
       "data": {
-        "item": "minecraft:iron_sword"
+        "item": "minecraft:snowball"
       }
     },
     "description": [
       "",
       {
-        "text": "+10% "
+        "text": "+25% "
       },
       {
-        "text": "ice damage",
-        "color": "#d0f9ff"
+        "text": "tbd",
+        "color": "dark_green"
+      },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "dark_gray"
       }
     ],
+    "extra_description": "'Melee' damage is considered as damage from another entity within the player's attack range.",
     "rewards": [
       {
         "type": "puffish_skills:attribute",
         "data": {
-          "attribute": "irons_spellbooks:ice_spell_power",
-          "value": 0.1,
+          "attribute": "apothic_attributes:draw_speed",
+          "value": 0.25,
           "operation": "multiply_base"
         }
       }
-    ],
-    "metadata": {
-      "icon": "dua25mn9hrjngs03"
-    }
-  },
-  "lightning_spell_damage_major": {
-    "title": "tbd.",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
-      }
-    },
-    "size": 2,
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:iron_sword"
-      }
-    },
-    "description": [
-      "",
-      {
-        "text": "+10% "
-      },
-      {
-        "text": "lightning damage",
-        "color": "aqua"
-      }
-    ],
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "irons_spellbooks:lightning_spell_power",
-          "value": 0.1,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "metadata": {
-      "icon": "sczjdv989ci86yx2"
-    }
-  },
-  "holy_spell_damage_major": {
-    "title": "tbd.",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
-      }
-    },
-    "size": 2,
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:iron_sword"
-      }
-    },
-    "description": [
-      "",
-      {
-        "text": "+10% "
-      },
-      {
-        "text": "holy damage",
-        "color": "#fff8d4"
-      }
-    ],
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "irons_spellbooks:holy_spell_power",
-          "value": 0.1,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "metadata": {
-      "icon": "5xjcghfwxor58mnh"
-    }
-  },
-  "ender_spell_damage_major": {
-    "title": "tbd.",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
-      }
-    },
-    "size": 2,
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:iron_sword"
-      }
-    },
-    "description": [
-      "",
-      {
-        "text": "+10% "
-      },
-      {
-        "text": "ender damage",
-        "color": "light_purple"
-      }
-    ],
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "irons_spellbooks:ender_spell_power",
-          "value": 0.1,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "metadata": {
-      "icon": "mav77o9xyahqmsgv"
-    }
-  },
-  "blood_spell_damage_major": {
-    "title": "tbd.",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
-      }
-    },
-    "size": 2,
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:iron_sword"
-      }
-    },
-    "description": [
-      "",
-      {
-        "text": "+10% "
-      },
-      {
-        "text": "blood damage",
-        "color": "dark_red"
-      }
-    ],
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "irons_spellbooks:blood_spell_power",
-          "value": 0.1,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "metadata": {
-      "icon": "6prm9trd0wabu7bf"
-    }
-  },
-  "evocation_spell_damage_major": {
-    "title": "tbd.",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
-      }
-    },
-    "size": 2,
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:iron_sword"
-      }
-    },
-    "description": [
-      "",
-      {
-        "text": "+10% "
-      },
-      {
-        "text": "evocation damage",
-        "color": "white"
-      }
-    ],
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "irons_spellbooks:evocation_spell_power",
-          "value": 0.1,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "metadata": {
-      "icon": "599per2v7wyr4jij"
-    }
-  },
-  "nature_spell_damage_major": {
-    "title": "tbd.",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
-      }
-    },
-    "size": 2,
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:iron_sword"
-      }
-    },
-    "description": [
-      "",
-      {
-        "text": "+10% "
-      },
-      {
-        "text": "nature damage",
-        "color": "green"
-      }
-    ],
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "irons_spellbooks:nature_spell_power",
-          "value": 0.1,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "metadata": {
-      "icon": "lusdzschbh8kr48c"
-    }
-  },
-  "sound_spell_damage_major": {
-    "title": "tbd.",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
-      }
-    },
-    "size": 2,
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:iron_sword"
-      }
-    },
-    "description": [
-      "",
-      {
-        "text": "+10% "
-      },
-      {
-        "text": "sound damage",
-        "color": "#CFFFD2"
-      }
-    ],
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "familiarslib:sound_spell_power",
-          "value": 0.1,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "metadata": {
-      "icon": "g35b1gzh7140kau5"
-    }
-  },
-  "fire_spell_damage_major": {
-    "title": "tbd.",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
-      }
-    },
-    "size": 2,
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:iron_sword"
-      }
-    },
-    "description": [
-      "",
-      {
-        "text": "+10% "
-      },
-      {
-        "text": "fire damage",
-        "color": "gold"
-      }
-    ],
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "irons_spellbooks:fire_spell_power",
-          "value": 0.1,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "metadata": {
-      "icon": "0l3mb1y1jiddfq3o"
-    }
-  },
-  "comment_4": {
-    "title": " ================================================================================ TECHNICAL NODES ================================================================================",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "size": 2,
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "artifacts:digging_claws"
-      }
-    },
-    "description": "Do not implement",
-    "rewards": [],
-    "metadata": {
-      "icon": "v0e179hi1q12rsj6"
-    }
-  },
-  "root": {
-    "cost": 0,
-    "title": "Anew",
-    "frame": {
-      "type": "texture",
-      "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
-      }
-    },
-    "size": 2,
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:copper_ingot"
-      }
-    },
-    "description": [
-      "",
-      {
-        "text": "Dust gathers into form.\nOnce again now and before.\nAs all this was to dream again once more.",
-        "color": "gray",
-        "italic": true
-      }
-    ],
-    "rewards": [],
-    "metadata": {
-      "icon": "48rmcv90wy5934o0"
-    }
+    ]
   }
 }

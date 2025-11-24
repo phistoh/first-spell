@@ -12,6 +12,7 @@ BlockEvents.rightClicked("amendments:liquid_cauldron", (event) => {
   const block = event.block;
   const player = event.player;
   const item = event.item;
+  const hand = event.hand;
   const fluid = block.getEntityData()["fluid"] ?? {};
 
   if (!player.tags.contains("phis.irontogold")) return;
@@ -24,6 +25,11 @@ BlockEvents.rightClicked("amendments:liquid_cauldron", (event) => {
   if (!fluid) return;
   if (!(fluid.id === "supplementaries:lumisene")) return;
 
+  if (hand == "OFF_HAND") {
+    player.swing("off_hand", true);
+  } else {
+    player.swing();
+  }
   if (!player.creativeMode) {
     item.count--;
   }
