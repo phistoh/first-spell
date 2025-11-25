@@ -1,0 +1,15 @@
+StartupEvents.registry('item', event => {
+  event.create('infinity_key')
+   .displayName('Infinity Key')
+   .texture('phis:item/infinity_key')
+   .rarity('rare')
+   .fireResistant(true)
+  
+  event.create('infinity_key_charged')
+   .displayName('Charged Infinity Key')
+   .texture('phis:item/infinity_key_charged')
+   .rarity('epic')
+   .fireResistant(true)
+   .unstackable()
+   .glow(true)
+})

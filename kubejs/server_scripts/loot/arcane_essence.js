@@ -89,7 +89,7 @@ LootJS.lootTables((event) => {
     "variantsandventures:verdant",
     // "vanillabackport:creaking",
     // "vanillabackport:happy_ghast",
-    // "simplemusket:musket_pillager",
+    //"simplemusket:musket_pillager",
     // "mounts_of_mayhem:nautilus",
     // "mounts_of_mayhem:zombie_nautilus",
     // "mounts_of_mayhem:parched",

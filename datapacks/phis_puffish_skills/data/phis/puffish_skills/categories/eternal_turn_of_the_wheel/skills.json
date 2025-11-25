@@ -1,2 +1,68 @@
 {
+	"1gs2ipvu4j0bz8aw": {
+		"definition": "bonus_netherstar",
+		"x": 64,
+		"y": 64,
+		"root": true
+	},
+	"bcj6xukqwth4b89d": {
+		"definition": "bonus_diamond",
+		"x": 64,
+		"y": -64,
+		"root": true
+	},
+	"78d4zoox2td97wbe": {
+		"definition": "bonus_arcane_essence",
+		"x": -64,
+		"y": -64,
+		"root": true
+	},
+	"9z14ixn77jjmlf0y": {
+		"definition": "bonus_legendary_ink",
+		"x": 224,
+		"y": 0,
+		"root": true
+	},
+	"vj996loriyaokem8": {
+		"definition": "bonus_soul_crystal",
+		"x": -160,
+		"y": 96,
+		"root": true
+	},
+	"ttt2xy8u5fcjzhu5": {
+		"definition": "bonus_bottled_undead_soul",
+		"x": -64,
+		"y": 64,
+		"root": true
+	},
+	"8mfyrs002aizgb45": {
+		"definition": "bonus_netherite_ingot",
+		"x": 0,
+		"y": 0,
+		"root": true
+	},
+	"5dwfadc7tnszipt5": {
+		"definition": "bonus_random_ore",
+		"x": 160,
+		"y": -96,
+		"root": true
+	},
+	"xtnukgkr9n1w9ii0": {
+		"definition": "bonus_reinforced_echo_shard",
+		"x": -224,
+		"y": 0,
+		"root": true
+	},
+	"bx1k0fdrfgs5qzdx": {
+		"definition": "bonus_potion_of_healing",
+		"x": -160,
+		"y": -96,
+		"root": true
+	},
+	"6tb9tcdthaa9o24b": {
+		"definition": "bonus_potion_of_mana",
+		"x": 160,
+		"y": 96,
+		"root": true
+	}
 }

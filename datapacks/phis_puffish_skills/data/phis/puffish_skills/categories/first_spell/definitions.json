@@ -373,6 +373,7 @@
         "text": "."
       }
     ],
+    "required_spent_points": 1,
     "rewards": [
       {
         "type": "astages:stage_reward",
@@ -1797,6 +1798,7 @@
         "text": "."
       }
     ],
+    "required_spent_points": 1,
     "rewards": [
       {
         "type": "puffish_skills:tag",
@@ -3087,6 +3089,7 @@
         "text": " tag."
       }
     ],
+    "required_spent_points": 2,
     "rewards": [
       {
         "type": "puffish_skills:attribute",
@@ -3360,6 +3363,7 @@
     },
     "description": "You are able to craft special poisons.",
     "extra_description": "(tbd.)",
+    "required_spent_points": 2,
     "rewards": [
       {
         "type": "astages:stage_reward",
@@ -3609,6 +3613,7 @@
         "text": " in your offhand."
       }
     ],
+    "required_spent_points": 2,
     "rewards": [
       {
         "type": "puffish_skills:tag",
@@ -3783,6 +3788,7 @@
       }
     },
     "description": "You deal increased damage against fully healed enemies",
+    "required_spent_points": 2,
     "rewards": [
       {
         "type": "puffish_skills:tag",
@@ -3980,6 +3986,7 @@
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "required_spent_points": 2,
     "rewards": [
       {
         "type": "puffish_skills:attribute",
@@ -4354,6 +4361,7 @@
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "required_spent_points": 2,
     "rewards": [
       {
         "type": "puffish_skills:attribute",
@@ -4728,6 +4736,7 @@
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "required_spent_points": 2,
     "rewards": [
       {
         "type": "puffish_skills:attribute",
@@ -5102,6 +5111,7 @@
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "required_spent_points": 2,
     "rewards": [
       {
         "type": "puffish_skills:attribute",
@@ -5476,6 +5486,7 @@
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "required_spent_points": 2,
     "rewards": [
       {
         "type": "puffish_skills:attribute",
@@ -5850,6 +5861,7 @@
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "required_spent_points": 2,
     "rewards": [
       {
         "type": "puffish_skills:attribute",
@@ -6224,6 +6236,7 @@
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "required_spent_points": 2,
     "rewards": [
       {
         "type": "puffish_skills:attribute",
@@ -6598,6 +6611,7 @@
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "required_spent_points": 2,
     "rewards": [
       {
         "type": "puffish_skills:attribute",
@@ -6972,6 +6986,7 @@
       }
     ],
     "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "required_spent_points": 2,
     "rewards": [
       {
         "type": "puffish_skills:attribute",
@@ -8229,6 +8244,7 @@
         "color": "dark_green"
       }
     ],
+    "required_spent_points": 1,
     "rewards": [
       {
         "type": "puffish_skills:attribute",

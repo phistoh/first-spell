@@ -2,21 +2,33 @@ StartupEvents.registry("item", (event) => {
   event
     .create("copper_knife", "farmersdelight:knife")
     .displayName("Copper Knife")
-    .tier("stone")
-    //.modelJson("phis:item/copper_knife")
+    .tier("leafscopperbackport:copper_armor")
     .texture("phis:item/copper_knife");
 
   event
     .create("warden_knife", "farmersdelight:knife")
     .displayName("Warden Knife")
-    .modifyTier((tier) => {
+    .texture("phis:item/warden_knife")
+    .fireResistant(true)
+    .rarity("rare");
+});
+
+ItemEvents.modification((event) => {
+  event.modify("kubejs:copper_knife", (item) => {
+    item.setTier((tier) => {
+      tier.uses = 191;
+      tier.attackDamageBonus = 1;
+      tier.enchantmentValue = 13;
+      tier.repairIngredient = "minecraft:copper_ingot";
+    });
+  });
+  
+  event.modify("kubejs:warden_knife", (item) => {
+    item.setTier((tier) => {
       tier.uses = 2519;
-      tier.speed = 2.8;
-      tier.attackDamageBonus = 6;
-      //tier.level = 5;
+      tier.attackDamageBonus = 5;
       tier.enchantmentValue = 18;
       tier.repairIngredient = "deeperdarker:reinforced_echo_shard";
-    })
-    //.modelJson("phis:item/warden_knife")
-    .texture("phis:item/warden_knife");
+    });
+  });
 });
