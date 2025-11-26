@@ -10,4 +10,10 @@ ServerEvents.recipes((event) => {
     "farmersdelight:netherite_knife", // arg 3: the item to be upgraded
     "deeperdarker:reinforced_echo_shard" // arg 4: the upgrade item
   );
+  
+  event.replaceInput(
+  { input: 'minecraft:flint' },
+  'minecraft:flint',
+  '#rocks:splitter'
+)
 });

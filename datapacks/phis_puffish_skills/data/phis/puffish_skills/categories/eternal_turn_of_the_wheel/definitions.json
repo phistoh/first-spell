@@ -47,7 +47,13 @@
             {
                 "type": "puffish_skills:command",
                 "data": {
-                    "command": "puffish_skills skills lock @s eternal_turn_of_the_wheel bonus_netherstar"
+                    "command": "puffish_skills skills lock @s phis:eternal_turn_of_the_wheel 1gs2ipvu4j0bz8aw"
+                }
+            },
+            {
+                "type": "puffish_skills:command",
+                "data": {
+                    "command": "puffish_skills points add @s phis:eternal_turn_of_the_wheel -1"
                 }
             }
         ]
@@ -100,7 +106,7 @@
             {
                 "type": "puffish_skills:command",
                 "data": {
-                    "command": "puffish_skills skills lock @s eternal_turn_of_the_wheel bonus_diamond"
+                    "command": "puffish_skills skills lock @s phis:eternal_turn_of_the_wheel bcj6xukqwth4b89d"
                 }
             }
         ]
@@ -153,7 +159,7 @@
             {
                 "type": "puffish_skills:command",
                 "data": {
-                    "command": "puffish_skills skills lock @s eternal_turn_of_the_wheel bonus_arcane_essence"
+                    "command": "puffish_skills skills lock @s phis:eternal_turn_of_the_wheel 78d4zoox2td97wbe"
                 }
             }
         ]
@@ -206,7 +212,7 @@
             {
                 "type": "puffish_skills:command",
                 "data": {
-                    "command": "puffish_skills skills lock @s eternal_turn_of_the_wheel bonus_legendary_ink"
+                    "command": "puffish_skills skills lock @s phis:eternal_turn_of_the_wheel 9z14ixn77jjmlf0y"
                 }
             }
         ]
@@ -259,7 +265,7 @@
             {
                 "type": "puffish_skills:command",
                 "data": {
-                    "command": "puffish_skills skills lock @s eternal_turn_of_the_wheel bonus_soul_crystal"
+                    "command": "puffish_skills skills lock @s phis:eternal_turn_of_the_wheel vj996loriyaokem8"
                 }
             }
         ]
@@ -312,7 +318,7 @@
             {
                 "type": "puffish_skills:command",
                 "data": {
-                    "command": "puffish_skills skills lock @s eternal_turn_of_the_wheel bonus_bottled_undead_soul"
+                    "command": "puffish_skills skills lock @s phis:eternal_turn_of_the_wheel ttt2xy8u5fcjzhu5"
                 }
             }
         ]
@@ -365,7 +371,7 @@
             {
                 "type": "puffish_skills:command",
                 "data": {
-                    "command": "puffish_skills skills lock @s eternal_turn_of_the_wheel bonus_netherite_ingot"
+                    "command": "puffish_skills skills lock @s phis:eternal_turn_of_the_wheel 8mfyrs002aizgb45"
                 }
             }
         ]
@@ -418,7 +424,7 @@
             {
                 "type": "puffish_skills:command",
                 "data": {
-                    "command": "puffish_skills skills lock @s eternal_turn_of_the_wheel bonus_random_ore"
+                    "command": "puffish_skills skills lock @s phis:eternal_turn_of_the_wheel 5dwfadc7tnszipt5"
                 }
             }
         ]
@@ -471,7 +477,7 @@
             {
                 "type": "puffish_skills:command",
                 "data": {
-                    "command": "puffish_skills skills lock @s eternal_turn_of_the_wheel bonus_reinforced_echo_shard"
+                    "command": "puffish_skills skills lock @s phis:eternal_turn_of_the_wheel xtnukgkr9n1w9ii0"
                 }
             }
         ]
@@ -524,7 +530,7 @@
             {
                 "type": "puffish_skills:command",
                 "data": {
-                    "command": "puffish_skills skills lock @s eternal_turn_of_the_wheel bonus_potion_of_healing"
+                    "command": "puffish_skills skills lock @s phis:eternal_turn_of_the_wheel bx1k0fdrfgs5qzdx"
                 }
             }
         ]
@@ -577,7 +583,7 @@
             {
                 "type": "puffish_skills:command",
                 "data": {
-                    "command": "puffish_skills skills lock @s eternal_turn_of_the_wheel bonus_potion_of_mana"
+                    "command": "puffish_skills skills lock @s phis:eternal_turn_of_the_wheel 6tb9tcdthaa9o24b"
                 }
             }
         ]

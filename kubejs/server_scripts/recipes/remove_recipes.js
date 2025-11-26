@@ -33,4 +33,6 @@ ServerEvents.recipes((event) => {
   for (const trim_duplication_id of trim_duplication_ids) {
     event.remove({ id: trim_duplication_id });
   }
+  
+  event.remove({id: "minecraft:spectral_arrow"})
 });

@@ -52,11 +52,37 @@ ServerEvents.tags("item", (event) => {
     "rocks:end_stone_splitter_splitter",
     "rocks:netherrack_splitter",
     "rocks:soul_soil_splitter",
-    "minecraft:flint"
+    "minecraft:flint",
+    "minecraft:prismarine_shard"
   ]
   for (const splitter of rock_splitter) {
     event.add("rocks:splitter", splitter);
   }
+  
+  // Nether bricks (for Nether chest)
+  event.add("phis:nether_bricks", "minecraft:nether_bricks");
+  event.add("phis:nether_bricks", "minecraft:chiseled_nether_bricks");
+  event.add("phis:nether_bricks", "minecraft:cracked_nether_bricks");
+  event.add("phis:nether_bricks", "minecraft:red_nether_bricks");
+
+  // Ender Eyes
+  event.add("phis:ender_eye", "minecraft:ender_eye");
+  event.add("phis:ender_eye", "endrem:black_eye");
+  event.add("phis:ender_eye", "endrem:cold_eye");
+  event.add("phis:ender_eye", "endrem:corrupted_eye");
+  event.add("phis:ender_eye", "endrem:cursed_eye");
+  event.add("phis:ender_eye", "endrem:guardian_eye");
+  event.add("phis:ender_eye", "endrem:lost_eye");
+  event.add("phis:ender_eye", "endrem:magical_eye");
+  event.add("phis:ender_eye", "endrem:nether_eye");
+  event.add("phis:ender_eye", "endrem:old_eye");
+  event.add("phis:ender_eye", "endrem:rogue_eye");
+  event.add("phis:ender_eye", "endrem:evil_eye");
+  event.add("phis:ender_eye", "endrem:cryptic_eye");
+  event.add("phis:ender_eye", "endrem:wither_eye");
+  event.add("phis:ender_eye", "endrem:witch_eye");
+  event.add("phis:ender_eye", "endrem:undead_eye");
+  event.add("phis:ender_eye", "endrem:exotic_eye");
 });
 
 ServerEvents.tags("block", (event) => {
