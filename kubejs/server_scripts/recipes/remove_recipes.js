@@ -28,11 +28,11 @@ ServerEvents.recipes((event) => {
     "moresnifferflowers:grain_armor_trim_smithing_template_from_trim_crafting",
     "moresnifferflowers:beat_armor_trim_smithing_template_from_trim_crafting",
     "moresnifferflowers:nether_wart_armor_trim_smithing_template_from_trim_crafting",
-
   ];
   for (const trim_duplication_id of trim_duplication_ids) {
     event.remove({ id: trim_duplication_id });
   }
-  
-  event.remove({id: "minecraft:spectral_arrow"})
+
+  event.remove({ id: "minecraft:spectral_arrow" });
+  event.remove({ id: "irons_spellbooks:hogskin_to_leather" });
 });

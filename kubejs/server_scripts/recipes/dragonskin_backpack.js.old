@@ -1,0 +1,17 @@
+ServerEvents.recipes(event => {
+    event.shaped('yyzsbackpack:dragonskin_backpack', [
+        'DDD',
+        'DED',
+        'DDD'
+    ], {
+        D: 'irons_spellbooks:dragonskin',
+        E: 'minecraft:emerald'
+    });
+    
+    event.smithing(
+    "yyzsbackpack:dragonskin_backpack",
+    "irons_spellbooks:dragonskin",
+    "yyzsbackpack:diamond_backpack",
+    "minecraft:emerald"
+  );
+})

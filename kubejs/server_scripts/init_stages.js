@@ -333,21 +333,21 @@ AStages.addRestrictionForItem(
 
 // Grappling Hooks
 const hooks = [
-  "hooked:diamond_hook",
-  "hooked:redstone_hook",
-  "hooked:ender_hook",
+  "diamond_hook",
+  "redstone_hook",
+  "ender_hook",
 ];
 for (const hook of hooks) {
   AStages.addRestrictionForRecipe(
     `phis/crafting_${hook}`,
     "phis_stage_grappling_hooks",
     "minecraft:crafting",
-    hook
+    `kubejs:${hook}`
   );
   AStages.addRestrictionForItem(
     `phis/use_${hook}`,
     "phis_stage_grappling_hooks",
-    hook
+    `hooked:${hook}`
   )
     .setCanBeStoredInInventory(true)
     .setCanBeStoredInContainers(true)

@@ -83,6 +83,14 @@ ServerEvents.tags("item", (event) => {
   event.add("phis:ender_eye", "endrem:witch_eye");
   event.add("phis:ender_eye", "endrem:undead_eye");
   event.add("phis:ender_eye", "endrem:exotic_eye");
+
+  // Enchanting Tables
+  event.add("phis:enchanting_table", "minecraft:enchanting_table");
+  event.add("phis:enchanting_table", "enchant_revised:enchant_altar");
+
+  // Sticky Crafting
+  event.add("map_atlases:sticky_crafting_items", "moresnifferflowers:corrupted_slime_ball");
+  event.add("map_atlases:sticky_crafting_items", "crittersandcompanions:sea_bunny_slime_bottle");
 });
 
 ServerEvents.tags("block", (event) => {
