@@ -6,7 +6,11 @@ ItemEvents.rightClicked("kubejs:arcane_infused_bottle", (event) => {
   };
 
   if (!player.tags.contains("phis.extract_blood")) return;
-  if (!player.rayTrace().block || !extractable_liquids[player.rayTrace().block.id]) return;
+  if (
+    !player.rayTrace().block ||
+    !extractable_liquids[player.rayTrace().block.id]
+  )
+    return;
 
   if (hand == "OFF_HAND") {
     player.swing("off_hand", true);
@@ -24,6 +28,28 @@ ItemEvents.rightClicked("kubejs:arcane_infused_bottle", (event) => {
 
 ItemEvents.entityInteracted("kubejs:arcane_infused_bottle", (event) => {
   const { target, player, item, hand } = event;
+
+  const snowy_biomes = [
+    "biomesoplenty:auroral_garden",
+    "biomesoplenty:cold_desert",
+    "minecraft:cold_ocean",
+    "minecraft:deep_cold_ocean",
+    "minecraft:deep_frozen_ocean",
+    "minecraft:frozen_ocean",
+    "minecraft:frozen_peaks",
+    "minecraft:frozen_river",
+    "minecraft:ice_spikes",
+    "minecraft:jagged_peaks",
+    "biomesoplenty:muskeg",
+    "minecraft:snowy_beach",
+    "biomesoplenty:snowy_coniferous_forest",
+    "biomesoplenty:snowy_fir_clearing",
+    "biomesoplenty:snowy_maple_woods",
+    "biomesoplenty:snowblossom_grove",
+    "minecraft:snowy_plains",
+    "minecraft:snowy_slopes",
+    "minecraft:snowy_taiga",
+  ];
 
   const extractable_liquids = {
     "minecraft:bogged": "kubejs:bottled_undead_soul",
@@ -47,11 +73,21 @@ ItemEvents.entityInteracted("kubejs:arcane_infused_bottle", (event) => {
     "mounts_of_mayhem:zombie_nautilus": "kubejs:bottled_undead_soul",
     "mounts_of_mayhem:parched": "kubejs:bottled_undead_soul",
     "netherdepthsupgrade:wither_bonefish": "kubejs:bottled_undead_soul",
-    "bosses_of_mass_destruction:lich": "kubejs:bottled_undead_soul"
+    "bosses_of_mass_destruction:lich": "kubejs:bottled_undead_soul",
+    "minecraft:cave_spider": "alshanex_familiars:poison_vial",
+    "minecraft:spider": "irons_spellbooks:ice_venom_vial",
   };
 
   if (!player.tags.contains("phis.extract_various")) return;
   if (!extractable_liquids[target.type]) return;
+  const current_biome = player.level
+    .getBiome(player.blockPosition())
+    .getRegisteredName();
+  if (
+    target.type == "minecraft:spider" &&
+    !snowy_biomes.includes(current_biome)
+  )
+    return;
 
   if (hand == "OFF_HAND") {
     player.swing("off_hand", true);
@@ -65,5 +101,5 @@ ItemEvents.entityInteracted("kubejs:arcane_infused_bottle", (event) => {
     item.count--;
   }
   player.give(extractable_liquids[target.type]);
-  player.addItemCooldown("kubejs:arcane_infused_bottle", 1 * 20)
+  player.addItemCooldown("kubejs:arcane_infused_bottle", 1 * 20);
 });

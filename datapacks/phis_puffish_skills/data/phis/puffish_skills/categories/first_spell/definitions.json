@@ -3026,17 +3026,16 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/warrior/warrior_1_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/warrior/warrior_1_available.png",
+        "locked": "phis:textures/gui/skill_icons/warrior/warrior_1_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "artifacts:digging_claws"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
