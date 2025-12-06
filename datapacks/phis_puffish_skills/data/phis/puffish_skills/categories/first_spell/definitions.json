@@ -3365,6 +3365,12 @@
     "required_spent_points": 2,
     "rewards": [
       {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "phis.the_poisonous_path"
+        }
+      },
+      {
         "type": "astages:stage_reward",
         "data": {
           "stage": "phis_stage_assassin_poisons",

@@ -5,7 +5,7 @@ StartupEvents.registry("item", (event) => {
     .texture('phis:item/deadly_poison')
     .displayName("Deadly Poison")
     .tooltip(
-      "Coats your weapons with an §4Offensive Poison§r that lasts for 1 hour. Each strike has a 30% chance to poison the enemy for §o2 Void damage each second over 6 seconds§r.\nSubsequent applications increase the damage by 1 per second (up to a maximum of 5 damage per second)."
+      "Coats your weapons with an §4Offensive Poison§r that lasts for 1 hour. Each strike has a 30% chance to poison the enemy for §o2 Magic damage each second over 6 seconds§r.\nSubsequent applications increase the damage by 1 per second (up to a maximum of 5 damage per second)."
     )
     .useAnimation("crossbow")
     .useDuration((itemstack) => 32)
@@ -33,7 +33,7 @@ StartupEvents.registry("item", (event) => {
     .texture('phis:item/instant_poison')
     .displayName("Instant Poison")
     .tooltip(
-      "Coats your weapons with an §4Offensive Poison§r that lasts for 1 hour. Each strike has a 30% chance of poisoning the enemy which §oinstantly inflicts 3 Void damage§r."
+      "Coats your weapons with an §4Offensive Poison§r that lasts for 1 hour. Each strike has a 30% chance of poisoning the enemy which §oinstantly inflicts 3 Magic damage§r."
     )
     .useAnimation("crossbow")
     .useDuration((itemstack) => 32)
@@ -51,7 +51,7 @@ StartupEvents.registry("item", (event) => {
       "Coats your weapons with a §2Defensive Poison§r that lasts for 1 hour. Each strike has a 30% chance to poison the enemy, §oslowing their movement speed by 50% for 6 seconds§r."
     )
     .useAnimation("crossbow")
-    .useDuration((itemstack) => 64)
+    .useDuration((itemstack) => 32)
     .use((level, player, hand) => true)
     .finishUsing((itemstack, level, entity) => {
       return global.finishUsingDefensivePoison(itemstack, level, entity);
@@ -65,7 +65,7 @@ StartupEvents.registry("item", (event) => {
       "Coats your weapons with a §2Defensive Poison§r that lasts for 1 hour. Each strike has a 30% chance of poisoning the enemy, clouding their mind and §oslowing their attack and casting speed by 30% for 10 seconds§r."
     )
     .useAnimation("crossbow")
-    .useDuration((itemstack) => 64)
+    .useDuration((itemstack) => 32)
     .use((level, player, hand) => true)
     .finishUsing((itemstack, level, entity) => {
       return global.finishUsingDefensivePoison(itemstack, level, entity);
@@ -79,7 +79,7 @@ StartupEvents.registry("item", (event) => {
       "Coats your weapons with a §2Defensive Poison§r that lasts for 1 hour. Each strike has a 30% chance of poisoning the enemy, §oreducing their damage by 10% for 10 seconds§r."
     )
     .useAnimation("crossbow")
-    .useDuration((itemstack) => 64)
+    .useDuration((itemstack) => 32)
     .use((level, player, hand) => true)
     .finishUsing((itemstack, level, entity) => {
       return global.finishUsingDefensivePoison(itemstack, level, entity);
@@ -93,7 +93,7 @@ StartupEvents.registry("item", (event) => {
       "Coats your weapons with a §2Defensive Poison§r that lasts for 1 hour. Each strike siphons the enemies life force away, §ohealing you for 25% of the damage dealt§r."
     )
     .useAnimation("crossbow")
-    .useDuration((itemstack) => 64)
+    .useDuration((itemstack) => 32)
     .use((level, player, hand) => true)
     .finishUsing((itemstack, level, entity) => {
       return global.finishUsingDefensivePoison(itemstack, level, entity);
@@ -107,7 +107,6 @@ global.finishUsingOffensivePoison = (itemstack, level, entity) => {
     "kubejs:instant_poison_indicator",
   ];
 
-  itemstack.shrink(1);
   if (level.isClientSide()) {
     entity.runCommandSilent(
       `playsound supplementaries:entity.slimed master @s ~ ~ ~`
@@ -119,6 +118,7 @@ global.finishUsingOffensivePoison = (itemstack, level, entity) => {
         entity.removeEffect(effect);
       }
     }
+
     // apply effect
     entity.potionEffects.add(
       `${itemstack.id}_indicator`,
@@ -128,6 +128,7 @@ global.finishUsingOffensivePoison = (itemstack, level, entity) => {
       true
     );
   }
+  itemstack.shrink(1);
   return itemstack;
 };
 
@@ -139,7 +140,6 @@ global.finishUsingDefensivePoison = (itemstack, level, entity) => {
     "kubejs:leeching_poison",
   ];
 
-  itemstack.shrink(1);
   if (level.isClientSide()) {
     entity.runCommandSilent(
       `playsound supplementaries:entity.slimed master @s ~ ~ ~`
@@ -164,5 +164,6 @@ global.finishUsingDefensivePoison = (itemstack, level, entity) => {
       true
     );
   }
+  itemstack.shrink(1);
   return itemstack;
 };

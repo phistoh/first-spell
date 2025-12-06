@@ -36,7 +36,6 @@ StartupEvents.registry("mob_effect", (event) => {
   event.create("instant_poison_indicator").color(0x11dd22).beneficial();
 });
 
-
 // Actual effects for mobs
 StartupEvents.registry("mob_effect", (event) => {
   event
@@ -108,12 +107,6 @@ StartupEvents.registry("mob_effect", (event) => {
     .create("amplifying_poison")
     .color(0x115511)
     .harmful()
-    .modifyAttribute(
-      "puffish_attributes:resistance",
-      "772176d9-8e57-4baf-b741-025ce4f8ec17",
-      -0.5,
-      "add_multiplied_base"
-    );
 });
 
 StartupEvents.registry("mob_effect", (event) => {
@@ -124,7 +117,18 @@ StartupEvents.registry("mob_effect", (event) => {
     .effectTick((entity, lvl) => {
       if (!entity || entity.level.isClientSide()) return;
       if (entity.server.tickCount % 20 == 0) {
-        entity.attack(entity.damageSources().void(), 2 + lvl);
+        global.damageFromEffect(entity, lvl, "magic");
       }
     });
 });
+
+global.damageFromEffect = (entity, lvl, damage_type) => {
+  const iframes = entity.invulnerableTime;
+  entity.invulnerableTime = 0;
+  if (damage_type == "magic") {
+    entity.attack(entity.level.damageSources().magic(), 2 + lvl);
+  } else {
+    entity.attack(entity.level.damageSources().generic(), 2 + lvl);
+  }
+  entity.invulnerableTime = iframes;
+};
