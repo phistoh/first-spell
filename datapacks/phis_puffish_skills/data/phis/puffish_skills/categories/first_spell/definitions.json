@@ -4106,32 +4106,25 @@
     "description": [
       "",
       {
-        "text": "You gain "
+        "text": "You have a "
       },
       {
-        "text": "50%",
+        "text": "10%",
         "color": "dark_blue"
       },
       {
-        "text": " "
+        "text": " chance that your "
       },
       {
-        "text": "Mana regeneration",
-        "color": "#0093BD"
-      },
-      {
-        "text": " for "
-      },
-      {
-        "text": "10 seconds",
-        "color": "yellow"
-      },
-      {
-        "text": " after casting a "
-      },
-      {
-        "text": "Fire spell",
+        "text": "Fire",
         "color": "gold"
+      },
+      {
+        "text": " spells cost no "
+      },
+      {
+        "text": "Mana",
+        "color": "#0093BD"
       },
       {
         "text": ".\nIn addition, you learn how to craft "
@@ -4161,7 +4154,7 @@
       {
         "type": "puffish_skills:tag",
         "data": {
-          "tag": "phis.mana_regen_fire"
+          "tag": "phis.conserve_mana_fire"
         }
       }
     ],
@@ -4536,7 +4529,7 @@
       {
         "type": "puffish_skills:tag",
         "data": {
-          "tag": "phis.mana_regen_ice"
+          "tag": "phis.conserve_mana_ice"
         }
       }
     ],
@@ -4911,7 +4904,7 @@
       {
         "type": "puffish_skills:tag",
         "data": {
-          "tag": "phis.mana_regen_lightning"
+          "tag": "phis.conserve_mana_lightning"
         }
       }
     ],
@@ -5286,7 +5279,7 @@
       {
         "type": "puffish_skills:tag",
         "data": {
-          "tag": "phis.mana_regen_holy"
+          "tag": "phis.conserve_mana_holy"
         }
       }
     ],
@@ -5661,7 +5654,7 @@
       {
         "type": "puffish_skills:tag",
         "data": {
-          "tag": "phis.mana_regen_ender"
+          "tag": "phis.conserve_mana_ender"
         }
       }
     ],
@@ -6036,7 +6029,7 @@
       {
         "type": "puffish_skills:tag",
         "data": {
-          "tag": "phis.mana_regen_blood"
+          "tag": "phis.conserve_mana_blood"
         }
       }
     ],
@@ -6411,7 +6404,7 @@
       {
         "type": "puffish_skills:tag",
         "data": {
-          "tag": "phis.mana_regen_evocation"
+          "tag": "phis.conserve_mana_evocation"
         }
       }
     ],
@@ -6786,7 +6779,7 @@
       {
         "type": "puffish_skills:tag",
         "data": {
-          "tag": "phis.mana_regen_nature"
+          "tag": "phis.conserve_mana_nature"
         }
       }
     ],
@@ -7161,7 +7154,7 @@
       {
         "type": "puffish_skills:tag",
         "data": {
-          "tag": "phis.mana_regen_sound"
+          "tag": "phis.conserve_mana_sound"
         }
       }
     ],
@@ -8747,16 +8740,10 @@
         "text": "+25% "
       },
       {
-        "text": "melee dodge chance",
+        "text": "armor shred",
         "color": "dark_green"
-      },
-      {
-        "text": " [...]",
-        "italic": true,
-        "color": "dark_gray"
       }
     ],
-    "extra_description": "'Melee' damage is considered as damage from another entity within the player's attack range.",
     "rewards": [
       {
         "type": "puffish_skills:attribute",
@@ -8789,19 +8776,13 @@
     "description": [
       "",
       {
-        "text": "+25% "
+        "text": "+20% "
       },
       {
-        "text": "tbd",
+        "text": "bow draw speed",
         "color": "dark_green"
-      },
-      {
-        "text": " [...]",
-        "italic": true,
-        "color": "dark_gray"
       }
     ],
-    "extra_description": "'Melee' damage is considered as damage from another entity within the player's attack range.",
     "rewards": [
       {
         "type": "puffish_skills:attribute",
