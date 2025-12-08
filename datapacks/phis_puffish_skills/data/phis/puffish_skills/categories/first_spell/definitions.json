@@ -2319,8 +2319,8 @@
       "icon": "fsbjon44oc8pafha"
     }
   },
-  "backpack_tier_4": {
-    "title": "[NYI] Infinite Density",
+  "backpack_tier_3": {
+    "title": "[NYI] tbd.",
     "frame": {
       "type": "texture",
       "data": {
@@ -2354,11 +2354,52 @@
         "color": "#2CBAA8"
       },
       {
-        "text": " and "
+        "text": "."
+      }
+    ],
+    "rewards": [
+      {
+        "type": "astages:stage_reward",
+        "data": {
+          "stage": "phis_stage_backpack_diamond",
+          "operation": "add"
+        }
+      }
+    ]
+  },
+  "backpack_tier_4": {
+    "title": "[NYI] Infinite Density",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "size": 2.5,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "yyzsbackpack:netherite_backpack"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "You are able to craft and use "
       },
       {
-        "text": "Dragonskin",
-        "color": "black"
+        "text": "Backpacks",
+        "color": "dark_aqua"
+      },
+      {
+        "text": " made of "
+      },
+      {
+        "text": "Netherite",
+        "color": "#443A3B"
       },
       {
         "text": "."
@@ -2368,7 +2409,7 @@
       {
         "type": "astages:stage_reward",
         "data": {
-          "stage": "phis_stage_backpack_diamond_dragonskin",
+          "stage": "phis_stage_backpack_netherite",
           "operation": "add"
         }
       }
@@ -2401,7 +2442,7 @@
         "text": "You are able to craft and use "
       },
       {
-        "text": "(tbd.)",
+        "text": "Infinity Keys",
         "color": "dark_aqua"
       },
       {
@@ -2419,7 +2460,7 @@
       {
         "type": "astages:stage_reward",
         "data": {
-          "stage": "phis_stage_infinite_key",
+          "stage": "phis_stage_infinity_key",
           "operation": "add"
         }
       }
@@ -2936,6 +2977,13 @@
         "color": "dark_aqua"
       },
       {
+        "text": " using the "
+      },
+      {
+        "text": "Freezer",
+        "color": "dark_aqua"
+      },
+      {
         "text": "."
       }
     ],
@@ -2943,7 +2991,7 @@
       {
         "type": "astages:stage_reward",
         "data": {
-          "stage": "phis_stage_dragons_breath",
+          "stage": "phis_stage_dragon_breath",
           "operation": "add"
         }
       }

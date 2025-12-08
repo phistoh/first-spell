@@ -4,6 +4,7 @@ StartupEvents.registry('item', event => {
    .texture('phis:item/infinity_key')
    .rarity('rare')
    .fireResistant(true)
+   .tooltip("Can be charged by using it on ���� in the End dimension.")
   
   event.create('infinity_key_charged')
    .displayName('Charged Infinity Key')
@@ -12,4 +13,5 @@ StartupEvents.registry('item', event => {
    .fireResistant(true)
    .unstackable()
    .glow(true)
+   .tooltip("§d§kPowered by Liquid Null!§r")
 })

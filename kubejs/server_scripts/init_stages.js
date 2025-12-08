@@ -414,7 +414,7 @@ AStages.addRestrictionForItem(
   .setCanBeStoredInContainers(true)
   .setCanPickedUp(true);
 
-// Tier 4
+// Tier 3
 AStages.addRestrictionForRecipe(
   "phis/crafting_backpack_diamond",
   "phis_stage_backpack_diamond_dragonskin",
@@ -427,25 +427,59 @@ AStages.addRestrictionForRecipe(
   "minecraft:crafting",
   "yyzsbackpack:diamond_backpack_smithing"
 );
+AStages.addRestrictionForItem(
+  "phis/use_diamond_backpack",
+  "phis_stage_backpack_diamond",
+  "yyzsbackpack:diamond_backpack",
+)
+  .setCanBeStoredInInventory(true)
+  .setCanBeStoredInContainers(true)
+  .setCanPickedUp(true);
+
+// Tier 4
 AStages.addRestrictionForRecipe(
   "phis/crafting_backpack_netherite",
-  "phis_stage_backpack_diamond_dragonskin",
+  "phis_stage_backpack_netherite",
   "minecraft:crafting",
   "yyzsbackpack:netherite_backpack"
 );
 AStages.addRestrictionForRecipe(
   "phis/crafting_backpack_netherite_smithing",
-  "phis_stage_backpack_diamond_dragonskin",
+  "phis_stage_backpack_netherite",
   "minecraft:crafting",
   "yyzsbackpack:netherite_backpack_smithing"
 );
 
 AStages.addRestrictionForItem(
-  "phis/use_diamond_dragonskin_backpack",
-  "phis_stage_backpack_diamond_dragonskin",
-  "yyzsbackpack:diamond_backpack",
+  "phis/use_netherite_backpack",
+  "phis_stage_backpack_netherite",
   "yyzsbackpack:netherite_backpack"
 )
   .setCanBeStoredInInventory(true)
   .setCanBeStoredInContainers(true)
   .setCanPickedUp(true);
+
+// Infinite Dimensions
+AStages.addRestrictionForRecipe(
+  "phis/crafting_infinity_key",
+  "phis_stage_infinity_key",
+  "minecraft:crafting",
+  "kubejs:infinity_key"
+);
+
+AStages.addRestrictionForItem(
+  "phis/use_infinity_key",
+  "phis_stage_infinity_key",
+  "kubejs:infinity_key"
+)
+  .setCanBeStoredInInventory(true)
+  .setCanBeStoredInContainers(true)
+  .setCanPickedUp(true);
+
+// Dragon Breath
+AStages.addRestrictionForRecipe(
+  "phis/crafting_dragon_breath",
+  "phis_stage_dragon_breath",
+  "rubinated_nether:freezing",
+  "kubejs:dragon_breath_freezing"
+);
