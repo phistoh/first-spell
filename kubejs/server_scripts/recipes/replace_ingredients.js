@@ -70,4 +70,16 @@ ServerEvents.recipes((event) => {
     "minecraft:amethyst_shard",
     "irons_spellbooks:arcane_essence"
   );
+
+  event.replaceInput(
+    { id: "yyzsbackpack:netherite_backpack" },
+    "minecraft:leather",
+    "irons_spellbooks:dragonskin"
+  );
+
+  event.replaceInput(
+    { id: "yyzsbackpack:netherite_backpack_smithing" },
+    "minecraft:leather",
+    "irons_spellbooks:dragonskin"
+  );
 });

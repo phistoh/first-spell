@@ -2,6 +2,7 @@ ClientEvents.lang("en_us", (event) => {
   event.renameItem("supplementaries:antique_ink", "Antique™ Ink");
   event.renameItem("crittersandcompanions:grappling_hook", "Extra Sticky Silk");
   event.renameItem("moresnifferflowers:dragonfly", "Toy Dragonfly");
+  event.renameItem("yyzsbackpack:netherite_backpack", "Dragonskin Backpack");
 });
 
 ItemEvents.modifyTooltips(event => {

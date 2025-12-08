@@ -2283,7 +2283,7 @@
     "icon": {
       "type": "item",
       "data": {
-        "item": "yyzsbackpack:diamond_backpack"
+        "item": "yyzsbackpack:gold_backpack"
       }
     },
     "description": [
@@ -2299,8 +2299,8 @@
         "text": " made of "
       },
       {
-        "text": "Diamond",
-        "color": "#2CBAA8"
+        "text": "Gold",
+        "color": "#DEB12D"
       },
       {
         "text": "."
@@ -2310,7 +2310,7 @@
       {
         "type": "astages:stage_reward",
         "data": {
-          "stage": "phis_stage_backpack_diamond",
+          "stage": "phis_stage_backpack_gold",
           "operation": "add"
         }
       }
@@ -2350,8 +2350,15 @@
         "text": " made of "
       },
       {
-        "text": "(tbd.)",
-        "color": "green"
+        "text": "Diamond",
+        "color": "#2CBAA8"
+      },
+      {
+        "text": " and "
+      },
+      {
+        "text": "Dragonskin",
+        "color": "black"
       },
       {
         "text": "."
@@ -2361,7 +2368,7 @@
       {
         "type": "astages:stage_reward",
         "data": {
-          "stage": "phis_stage_backpack_tbd",
+          "stage": "phis_stage_backpack_diamond_dragonskin",
           "operation": "add"
         }
       }

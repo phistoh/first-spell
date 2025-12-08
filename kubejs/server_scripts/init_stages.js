@@ -332,11 +332,7 @@ AStages.addRestrictionForItem(
   .setJadeBlockMessage((stack) => Component.gray(stack.getHoverName()));
 
 // Grappling Hooks
-const hooks = [
-  "diamond_hook",
-  "redstone_hook",
-  "ender_hook",
-];
+const hooks = ["diamond_hook", "redstone_hook", "ender_hook"];
 for (const hook of hooks) {
   AStages.addRestrictionForRecipe(
     `phis/crafting_${hook}`,
@@ -383,8 +379,8 @@ const schools = [
   "blood",
   "evocation",
   "nature",
-  "sound"
-]
+  "sound",
+];
 for (const school of schools) {
   AStages.addRestrictionForRecipe(
     `phis/crafting_${school}_manuscript`,
@@ -393,3 +389,63 @@ for (const school of schools) {
     `irons_restrictions:${school}_manuscript`
   );
 }
+
+// Backpacks
+// Tier 2
+AStages.addRestrictionForRecipe(
+  "phis/crafting_backpack_gold",
+  "phis_stage_backpack_gold",
+  "minecraft:crafting",
+  "yyzsbackpack:gold_backpack"
+);
+AStages.addRestrictionForRecipe(
+  "phis/crafting_backpack_gold_smithing",
+  "phis_stage_backpack_gold",
+  "minecraft:crafting",
+  "yyzsbackpack:gold_backpack_smithing"
+);
+
+AStages.addRestrictionForItem(
+  "phis/use_gold_backpack",
+  "phis_stage_backpack_gold",
+  "yyzsbackpack:gold_backpack"
+)
+  .setCanBeStoredInInventory(true)
+  .setCanBeStoredInContainers(true)
+  .setCanPickedUp(true);
+
+// Tier 4
+AStages.addRestrictionForRecipe(
+  "phis/crafting_backpack_diamond",
+  "phis_stage_backpack_diamond_dragonskin",
+  "minecraft:crafting",
+  "yyzsbackpack:diamond_backpack"
+);
+AStages.addRestrictionForRecipe(
+  "phis/crafting_backpack_diamond_smithing",
+  "phis_stage_backpack_diamond_dragonskin",
+  "minecraft:crafting",
+  "yyzsbackpack:diamond_backpack_smithing"
+);
+AStages.addRestrictionForRecipe(
+  "phis/crafting_backpack_netherite",
+  "phis_stage_backpack_diamond_dragonskin",
+  "minecraft:crafting",
+  "yyzsbackpack:netherite_backpack"
+);
+AStages.addRestrictionForRecipe(
+  "phis/crafting_backpack_netherite_smithing",
+  "phis_stage_backpack_diamond_dragonskin",
+  "minecraft:crafting",
+  "yyzsbackpack:netherite_backpack_smithing"
+);
+
+AStages.addRestrictionForItem(
+  "phis/use_diamond_dragonskin_backpack",
+  "phis_stage_backpack_diamond_dragonskin",
+  "yyzsbackpack:diamond_backpack",
+  "yyzsbackpack:netherite_backpack"
+)
+  .setCanBeStoredInInventory(true)
+  .setCanBeStoredInContainers(true)
+  .setCanPickedUp(true);

@@ -103,10 +103,7 @@ StartupEvents.registry("mob_effect", (event) => {
 // });
 
 StartupEvents.registry("mob_effect", (event) => {
-  event
-    .create("amplifying_poison")
-    .color(0x115511)
-    .harmful()
+  event.create("amplifying_poison").color(0x115511).harmful();
 });
 
 StartupEvents.registry("mob_effect", (event) => {
