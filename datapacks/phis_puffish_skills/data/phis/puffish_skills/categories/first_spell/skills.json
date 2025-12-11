@@ -910,5 +910,11 @@
 		"x": -224,
 		"y": 224,
 		"root": false
+	},
+	"yleu0nn2dqr2fems": {
+		"definition": "backpack_tier_3",
+		"x": -1120,
+		"y": -544,
+		"root": false
 	}
 }

@@ -4,17 +4,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/tool_tier_1_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/tool_tier_1_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/tool_tier_1_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/tool_tier_1_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:copper_ingot"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -75,17 +75,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/tool_tier_2_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/tool_tier_2_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/tool_tier_2_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/tool_tier_2_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:iron_ingot"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -141,17 +141,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/tool_tier_3_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/tool_tier_3_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/tool_tier_3_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/tool_tier_3_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:diamond"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -207,17 +207,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/tool_tier_4_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/tool_tier_4_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/tool_tier_4_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/tool_tier_4_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:netherite_ingot"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -273,17 +273,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/tool_tier_5_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/tool_tier_5_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/tool_tier_5_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/tool_tier_5_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:echo_shard"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -346,17 +346,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/craft_return_scroll_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/craft_return_scroll_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/craft_return_scroll_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/craft_return_scroll_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "waystones:return_scroll"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -392,17 +392,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/craft_warp_stone_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/craft_warp_stone_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/craft_warp_stone_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/craft_warp_stone_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "waystones:warp_stone"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -436,17 +436,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/craft_waystone_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/craft_waystone_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/craft_waystone_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/craft_waystone_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "waystones:waystone"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -480,17 +480,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/craft_arcane_essence_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/craft_arcane_essence_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/craft_arcane_essence_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/craft_arcane_essence_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "irons_spellbooks:arcane_essence"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -520,7 +520,7 @@
     }
   },
   "loot_arcane_essence": {
-    "title": "[NYI] Nucleation Seed",
+    "title": "[NYI] (tbd.) Nucleation Seed",
     "frame": {
       "type": "texture",
       "data": {
@@ -532,9 +532,9 @@
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "irons_spellbooks:arcane_essence"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -563,21 +563,21 @@
     }
   },
   "regeneration": {
-    "title": "[NYI] Blood of the Hermit",
+    "title": "Blood of the Hermit",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/blood_of_the_hermit_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/blood_of_the_hermit_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/blood_of_the_hermit_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/blood_of_the_hermit_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "effect",
+      "type": "texture",
       "data": {
-        "effect": "minecraft:regeneration"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -617,17 +617,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/echoes_from_the_past_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/echoes_from_the_past_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/echoes_from_the_past_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/echoes_from_the_past_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "effect",
+      "type": "texture",
       "data": {
-        "effect": "minecraft:regeneration"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -669,17 +669,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/flight_of_thought_and_memory_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/flight_of_thought_and_memory_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/flight_of_thought_and_memory_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/flight_of_thought_and_memory_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "effect",
+      "type": "texture",
       "data": {
-        "effect": "minecraft:regeneration"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -717,21 +717,21 @@
     }
   },
   "craft_irons_spellbooks_scroll_forge": {
-    "title": "[NYI] Moonspell Rites",
+    "title": "Moonspell Rites",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/craft_scroll_forge_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/craft_scroll_forge_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/craft_scroll_forge_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/craft_scroll_forge_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "irons_spellbooks:scroll_forge"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -765,17 +765,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/craft_arcane_anvil_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/craft_arcane_anvil_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/craft_arcane_anvil_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/craft_arcane_anvil_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "irons_spellbooks:arcane_anvil"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -809,17 +809,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/a_distant_glow_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/a_distant_glow_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/a_distant_glow_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/a_distant_glow_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "effect",
+      "type": "texture",
       "data": {
-        "effect": "minecraft:wind_charged"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -861,17 +861,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/honey_and_sulphur_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/honey_and_sulphur_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/honey_and_sulphur_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/honey_and_sulphur_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "effect",
+      "type": "texture",
       "data": {
-        "effect": "minecraft:wind_charged"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -913,17 +913,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/transilvanian_hunger_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/transilvanian_hunger_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/transilvanian_hunger_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/transilvanian_hunger_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "effect",
+      "type": "texture",
       "data": {
-        "effect": "minecraft:instant_health"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -961,21 +961,21 @@
     }
   },
   "mana_leech": {
-    "title": "[NYI] Across the World of Wonders",
+    "title": "Across the World of Wonders",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/mana_leech_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/mana_leech_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/mana_leech_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/mana_leech_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "effect",
+      "type": "texture",
       "data": {
-        "effect": "minecraft:instant_health"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -1008,17 +1008,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/fall_damage_immunity_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/fall_damage_immunity_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/fall_damage_immunity_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/fall_damage_immunity_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "effect",
+      "type": "texture",
       "data": {
-        "effect": "minecraft:levitation"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -1066,17 +1066,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/craft_bombs_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/craft_bombs_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/craft_bombs_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/craft_bombs_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "simplemusket:musket"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -1117,17 +1117,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/craft_hellfire_ammo_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/craft_hellfire_ammo_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/craft_hellfire_ammo_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/craft_hellfire_ammo_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "simplemusket:hellfire_cartridge"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -1167,17 +1167,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/craft_firework_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/craft_firework_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/craft_firework_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/craft_firework_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:firework_rocket"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -1217,17 +1217,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/the_sea_beneath_the_seas_of_the_sea_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/the_sea_beneath_the_seas_of_the_sea_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/the_sea_beneath_the_seas_of_the_sea_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/the_sea_beneath_the_seas_of_the_sea_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:horn_coral"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -1313,17 +1313,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/sacred_geometry_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/sacred_geometry_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/sacred_geometry_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/sacred_geometry_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "linkedchests:linked_pouch"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -1357,17 +1357,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/how_many_tears_to_nurture_a_rose_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/how_many_tears_to_nurture_a_rose_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/how_many_tears_to_nurture_a_rose_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/how_many_tears_to_nurture_a_rose_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:poppy"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -1409,17 +1409,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/the_secrets_of_the_earth_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/the_secrets_of_the_earth_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/the_secrets_of_the_earth_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/the_secrets_of_the_earth_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:diamond"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -1459,17 +1459,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/buried_by_time_and_dust_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/buried_by_time_and_dust_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/buried_by_time_and_dust_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/buried_by_time_and_dust_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "kubejs:diamond_dust"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -1502,17 +1502,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/craft_eldritch_manuscript_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/craft_eldritch_manuscript_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/craft_eldritch_manuscript_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/craft_eldritch_manuscript_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "irons_spellbooks:eldritch_manuscript"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -1552,17 +1552,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/the_alchemists_dream_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/the_alchemists_dream_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/the_alchemists_dream_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/the_alchemists_dream_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:gold_nugget"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -1634,17 +1634,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/extra_elytra_slot_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/extra_elytra_slot_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/extra_elytra_slot_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/extra_elytra_slot_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:elytra"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -1685,17 +1685,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/extra_ring_slot_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/extra_ring_slot_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/extra_ring_slot_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/extra_ring_slot_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "irons_spellbooks:poisonward_ring"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -1725,21 +1725,21 @@
     }
   },
   "loot_spawn_eggs": {
-    "title": "[NYI] The Ones You Left Behind",
+    "title": "(tbd.) The Ones You Left Behind",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/extra_ring_slot_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/extra_ring_slot_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/extra_ring_slot_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/extra_ring_slot_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:egg"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -1772,17 +1772,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/barefoot_ghost_dance_on_bloodsoaked_soil_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/barefoot_ghost_dance_on_bloodsoaked_soil_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/barefoot_ghost_dance_on_bloodsoaked_soil_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/barefoot_ghost_dance_on_bloodsoaked_soil_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:wheat"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -1816,17 +1816,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/i_raised_this_stone_as_a_ghastly_memorial_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/i_raised_this_stone_as_a_ghastly_memorial_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/i_raised_this_stone_as_a_ghastly_memorial_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/i_raised_this_stone_as_a_ghastly_memorial_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "fated_inventory:fated_altar"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -1860,17 +1860,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/and_the_forests_dream_eternally_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/and_the_forests_dream_eternally_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/and_the_forests_dream_eternally_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/and_the_forests_dream_eternally_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:golden_apple"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -1910,17 +1910,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/cheat_death_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/cheat_death_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/cheat_death_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/cheat_death_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:skeleton_skull"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -1960,17 +1960,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/soliloquy_of_the_stigmatised_shepherd_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/soliloquy_of_the_stigmatised_shepherd_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/soliloquy_of_the_stigmatised_shepherd_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/soliloquy_of_the_stigmatised_shepherd_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:milk_bucket"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -2003,17 +2003,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/when_milk_runs_dry_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/when_milk_runs_dry_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/when_milk_runs_dry_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/when_milk_runs_dry_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:milk_bucket"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -2065,17 +2065,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/somniphobia_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/somniphobia_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/somniphobia_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/somniphobia_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_bed"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -2114,17 +2114,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/children_of_the_harvest_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/children_of_the_harvest_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/children_of_the_harvest_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/children_of_the_harvest_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "kubejs:arcane_infused_bottle"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -2185,17 +2185,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/the_soil_runs_red_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/the_soil_runs_red_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/the_soil_runs_red_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/the_soil_runs_red_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "irons_spellbooks:blood_vial"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -2269,21 +2269,21 @@
     }
   },
   "backpack_tier_2": {
-    "title": "[NYI] Inner Sanctum",
+    "title": "Inner Sanctum",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/inner_sanctum_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/inner_sanctum_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/inner_sanctum_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/inner_sanctum_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "yyzsbackpack:gold_backpack"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -2320,21 +2320,21 @@
     }
   },
   "backpack_tier_3": {
-    "title": "[NYI] tbd.",
+    "title": "Jewel Throne",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/jewel_throne_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/jewel_throne_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/jewel_throne_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/jewel_throne_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "yyzsbackpack:diamond_backpack"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -2368,21 +2368,21 @@
     ]
   },
   "backpack_tier_4": {
-    "title": "[NYI] Infinite Density",
+    "title": "Infinite Density",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/infinite_density_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/infinite_density_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/infinite_density_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/infinite_density_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "yyzsbackpack:netherite_backpack"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -2419,21 +2419,21 @@
     }
   },
   "infinite_dimensions": {
-    "title": "[NYI] A Walk Beyond Utter Blackness",
+    "title": "A Walk Beyond Utter Blackness",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/infinite_dimensions_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/infinite_dimensions_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/infinite_dimensions_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/infinite_dimensions_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:copper_ingot"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -2474,17 +2474,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/out_of_the_grave_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/out_of_the_grave_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/out_of_the_grave_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/out_of_the_grave_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "hooked:diamond_hook"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -2538,17 +2538,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/moonrise_in_total_darkness_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/moonrise_in_total_darkness_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/moonrise_in_total_darkness_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/moonrise_in_total_darkness_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "effect",
+      "type": "texture",
       "data": {
-        "effect": "minecraft:wind_charged"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -2590,17 +2590,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/deep_lake_trespass_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/deep_lake_trespass_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/deep_lake_trespass_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/deep_lake_trespass_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "effect",
+      "type": "texture",
       "data": {
-        "effect": "minecraft:wind_charged"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -2642,17 +2642,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/at_the_heart_of_winter_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/at_the_heart_of_winter_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/at_the_heart_of_winter_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/at_the_heart_of_winter_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "effect",
+      "type": "texture",
       "data": {
-        "effect": "minecraft:wind_charged"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -2700,17 +2700,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/fire_damage_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/fire_damage_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/fire_damage_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/fire_damage_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "effect",
+      "type": "texture",
       "data": {
-        "effect": "minecraft:wind_charged"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -2758,17 +2758,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/outstrider_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/outstrider_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/outstrider_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/outstrider_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "effect",
+      "type": "texture",
       "data": {
-        "effect": "minecraft:wind_charged"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -2806,21 +2806,21 @@
     }
   },
   "diamond_in_coal": {
-    "title": "[NYI] A Jewel Traced Through Coal",
+    "title": "A Jewel Traced Through Coal",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/a_jewel_traced_through_coal_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/a_jewel_traced_through_coal_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/a_jewel_traced_through_coal_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/a_jewel_traced_through_coal_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:diamond"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -2853,17 +2853,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/risen_from_the_rain_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/risen_from_the_rain_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/risen_from_the_rain_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/risen_from_the_rain_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:diamond_ore"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -2912,23 +2912,23 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/far_beyond_the_stars_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/far_beyond_the_stars_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/far_beyond_the_stars_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/far_beyond_the_stars_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:diamond_ore"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
       "",
       {
-        "text": "(tbd.)"
+        "text": "You are immune to dying in the Void."
       },
       {
         "text": " [...]\n",
@@ -2936,7 +2936,7 @@
         "color": "gray"
       }
     ],
-    "extra_description": "(tbd.)",
+    "extra_description": "Instead of taking damage in the Void, you will get teleported upwards and gain wings for a short amount of time.",
     "rewards": [
       {
         "type": "puffish_skills:tag",
@@ -2950,21 +2950,21 @@
     }
   },
   "dragons_breath": {
-    "title": "[NYI] Dragons Breath",
+    "title": "Dragons Breath",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/dragons_breath_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/dragons_breath_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/dragons_breath_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/dragons_breath_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:dragon_breath"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -3001,21 +3001,21 @@
     }
   },
   "extra_roll": {
-    "title": "tbd.",
+    "title": "Beyond the North Waves",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/beyond_the_north_waves_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/beyond_the_north_waves_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/beyond_the_north_waves_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/beyond_the_north_waves_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "effect",
+      "type": "texture",
       "data": {
-        "effect": "minecraft:wind_charged"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -3065,9 +3065,9 @@
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "artifacts:digging_claws"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": "Do not implement",
@@ -3082,7 +3082,8 @@
       "type": "texture",
       "data": {
         "unlocked": "phis:textures/gui/skill_icons/warrior/warrior_1_unlocked.png",
-        "available": "phis:textures/gui/skill_icons/warrior/warrior_1_available.png",
+        "available": "phis:textures/gui/skill_icons/warrior/warrior_1_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/warrior/warrior_1_available.png",
         "locked": "phis:textures/gui/skill_icons/warrior/warrior_1_locked.png"
       }
     },
@@ -3171,17 +3172,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/warrior/warrior_2_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/warrior/warrior_2_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/warrior/warrior_2_available.png",
+        "locked": "phis:textures/gui/skill_icons/warrior/warrior_2_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "effect",
+      "type": "texture",
       "data": {
-        "effect": "minecraft:instant_damage"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -3214,17 +3215,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/warrior/warrior_3_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/warrior/warrior_3_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/warrior/warrior_3_available.png",
+        "locked": "phis:textures/gui/skill_icons/warrior/warrior_3_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:iron_sword"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -3286,17 +3287,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/warrior/warrior_4_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/warrior/warrior_4_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/warrior/warrior_4_available.png",
+        "locked": "phis:textures/gui/skill_icons/warrior/warrior_4_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "endermanoverhaul:enderman_tooth"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -3333,17 +3334,18 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_capstone.png",
-        "available": "phis:textures/gui/available_capstone.png",
-        "locked": "phis:textures/gui/locked_capstone.png",
-        "excluded": "phis:textures/gui/excluded_capstone.png"
+        "unlocked": "phis:textures/gui/skill_icons/warrior/warrior_5_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/warrior/warrior_5_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/warrior/warrior_5_available.png",
+        "locked": "phis:textures/gui/skill_icons/warrior/warrior_5_locked.png",
+        "excluded": "phis:textures/gui/skill_icons/warrior/warrior_5_excluded.png"
       }
     },
     "size": 3,
     "icon": {
-      "type": "effect",
+      "type": "texture",
       "data": {
-        "effect": "minecraft:wind_charged"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -3402,21 +3404,38 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/assassin/assassin_1_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/assassin/assassin_1_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/assassin/assassin_1_available.png",
+        "locked": "phis:textures/gui/skill_icons/assassin/assassin_1_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:poisonous_potato"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
-    "description": "You are able to craft special poisons.",
-    "extra_description": "(tbd.)",
+    "description": [
+      "",
+      {
+        "text": "You are able to craft special "
+      },
+      {
+        "text": "poisons",
+        "color": "dark_green"
+      },
+      {
+        "text": "."
+      },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "dark_gray"
+      }
+    ],
+    "extra_description": "The poisons can be used to enhance your attacks. The poisons are §2Deadly Poison§r, §2Instant Poison§r, §2Amplifying Poison§r, §2Numbing Poison§r, §2Crippling Poison§r, §2Atrophic Poison§r and §2Leeching Poison§r",
     "required_spent_points": 2,
     "rewards": [
       {
@@ -3442,17 +3461,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/assassin/assassin_2_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/assassin/assassin_2_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/assassin/assassin_2_available.png",
+        "locked": "phis:textures/gui/skill_icons/assassin/assassin_2_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "effect",
+      "type": "texture",
       "data": {
-        "effect": "minecraft:invisibility"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -3485,20 +3504,46 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/assassin/assassin_3_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/assassin/assassin_3_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/assassin/assassin_3_available.png",
+        "locked": "phis:textures/gui/skill_icons/assassin/assassin_3_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:white_wool"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
-    "description": "You sneak faster and are less visible to enemies. (tbd.)",
+    "description": [
+      "",
+      {
+        "text": "Your "
+      },
+      {
+        "text": "sneaking speed",
+        "color": "dark_green"
+      },
+      {
+        "text": " is "
+      },
+      {
+        "text": "doubled",
+        "color": "dark_blue"
+      },
+      {
+        "text": ". In Addition, you are"
+      },
+      {
+        "text": "less visible to enemies",
+        "color": "dark_green"
+      },
+      {
+        "text": "."
+      }
+    ],
     "rewards": [
       {
         "type": "puffish_skills:attribute",
@@ -3526,17 +3571,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/assassin/assassin_4_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/assassin/assassin_4_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/assassin/assassin_4_available.png",
+        "locked": "phis:textures/gui/skill_icons/assassin/assassin_4_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "farmersdelight:iron_knife"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -3576,17 +3621,18 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_capstone.png",
-        "available": "phis:textures/gui/available_capstone.png",
-        "locked": "phis:textures/gui/locked_capstone.png",
-        "excluded": "phis:textures/gui/excluded_capstone.png"
+        "unlocked": "phis:textures/gui/skill_icons/assassin/assassin_5_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/assassin/assassin_5_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/assassin/assassin_5_available.png",
+        "locked": "phis:textures/gui/skill_icons/assassin/assassin_5_locked.png",
+        "excluded": "phis:textures/gui/skill_icons/assassin/assassin_5_excluded.png"
       }
     },
     "size": 3,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:wither_rose"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -3633,17 +3679,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/knight/knight_1_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/knight/knight_1_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/knight/knight_1_available.png",
+        "locked": "phis:textures/gui/skill_icons/knight/knight_1_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:shield"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -3691,20 +3737,39 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/knight/knight_2_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/knight/knight_2_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/knight/knight_2_available.png",
+        "locked": "phis:textures/gui/skill_icons/knight/knight_2_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:campfire"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
-    "description": "tbd. (You gain knockback resistance)",
+    "description": [
+      "",
+      {
+        "text": "You gain "
+      },
+      {
+        "text": "75%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "knockback resistance",
+        "color": "dark_green"
+      },
+      {
+        "text": "."
+      }
+    ],
     "rewards": [
       {
         "type": "puffish_skills:attribute",
@@ -3732,20 +3797,39 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/knight/knight_3_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/knight/knight_3_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/knight/knight_3_available.png",
+        "locked": "phis:textures/gui/skill_icons/knight/knight_3_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:white_wool"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
-    "description": "tbd. (You gain absorbtion when blocking an attack)",
+    "description": [
+      "",
+      {
+        "text": "You gain "
+      },
+      {
+        "text": "two",
+        "color": "dark_blue"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Absorption hearts",
+        "color": "dark_green"
+      },
+      {
+        "text": " when blocking an attack."
+      }
+    ],
     "rewards": [
       {
         "type": "puffish_skills:tag",
@@ -3763,17 +3847,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/knight/knight_4_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/knight/knight_4_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/knight/knight_4_available.png",
+        "locked": "phis:textures/gui/skill_icons/knight/knight_4_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:anvil"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": "Your invincibility window after taking damage is doubled.",
@@ -3796,20 +3880,33 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_capstone.png",
-        "available": "phis:textures/gui/available_capstone.png",
-        "locked": "phis:textures/gui/locked_capstone.png",
-        "excluded": "phis:textures/gui/excluded_capstone.png"
+        "unlocked": "phis:textures/gui/skill_icons/knight/knight_5_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/knight/knight_5_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/knight/knight_5_available.png",
+        "locked": "phis:textures/gui/skill_icons/knight/knight_5_locked.png",
+        "excluded": "phis:textures/gui/skill_icons/knight/knight_5_excluded.png"
       }
     },
     "size": 3,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:bread"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
-    "description": "tbd. (Regeneration Aura)",
+    "description": [
+      "",
+      {
+        "text": "You gain a "
+      },
+      {
+        "text": "regeneration aura",
+        "color": "dark_green"
+      },
+      {
+        "text": "."
+      }
+    ],
     "rewards": [
       {
         "type": "puffish_skills:tag",
@@ -3834,17 +3931,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/hunter/hunter_1_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/hunter/hunter_1_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/hunter/hunter_1_available.png",
+        "locked": "phis:textures/gui/skill_icons/hunter/hunter_1_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:yellow_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": "You deal increased damage against fully healed enemies",
@@ -3866,20 +3963,53 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/hunter/hunter_2_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/hunter/hunter_2_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/hunter/hunter_2_available.png",
+        "locked": "phis:textures/gui/skill_icons/hunter/hunter_2_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:bone"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
-    "description": "tbd. (You tamed creatures are more effective)",
+    "description": [
+      "",
+      {
+        "text": "You tamed creatures deal "
+      },
+      {
+        "text": "100%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " more "
+      },
+      {
+        "text": "damage",
+        "color": "dark_green"
+      },
+      {
+        "text": " and gain "
+      },
+      {
+        "text": "100%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " additional "
+      },
+      {
+        "text": "damage resistance",
+        "color": "dark_green"
+      },
+      {
+        "text": "."
+      }
+    ],
     "rewards": [
       {
         "type": "puffish_skills:attribute",
@@ -3907,17 +4037,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/hunter/hunter_3_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/hunter/hunter_3_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/hunter/hunter_3_available.png",
+        "locked": "phis:textures/gui/skill_icons/hunter/hunter_3_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:bone"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": "You sometimes summon wolves when you attack a target.",
@@ -3938,20 +4068,32 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/hunter/hunter_4_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/hunter/hunter_4_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/hunter/hunter_4_available.png",
+        "locked": "phis:textures/gui/skill_icons/hunter/hunter_4_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:arrow"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
-    "description": "tbd. (Mehr Schaden, wenn weiter weg)",
+    "description": [
+      "",
+      {
+        "text": "You deal more "
+      },
+      {
+        "text": "damage",
+        "color": "dark_green"
+      },
+      {
+        "text": " the further your target is away from you."
+      }
+    ],
     "rewards": [
       {
         "type": "puffish_skills:tag",
@@ -3969,20 +4111,40 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_capstone.png",
-        "available": "phis:textures/gui/available_capstone.png",
-        "locked": "phis:textures/gui/locked_capstone.png",
-        "excluded": "phis:textures/gui/excluded_capstone.png"
+        "unlocked": "phis:textures/gui/skill_icons/hunter/hunter_5_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/hunter/hunter_5_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/hunter/hunter_5_available.png",
+        "locked": "phis:textures/gui/skill_icons/hunter/hunter_5_locked.png",
+        "excluded": "phis:textures/gui/skill_icons/hunter/hunter_5_excluded.png"
       }
     },
     "size": 3,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:string"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
-    "description": "tbd. (Kill effect)",
+    "description": [
+      "",
+      {
+        "text": "When you kill an enemy, your attacks deal "
+      },
+      {
+        "text": "one",
+        "color": "dark_blue"
+      },
+      {
+        "text": " additional "
+      },
+      {
+        "text": "damage",
+        "color": "dark_green"
+      },
+      {
+        "text": " for a short time. This effect stacks up to ten times."
+      }
+    ],
     "rewards": [
       {
         "type": "puffish_skills:tag",
@@ -4003,21 +4165,21 @@
     }
   },
   "fire_mage_1": {
-    "title": "[NYI] As Embers Dress the Sky",
+    "title": "As Embers Dress the Sky",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/fire/fire_mage_1_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/fire/fire_mage_1_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/fire/fire_mage_1_available.png",
+        "locked": "phis:textures/gui/skill_icons/fire/fire_mage_1_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -4073,17 +4235,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/fire/fire_mage_2_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/fire/fire_mage_2_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/fire/fire_mage_2_available.png",
+        "locked": "phis:textures/gui/skill_icons/fire/fire_mage_2_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -4145,17 +4307,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/fire/fire_mage_3_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/fire/fire_mage_3_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/fire/fire_mage_3_available.png",
+        "locked": "phis:textures/gui/skill_icons/fire/fire_mage_3_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -4222,17 +4384,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/fire/fire_mage_4_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/fire/fire_mage_4_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/fire/fire_mage_4_available.png",
+        "locked": "phis:textures/gui/skill_icons/fire/fire_mage_4_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -4301,17 +4463,18 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_capstone.png",
-        "available": "phis:textures/gui/available_capstone.png",
-        "locked": "phis:textures/gui/locked_capstone.png",
-        "excluded": "phis:textures/gui/excluded_capstone.png"
+        "unlocked": "phis:textures/gui/skill_icons/fire/fire_mage_5_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/fire/fire_mage_5_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/fire/fire_mage_5_available.png",
+        "locked": "phis:textures/gui/skill_icons/fire/fire_mage_5_locked.png",
+        "excluded": "phis:textures/gui/skill_icons/fire/fire_mage_5_excluded.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -4320,7 +4483,7 @@
         "text": "You learn how to craft "
       },
       {
-        "text": "(tbd. -- Fire Focus)",
+        "text": "Blazing Souls",
         "color": "gold"
       },
       {
@@ -4375,17 +4538,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/ice/ice_mage_1_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/ice/ice_mage_1_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/ice/ice_mage_1_available.png",
+        "locked": "phis:textures/gui/skill_icons/ice/ice_mage_1_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -4441,17 +4604,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/ice/ice_mage_2_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/ice/ice_mage_2_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/ice/ice_mage_2_available.png",
+        "locked": "phis:textures/gui/skill_icons/ice/ice_mage_2_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -4513,17 +4676,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/ice/ice_mage_3_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/ice/ice_mage_3_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/ice/ice_mage_3_available.png",
+        "locked": "phis:textures/gui/skill_icons/ice/ice_mage_3_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -4597,17 +4760,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/ice/ice_mage_4_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/ice/ice_mage_4_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/ice/ice_mage_4_available.png",
+        "locked": "phis:textures/gui/skill_icons/ice/ice_mage_4_locked.png"
       }
     },
     "size": 3,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -4676,17 +4839,18 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_capstone.png",
-        "available": "phis:textures/gui/available_capstone.png",
-        "locked": "phis:textures/gui/locked_capstone.png",
-        "excluded": "phis:textures/gui/excluded_capstone.png"
+        "unlocked": "phis:textures/gui/skill_icons/ice/ice_mage_5_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/ice/ice_mage_5_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/ice/ice_mage_5_available.png",
+        "locked": "phis:textures/gui/skill_icons/ice/ice_mage_5_locked.png",
+        "excluded": "phis:textures/gui/skill_icons/ice/ice_mage_5_excluded.png"
       }
     },
     "size": 3,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -4695,7 +4859,7 @@
         "text": "You learn how to craft "
       },
       {
-        "text": "(tbd. -- Ice Focus)",
+        "text": "Freezing Souls",
         "color": "#d0f9ff"
       },
       {
@@ -4750,17 +4914,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/lightning/lightning_mage_1_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/lightning/lightning_mage_1_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/lightning/lightning_mage_1_available.png",
+        "locked": "phis:textures/gui/skill_icons/lightning/lightning_mage_1_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -4816,17 +4980,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/lightning/lightning_mage_2_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/lightning/lightning_mage_2_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/lightning/lightning_mage_2_available.png",
+        "locked": "phis:textures/gui/skill_icons/lightning/lightning_mage_2_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -4888,17 +5052,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/lightning/lightning_mage_3_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/lightning/lightning_mage_3_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/lightning/lightning_mage_3_available.png",
+        "locked": "phis:textures/gui/skill_icons/lightning/lightning_mage_3_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -4972,17 +5136,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/lightning/lightning_mage_4_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/lightning/lightning_mage_4_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/lightning/lightning_mage_4_available.png",
+        "locked": "phis:textures/gui/skill_icons/lightning/lightning_mage_4_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -5051,17 +5215,18 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_capstone.png",
-        "available": "phis:textures/gui/available_capstone.png",
-        "locked": "phis:textures/gui/locked_capstone.png",
-        "excluded": "phis:textures/gui/excluded_capstone.png"
+        "unlocked": "phis:textures/gui/skill_icons/lightning/lightning_mage_5_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/lightning/lightning_mage_5_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/lightning/lightning_mage_5_available.png",
+        "locked": "phis:textures/gui/skill_icons/lightning/lightning_mage_5_locked.png",
+        "excluded": "phis:textures/gui/skill_icons/lightning/lightning_mage_5_excluded.png"
       }
     },
     "size": 3,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -5070,7 +5235,7 @@
         "text": "You learn how to craft "
       },
       {
-        "text": "(tbd. -- Lightning Focus)",
+        "text": "Crackling Souls",
         "color": "aqua"
       },
       {
@@ -5125,17 +5290,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/holy/holy_mage_1_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/holy/holy_mage_1_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/holy/holy_mage_1_available.png",
+        "locked": "phis:textures/gui/skill_icons/holy/holy_mage_1_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -5191,17 +5356,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/holy/holy_mage_2_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/holy/holy_mage_2_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/holy/holy_mage_2_available.png",
+        "locked": "phis:textures/gui/skill_icons/holy/holy_mage_2_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -5263,17 +5428,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/holy/holy_mage_3unlocked.png",
+        "available": "phis:textures/gui/skill_icons/holy/holy_mage_3_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/holy/holy_mage_3_available.png",
+        "locked": "phis:textures/gui/skill_icons/holy/holy_mage_3_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -5347,17 +5512,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/holy/holy_mage_4_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/holy/holy_mage_4_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/holy/holy_mage_4_available.png",
+        "locked": "phis:textures/gui/skill_icons/holy/holy_mage_4_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -5426,17 +5591,18 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_capstone.png",
-        "available": "phis:textures/gui/available_capstone.png",
-        "locked": "phis:textures/gui/locked_capstone.png",
-        "excluded": "phis:textures/gui/excluded_capstone.png"
+        "unlocked": "phis:textures/gui/skill_icons/holy/holy_mage_5_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/holy/holy_mage_5_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/holy/holy_mage_5_available.png",
+        "locked": "phis:textures/gui/skill_icons/holy/holy_mage_5_locked.png",
+        "excluded": "phis:textures/gui/skill_icons/holy/holy_mage_5_excluded.png"
       }
     },
     "size": 3,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -5445,7 +5611,7 @@
         "text": "You learn how to craft "
       },
       {
-        "text": "(tbd. -- Holy Focus)",
+        "text": "Immaculates Souls",
         "color": "#fff8d4"
       },
       {
@@ -5500,17 +5666,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/ender/ender_mage_1_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/ender/ender_mage_1_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/ender/ender_mage_1_available.png",
+        "locked": "phis:textures/gui/skill_icons/ender/ender_mage_1_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -5566,17 +5732,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/ender/ender_mage_2_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/ender/ender_mage_2_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/ender/ender_mage_2_available.png",
+        "locked": "phis:textures/gui/skill_icons/ender/ender_mage_2_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -5638,17 +5804,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/ender/ender_mage_3_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/ender/ender_mage_3_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/ender/ender_mage_3_available.png",
+        "locked": "phis:textures/gui/skill_icons/ender/ender_mage_3_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -5722,17 +5888,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/ender/ender_mage_4_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/ender/ender_mage_4_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/ender/ender_mage_4_available.png",
+        "locked": "phis:textures/gui/skill_icons/ender/ender_mage_4_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -5801,17 +5967,18 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_capstone.png",
-        "available": "phis:textures/gui/available_capstone.png",
-        "locked": "phis:textures/gui/locked_capstone.png",
-        "excluded": "phis:textures/gui/excluded_capstone.png"
+        "unlocked": "phis:textures/gui/skill_icons/ender/ender_mage_5_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/ender/ender_mage_5_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/ender/ender_mage_5_available.png",
+        "locked": "phis:textures/gui/skill_icons/ender/ender_mage_5_locked.png",
+        "excluded": "phis:textures/gui/skill_icons/ender/ender_mage_5_excluded.png"
       }
     },
     "size": 3,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -5820,7 +5987,7 @@
         "text": "You learn how to craft "
       },
       {
-        "text": "(tbd. -- Ender Focus)",
+        "text": "Cosmic Souls",
         "color": "light_purple"
       },
       {
@@ -5875,17 +6042,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/blood/blood_mage_1_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/blood/blood_mage_1_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/blood/blood_mage_1_available.png",
+        "locked": "phis:textures/gui/skill_icons/blood/blood_mage_1_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -5941,17 +6108,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/blood/blood_mage_2_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/blood/blood_mage_2_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/blood/blood_mage_2_available.png",
+        "locked": "phis:textures/gui/skill_icons/blood/blood_mage_2_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -6013,17 +6180,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/blood/blood_mage_3_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/blood/blood_mage_3_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/blood/blood_mage_3_available.png",
+        "locked": "phis:textures/gui/skill_icons/blood/blood_mage_3_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -6097,17 +6264,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/blood/blood_mage_4_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/blood/blood_mage_4_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/blood/blood_mage_4_available.png",
+        "locked": "phis:textures/gui/skill_icons/blood/blood_mage_4_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -6176,17 +6343,18 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_capstone.png",
-        "available": "phis:textures/gui/available_capstone.png",
-        "locked": "phis:textures/gui/locked_capstone.png",
-        "excluded": "phis:textures/gui/excluded_capstone.png"
+        "unlocked": "phis:textures/gui/skill_icons/blood/blood_mage_5_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/blood/blood_mage_5_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/blood/blood_mage_5_available.png",
+        "locked": "phis:textures/gui/skill_icons/blood/blood_mage_5_locked.png",
+        "excluded": "phis:textures/gui/skill_icons/blood/blood_mage_5_excluded.png"
       }
     },
     "size": 3,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -6195,7 +6363,7 @@
         "text": "You learn how to craft "
       },
       {
-        "text": "(tbd. -- Blood Focus)",
+        "text": "Crimson Souls",
         "color": "dark_red"
       },
       {
@@ -6250,17 +6418,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/evocation/evocation_mage_1_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/evocation/evocation_mage_1_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/evocation/evocation_mage_1_available.png",
+        "locked": "phis:textures/gui/skill_icons/evocation/evocation_mage_1_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -6316,17 +6484,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/evocation/evocation_mage_2_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/evocation/evocation_mage_2_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/evocation/evocation_mage_2_available.png",
+        "locked": "phis:textures/gui/skill_icons/evocation/evocation_mage_2_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -6388,17 +6556,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/evocation/evocation_mage_3_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/evocation/evocation_mage_3_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/evocation/evocation_mage_3_available.png",
+        "locked": "phis:textures/gui/skill_icons/evocation/evocation_mage_3_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -6472,17 +6640,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/evocation/evocation_mage_4_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/evocation/evocation_mage_4_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/evocation/evocation_mage_4_available.png",
+        "locked": "phis:textures/gui/skill_icons/evocation/evocation_mage_4_locked.png"
       }
     },
     "size": 3,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -6551,17 +6719,18 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_capstone.png",
-        "available": "phis:textures/gui/available_capstone.png",
-        "locked": "phis:textures/gui/locked_capstone.png",
-        "excluded": "phis:textures/gui/excluded_capstone.png"
+        "unlocked": "phis:textures/gui/skill_icons/evocation/evocation_mage_5_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/evocation/evocation_mage_5_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/evocation/evocation_mage_5_available.png",
+        "locked": "phis:textures/gui/skill_icons/evocation/evocation_mage_5_locked.png",
+        "excluded": "phis:textures/gui/skill_icons/evocation/evocation_mage_5_locked.png"
       }
     },
     "size": 3,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -6570,7 +6739,7 @@
         "text": "You learn how to craft "
       },
       {
-        "text": "(tbd. -- Evocation Focus)",
+        "text": "Mystical Souls",
         "color": "white"
       },
       {
@@ -6625,17 +6794,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/nature/nature_mage_1_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/nature/nature_mage_1_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/nature/nature_mage_1_available.png",
+        "locked": "phis:textures/gui/skill_icons/nature/nature_mage_1_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -6691,17 +6860,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/nature/nature_mage_2_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/nature/nature_mage_2_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/nature/nature_mage_2_available.png",
+        "locked": "phis:textures/gui/skill_icons/nature/nature_mage_2_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -6763,17 +6932,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/nature/nature_mage_3_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/nature/nature_mage_3_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/nature/nature_mage_3_available.png",
+        "locked": "phis:textures/gui/skill_icons/nature/nature_mage_3_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -6847,17 +7016,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/nature/nature_mage_4_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/nature/nature_mage_4_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/nature/nature_mage_4_available.png",
+        "locked": "phis:textures/gui/skill_icons/nature/nature_mage_4_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -6926,17 +7095,18 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_capstone.png",
-        "available": "phis:textures/gui/available_capstone.png",
-        "locked": "phis:textures/gui/locked_capstone.png",
-        "excluded": "phis:textures/gui/excluded_capstone.png"
+        "unlocked": "phis:textures/gui/skill_icons/nature/nature_mage_5_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/nature/nature_mage_5_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/nature/nature_mage_5_available.png",
+        "locked": "phis:textures/gui/skill_icons/nature/nature_mage_5_locked.png",
+        "excluded": "phis:textures/gui/skill_icons/nature/nature_mage_5_excluded.png"
       }
     },
     "size": 3,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -6945,7 +7115,7 @@
         "text": "You learn how to craft "
       },
       {
-        "text": "(tbd. -- Nature Focus)",
+        "text": "Wild Souls",
         "color": "green"
       },
       {
@@ -7000,17 +7170,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/sound/sound_mage_1_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/sound/sound_mage_1_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/sound/sound_mage_1_available.png",
+        "locked": "phis:textures/gui/skill_icons/sound/sound_mage_1_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -7066,17 +7236,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/sound/sound_mage_2_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/sound/sound_mage_2_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/sound/sound_mage_2_available.png",
+        "locked": "phis:textures/gui/skill_icons/sound/sound_mage_2_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -7134,21 +7304,21 @@
     }
   },
   "sound_mage_3": {
-    "title": "tbd.",
+    "title": "In Silence We Eternally Sleep",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/sound/sound_mage_3_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/sound/sound_mage_3_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/sound/sound_mage_3_available.png",
+        "locked": "phis:textures/gui/skill_icons/sound/sound_mage_3_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -7222,17 +7392,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/sound/sound_mage_4_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/sound/sound_mage_4_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/sound/sound_mage_4_available.png",
+        "locked": "phis:textures/gui/skill_icons/sound/sound_mage_4_locked.png"
       }
     },
     "size": 2.5,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -7301,17 +7471,18 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_capstone.png",
-        "available": "phis:textures/gui/available_capstone.png",
-        "locked": "phis:textures/gui/locked_capstone.png",
-        "excluded": "phis:textures/gui/excluded_capstone.png"
+        "unlocked": "phis:textures/gui/skill_icons/sound/sound_mage_5_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/sound/sound_mage_5_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/sound/sound_mage_5_available.png",
+        "locked": "phis:textures/gui/skill_icons/sound/sound_mage_5_locked.png",
+        "excluded": "phis:textures/gui/skill_icons/sound/sound_mage_5_excluded.png"
       }
     },
     "size": 3,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:red_concrete"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -7320,7 +7491,7 @@
         "text": "You learn how to craft "
       },
       {
-        "text": "(tbd. -- Sound Focus)",
+        "text": "Echoing Souls",
         "color": "#CFFFD2"
       },
       {
@@ -7383,9 +7554,9 @@
     },
     "size": 2,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "artifacts:digging_claws"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": "Do not implement",
@@ -7399,17 +7570,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/a_desolate_heart_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/a_desolate_heart_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/a_desolate_heart_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/a_desolate_heart_locked.png"
       }
     },
     "size": 2,
     "icon": {
-      "type": "effect",
+      "type": "texture",
       "data": {
-        "effect": "minecraft:regeneration"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -7437,21 +7608,21 @@
     }
   },
   "max_health_2": {
-    "title": "tbd.",
+    "title": "(tbd) Lamp of Invisible Lights",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/a_desolate_heart_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/a_desolate_heart_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/a_desolate_heart_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/a_desolate_heart_locked.png"
       }
     },
     "size": 2,
     "icon": {
-      "type": "effect",
+      "type": "texture",
       "data": {
-        "effect": "minecraft:regeneration"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -7479,21 +7650,21 @@
     }
   },
   "max_health_3": {
-    "title": "Nocturnal, Transparent Rainbow",
+    "title": "(tbd.) Nocturnal, Transparent Rainbow",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/a_desolate_heart_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/a_desolate_heart_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/a_desolate_heart_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/a_desolate_heart_locked.png"
       }
     },
     "size": 2,
     "icon": {
-      "type": "effect",
+      "type": "texture",
       "data": {
-        "effect": "minecraft:regeneration"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -7521,21 +7692,21 @@
     }
   },
   "max_health_4": {
-    "title": "I Am the World",
+    "title": "(tbd.) I Am the World",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/a_desolate_heart_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/a_desolate_heart_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/a_desolate_heart_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/a_desolate_heart_locked.png"
       }
     },
     "size": 2,
     "icon": {
-      "type": "effect",
+      "type": "texture",
       "data": {
-        "effect": "minecraft:regeneration"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -7567,17 +7738,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/a_few_shreds_of_thoughts_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/a_few_shreds_of_thoughts_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/a_few_shreds_of_thoughts_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/a_few_shreds_of_thoughts_locked.png"
       }
     },
     "size": 2,
     "icon": {
-      "type": "effect",
+      "type": "texture",
       "data": {
-        "effect": "minecraft:wind_charged"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -7605,21 +7776,21 @@
     }
   },
   "max_mana_2": {
-    "title": "The Witching Meadow",
+    "title": "(tbd.) The Witching Meadow",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/a_few_shreds_of_thoughts_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/a_few_shreds_of_thoughts_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/a_few_shreds_of_thoughts_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/a_few_shreds_of_thoughts_locked.png"
       }
     },
     "size": 2,
     "icon": {
-      "type": "effect",
+      "type": "texture",
       "data": {
-        "effect": "minecraft:wind_charged"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -7651,17 +7822,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/mountain_magick_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/mountain_magick_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/mountain_magick_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/mountain_magick_locked.png"
       }
     },
     "size": 2,
     "icon": {
-      "type": "effect",
+      "type": "texture",
       "data": {
-        "effect": "minecraft:wind_charged"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -7689,21 +7860,21 @@
     }
   },
   "max_mana_4": {
-    "title": "Forgotten Empire of Dark Witchcraft",
+    "title": "(tbd.) Forgotten Empire of Dark Witchcraft",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/mountain_magick_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/mountain_magick_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/mountain_magick_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/mountain_magick_locked.png"
       }
     },
     "size": 2,
     "icon": {
-      "type": "effect",
+      "type": "texture",
       "data": {
-        "effect": "minecraft:wind_charged"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -7735,17 +7906,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/enlightment_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/enlightment_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/enlightment_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/enlightment_locked.png"
       }
     },
     "size": 2,
     "icon": {
-      "type": "effect",
+      "type": "texture",
       "data": {
-        "effect": "minecraft:wind_charged"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -7777,17 +7948,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/and_in_that_moment_i_knew_the_answer_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/and_in_that_moment_i_knew_the_answer_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/and_in_that_moment_i_knew_the_answer_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/and_in_that_moment_i_knew_the_answer_locked.png"
       }
     },
     "size": 2,
     "icon": {
-      "type": "effect",
+      "type": "texture",
       "data": {
-        "effect": "minecraft:wind_charged"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -7819,17 +7990,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/warlust_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/warlust_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/warlust_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/warlust_locked.png"
       }
     },
     "size": 2,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:iron_sword"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -7880,17 +8051,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/an_arrow_in_heart_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/an_arrow_in_heart_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/an_arrow_in_heart_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/an_arrow_in_heart_locked.png"
       }
     },
     "size": 2,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:bow"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -7941,17 +8112,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/broken_sword_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/broken_sword_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/broken_sword_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/broken_sword_locked.png"
       }
     },
     "size": 2,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:shield"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -8002,17 +8173,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/ethereal_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/ethereal_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/ethereal_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/ethereal_locked.png"
       }
     },
     "size": 2,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:shield"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -8063,17 +8234,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/starspawn_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/starspawn_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/starspawn_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/starspawn_locked.png"
       }
     },
     "size": 2,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:shield"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -8148,17 +8319,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/last_benediction_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/last_benediction_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/last_benediction_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/last_benediction_locked.png"
       }
     },
     "size": 2,
     "icon": {
-      "type": "effect",
+      "type": "texture",
       "data": {
-        "effect": "minecraft:instant_health"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -8186,21 +8357,21 @@
     }
   },
   "mining_speed": {
-    "title": "The Final Architect",
+    "title": "(tbd.) The Final Architect",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/last_benediction_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/last_benediction_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/last_benediction_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/last_benediction_locked.png"
       }
     },
     "size": 2,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:shield"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -8232,17 +8403,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/come_all_ye_coal_miners_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/come_all_ye_coal_miners_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/come_all_ye_coal_miners_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/come_all_ye_coal_miners_locked.png"
       }
     },
     "size": 2,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:shield"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -8251,7 +8422,7 @@
         "text": "+30% "
       },
       {
-        "text": "mining speed",
+        "text": "pickaxe speed",
         "color": "dark_green"
       }
     ],
@@ -8270,21 +8441,21 @@
     }
   },
   "shovel_speed": {
-    "title": "tbd.",
+    "title": "(tbd.) Chants of the Deep Ones",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/come_all_ye_coal_miners_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/come_all_ye_coal_miners_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/come_all_ye_coal_miners_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/come_all_ye_coal_miners_locked.png"
       }
     },
     "size": 2,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:shield"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -8293,7 +8464,7 @@
         "text": "+30% "
       },
       {
-        "text": "mining speed",
+        "text": "shovel speed",
         "color": "dark_green"
       }
     ],
@@ -8302,7 +8473,7 @@
       {
         "type": "puffish_skills:attribute",
         "data": {
-          "attribute": "puffish_attributes:mining_speed",
+          "attribute": "puffish_attributes:shovel_speed",
           "value": 0.3,
           "operation": "multiply_base"
         }
@@ -8313,21 +8484,21 @@
     }
   },
   "axe_speed": {
-    "title": "tbd.",
+    "title": "(tbd.) Foreverdark Woods",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/come_all_ye_coal_miners_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/come_all_ye_coal_miners_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/come_all_ye_coal_miners_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/come_all_ye_coal_miners_locked.png"
       }
     },
     "size": 2,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:shield"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -8336,7 +8507,7 @@
         "text": "+30% "
       },
       {
-        "text": "mining speed",
+        "text": "axe speed",
         "color": "dark_green"
       }
     ],
@@ -8359,17 +8530,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/unchained_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/unchained_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/unchained_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/unchained_locked.png"
       }
     },
     "size": 2,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:shield"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -8401,17 +8572,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/from_the_pagan_vastlands_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/from_the_pagan_vastlands_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/from_the_pagan_vastlands_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/from_the_pagan_vastlands_locked.png"
       }
     },
     "size": 2,
     "icon": {
-      "type": "effect",
+      "type": "texture",
       "data": {
-        "effect": "minecraft:slow_falling"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -8445,21 +8616,21 @@
     }
   },
   "fall_damage_reduction_2": {
-    "title": "Beyond the North Waves",
+    "title": "(tbd.)",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/from_the_pagan_vastlands_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/from_the_pagan_vastlands_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/from_the_pagan_vastlands_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/from_the_pagan_vastlands_locked.png"
       }
     },
     "size": 2,
     "icon": {
-      "type": "effect",
+      "type": "texture",
       "data": {
-        "effect": "minecraft:slow_falling"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -8497,17 +8668,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/a_traveler_of_unknown_planes_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/a_traveler_of_unknown_planes_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/a_traveler_of_unknown_planes_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/a_traveler_of_unknown_planes_locked.png"
       }
     },
     "size": 2,
     "icon": {
-      "type": "effect",
+      "type": "texture",
       "data": {
-        "effect": "minecraft:slow_falling"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -8545,17 +8716,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/one_rode_to_asa_bay_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/one_rode_to_asa_bay_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/one_rode_to_asa_bay_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/one_rode_to_asa_bay_locked.png"
       }
     },
     "size": 2,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:shield"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -8587,17 +8758,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/of_ice_and_movement_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/of_ice_and_movement_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/of_ice_and_movement_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/of_ice_and_movement_locked.png"
       }
     },
     "size": 2,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:snowball"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -8632,17 +8803,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/as_the_wounds_gently_bleed_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/as_the_wounds_gently_bleed_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/as_the_wounds_gently_bleed_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/as_the_wounds_gently_bleed_locked.png"
       }
     },
     "size": 2,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:snowball"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -8680,17 +8851,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/deathwish_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/deathwish_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/deathwish_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/deathwish_locked.png"
       }
     },
     "size": 2,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:snowball"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -8728,17 +8899,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/as_mist_descends_from_the_hills_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/as_mist_descends_from_the_hills_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/as_mist_descends_from_the_hills_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/as_mist_descends_from_the_hills_locked.png"
       }
     },
     "size": 2,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:snowball"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -8776,17 +8947,17 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/the_thorns_that_guide_my_warpath_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/the_thorns_that_guide_my_warpath_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/the_thorns_that_guide_my_warpath_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/the_thorns_that_guide_my_warpath_locked.png"
       }
     },
     "size": 2,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:snowball"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
@@ -8811,21 +8982,21 @@
     ]
   },
   "draw_speed": {
-    "title": "tbd.",
+    "title": "Going Berserk",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked_minor.png",
-        "available": "phis:textures/gui/available_minor.png",
-        "locked": "phis:textures/gui/locked_minor.png",
-        "excluded": "phis:textures/gui/excluded_minor.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/going_berserk_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/going_berserk_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/going_berserk_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/going_berserk_locked.png"
       }
     },
     "size": 2,
     "icon": {
-      "type": "item",
+      "type": "texture",
       "data": {
-        "item": "minecraft:snowball"
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
     "description": [
