@@ -10,13 +10,14 @@
         "locked": "phis:textures/gui/skill_icons/major/tool_tier_1_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -81,13 +82,14 @@
         "locked": "phis:textures/gui/skill_icons/major/tool_tier_2_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -147,13 +149,14 @@
         "locked": "phis:textures/gui/skill_icons/major/tool_tier_3_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -213,13 +216,14 @@
         "locked": "phis:textures/gui/skill_icons/major/tool_tier_4_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -279,13 +283,14 @@
         "locked": "phis:textures/gui/skill_icons/major/tool_tier_5_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -352,13 +357,14 @@
         "locked": "phis:textures/gui/skill_icons/major/craft_return_scroll_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -398,13 +404,14 @@
         "locked": "phis:textures/gui/skill_icons/major/craft_warp_stone_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -442,13 +449,14 @@
         "locked": "phis:textures/gui/skill_icons/major/craft_waystone_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -486,13 +494,14 @@
         "locked": "phis:textures/gui/skill_icons/major/craft_arcane_essence_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -530,13 +539,14 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -573,13 +583,14 @@
         "locked": "phis:textures/gui/skill_icons/major/blood_of_the_hermit_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -623,13 +634,14 @@
         "locked": "phis:textures/gui/skill_icons/major/echoes_from_the_past_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -675,13 +687,14 @@
         "locked": "phis:textures/gui/skill_icons/major/flight_of_thought_and_memory_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -727,13 +740,14 @@
         "locked": "phis:textures/gui/skill_icons/major/craft_scroll_forge_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -771,13 +785,14 @@
         "locked": "phis:textures/gui/skill_icons/major/craft_arcane_anvil_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -815,13 +830,14 @@
         "locked": "phis:textures/gui/skill_icons/major/a_distant_glow_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -867,13 +883,14 @@
         "locked": "phis:textures/gui/skill_icons/major/honey_and_sulphur_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -919,13 +936,14 @@
         "locked": "phis:textures/gui/skill_icons/major/transilvanian_hunger_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -971,13 +989,14 @@
         "locked": "phis:textures/gui/skill_icons/major/mana_leech_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -1014,13 +1033,14 @@
         "locked": "phis:textures/gui/skill_icons/major/fall_damage_immunity_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -1072,13 +1092,14 @@
         "locked": "phis:textures/gui/skill_icons/major/craft_bombs_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -1123,13 +1144,14 @@
         "locked": "phis:textures/gui/skill_icons/major/craft_hellfire_ammo_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -1173,13 +1195,14 @@
         "locked": "phis:textures/gui/skill_icons/major/craft_firework_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -1223,13 +1246,14 @@
         "locked": "phis:textures/gui/skill_icons/major/the_sea_beneath_the_seas_of_the_sea_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -1319,13 +1343,14 @@
         "locked": "phis:textures/gui/skill_icons/major/sacred_geometry_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -1363,13 +1388,14 @@
         "locked": "phis:textures/gui/skill_icons/major/how_many_tears_to_nurture_a_rose_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -1415,13 +1441,14 @@
         "locked": "phis:textures/gui/skill_icons/major/the_secrets_of_the_earth_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -1465,13 +1492,14 @@
         "locked": "phis:textures/gui/skill_icons/major/buried_by_time_and_dust_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -1508,13 +1536,14 @@
         "locked": "phis:textures/gui/skill_icons/major/craft_eldritch_manuscript_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -1558,13 +1587,14 @@
         "locked": "phis:textures/gui/skill_icons/major/the_alchemists_dream_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -1640,13 +1670,14 @@
         "locked": "phis:textures/gui/skill_icons/major/extra_elytra_slot_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -1691,13 +1722,14 @@
         "locked": "phis:textures/gui/skill_icons/major/extra_ring_slot_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -1735,13 +1767,14 @@
         "locked": "phis:textures/gui/skill_icons/major/extra_ring_slot_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -1778,13 +1811,14 @@
         "locked": "phis:textures/gui/skill_icons/major/barefoot_ghost_dance_on_bloodsoaked_soil_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -1822,13 +1856,14 @@
         "locked": "phis:textures/gui/skill_icons/major/i_raised_this_stone_as_a_ghastly_memorial_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -1866,13 +1901,14 @@
         "locked": "phis:textures/gui/skill_icons/major/and_the_forests_dream_eternally_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -1916,13 +1952,14 @@
         "locked": "phis:textures/gui/skill_icons/major/cheat_death_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -1966,13 +2003,14 @@
         "locked": "phis:textures/gui/skill_icons/major/soliloquy_of_the_stigmatised_shepherd_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -2009,13 +2047,14 @@
         "locked": "phis:textures/gui/skill_icons/major/when_milk_runs_dry_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -2071,13 +2110,14 @@
         "locked": "phis:textures/gui/skill_icons/major/somniphobia_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -2120,13 +2160,14 @@
         "locked": "phis:textures/gui/skill_icons/major/children_of_the_harvest_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -2191,13 +2232,14 @@
         "locked": "phis:textures/gui/skill_icons/major/the_soil_runs_red_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -2279,13 +2321,14 @@
         "locked": "phis:textures/gui/skill_icons/major/inner_sanctum_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -2330,13 +2373,14 @@
         "locked": "phis:textures/gui/skill_icons/major/jewel_throne_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -2378,13 +2422,14 @@
         "locked": "phis:textures/gui/skill_icons/major/infinite_density_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -2429,13 +2474,14 @@
         "locked": "phis:textures/gui/skill_icons/major/infinite_dimensions_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -2480,13 +2526,14 @@
         "locked": "phis:textures/gui/skill_icons/major/out_of_the_grave_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -2544,13 +2591,14 @@
         "locked": "phis:textures/gui/skill_icons/major/moonrise_in_total_darkness_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -2596,13 +2644,14 @@
         "locked": "phis:textures/gui/skill_icons/major/deep_lake_trespass_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -2648,13 +2697,14 @@
         "locked": "phis:textures/gui/skill_icons/major/at_the_heart_of_winter_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -2706,13 +2756,14 @@
         "locked": "phis:textures/gui/skill_icons/major/fire_damage_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -2764,13 +2815,14 @@
         "locked": "phis:textures/gui/skill_icons/major/outstrider_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -2816,13 +2868,14 @@
         "locked": "phis:textures/gui/skill_icons/major/a_jewel_traced_through_coal_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -2859,13 +2912,14 @@
         "locked": "phis:textures/gui/skill_icons/major/risen_from_the_rain_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -2918,13 +2972,14 @@
         "locked": "phis:textures/gui/skill_icons/major/far_beyond_the_stars_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -2960,13 +3015,14 @@
         "locked": "phis:textures/gui/skill_icons/major/dragons_breath_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -3011,13 +3067,14 @@
         "locked": "phis:textures/gui/skill_icons/major/beyond_the_north_waves_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -3063,13 +3120,14 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": "Do not implement",
     "rewards": [],
     "metadata": {
@@ -3087,13 +3145,14 @@
         "locked": "phis:textures/gui/skill_icons/warrior/warrior_1_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -3178,13 +3237,14 @@
         "locked": "phis:textures/gui/skill_icons/warrior/warrior_2_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -3221,13 +3281,14 @@
         "locked": "phis:textures/gui/skill_icons/warrior/warrior_3_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -3293,13 +3354,14 @@
         "locked": "phis:textures/gui/skill_icons/warrior/warrior_4_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -3341,13 +3403,14 @@
         "excluded": "phis:textures/gui/skill_icons/warrior/warrior_5_excluded.png"
       }
     },
-    "size": 3,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -3410,13 +3473,14 @@
         "locked": "phis:textures/gui/skill_icons/assassin/assassin_1_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -3467,13 +3531,14 @@
         "locked": "phis:textures/gui/skill_icons/assassin/assassin_2_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -3510,13 +3575,14 @@
         "locked": "phis:textures/gui/skill_icons/assassin/assassin_3_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -3577,13 +3643,14 @@
         "locked": "phis:textures/gui/skill_icons/assassin/assassin_4_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -3628,13 +3695,14 @@
         "excluded": "phis:textures/gui/skill_icons/assassin/assassin_5_excluded.png"
       }
     },
-    "size": 3,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -3685,13 +3753,14 @@
         "locked": "phis:textures/gui/skill_icons/knight/knight_1_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -3743,13 +3812,14 @@
         "locked": "phis:textures/gui/skill_icons/knight/knight_2_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -3803,13 +3873,14 @@
         "locked": "phis:textures/gui/skill_icons/knight/knight_3_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -3853,13 +3924,14 @@
         "locked": "phis:textures/gui/skill_icons/knight/knight_4_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": "Your invincibility window after taking damage is doubled.",
     "rewards": [
       {
@@ -3887,13 +3959,14 @@
         "excluded": "phis:textures/gui/skill_icons/knight/knight_5_excluded.png"
       }
     },
-    "size": 3,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -3937,13 +4010,14 @@
         "locked": "phis:textures/gui/skill_icons/hunter/hunter_1_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": "You deal increased damage against fully healed enemies",
     "required_spent_points": 2,
     "rewards": [
@@ -3969,13 +4043,14 @@
         "locked": "phis:textures/gui/skill_icons/hunter/hunter_2_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -4043,13 +4118,14 @@
         "locked": "phis:textures/gui/skill_icons/hunter/hunter_3_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": "You sometimes summon wolves when you attack a target.",
     "rewards": [
       {
@@ -4074,13 +4150,14 @@
         "locked": "phis:textures/gui/skill_icons/hunter/hunter_4_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -4118,13 +4195,14 @@
         "excluded": "phis:textures/gui/skill_icons/hunter/hunter_5_excluded.png"
       }
     },
-    "size": 3,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -4175,13 +4253,14 @@
         "locked": "phis:textures/gui/skill_icons/fire/fire_mage_1_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -4241,13 +4320,14 @@
         "locked": "phis:textures/gui/skill_icons/fire/fire_mage_2_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -4313,13 +4393,14 @@
         "locked": "phis:textures/gui/skill_icons/fire/fire_mage_3_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -4390,34 +4471,35 @@
         "locked": "phis:textures/gui/skill_icons/fire/fire_mage_4_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
-        "text": "When casting "
+        "text": "Your "
       },
       {
         "text": "Fire spells",
         "color": "gold"
       },
       {
-        "text": " you have a chance to gain "
+        "text": " deal "
       },
       {
-        "text": "10%",
+        "text": "15%",
         "color": "dark_blue"
       },
       {
-        "text": " of the mana costs as "
+        "text": " more "
       },
       {
-        "text": "health",
+        "text": "damage",
         "color": "dark_green"
       },
       {
@@ -4470,13 +4552,14 @@
         "excluded": "phis:textures/gui/skill_icons/fire/fire_mage_5_excluded.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -4544,13 +4627,14 @@
         "locked": "phis:textures/gui/skill_icons/ice/ice_mage_1_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -4610,13 +4694,14 @@
         "locked": "phis:textures/gui/skill_icons/ice/ice_mage_2_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -4682,13 +4767,14 @@
         "locked": "phis:textures/gui/skill_icons/ice/ice_mage_3_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -4766,13 +4852,14 @@
         "locked": "phis:textures/gui/skill_icons/ice/ice_mage_4_locked.png"
       }
     },
-    "size": 3,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -4846,13 +4933,14 @@
         "excluded": "phis:textures/gui/skill_icons/ice/ice_mage_5_excluded.png"
       }
     },
-    "size": 3,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -4920,13 +5008,14 @@
         "locked": "phis:textures/gui/skill_icons/lightning/lightning_mage_1_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -4986,13 +5075,14 @@
         "locked": "phis:textures/gui/skill_icons/lightning/lightning_mage_2_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -5058,13 +5148,14 @@
         "locked": "phis:textures/gui/skill_icons/lightning/lightning_mage_3_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -5142,13 +5233,14 @@
         "locked": "phis:textures/gui/skill_icons/lightning/lightning_mage_4_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -5222,13 +5314,14 @@
         "excluded": "phis:textures/gui/skill_icons/lightning/lightning_mage_5_excluded.png"
       }
     },
-    "size": 3,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -5296,13 +5389,14 @@
         "locked": "phis:textures/gui/skill_icons/holy/holy_mage_1_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -5362,13 +5456,14 @@
         "locked": "phis:textures/gui/skill_icons/holy/holy_mage_2_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -5434,13 +5529,14 @@
         "locked": "phis:textures/gui/skill_icons/holy/holy_mage_3_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -5518,13 +5614,14 @@
         "locked": "phis:textures/gui/skill_icons/holy/holy_mage_4_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -5598,13 +5695,14 @@
         "excluded": "phis:textures/gui/skill_icons/holy/holy_mage_5_excluded.png"
       }
     },
-    "size": 3,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -5672,13 +5770,14 @@
         "locked": "phis:textures/gui/skill_icons/ender/ender_mage_1_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -5738,13 +5837,14 @@
         "locked": "phis:textures/gui/skill_icons/ender/ender_mage_2_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -5810,13 +5910,14 @@
         "locked": "phis:textures/gui/skill_icons/ender/ender_mage_3_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -5894,13 +5995,14 @@
         "locked": "phis:textures/gui/skill_icons/ender/ender_mage_4_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -5974,13 +6076,14 @@
         "excluded": "phis:textures/gui/skill_icons/ender/ender_mage_5_excluded.png"
       }
     },
-    "size": 3,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -6048,13 +6151,14 @@
         "locked": "phis:textures/gui/skill_icons/blood/blood_mage_1_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -6114,13 +6218,14 @@
         "locked": "phis:textures/gui/skill_icons/blood/blood_mage_2_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -6186,13 +6291,14 @@
         "locked": "phis:textures/gui/skill_icons/blood/blood_mage_3_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -6270,13 +6376,14 @@
         "locked": "phis:textures/gui/skill_icons/blood/blood_mage_4_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -6350,13 +6457,14 @@
         "excluded": "phis:textures/gui/skill_icons/blood/blood_mage_5_excluded.png"
       }
     },
-    "size": 3,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -6424,13 +6532,14 @@
         "locked": "phis:textures/gui/skill_icons/evocation/evocation_mage_1_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -6490,13 +6599,14 @@
         "locked": "phis:textures/gui/skill_icons/evocation/evocation_mage_2_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -6562,13 +6672,14 @@
         "locked": "phis:textures/gui/skill_icons/evocation/evocation_mage_3_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -6646,13 +6757,14 @@
         "locked": "phis:textures/gui/skill_icons/evocation/evocation_mage_4_locked.png"
       }
     },
-    "size": 3,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -6726,13 +6838,14 @@
         "excluded": "phis:textures/gui/skill_icons/evocation/evocation_mage_5_locked.png"
       }
     },
-    "size": 3,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -6800,13 +6913,14 @@
         "locked": "phis:textures/gui/skill_icons/nature/nature_mage_1_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -6866,13 +6980,14 @@
         "locked": "phis:textures/gui/skill_icons/nature/nature_mage_2_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -6938,13 +7053,14 @@
         "locked": "phis:textures/gui/skill_icons/nature/nature_mage_3_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -7022,13 +7138,14 @@
         "locked": "phis:textures/gui/skill_icons/nature/nature_mage_4_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -7102,13 +7219,14 @@
         "excluded": "phis:textures/gui/skill_icons/nature/nature_mage_5_excluded.png"
       }
     },
-    "size": 3,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -7176,13 +7294,14 @@
         "locked": "phis:textures/gui/skill_icons/sound/sound_mage_1_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -7242,13 +7361,14 @@
         "locked": "phis:textures/gui/skill_icons/sound/sound_mage_2_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -7314,13 +7434,14 @@
         "locked": "phis:textures/gui/skill_icons/sound/sound_mage_3_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -7398,13 +7519,14 @@
         "locked": "phis:textures/gui/skill_icons/sound/sound_mage_4_locked.png"
       }
     },
-    "size": 2.5,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -7478,13 +7600,14 @@
         "excluded": "phis:textures/gui/skill_icons/sound/sound_mage_5_excluded.png"
       }
     },
-    "size": 3,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -7552,13 +7675,14 @@
         "excluded": "phis:textures/gui/excluded.png"
       }
     },
-    "size": 2,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": "Do not implement",
     "rewards": [],
     "metadata": {
@@ -7576,13 +7700,14 @@
         "locked": "phis:textures/gui/skill_icons/major/a_desolate_heart_locked.png"
       }
     },
-    "size": 2,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -7618,13 +7743,14 @@
         "locked": "phis:textures/gui/skill_icons/major/a_desolate_heart_locked.png"
       }
     },
-    "size": 2,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -7660,13 +7786,14 @@
         "locked": "phis:textures/gui/skill_icons/major/a_desolate_heart_locked.png"
       }
     },
-    "size": 2,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -7702,13 +7829,14 @@
         "locked": "phis:textures/gui/skill_icons/major/a_desolate_heart_locked.png"
       }
     },
-    "size": 2,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -7744,13 +7872,14 @@
         "locked": "phis:textures/gui/skill_icons/major/a_few_shreds_of_thoughts_locked.png"
       }
     },
-    "size": 2,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -7786,13 +7915,14 @@
         "locked": "phis:textures/gui/skill_icons/major/a_few_shreds_of_thoughts_locked.png"
       }
     },
-    "size": 2,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -7828,13 +7958,14 @@
         "locked": "phis:textures/gui/skill_icons/major/mountain_magick_locked.png"
       }
     },
-    "size": 2,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -7870,13 +8001,14 @@
         "locked": "phis:textures/gui/skill_icons/major/mountain_magick_locked.png"
       }
     },
-    "size": 2,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -7912,13 +8044,14 @@
         "locked": "phis:textures/gui/skill_icons/major/enlightment_locked.png"
       }
     },
-    "size": 2,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -7954,13 +8087,14 @@
         "locked": "phis:textures/gui/skill_icons/major/and_in_that_moment_i_knew_the_answer_locked.png"
       }
     },
-    "size": 2,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -7996,13 +8130,14 @@
         "locked": "phis:textures/gui/skill_icons/major/warlust_locked.png"
       }
     },
-    "size": 2,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -8057,13 +8192,14 @@
         "locked": "phis:textures/gui/skill_icons/major/an_arrow_in_heart_locked.png"
       }
     },
-    "size": 2,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -8118,13 +8254,14 @@
         "locked": "phis:textures/gui/skill_icons/major/broken_sword_locked.png"
       }
     },
-    "size": 2,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -8179,13 +8316,14 @@
         "locked": "phis:textures/gui/skill_icons/major/ethereal_locked.png"
       }
     },
-    "size": 2,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -8240,13 +8378,14 @@
         "locked": "phis:textures/gui/skill_icons/major/starspawn_locked.png"
       }
     },
-    "size": 2,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -8325,13 +8464,14 @@
         "locked": "phis:textures/gui/skill_icons/major/last_benediction_locked.png"
       }
     },
-    "size": 2,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -8367,13 +8507,14 @@
         "locked": "phis:textures/gui/skill_icons/major/last_benediction_locked.png"
       }
     },
-    "size": 2,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -8409,13 +8550,14 @@
         "locked": "phis:textures/gui/skill_icons/major/come_all_ye_coal_miners_locked.png"
       }
     },
-    "size": 2,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -8451,13 +8593,14 @@
         "locked": "phis:textures/gui/skill_icons/major/come_all_ye_coal_miners_locked.png"
       }
     },
-    "size": 2,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -8494,13 +8637,14 @@
         "locked": "phis:textures/gui/skill_icons/major/come_all_ye_coal_miners_locked.png"
       }
     },
-    "size": 2,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -8536,13 +8680,14 @@
         "locked": "phis:textures/gui/skill_icons/major/unchained_locked.png"
       }
     },
-    "size": 2,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -8578,13 +8723,14 @@
         "locked": "phis:textures/gui/skill_icons/major/from_the_pagan_vastlands_locked.png"
       }
     },
-    "size": 2,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -8626,13 +8772,14 @@
         "locked": "phis:textures/gui/skill_icons/major/from_the_pagan_vastlands_locked.png"
       }
     },
-    "size": 2,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -8674,13 +8821,14 @@
         "locked": "phis:textures/gui/skill_icons/major/a_traveler_of_unknown_planes_locked.png"
       }
     },
-    "size": 2,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -8722,13 +8870,14 @@
         "locked": "phis:textures/gui/skill_icons/major/one_rode_to_asa_bay_locked.png"
       }
     },
-    "size": 2,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -8764,13 +8913,14 @@
         "locked": "phis:textures/gui/skill_icons/major/of_ice_and_movement_locked.png"
       }
     },
-    "size": 2,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -8809,13 +8959,14 @@
         "locked": "phis:textures/gui/skill_icons/major/as_the_wounds_gently_bleed_locked.png"
       }
     },
-    "size": 2,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -8857,13 +9008,14 @@
         "locked": "phis:textures/gui/skill_icons/major/deathwish_locked.png"
       }
     },
-    "size": 2,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -8905,13 +9057,14 @@
         "locked": "phis:textures/gui/skill_icons/major/as_mist_descends_from_the_hills_locked.png"
       }
     },
-    "size": 2,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -8953,13 +9106,14 @@
         "locked": "phis:textures/gui/skill_icons/major/the_thorns_that_guide_my_warpath_locked.png"
       }
     },
-    "size": 2,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {
@@ -8992,13 +9146,14 @@
         "locked": "phis:textures/gui/skill_icons/major/going_berserk_locked.png"
       }
     },
-    "size": 2,
+
     "icon": {
       "type": "texture",
       "data": {
         "texture": "phis:textures/gui/skill_icons/transparent.png"
       }
     },
+    "size": 2,
     "description": [
       "",
       {

@@ -53,11 +53,11 @@ ServerEvents.recipes((event) => {
   //   "#phis:enchanting_table"
   // );
 
-  event.replaceInput(
-    { output: "enchant_revised:enchant_altar" },
-    "minecraft:lapis_lazuli",
-    "irons_spellbooks:arcane_essence"
-  );
+  // event.replaceInput(
+  //   { output: "enchant_revised:enchant_altar" },
+  //   "minecraft:lapis_lazuli",
+  //   "irons_spellbooks:arcane_essence"
+  // );
 
   event.replaceInput(
     { output: "crittersandcompanions:silk_lead" },
