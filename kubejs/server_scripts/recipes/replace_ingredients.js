@@ -47,11 +47,11 @@ ServerEvents.recipes((event) => {
     "#phis:enchanting_table"
   );
 
-  event.replaceInput(
-    { input: "enchant_revised:enchant_altar" },
-    "enchant_revised:enchant_altar",
-    "#phis:enchanting_table"
-  );
+  // event.replaceInput(
+  //   { input: "enchant_revised:enchant_altar" },
+  //   "enchant_revised:enchant_altar",
+  //   "#phis:enchanting_table"
+  // );
 
   event.replaceInput(
     { output: "enchant_revised:enchant_altar" },

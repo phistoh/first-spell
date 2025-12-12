@@ -51,6 +51,17 @@ ItemEvents.entityInteracted("kubejs:arcane_infused_bottle", (event) => {
     "minecraft:snowy_taiga",
   ];
 
+  const potion_effects = [
+    "slowness",
+    "poison",
+    "weakness",
+    "harming",
+    "water_breathing",
+    "fire_resistance",
+    "healing",
+    "swiftness",
+  ];
+
   const extractable_liquids = {
     "minecraft:bogged": "kubejs:bottled_undead_soul",
     "minecraft:drowned": "kubejs:bottled_undead_soul",
@@ -76,6 +87,13 @@ ItemEvents.entityInteracted("kubejs:arcane_infused_bottle", (event) => {
     "bosses_of_mass_destruction:lich": "kubejs:bottled_undead_soul",
     "minecraft:cave_spider": "alshanex_familiars:poison_vial",
     "minecraft:spider": "irons_spellbooks:ice_venom_vial",
+    "minecraft:glow_squid": "supplementaries:lumisene_bottle",
+    "minecraft:pillager": "minecraft:ominous_bottle",
+    "minecraft:evoker": "minecraft:ominous_bottle",
+    "minecraft:vindicator": "minecraft:ominous_bottle",
+    "friendsandfoes:illusioner": "minecraft:ominous_bottle",
+    "simplemusket:musket_pillager": "minecraft:ominous_bottle",
+    "minecraft:witch": 'minecraft:potion[potion_contents={potion:"slowness"}]',
   };
 
   if (!player.tags.contains("phis.extract_various")) return;
@@ -100,6 +118,14 @@ ItemEvents.entityInteracted("kubejs:arcane_infused_bottle", (event) => {
   if (player.isCreative() == false) {
     item.count--;
   }
-  player.give(extractable_liquids[target.type]);
+  if (target.type == "minecraft:witch") {
+    const potion_effect =
+      potion_effects[Math.floor(Math.random() * potion_effects.length)];
+    player.give(
+      `minecraft:potion[potion_contents={potion:\"${potion_effect}\"}]`
+    );
+  } else {
+    player.give(extractable_liquids[target.type]);
+  }
   player.addItemCooldown("kubejs:arcane_infused_bottle", 1 * 20);
 });
