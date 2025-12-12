@@ -86,7 +86,7 @@ ServerEvents.tags("item", (event) => {
 
   // Enchanting Tables
   event.add("phis:enchanting_table", "minecraft:enchanting_table");
-  event.add("phis:enchanting_table", "enchant_revised:enchant_altar");
+  // event.add("phis:enchanting_table", "enchant_revised:enchant_altar");
 
   // Sticky Crafting
   event.add("map_atlases:sticky_crafting_items", "moresnifferflowers:corrupted_slime_ball");
