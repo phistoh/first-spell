@@ -9,7 +9,7 @@ ServerEvents.recipes((event) => {
     "mystical_soul": "minecraft:emerald",
     "wild_soul": "minecraft:poisonous_potato",
     "unfathomable_soul": "minecraft:echo_shard",
-    "echoing_soul": "minecraft:note_block",
+    "echoing_soul": "#c:music_discs",
   };
   for (const [spell_focus, ingredient] of Object.entries(spell_schools)) {
     event

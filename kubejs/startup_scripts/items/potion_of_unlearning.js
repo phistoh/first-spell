@@ -24,6 +24,9 @@ StartupEvents.registry("item", (event) => {
         entity.runCommandSilent(
           `puffish_skills skills reset @s phis:first_spell`
         );
+        entity.runCommandSilent(
+          `astages remove_all phistoh`
+        );
       }
       return itemstack;
     });
