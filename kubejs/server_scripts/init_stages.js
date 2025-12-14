@@ -314,22 +314,22 @@ AStages.addRestrictionForItem(
   .setCanBeStoredInContainers(true)
   .setCanPickedUp(true);
 
-// Fated Altar
-AStages.addRestrictionForRecipe(
-  "phis/crafting_fated_altar",
-  "phis_stage_fated_inventory",
-  "minecraft:crafting",
-  "fated_inventory:fated_altar"
-);
-AStages.addRestrictionForItem(
-  "phis/use_fated_altar",
-  "phis_stage_fated_inventory",
-  "fated_inventory:fated_altar"
-)
-  .setCanBeStoredInInventory(true)
-  .setCanBeStoredInContainers(true)
-  .setCanPickedUp(true)
-  .setJadeBlockMessage((stack) => Component.gray(stack.getHoverName()));
+// // Fated Altar
+// AStages.addRestrictionForRecipe(
+//   "phis/crafting_fated_altar",
+//   "phis_stage_fated_inventory",
+//   "minecraft:crafting",
+//   "fated_inventory:fated_altar"
+// );
+// AStages.addRestrictionForItem(
+//   "phis/use_fated_altar",
+//   "phis_stage_fated_inventory",
+//   "fated_inventory:fated_altar"
+// )
+//   .setCanBeStoredInInventory(true)
+//   .setCanBeStoredInContainers(true)
+//   .setCanPickedUp(true)
+//   .setJadeBlockMessage((stack) => Component.gray(stack.getHoverName()));
 
 // Grappling Hooks
 const hooks = ["diamond_hook", "redstone_hook", "ender_hook"];

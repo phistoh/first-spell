@@ -32,10 +32,10 @@ ServerEvents.tags("item", (event) => {
   event.add('c:tools/shields', 'endermanoverhaul:corrupted_shield')
 
   // Arcane Essence related
-  event.add(
-    "fated_inventory:charges_fated_altar",
-    "irons_spellbooks:arcane_essence"
-  );
+  // event.add(
+  //   "fated_inventory:charges_fated_altar",
+  //   "irons_spellbooks:arcane_essence"
+  // );
   event.add(
     "sneakycurses:reveals_curses",
     "irons_spellbooks:arcane_essence"

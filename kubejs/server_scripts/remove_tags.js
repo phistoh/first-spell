@@ -15,7 +15,7 @@ ServerEvents.tags("item", (event) => {
     event.remove(`irons_spellbooks:${school}_focus`, name);
   }
   event.remove("familiarslib:sound_focus", "minecraft:note_block");
-  event.remove("fated_inventory:charges_fated_altar", "minecraft:glowstone");
+  // event.remove("fated_inventory:charges_fated_altar", "minecraft:glowstone");
 
   event.remove("c:ingots", "rubinated_nether:bronze_powder");
   event.remove("sneakycurses:reveals_curses", "minecraft:amethyst_shard");
