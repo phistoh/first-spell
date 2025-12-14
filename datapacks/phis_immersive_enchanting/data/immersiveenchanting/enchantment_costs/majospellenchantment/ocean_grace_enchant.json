@@ -7,6 +7,14 @@
     "2": {
       "item": "supplementaries:antique_ink",
       "amount": 2
+    },
+    "3": {
+      "item": "supplementaries:antique_ink",
+      "amount": 4
+    },
+    "4": {
+      "item": "supplementaries:antique_ink",
+      "amount": 8
     }
   }
 }

@@ -1,0 +1,24 @@
+{
+  "levels": {
+    "1": {
+      "item": "supplementaries:antique_ink",
+      "amount": 1
+    },
+    "2": {
+      "item": "supplementaries:antique_ink",
+      "amount": 2
+    },
+    "3": {
+      "item": "supplementaries:antique_ink",
+      "amount": 4
+    },
+    "4": {
+      "item": "supplementaries:antique_ink",
+      "amount": 8
+    },
+    "5": {
+      "item": "supplementaries:antique_ink",
+      "amount": 16
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "levels": {
+    "1": {
+      "item": "irons_spellbooks:legendary_ink",
+      "amount": 1
+    },
+    "2": {
+      "item": "irons_spellbooks:legendary_ink",
+      "amount": 2
+    },
+    "3": {
+      "item": "irons_spellbooks:legendary_ink",
+      "amount": 4
+    }
+  }
+}

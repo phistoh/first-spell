@@ -1,0 +1,24 @@
+{
+  "levels": {
+    "1": {
+      "item": "irons_spellbooks:epic_ink",
+      "amount": 1
+    },
+    "2": {
+      "item": "irons_spellbooks:epic_ink",
+      "amount": 2
+    },
+    "3": {
+      "item": "irons_spellbooks:epic_ink",
+      "amount": 4
+    },
+    "4": {
+      "item": "irons_spellbooks:epic_ink",
+      "amount": 8
+    },
+    "5": {
+      "item": "irons_spellbooks:epic_ink",
+      "amount": 16
+    }
+  }
+}

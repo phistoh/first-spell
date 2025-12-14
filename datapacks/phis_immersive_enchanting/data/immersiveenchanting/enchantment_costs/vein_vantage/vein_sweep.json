@@ -1,0 +1,36 @@
+{
+  "levels": {
+    "1": {
+      "item": "irons_spellbooks:uncommon_ink",
+      "amount": 1
+    },
+    "2": {
+      "item": "irons_spellbooks:uncommon_ink",
+      "amount": 2
+    },
+    "3": {
+      "item": "irons_spellbooks:uncommon_ink",
+      "amount": 4
+    },
+    "4": {
+      "item": "irons_spellbooks:uncommon_ink",
+      "amount": 8
+    },
+    "5": {
+      "item": "irons_spellbooks:uncommon_ink",
+      "amount": 16
+    },
+    "6": {
+      "item": "irons_spellbooks:uncommon_ink",
+      "amount": 32
+    },
+    "7": {
+      "item": "irons_spellbooks:uncommon_ink",
+      "amount": 64
+    },
+    "8": {
+      "item": "irons_spellbooks:uncommon_ink",
+      "amount": 128
+    }
+  }
+}
