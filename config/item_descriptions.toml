@@ -6,7 +6,7 @@
 	display_always = false
 	# Prioritize the Entity Description of the spawn egg over the generic spawn egg description.
 	# default: true
-spawn_eggs_show_entity = true
+	spawn_eggs_show_entity = true
 # When Item Descriptions are being displayed, also display the mod name.
 # default: false
 show_mod_name = false
