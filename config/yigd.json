@@ -39,7 +39,7 @@
       "onStand": false
     },
     "mergeStacksOnRetrieve": true,
-    "dropOnRetrieve": "IN_INVENTORY",
+    "dropOnRetrieve": "ON_GROUND",
     "dropGraveBlock": false,
     "generateEmptyGraves": false,
     "overrideSpawnProtection": true,

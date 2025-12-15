@@ -7,4 +7,7 @@ ClientEvents.lang("en_us", (event) => {
 ItemEvents.modifyTooltips(event => {
     event.add('supplementaries:antique_ink', 'Quill included.')
     event.add('moresnifferflowers:dragonfly', 'Now with free levitation.')
+
+    event.add("keeperofinventories:keeper_of_inventories", '§4Warning:§r Does not work in a backpack!')
 });
+

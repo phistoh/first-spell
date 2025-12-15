@@ -1,0 +1,4 @@
+#The number of uses a charm has before it is destroyed. Set to 0 for infinity.
+# Default: 3
+# Range: 0 ~ 64
+charmUses = 3

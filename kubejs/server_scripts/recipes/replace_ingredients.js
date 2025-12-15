@@ -106,4 +106,16 @@ ServerEvents.recipes((event) => {
     "minecraft:leather",
     "irons_spellbooks:dragonskin"
   );
+
+  event.replaceInput(
+    { id: "keeperofinventories:keeper_of_inventories_craft" },
+    "minecraft:redstone",
+    "irons_spellbooks:arcane_essence"
+  );
+
+  event.replaceInput(
+    { id: "keeperofinventories:keeper_of_inventories_craft" },
+    "minecraft:gold_ingot",
+    "endrem:witch_pupil"
+  );
 });

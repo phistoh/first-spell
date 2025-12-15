@@ -124,6 +124,7 @@ ENCHANTMENTS = [
     Enchantment("efficiency", "minecraft", 2, 5),
     Enchantment("knockback", "minecraft", 2, 2),
     Enchantment("luck_of_the_sea", "minecraft", 2, 3),
+    Enchantment("mending", "minecraft", 2, 1),
     Enchantment("swift_sneak", "minecraft", 2, 3),
     Enchantment("unbreaking", "minecraft", 2, 3),
     Enchantment("blast_protection", "minecraft", 2, 4),

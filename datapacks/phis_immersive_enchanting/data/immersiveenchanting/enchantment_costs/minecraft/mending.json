@@ -1,1 +1,8 @@
-{}
+{
+  "levels": {
+    "1": {
+      "item": "irons_spellbooks:uncommon_ink",
+      "amount": 1
+    }
+  }
+}

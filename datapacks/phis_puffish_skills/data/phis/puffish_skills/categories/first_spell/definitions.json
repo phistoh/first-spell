@@ -529,14 +529,14 @@
     }
   },
   "loot_arcane_essence": {
-    "title": "[NYI] (tbd.) Nucleation Seed",
+    "title": "Nucleation Seed",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/unlocked.png",
-        "available": "phis:textures/gui/available.png",
-        "locked": "phis:textures/gui/locked.png",
-        "excluded": "phis:textures/gui/excluded.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/nucleation_seed_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/nucleation_seed_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/nucleation_seed_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/nucleation_seed_locked.png"
       }
     },
 
@@ -1757,14 +1757,14 @@
     }
   },
   "loot_spawn_eggs": {
-    "title": "(tbd.) The Ones You Left Behind",
+    "title": "The Ones You Left Behind",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/skill_icons/major/extra_ring_slot_unlocked.png",
-        "available": "phis:textures/gui/skill_icons/major/extra_ring_slot_locked.png",
-        "affordable": "phis:textures/gui/skill_icons/major/extra_ring_slot_available.png",
-        "locked": "phis:textures/gui/skill_icons/major/extra_ring_slot_locked.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/loot_spawn_eggs_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/loot_spawn_eggs_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/loot_spawn_eggs_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/loot_spawn_eggs_locked.png"
       }
     },
 
@@ -7733,14 +7733,14 @@
     }
   },
   "max_health_2": {
-    "title": "(tbd) Lamp of Invisible Lights",
+    "title": "Lamp of Invisible Lights",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/skill_icons/major/a_desolate_heart_unlocked.png",
-        "available": "phis:textures/gui/skill_icons/major/a_desolate_heart_locked.png",
-        "affordable": "phis:textures/gui/skill_icons/major/a_desolate_heart_available.png",
-        "locked": "phis:textures/gui/skill_icons/major/a_desolate_heart_locked.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/a_desolate_heart_2_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/a_desolate_heart_2_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/a_desolate_heart_2_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/a_desolate_heart_2_locked.png"
       }
     },
 
@@ -7776,14 +7776,14 @@
     }
   },
   "max_health_3": {
-    "title": "(tbd.) Nocturnal, Transparent Rainbow",
+    "title": "Nocturnal, Transparent Rainbow",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/skill_icons/major/a_desolate_heart_unlocked.png",
-        "available": "phis:textures/gui/skill_icons/major/a_desolate_heart_locked.png",
-        "affordable": "phis:textures/gui/skill_icons/major/a_desolate_heart_available.png",
-        "locked": "phis:textures/gui/skill_icons/major/a_desolate_heart_locked.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/a_desolate_heart_3_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/a_desolate_heart_3_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/a_desolate_heart_3_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/a_desolate_heart_3_locked.png"
       }
     },
 
@@ -7819,14 +7819,14 @@
     }
   },
   "max_health_4": {
-    "title": "(tbd.) I Am the World",
+    "title": "I Am the World",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/skill_icons/major/a_desolate_heart_unlocked.png",
-        "available": "phis:textures/gui/skill_icons/major/a_desolate_heart_locked.png",
-        "affordable": "phis:textures/gui/skill_icons/major/a_desolate_heart_available.png",
-        "locked": "phis:textures/gui/skill_icons/major/a_desolate_heart_locked.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/a_desolate_heart_4_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/a_desolate_heart_4_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/a_desolate_heart_4_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/a_desolate_heart_4_locked.png"
       }
     },
 
@@ -7905,14 +7905,14 @@
     }
   },
   "max_mana_2": {
-    "title": "(tbd.) The Witching Meadow",
+    "title": "The Witching Meadow",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/skill_icons/major/a_few_shreds_of_thoughts_unlocked.png",
-        "available": "phis:textures/gui/skill_icons/major/a_few_shreds_of_thoughts_locked.png",
-        "affordable": "phis:textures/gui/skill_icons/major/a_few_shreds_of_thoughts_available.png",
-        "locked": "phis:textures/gui/skill_icons/major/a_few_shreds_of_thoughts_locked.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/a_few_shreds_of_thoughts_2_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/a_few_shreds_of_thoughts_2_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/a_few_shreds_of_thoughts_2_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/a_few_shreds_of_thoughts_2_locked.png"
       }
     },
 
@@ -7952,10 +7952,10 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/skill_icons/major/mountain_magick_unlocked.png",
-        "available": "phis:textures/gui/skill_icons/major/mountain_magick_locked.png",
-        "affordable": "phis:textures/gui/skill_icons/major/mountain_magick_available.png",
-        "locked": "phis:textures/gui/skill_icons/major/mountain_magick_locked.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/a_few_shreds_of_thoughts_3_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/a_few_shreds_of_thoughts_3_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/a_few_shreds_of_thoughts_3_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/a_few_shreds_of_thoughts_3_locked.png"
       }
     },
 
@@ -7991,14 +7991,14 @@
     }
   },
   "max_mana_4": {
-    "title": "(tbd.) Forgotten Empire of Dark Witchcraft",
+    "title": "Forgotten Empire of Dark Witchcraft",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/skill_icons/major/mountain_magick_unlocked.png",
-        "available": "phis:textures/gui/skill_icons/major/mountain_magick_locked.png",
-        "affordable": "phis:textures/gui/skill_icons/major/mountain_magick_available.png",
-        "locked": "phis:textures/gui/skill_icons/major/mountain_magick_locked.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/a_few_shreds_of_thoughts_4_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/a_few_shreds_of_thoughts_4_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/a_few_shreds_of_thoughts_4_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/a_few_shreds_of_thoughts_4_locked.png"
       }
     },
 
@@ -8497,14 +8497,14 @@
     }
   },
   "mining_speed": {
-    "title": "(tbd.) The Final Architect",
+    "title": "The Final Architect",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/skill_icons/major/last_benediction_unlocked.png",
-        "available": "phis:textures/gui/skill_icons/major/last_benediction_locked.png",
-        "affordable": "phis:textures/gui/skill_icons/major/last_benediction_available.png",
-        "locked": "phis:textures/gui/skill_icons/major/last_benediction_locked.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/the_final_architect_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/the_final_architect_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/the_final_architect_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/the_final_architect_locked.png"
       }
     },
 
@@ -8583,14 +8583,14 @@
     }
   },
   "shovel_speed": {
-    "title": "(tbd.) Chants of the Deep Ones",
+    "title": "Chants of the Deep Ones",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/skill_icons/major/come_all_ye_coal_miners_unlocked.png",
-        "available": "phis:textures/gui/skill_icons/major/come_all_ye_coal_miners_locked.png",
-        "affordable": "phis:textures/gui/skill_icons/major/come_all_ye_coal_miners_available.png",
-        "locked": "phis:textures/gui/skill_icons/major/come_all_ye_coal_miners_locked.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/chants_of_the_deep_ones_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/chants_of_the_deep_ones_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/chants_of_the_deep_ones_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/chants_of_the_deep_ones_locked.png"
       }
     },
 
@@ -8627,14 +8627,14 @@
     }
   },
   "axe_speed": {
-    "title": "(tbd.) Foreverdark Woods",
+    "title": "Foreverdark Woods",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/skill_icons/major/come_all_ye_coal_miners_unlocked.png",
-        "available": "phis:textures/gui/skill_icons/major/come_all_ye_coal_miners_locked.png",
-        "affordable": "phis:textures/gui/skill_icons/major/come_all_ye_coal_miners_available.png",
-        "locked": "phis:textures/gui/skill_icons/major/come_all_ye_coal_miners_locked.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/foreverdark_woods_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/foreverdark_woods_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/foreverdark_woods_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/foreverdark_woods_locked.png"
       }
     },
 
@@ -8762,14 +8762,14 @@
     }
   },
   "fall_damage_reduction_2": {
-    "title": "(tbd.)",
+    "title": "Last Call",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/skill_icons/major/from_the_pagan_vastlands_unlocked.png",
-        "available": "phis:textures/gui/skill_icons/major/from_the_pagan_vastlands_locked.png",
-        "affordable": "phis:textures/gui/skill_icons/major/from_the_pagan_vastlands_available.png",
-        "locked": "phis:textures/gui/skill_icons/major/from_the_pagan_vastlands_locked.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/last_call_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/last_call_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/last_call_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/last_call_locked.png"
       }
     },
 
