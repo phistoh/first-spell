@@ -1867,10 +1867,10 @@
     "description": [
       "",
       {
-        "text": "You are able to craft and mine "
+        "text": "You are able to craft the "
       },
       {
-        "text": "Fated Altars",
+        "text": "Keeper of Inventories",
         "color": "dark_aqua"
       },
       {
@@ -1881,7 +1881,7 @@
       {
         "type": "astages:stage_reward",
         "data": {
-          "stage": "phis_stage_fated_inventory",
+          "stage": "phis_stage_keeper_of_inventories",
           "operation": "add"
         }
       }

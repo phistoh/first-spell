@@ -483,3 +483,11 @@ AStages.addRestrictionForRecipe(
   "rubinated_nether:freezing",
   "kubejs:dragon_breath_freezing"
 );
+
+// Keep inventory
+AStages.addRestrictionForRecipe(
+  "phis/crafting_keeper_of_inventories",
+  "phis_stage_keeper_of_inventories",
+  "minecraft:crafting",
+  "keeperofinventories:keeper_of_inventories_craft"
+);
