@@ -3109,6 +3109,64 @@
       "icon": "nb33vc1zazras1k9"
     }
   },
+  "cobblemon": {
+    "title": "An Evolution of Horns",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/skill_icons/major/cobblemon_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/cobblemon_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/cobblemon_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/cobblemon_locked.png"
+      }
+    },
+
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
+      }
+    },
+    "size": 2,
+    "description": [
+      "",
+      {
+        "text": "You are able to catch "
+      },
+      {
+        "text": "Pokémon",
+        "color": "dark_green"
+      },
+      {
+        "text": ". In addition, you can choose your "
+      },
+      {
+        "text": "Starter Pokémon",
+        "color": "dark_green"
+      },
+      {
+        "text": "."
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "openstarterscreen @s"
+        }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": {
+          "stage": "phis_stage_cobblemon",
+          "operation": "add"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "nb33vc1zazras1k9"
+    }
+  },
   "comment_1": {
     "title": " ================================================================================ CLASS ARCHETYPES BELOW ================================================================================",
     "frame": {
@@ -6835,7 +6893,7 @@
         "available": "phis:textures/gui/skill_icons/evocation/evocation_mage_5_locked.png",
         "affordable": "phis:textures/gui/skill_icons/evocation/evocation_mage_5_available.png",
         "locked": "phis:textures/gui/skill_icons/evocation/evocation_mage_5_locked.png",
-        "excluded": "phis:textures/gui/skill_icons/evocation/evocation_mage_5_locked.png"
+        "excluded": "phis:textures/gui/skill_icons/evocation/evocation_mage_5_excluded.png"
       }
     },
 

@@ -430,7 +430,7 @@ AStages.addRestrictionForRecipe(
 AStages.addRestrictionForItem(
   "phis/use_diamond_backpack",
   "phis_stage_backpack_diamond",
-  "yyzsbackpack:diamond_backpack",
+  "yyzsbackpack:diamond_backpack"
 )
   .setCanBeStoredInInventory(true)
   .setCanBeStoredInContainers(true)
@@ -491,3 +491,13 @@ AStages.addRestrictionForRecipe(
   "minecraft:crafting",
   "keeperofinventories:keeper_of_inventories_craft"
 );
+
+// Cobblemon
+AStages.addRestrictionForTag(
+  "phis/use_pokeballs",
+  "phis_stage_cobblemon",
+  "cobblemon:poke_balls"
+)
+  .setCanBeStoredInInventory(true)
+  .setCanBeStoredInContainers(true)
+  .setCanPickedUp(true);

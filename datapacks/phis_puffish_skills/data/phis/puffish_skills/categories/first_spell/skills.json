@@ -916,5 +916,11 @@
 		"x": -1120,
 		"y": -544,
 		"root": false
+	},
+	"ti3do9tuox9vr4v6": {
+		"definition": "cobblemon",
+		"x": 64,
+		"y": -992,
+		"root": true
 	}
 }
