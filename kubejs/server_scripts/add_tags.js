@@ -91,6 +91,14 @@ ServerEvents.tags("item", (event) => {
   // Sticky Crafting
   event.add("map_atlases:sticky_crafting_items", "moresnifferflowers:corrupted_slime_ball");
   event.add("map_atlases:sticky_crafting_items", "crittersandcompanions:sea_bunny_slime_bottle");
+
+  // Ink
+  event.add("phis:ink", "supplementaries:antique_ink");
+  event.add("phis:ink", "irons_spellbooks:common_ink");
+  event.add("phis:ink", "irons_spellbooks:uncommon_ink");
+  event.add("phis:ink", "irons_spellbooks:rare_ink");
+  event.add("phis:ink", "irons_spellbooks:epic_ink");
+  event.add("phis:ink", "irons_spellbooks:legendary_ink");
 });
 
 ServerEvents.tags("block", (event) => {

@@ -376,6 +376,14 @@
         "color": "dark_aqua"
       },
       {
+        "text": " and "
+      },
+      {
+        "text": "Blank Scrolls",
+        "italic": true,
+        "color": "dark_aqua"
+      },
+      {
         "text": "."
       }
     ],
@@ -1870,7 +1878,7 @@
         "text": "You are able to craft the "
       },
       {
-        "text": "Keeper of Inventories",
+        "text": "Totem of Keeping",
         "color": "dark_aqua"
       },
       {

@@ -2,7 +2,13 @@ ServerEvents.recipes((event) => {
   event.replaceInput(
     { mod: "irons_spellbooks" },
     "irons_spellbooks:common_ink",
-    "supplementaries:antique_ink"
+    "#phis:ink"
+  );
+
+  event.replaceInput(
+    { mod: "supplementaries" },
+    "supplementaries:antique_ink",
+    "#phis:ink"
   );
 });
 
@@ -117,5 +123,44 @@ ServerEvents.recipes((event) => {
     { id: "keeperofinventories:keeper_of_inventories_craft" },
     "minecraft:gold_ingot",
     "endrem:witch_pupil"
+  );
+});
+
+ServerEvents.recipes((event) => {
+  event.replaceInput(
+    { id: "simpletms:tr_blank" },
+    "minecraft:quartz",
+    "biomesoplenty:rose_quartz_chunk"
+  );
+  event.replaceInput(
+    { id: "simpletms:tr_blank" },
+    "minecraft:diamond",
+    "irons_spellbooks:rare_ink"
+  );
+  event.replaceInput(
+    { id: "simpletms:tr_blank" },
+    "minecraft:iron_ingot",
+    "netherdepthsupgrade:fortress_grouper_plate"
+  );
+});
+
+ServerEvents.recipes((event) => {
+  event.replaceInput(
+    { id: "simpletms:case_tm" },
+    "minecraft:leather",
+    "irons_spellbooks:hogskin"
+  );
+  event.replaceInput(
+    { id: "simpletms:case_tm" },
+    "minecraft:diamond",
+    "rubinated_nether:ruby"
+  );
+});
+
+ServerEvents.recipes((event) => {
+  event.replaceInput(
+    { id: "simpletms:tm_blank_echo_shard" },
+    "minecraft:echo_shard",
+    "deeperdarker:resonarium"
   );
 });

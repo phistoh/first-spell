@@ -125,6 +125,13 @@ AStages.addRestrictionForRecipe(
 );
 
 AStages.addRestrictionForRecipe(
+  "phis/crafting_unbound_scroll",
+  "phis_stage_return_scroll",
+  "minecraft:crafting",
+  "waystones:blank_scroll"
+);
+
+AStages.addRestrictionForRecipe(
   "phis/crafting_warp_stone",
   "phis_stage_warp_stone",
   "minecraft:crafting",
