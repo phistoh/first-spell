@@ -22,7 +22,7 @@
   },
   "disabledDimensions": ["ant", "bash", "checkerboard",
     "missing", "notes", "perfection", "terminal"],
-  "portalKey": "",
+  "portalKey": "kubejs:infinity_key_charged",
   "salt": "",
   "rootChances": {
     "dimension_type": {
