@@ -1,3 +1,101 @@
+# Magie
+Da es dieses Mal was "mit Zaubern" geben sollte, habe ich mich für [**Iron's Spells 'n Spellbooks**](https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks) (**ISS**) entschieden. Der ist etwas direkter, als andere Zaubermods (wie bspw. [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau) – den muss ich mir aber auch irgendwann mal anschauen 😅) und auch eher auf Zauber zum Kämpfen orientiert. **ISS** habe ich folgendermaßen konfiguriert:
+- Die Rüstungswerte der Magierrüstungen habe ich alle halbiert, damit man auch einen Grund hat, die "normalen" Rüstungen zu nutzen
+- Die Zauberfoki sind geändert. Für jede Schule gibt es ein Item *\[irgendwas\] Soul*, damit die alle gleich selten sind. Es gibt auch einen Skill, mit dem man die Foki craften kann. (Die Rezepte nutzen dann u.a. die ursprünglichen Foki.)
+- Eigentlich wollte ich *Common Ink* durch *Antique Ink* (aus dem [**Supplementaries**](https://www.curseforge.com/minecraft/mc-mods/supplementaries) Mod) ersetzen, damit es nicht zwei verschiedene "Ink"-Items gibt. Da allerdings alle *Scroll Forge*- und *Arcane Anvil*-Rezepte hardgecodet sind und *Common Ink* brauchen, wurde nichts aus dem Plan. Damit man aber dennoch beide "Ink"-Arten für die jeweils anderen "normalen" Rezepte nutzen kann, gibt es Rezepte, mit welchen man *Common Ink* zu *Antique Ink* umwandeln kann (und umgekehrt).
+- Das Herstellen und Nutzen der *Scroll Forge* und des *Arcane Anvil* ist durch Skills freischaltbar
+- Es gibt Vertraute, die einen im Kampf unterstützen (implementiert durch [**Alshanex Familiar's**](https://legacy.curseforge.com/minecraft/mc-mods/alshanexs-familiars))
+- Zauber müssen erst gelernt werden, bevor man die Schriftrolle in ein Zauberbuch schreiben kann. ([**Irons Spells 'n Spellbooks Restrictions**](https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks-restrictions))
+- Man kann bessere/seltenere Zauber nur nutzen, wenn man den passenden Skill hat
+- *Arcane Essence* wird für einige andere Mods/Rezepte genutzt, darum gibt es einen Skill, der diese herstellbar macht und einen Skill, der diese als Loot freischaltet.
+	- Beispiele sind: Verzaubern (*Arcane Essence* statt *Lapis Lazuli*) oder Waystone-Teleport-Kosten (*Arcane Essence* statt Erfahrung)
+
+# Gameplay
+
+- Mit [**Pufferfish's Skills**](https://www.curseforge.com/minecraft/mc-mods/puffish-skills) gibt es diesmal einen Skill-Baum.
+	- Das Menü kann man mit `K` öffnen.
+	- Das Maximallevel ist *50* – man kann also nicht alle Skills im Baum lernen.
+	- Es gibt die Möglichkeit, die Skills zurücksetzen (mit der herstellbaren *Potion of Unlearning*).
+	- Wenn man Level 50 erreicht, öffnet sich eine neue Skill-Kategorie, bei der man seine Levelups gegen Items eintauschen kann (damit man auch auf dem Max-Level noch etwas vom leveln hat.)
+- Der [**Better Combat**](https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus)-Mod verändert das Kämpfen ein wenig. Aber hauptsächlich habe ich ihn installiert, damit man Waffen dual-wielden kann. (Den Mod gab es auch beim letzten Mal)
+- Mit der `Shift + Mausrad` kann man zwischen drei verschiedenen Offhand-Items wechseln (diese Slots sind als Curio-Slots implementiert) ([**More Offhand Slots**](https://modrinth.com/mod/more-offhand-slots))
+- Zusätzlich gibt es jetzt "Ausweich-Rollen" ([**Combat Roll**](https://www.curseforge.com/minecraft/mc-mods/combat-roll)). Die sind zwar wahrscheinlich nicht sonderlich relevant in Minecraft – außer vielleicht für die verschiedenen Bosse (**ISS**, [**Luminous: Beasts**](https://modrinth.com/mod/luminous-beasts), [**Bosses of Mass Destruction**](https://www.curseforge.com/minecraft/mc-mods/bosses-of-mass-destruction-forge)) – aber irgendwie passen sie zu einem eher durch Action-RPG inspirierten Pack.
+
+# Immersion
+Um die "Abhängigkeiten von externen oder Debug-Informationen" etwas zu reduzieren, kommen die folgenden Mods bzw. Features zum tragen:
+- `reduced_debug_info` ist aktiv – im `F3`-Bildschirm sieht man u.a. *nicht* die Koordinaten, das Lichtlevel oder das aktuelle Biom
+- Mit dem Immersive Overlays-Mod kann man sich verschiedene Informationen wieder einblenden lassen, wenn man passende Items hat (entweder im Inventar oder in einem passenden Curio-Slot):
+	- Koordinaten → *Kompass* (+ *Altimeter* ([**Supplementaries**](https://modrinth.com/mod/supplementaries)) für `Y`-Koordinate)
+	- Biom → *Map Atlas* ([**Map Atlases**](https://www.curseforge.com/minecraft/mc-mods/map-atlases-forge))
+	- Wetter → *Wind Vane* ([**Supplementaries**](https://modrinth.com/mod/supplementaries))
+	- Uhrzeit → *Uhr*
+	- [Jade 🔍](https://www.curseforge.com/minecraft/mc-mods/jade)-Tooltip → Fernglas
+- Auf eine Karte hat man nur Zugriff, wenn man ein *Map Atlas*-Item  aus dem [**Map Atlases**](https://www.curseforge.com/minecraft/mc-mods/map-atlases-forge)-Mod hat
+- Um das Lichtlevel zu ermitteln, hilft der *Glare* (aus dem [**Friends&Foes**](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes-forge)-Mod)
+- Durch den [**Slime Buckets**](https://www.curseforge.com/minecraft/mc-mods/slime-buckets)-Mod kann man Schleime in Eimer aufsammeln (wie Fische oder Axolotl). Wenn man sich in einem Schleim-Chunk befindet, hüpft der Schleim im Eimer energisch auf und ab
+- Zoomen kann man, wenn man ein *Fernglas* dabei hat. Hierzu muss es nicht, wie in Vanilla, explizit als Item genutzt werden, sondern es ist auch möglich, mit `Z` zu zoomen, wenn das *Fernglas* im Inventar oder im Gürtel-Curio-Slot liegt. ([**Spyglass Improvements**](https://www.curseforge.com/minecraft/mc-mods/spyglass-improvements)-Mod)
+- Um das essen von verschiedenen Gerichten anzureizen ist der [**Spice of Life: Valheim Reforged**](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-valheim-reforged)-Mod installiert. Ähnlich wie in *Valheim* hat man drei "gegessenes Essen"-Slots, die je nach Essen für eine bestimmte Zeit extra Herzen und Regeneration geben. Ist also weniger permanent, wie das "Herzen über verschiedenes Essen sammeln" beim letzten Mal.
+	- Wie beim letzten Mal ist auch wieder [**Farmer's Delight**](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) drauf, damit man mehr Auswahl beim Essen hat
+
+# Ausrüstung
+- Um mehr Ausrüstung zu ermöglichen ist der [**Curios**](https://www.curseforge.com/minecraft/mc-mods/curios)-Mod installiert. Zusammen mit dem [**Artifacts**](https://www.curseforge.com/minecraft/mc-mods/artifacts)-Mod gibt es eine Vielzahl an Items, die man zusätzlich zur Rüstung ausrüsten kann.
+- Ebenfalls kann man über Skills einen extra Curio-Slot für *Elytra* (und *Soul Elytra* ([**Deeper and Darker**](https://www.curseforge.com/minecraft/mc-mods/deeperdarker))-Mod) freischalten
+- Es gibt Curio-Slots für *Totem*, *Kompass*, *Uhr*, *Fernglas* und *Map Atlas*
+- Neben zusätzlichen Werkzeug-/Rüstungs-Tiers (*Kupfer* ([**Leaf's Copper Backport**](https://www.curseforge.com/minecraft/mc-mods/copper-backport)-Mod), *Resonarium*, *Warden* (beide aus dem [**Deeper and Darker**](https://www.curseforge.com/minecraft/mc-mods/deeperdarker))-Mod)) gibt es noch folgende, "nennenswerte" Item-Kategorien:
+	- Musketen ([**Simple Musket**](https://www.curseforge.com/minecraft/mc-mods/simple-musket))
+	- Grappling Hooks ([**Hooked**](https://modrinth.com/mod/hooked))
+	- Rucksäcke ([**yyzsbackpack**](https://www.curseforge.com/minecraft/mc-mods/yyzsbackpack))
+- Zum Verzaubern kommt der [**Immersive Enchanting**](https://www.curseforge.com/minecraft/mc-mods/immersive-enchanting)-Mod zum Einsatz: Statt zufälliger Verzauberungen muss man *ancient books* finden, die man in *chiseled bookshelves* steckt, welche statt der üblichen Bücherregale um den Verzaubertisch platziert werden. Von allen Verzauberungen, die in den *chiseled bookshelves* stehen, kann man sich dann welche auswählen. Verzaubern kostet ebenfalls keine XP, sondern *arcane essence* und *Tinte* (je nach Verzauberung mehr und/oder bessere *Tinte*).
+- Da Verzaubern keine XP braucht, sorgt der [**Mending Reworked**](https://www.curseforge.com/minecraft/mc-mods/mendingrework)-Mod dafür, dass auch Reparieren keine XP braucht. Man kann Items in einem Amboss mit dem Material reparieren, mit dem man sie auch herstellt.
+- Da es keine XP mehr gibt, ist *Mending* als Verzauberung auch so geändert, dass Items mit *Mending* mehr Haltbarkeit beim Reparieren zurückerhalten.
+- *Protection* und *Sharpness* sind deaktiviert, damit man eher auf die spezifischeren Verzauberungen wie bspw. *Smite* oder *Blast Protection* zurückgreift.
+- Der [**TrimsEffects**](https://modrinth.com/mod/trimseffects)-Mod sorgt dafür, dass "armor trims" auch eine Funktion haben. Wenn man zwei Rüstungsteile mit dem gleichem Trim trägt, bekommt man einen vom Trim abhängigen Stufe 1-Effekt. Wenn man vier gleiche Trims träge, einen Stufe 2-Effekt.
+
+# Welt
+- Mit [**Larion**](https://www.curseforge.com/minecraft/mc-mods/larion-world-generation) und dem [**Larion: Disc World**](https://modrinth.com/datapack/larion-one-continent)-Datapack besteht die *Overworld* aus einem 5000-Block großen Kontinent, bei dem die kalten Gebiete im Norden und die heißen Gebiete im Süden liegen.
+- Zusätzliche Biome liefert [**Biomes O' Plenty**](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
+- Nebem den *Nether* und dem *Ende* gibt es wie beim letzten Mal auch wieder die *Deep Dark*-Dimension ([**Deeper and Darker**](https://www.curseforge.com/minecraft/mc-mods/deeperdarker))
+- Außerdem gibt es die zufällig generierten [**Infinite Dimensions**](https://www.curseforge.com/minecraft/mc-mods/infinite-dimensions), die ursprünglich aus einem [Aprilscherz](https://minecraft.wiki/w/Java_Edition_20w14%E2%88%9E) entstanden sind. (Hierzu muss man einen speziellen Skill gewählt haben.)
+- Mit dem [**Waystones**](https://www.curseforge.com/minecraft/mc-mods/waystones)-Mod gibt es eine Möglichkeit zum teleportieren. Teleportieren an *Waystones* kostet *Arcane Essence*.
+	- Es gibt natürlich generierte [**Towers of the Wild**](https://www.curseforge.com/minecraft/mc-mods/towers-of-the-wild-modded), an dessen Spitzen sich *Waystones* befinden.
+	- Eigene *Waystones* herstellen ist über einen Skill erlernbar, sonst muss man sich auf die generierten verlassen.
+- Der [**Cave Spelunking**](https://www.curseforge.com/minecraft/mc-mods/caveore)-Mod sorgt dafür, dass man Erze eher in Höhlen findet, statt durch Branch-/Strip-Mining
+- Generierte Kisten (bspw. in Minen) haben kein globales Inventar, sondern jeder Spieler kann sie einmal looten. ([**Lootr**](https://www.curseforge.com/minecraft/mc-mods/lootr)-Mod)
+
+# [**Cobblemon**](https://www.curseforge.com/minecraft/mc-mods/cobblemon)
+- Das Fangen von *Cobblemon* (bzw. das Benutzen von Pokébällen) kann man über einen Skill freischalten (seinen *Starter* kann man auch erst dann aussuchen, wenn man den Skill lernt).
+- Zusätzlich sind noch die folgenden Mods installiert:
+	- [**SimpleTMs: TMs and TRs for Cobblemon**](https://www.curseforge.com/minecraft/mc-mods/simpletms-tms-and-trs-for-cobblemon)
+		- Damit *Cobblemon* mehr Attacken lernen können
+	- [**Cobblemon Fight or Flight Reborn**](https://www.curseforge.com/minecraft/mc-mods/cobblemon-fight-or-flight-reborn)
+		- *Cobblemon* können sich auch auf der *Overworld* wehren
+	- [**Cobblemon: Cobbled Levels**](https://www.curseforge.com/minecraft/mc-mods/cobblemon-cobbled-levels)
+		- *Cobblemon*-Level sind "passend zur Progress-Kurve" (*Overworld*-Mitte → *Overworld*-Rand → *Nether* → *Ende* → *Deep* Dark)
+
+# QoL
+- Es gibt neue Kisten mit verschiedenen Funktionen:
+	- *Nether chests* ([**Nether Chested**](https://www.curseforge.com/minecraft/mc-mods/nether-chested)) → Können Item-Stacks mit bis zu 512 Items enthalten
+	- *Linked chests* ([**Linked Chests**](https://www.curseforge.com/minecraft/mc-mods/linked-chests)) → Bieten die Möglichkeit, Kisten miteinander zu verbinden, so dass diese sich dasselbe Inventar teilen. Die Kisten müssen nicht "physisch" verbunden sein – sie müssen sich nur den selben Farbcode teilen.
+	- *Echo chests* ([**Echo Chest**](https://www.curseforge.com/minecraft/mc-mods/echo-chest)) → Sammeln automatisch alle Items in einem gewissen Radius auf
+- Es gibt diverse *Hopper*-adjazente Items, die Sortieren vereinfachen. Bpsw. *Hopper mit Item-Filtern* oder *Rohre*. ([**Hopper Gadgetry**](https://www.curseforge.com/minecraft/mc-mods/hopper-gadgetry)-Mod)
+- Mit dem [**Comforts**](https://www.curseforge.com/minecraft/mc-mods/comforts)-Mod gibt es eine Möglichkeit zu schlafen, *ohne* seinen Spawnpunkt zu setzen und eine Möglichkeit zu schlafen, um den Tag zu überspringen
+- Wenn man stirbt, hinterlässt man ein Grab, dass alle Items enthält ([**You're in Grave Danger**](https://www.curseforge.com/minecraft/mc-mods/youre-in-grave-danger)-Mod). D.h., man muss nur wieder zurück zu seinem Todesort gehen
+- Statt der `keepInventory`-Regel gibt es den -Mod, der ein (verbrauchbares) Item hinzufügt, welches dafür sorgt, dass man sein Inventar behält, wenn man stirbt ([**Keeper of Inventories**](https://www.curseforge.com/minecraft/mc-mods/keeper-of-inventories)-Mod)
+	- Dieses Item kann auch in den Charm-Curio-Slot gepackt werden
+	- Es gibt einen Skill, der dieses Item herstellbar macht
+- Reiten ist durch den [**Horseman**](https://legacy.curseforge.com/minecraft/mc-mods/horseman)-Mod angenehmer als in Vanilla (bspw. können Pferde nun schwimmen)
+
+# Vanilla Backport
+Das Modpack läuft unter Minecraft `1.21.1`, aber die folgenden Features neuerer Versionen sind über Backport-Mods trotzdem dabei:
+- Happy Ghasts
+- Pale Garden (inkl. Creaking)
+- Nautilus
+- Speere
+- Kuh- und Huhn-Varianten
+- Kupfer-Ausrüstung
+- Kupfer-Golem (der Kupfer-Golem in **Friends & Foes** hat nicht die aktuelle Funktionalität, darum ein extra Backport-Mod)
+
+# Vollständige Modliste
 - [3d\-Skin\-Layers](https://modrinth.com/mod/zV5r3pPn) [1\.9\.2] by tr7zw (skinlayers3d\-neoforge\-1\.9\.2\-mc1\.21\.1\.jar)
 - [AStagesPufferFishSkills](https://www.curseforge.com/projects/1303921) [1\.0\.0\-1\.21\.1] (astagespufferfishskills\-1\.0\.0\-1\.21\.1\.jar)
 - [Additional Attributes](https://modrinth.com/mod/z7dzpcw6) [1\.2\.2] by Cadentem (additional\_attributes\-1\.21\.1\-1\.2\.2\.jar)
@@ -35,12 +133,15 @@
 - [Chimes](https://www.curseforge.com/projects/350464) [2\.0\.3] by CicadaBluw (Chimes\-v2\.0\.3\-1\.21\.1\-NeoForge\.jar)
 - [Chipped](https://modrinth.com/mod/BAscRYKm) [4\.0\.2] by Alex Nijjar, Grimbop, Kekie6, ThatGravyBoat (chipped\-neoforge\-1\.21\.1\-4\.0\.2\.jar)
 - [Cloth Config v15 API](https://modrinth.com/mod/9s6osm5g) [15\.0\.140] by shedaniel (cloth\-config\-15\.0\.140\-neoforge\.jar)
+- [CobbledLevels](https://www.curseforge.com/projects/1290184) [1\.5\.0] by Slaxlax (CobbledLevels\-neoforge\-1\.5\.0\.jar)
+- [Cobblemon](https://modrinth.com/mod/MdwFAVRL) [1\.7\.1\+1\.21\.1] by The Cobblemon Team (Cobblemon\-neoforge\-1\.7\.1\+1\.21\.1\.jar)
+- [Cobblemon Fight or Flight](https://www.curseforge.com/projects/1168140) [0\.10\.2] by rufia,LyquidQrystal (fightorflight\-neoforge\-0\.10\.2\.jar)
 - [Collective](https://modrinth.com/mod/e0M1UDsY) [8\.13] by Rick South (collective\-1\.21\.1\-8\.13\.jar)
 - [Combat Roll](https://modrinth.com/mod/wGKYL7st) [2\.0\.5\+1\.21\.1] by Daedelus (combat\_roll\-neoforge\-2\.0\.5\+1\.21\.1\.jar)
 - [Comforts](https://modrinth.com/mod/SaCpeal4) [9\.0\.4\+1\.21\.1] by Illusive Soulworks (comforts\-neoforge\-9\.0\.4\+1\.21\.1\.jar)
 - [Configured](https://www.curseforge.com/projects/457570) [2\.6\.2] by MrCrayfish (configured\-neoforge\-1\.21\.1\-2\.6\.2\.jar)
 - [Controlling](https://www.curseforge.com/projects/250398) [19\.0\.5] by Jaredlll08 (Controlling\-neoforge\-1\.21\.1\-19\.0\.5\.jar)
-- [Copper Age Backport](https://modrinth.com/mod/a1llHwl4) [0\.1\.0] by Smallinger (copperagebackport\-neoforge\-1\.21\.1\-0\.1\.0\.jar)
+- [Copper Age Backport](https://modrinth.com/mod/a1llHwl4) [0\.1\.4] by Smallinger (copperagebackport\-neoforge\-1\.21\.1\-0\.1\.4\.jar)
 - [CorgiLib](https://modrinth.com/mod/ziOp6EO8) [5\.0\.0\.7] by Corgi Taco (Corgilib\-NeoForge\-1\.21\.1\-5\.0\.0\.7\.jar)
 - [CoroUtil](https://modrinth.com/mod/rLLJ1OZM) [1\.21\.0\-1\.3\.8] by Corosus (coroutil\-neoforge\-1\.21\.0\-1\.3\.8\.jar)
 - [CosmeticArmorReworked](https://www.curseforge.com/projects/237307) [1\.21\.1\-v1\-neoforge] by zlainsama (cosmeticarmorreworked\-1\.21\.1\-v1\-neoforge\.jar)
@@ -55,7 +156,6 @@
 - [Dismount Entity](https://modrinth.com/mod/H7N61Wcl) [3\.6] by Rick South (dismountentity\-1\.21\.1\-3\.6\.jar)
 - [Distant Horizons](https://modrinth.com/mod/uCdwusMi) [2\.3\.6\-b] (DistantHorizons\-2\.3\.6\-b\-1\.21\.1\-fabric\-neoforge\.jar)
 - [Distraction Free Recipes \(EMI\)](https://modrinth.com/mod/gbJLUhZP) [1\.2\.1] by Toni (distraction\_free\_recipes\-neoforge\-1\.2\.1\-1\.21\.1\.jar)
-- [Dungeon Difficulty](https://modrinth.com/mod/ENZmbSFZ) [3\.6\.5\+1\.21\.1] by Daedelus (dungeon\_difficulty\-neoforge\-3\.6\.5\+1\.21\.1\.jar)
 - [Dynamic Surroundings](https://modrinth.com/mod/H7fshfpD) [0\.4\.2] by OreCruncher (dynamicsurroundings\-neoforge\-1\.21\.1\-0\.4\.2\.jar\.disabled)
 - [EMI](https://modrinth.com/mod/fRiHVvU7) [1\.1\.22\+1\.21\.1\+neoforge] by Emi (emi\-1\.1\.22\+1\.21\.1\+neoforge\.jar)
 - [EMI Enchanting](https://modrinth.com/mod/wbWoo11W) [0\.1\.2\+1\.21\+neoforge] by fzzyhmstrs (emi\_enchanting\-0\.1\.2\+1\.21\+neoforge\.jar)
@@ -76,7 +176,6 @@
 - [Farmer's Delight](https://modrinth.com/mod/R2OftAxM) [1\.2\.9] by vectorwing (FarmersDelight\-1\.21\.1\-1\.2\.9\.jar)
 - [Fast Item Frames](https://modrinth.com/mod/FsoeTIV0) [21\.1\.6] by Fuzs (FastItemFrames\-v21\.1\.6\-1\.21\.1\-NeoForge\.jar)
 - [Fast Paintings](https://www.curseforge.com/projects/883287) [1\.21\-1\.3\.0] by MehVahdJukaar (fastpaintings\-1\.21\-1\.3\.0\-neoforge\.jar)
-- [Fated Inventory](https://modrinth.com/mod/3EyAgeaS) [1\.2\.0] by kyleplo (fated\_inventory\-neoforge\-1\.21\.1\-1\.2\.0\.jar)
 - [Fireproof Boats](https://www.curseforge.com/projects/830962) [1\.21\.1\-1\.0\.4] by LobsterJonn (fireproofboats\-1\.21\.1\-1\.0\.4\.jar)
 - [FirstPerson](https://modrinth.com/mod/H5XMjpHi) [2\.5\.0] by tr7zw (firstperson\-neoforge\-2\.5\.0\-mc1\.21\.jar)
 - [Forgified Fabric API](https://modrinth.com/mod/Aqlf1Shp) [0\.115\.6\+2\.1\.4\+1\.21\.1] by Sinytra, FabricMC (forgified\-fabric\-api\-0\.115\.6\+2\.1\.4\+1\.21\.1\.jar)
@@ -94,7 +193,7 @@
 - [Hopper Gadgetry](https://modrinth.com/mod/RCK4uOMN) [21\.1\.2] by Fuzs (HopperGadgetry\-v21\.1\.2\-1\.21\.1\-NeoForge\.jar)
 - [Horseman](https://modrinth.com/mod/qIv5FhAA) [1\.5\.6] by mortuusars (horseman\-neoforge\-1\.21\.1\-1\.5\.6\.jar)
 - [Immersive Damage Indicators](https://modrinth.com/mod/tTKSJOdG) [1\.0\.0] by Toni, ElocinDev, MehVahdJukaar (immersivedamageindicators\-neoforge\-1\.0\.0\-1\.21\.1\.jar)
-- [Immersive Enchanting](https://modrinth.com/mod/DfWQAvS4) [2\.1\.2] by Alfie (neoforge\-1\.21\.1\-immersiveenchanting\-2\.1\.2\.jar)
+- [Immersive Enchanting](https://modrinth.com/mod/DfWQAvS4) [2\.2\.0] by Alfie (neoforge\-1\.21\.1\-immersiveenchanting\-2\.2\.0\.jar)
 - [Immersive Messages API](https://modrinth.com/mod/6xvrmbjn) [1\.0\.18] by Toni (immersivemessages\-neoforge\-1\.0\.18\-1\.21\.1\.jar)
 - [Immersive Overlays](https://modrinth.com/mod/PKoLkD98) [1\.4\.4\+1\.21\.1] by cassiancc, noelledotjpg (immersiveoverlays\-1\.4\.4\+1\.21\.1\-neoforge\.jar)
 - [ImmersiveUI](https://modrinth.com/mod/9wv7LuMc) [0\.3\.3] by OctoStudios (ImmersiveUI\-NEOFORGE\-0\.3\.3\+1\.21\.1\.jar)
@@ -113,10 +212,12 @@
 - [Jade Addons](https://modrinth.com/mod/xuDOzCLy) [6\.1\.0\+neoforge] by Snownee (JadeAddons\-1\.21\.1\-NeoForge\-6\.1\.0\.jar)
 - [JamLib](https://modrinth.com/mod/IYY9Siz8) [1\.3\.5\+1\.21\.1] by Jamalam (jamlib\-neoforge\-1\.3\.5\+1\.21\.1\.jar)
 - [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ) [19\.25\.0\.323] by mezz (jei\-1\.21\.1\-neoforge\-19\.25\.0\.323\.jar)
+- [Keeper of Inventories](https://modrinth.com/mod/97xPHHjD) [1\.0\.1] by CtckYT (KeeperOfInventories\-1\.21\.1\-v1\.0\.1\-NeoForge\.jar)
 - [Kiwi Library](https://modrinth.com/mod/ufdDoWPd) [15\.8\.1\+neoforge] by Snownee (Kiwi\-1\.21\.1\-NeoForge\-15\.8\.1\.jar)
 - [Konkrete](https://modrinth.com/mod/J81TRJWm) [1\.9\.9] by Keksuccino (konkrete\_neoforge\_1\.9\.9\_MC\_1\.21\.jar)
 - [Kotlin for Forge](https://modrinth.com/mod/ordsPcFz) [pp2cY80Q] (kotlinforforge\-5\.10\.0\-all\.jar)
 - [KubeJS](https://www.curseforge.com/projects/238086) [2101\.7\.2\-build\.321] by latvian\.dev (kubejs\-neoforge\-2101\.7\.2\-build\.321\.jar)
+- [KubeJSCurios](https://www.curseforge.com/projects/1255211) [1\.0\.4] by zhaiji (kubejs\_curios\_neoforge\_1\.21\.1\-1\.0\.4\.jar)
 - [KubeJSDelight](https://www.curseforge.com/projects/864875) [1\.1\.4] by QinomeD, Bob Varioa (kubejsdelight\-1\.1\.4\.jar)
 - [LambDynamicLights](https://modrinth.com/mod/yBW8D80W) [4\.8\.5\+1\.21\.1] by LambdAurora (lambdynamiclights\-4\.8\.5\+1\.21\.1\.jar)
 - [Larion World Generation](https://modrinth.com/mod/rctNbbuL) [4\.3\.0] by Badgerson (larion\-neoforge\-1\.21\.1\-4\.3\.0\.jar)
@@ -134,6 +235,7 @@
 - [Map Atlases](https://modrinth.com/mod/4hwXMFif) [1\.21\-6\.3\.6] by MehVahdJukaar, Pepperoni\_\_Jabroni\_\_ (map\_atlases\-1\.21\-6\.3\.6\-neoforge\.jar)
 - [MaxHealthFix](https://modrinth.com/mod/mH8wdmqr) [21\.1\.4] by Darkhax (maxhealthfix\-neoforge\-1\.21\.1\-21\.1\.4\.jar)
 - [Melody](https://modrinth.com/mod/CVT4pFB2) [1\.0\.10] by Keksuccino (melody\_neoforge\_1\.0\.10\_MC\_1\.21\.jar)
+- [Mending Rework](https://modrinth.com/mod/IEg0z2Uv) [0\.3] by Dusk (mendingrework\-1\.21\.1\-neo\-0\.3\.jar)
 - [MiscTweaks](https://www.curseforge.com/projects/1227334) [1\.2\.4] by pajic (misctweaks\-1\.2\.4\+1\.21\.1\.jar)
 - [MmmMmmMmmMmm](https://modrinth.com/mod/Adega8YN) [1\.21\-2\.0\.9] by Mehvahdjukaar, Bonusboni, Gooigipunch, Plantkillable (dummmmmmy\-1\.21\-2\.0\.9\-neoforge\.jar)
 - [Model Gap Fix](https://modrinth.com/mod/QdG47OkI) [1\.21\-1\.10] by MehVahdJukaar (modelfix\-1\.21\-1\.10\.jar)
@@ -195,6 +297,7 @@
 - [Silkier Touch](https://www.curseforge.com/projects/1207422) [1\.0] by Rick South (silkiertouch\-1\.21\.1\-1\.0\.jar)
 - [Simple Musket](https://www.curseforge.com/projects/704141) [1\.9\.2] by BrokenKeyboard (simplemusket\-neoforge\-1\.21\.1\-1\.9\.2\.jar)
 - [SimpleLootViewer](https://modrinth.com/mod/k127SwR6) [21\.1\.4] by Darkhax (simplelootviewer\-neoforge\-1\.21\.1\-21\.1\.4\.jar)
+- [SimpleTMs](https://modrinth.com/mod/yFqR0DNc) [2\.3\.3] (SimpleTMs\-neoforge\-2\.3\.3\.jar)
 - [Slime Buckets](https://modrinth.com/mod/HIcdAYC9) [1\.2] by Matt Ware (SlimeBuckets\-1\.2\-NeoForge\-1\.21\.1\.jar)
 - [SlimyBoyos](https://modrinth.com/mod/aT62gFqe) [14\.0\.2] by Jared (SlimyBoyos\-neoforge\-1\.21\.1\-14\.0\.2\.jar)
 - [Smooth Skies](https://modrinth.com/mod/uvlgIwBD) [2\.10\.4] by Microcontrollers (smoothskies\-2\.10\.4\+1\.21\.1\-neoforge\.jar)
