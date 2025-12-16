@@ -46,10 +46,17 @@
     "wayfinder": ["slow_falling"],
     "shaper": ["luck"],
     "silence": ["health_boost"],
-    "raiser": ["saturation"],
+    "raiser": ["apothic_attributes:vitality"],
     "host": ["glowing"],
     "flow": ["jump_boost"],
-    "bolt": ["dolphins_grace"]
+    "bolt": ["dolphins_grace"],
+    "moresnifferflowers:aroma": ["deeperdarker:sculk_affinity"],
+    "moresnifferflowers:carnage": ["night_vision"],
+    "moresnifferflowers:carotene": ["moresnifferflowers:untouchable"],
+    "moresnifferflowers:tater": ["irons_spellbooks:spider_aspect"],
+    "moresnifferflowers:grain": ["moresnifferflowers:gluing_touch"],
+    "moresnifferflowers:beat": ["friendsandfoes:reach"],
+    "moresnifferflowers:nether_wart": ["netherdepthsupgrade:lava_vision"]
   },
 
   // Controls potion effect level based on number of matching armor pieces
@@ -91,7 +98,7 @@
     // "gold": ["haste", "luck"],
 
     // Default values:
-    "resin": ["night_vision"]
+    //"resin": ["night_vision"]
   },
 
   // If true, mobs wearing trimmed armor will get the effects
