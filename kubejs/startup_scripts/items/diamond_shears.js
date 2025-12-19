@@ -4,5 +4,4 @@ StartupEvents.registry("item", (event) => {
     .displayName("Diamond Shears")
     .texture("phis:item/diamond_shears")
     .maxDamage(1561)
-    .unstackable();
 });

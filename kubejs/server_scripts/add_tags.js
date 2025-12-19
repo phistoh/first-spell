@@ -99,6 +99,16 @@ ServerEvents.tags("item", (event) => {
   event.add("phis:ink", "irons_spellbooks:rare_ink");
   event.add("phis:ink", "irons_spellbooks:epic_ink");
   event.add("phis:ink", "irons_spellbooks:legendary_ink");
+
+  // Diamond Shears
+  event.add("c:enchantables", "kubejs:diamond_shears")
+  event.add("enchantencore:all_enchantable", "kubejs:diamond_shears")
+  event.add('enchantencore:all_tools', "kubejs:diamond_shears")
+  event.add('minecraft:enchantable/durability', "kubejs:diamond_shears")
+  event.add('minecraft:enchantable/vanishing', "kubejs:diamond_shears")
+  event.add('enchantencore:no_weapons', "kubejs:diamond_shears")
+  event.add('c:tools/shears', "kubejs:diamond_shears")
+  event.add('minecraft:enchantable/mining', "kubejs:diamond_shears")
 });
 
 ServerEvents.tags("block", (event) => {

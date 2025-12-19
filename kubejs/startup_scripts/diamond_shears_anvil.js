@@ -10,17 +10,16 @@ NativeEvents.onEvent(
       event.setCanceled(true);
     }
 
-    //     if (left.item == "kubejs:diamond_shears" && right == "minecraft:diamond") {
-    //       if (left.getDamageValue() <= 0) {
-    //         event.setCanceled(true);
-    //       }
-    //       let output = left.copy();
-    //       let repairAmount = Math.floor(output.getMaxDamage() * 0.5);
-    //       let newDamage = Math.max(output.getDamageValue() - repairAmount, 0);
-    //       output.setDamageValue(newDamage);
-    //       event.setCost(0);
-    //       event.setMaterialCost(1);
-    //       event.setOutput(output);
-    //     }
+    if (left.item == "kubejs:diamond_shears" && right == "minecraft:diamond") {
+      if (left.getDamageValue() <= 0) {
+        event.setCanceled(true);
+      }
+      const output = left.copy();
+      const repairAmount = Math.floor(output.getMaxDamage() * 0.5);
+      const newDamage = Math.max(output.getDamageValue() - repairAmount, 0);
+      output.setDamageValue(newDamage);
+      event.setMaterialCost(1);
+      event.setOutput(output);
+    }
   }
 );
