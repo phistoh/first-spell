@@ -55,6 +55,10 @@
   "jadeaddons": {
     "equipment_requirement": ""
   },
+  "exposure": {
+    "lightroom": true,
+    "photograph_frame": true
+  },
   "jade_access": {
     "held_item": true,
     "sign": true,

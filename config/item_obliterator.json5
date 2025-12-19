@@ -27,7 +27,7 @@
     "waystones:warp_dust",
     "waystones:dormant_shard",
     "waystones:attuned_shard",
-    "rubinated_nether:bronze_drill"
+    "rubinated_nether:bronze_drill",
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.

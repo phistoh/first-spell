@@ -1,15 +1,15 @@
 {
   "levels": {
     "1": {
-      "item": "supplementaries:antique_ink",
+      "item": "irons_spellbooks:common_ink",
       "amount": 1
     },
     "2": {
-      "item": "supplementaries:antique_ink",
+      "item": "irons_spellbooks:common_ink",
       "amount": 2
     },
     "3": {
-      "item": "supplementaries:antique_ink",
+      "item": "irons_spellbooks:common_ink",
       "amount": 4
     }
   }

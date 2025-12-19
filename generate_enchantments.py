@@ -249,7 +249,7 @@ ENCHANTMENTS = [
 
 TIERS = {
     0: "",
-    1: "supplementaries:antique_ink",
+    1: "irons_spellbooks:common_ink",
     2: "irons_spellbooks:uncommon_ink",
     3: "irons_spellbooks:rare_ink",
     4: "irons_spellbooks:epic_ink",

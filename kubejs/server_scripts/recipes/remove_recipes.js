@@ -35,6 +35,6 @@ ServerEvents.recipes((event) => {
 
   event.remove({ id: "minecraft:spectral_arrow" });
   event.remove({ id: "irons_spellbooks:hogskin_to_leather" });
-  
+
   event.remove({ id: "simpletms:tm_blank_netherite_block" });
 });
