@@ -1,5 +1,6 @@
 [
   {"version":1},
+  {"ingredient":{"id":"kubejs:crippling_poison"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"exposure:photograph_frame"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"supplementaries:lumisene_bottle"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"exposure:developed_black_and_white_film"},"type":"item_stack","bookmarkType":"INGREDIENT"},

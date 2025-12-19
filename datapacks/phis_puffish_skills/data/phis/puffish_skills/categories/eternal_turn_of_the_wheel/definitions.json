@@ -1,591 +1,695 @@
 {
-    "bonus_netherstar": {
-        "title": "tbd.",
-        "frame": {
-            "type": "texture",
-            "data": {
-                "unlocked": "phis:textures/gui/unlocked.png",
-                "available": "phis:textures/gui/available.png",
-                "locked": "phis:textures/gui/locked.png",
-                "excluded": "phis:textures/gui/excluded.png"
-            }
-        },
-        "size": 2.5,
-        "icon": {
-            "type": "item",
-            "data": {
-                "item": "minecraft:nether_star"
-            }
-        },
-        "description": [
-            "",
-            {
-                "text": "You instantly get "
-            },
-            {
-                "text": "one",
-                "color": "dark_aqua"
-            },
-            {
-                "text": " and  "
-            },
-            {
-                "text": "Nether Star",
-                "color": "yellow"
-            },
-            {
-                "text": "."
-            }
-        ],
-        "rewards": [
-            {
-                "type": "puffish_skills:command",
-                "data": {
-                    "command": "give @s minecraft:nether_star"
-                }
-            },
-            {
-                "type": "puffish_skills:command",
-                "data": {
-                    "command": "puffish_skills skills lock @s phis:eternal_turn_of_the_wheel 1gs2ipvu4j0bz8aw"
-                }
-            },
-            {
-                "type": "puffish_skills:command",
-                "data": {
-                    "command": "puffish_skills points add @s phis:eternal_turn_of_the_wheel -1"
-                }
-            }
-        ]
+  "bonus_netherstar": {
+    "title": "Old Star",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
     },
-    "bonus_diamond": {
-        "title": "tbd.",
-        "frame": {
-            "type": "texture",
-            "data": {
-                "unlocked": "phis:textures/gui/unlocked.png",
-                "available": "phis:textures/gui/available.png",
-                "locked": "phis:textures/gui/locked.png",
-                "excluded": "phis:textures/gui/excluded.png"
-            }
-        },
-        "size": 2.5,
-        "icon": {
-            "type": "item",
-            "data": {
-                "item": "minecraft:diamond"
-            }
-        },
-        "description": [
-            "",
-            {
-                "text": "You instantly get "
-            },
-            {
-                "text": "one",
-                "color": "dark_aqua"
-            },
-            {
-                "text": " and  "
-            },
-            {
-                "text": "Netherstar",
-                "color": "aqua"
-            },
-            {
-                "text": "."
-            }
-        ],
-        "rewards": [
-            {
-                "type": "puffish_skills:command",
-                "data": {
-                    "command": "give @s minecraft:diamond 8"
-                }
-            },
-            {
-                "type": "puffish_skills:command",
-                "data": {
-                    "command": "puffish_skills skills lock @s phis:eternal_turn_of_the_wheel bcj6xukqwth4b89d"
-                }
-            }
-        ]
+    "size": 2.5,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:nether_star"
+      }
     },
-    "bonus_arcane_essence": {
-        "title": "tbd.",
-        "frame": {
-            "type": "texture",
-            "data": {
-                "unlocked": "phis:textures/gui/unlocked.png",
-                "available": "phis:textures/gui/available.png",
-                "locked": "phis:textures/gui/locked.png",
-                "excluded": "phis:textures/gui/excluded.png"
-            }
-        },
-        "size": 2.5,
-        "icon": {
-            "type": "item",
-            "data": {
-                "item": "irons_spellbooks:arcane_essence"
-            }
-        },
-        "description": [
-            "",
-            {
-                "text": "You instantly get "
-            },
-            {
-                "text": "one",
-                "color": "dark_aqua"
-            },
-            {
-                "text": " and  "
-            },
-            {
-                "text": "Netherstar",
-                "color": "aqua"
-            },
-            {
-                "text": "."
-            }
-        ],
-        "rewards": [
-            {
-                "type": "puffish_skills:command",
-                "data": {
-                    "command": "give @s irons_spellbooks:arcane_essence 64"
-                }
-            },
-            {
-                "type": "puffish_skills:command",
-                "data": {
-                    "command": "puffish_skills skills lock @s phis:eternal_turn_of_the_wheel 78d4zoox2td97wbe"
-                }
-            }
-        ]
+    "description": [
+      "",
+      {
+        "text": "You instantly get "
+      },
+      {
+        "text": "one",
+        "color": "dark_aqua"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Nether Star",
+        "color": "yellow"
+      },
+      {
+        "text": "."
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:command",
+        "data": { "command": "playsound minecraft:ui.button.click" }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "give @s minecraft:nether_star"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "puffish_skills skills reset @s phis:eternal_turn_of_the_wheel"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "puffish_skills points add @s phis:eternal_turn_of_the_wheel -1"
+        }
+      }
+    ]
+  },
+  "bonus_diamond": {
+    "title": "Distant Seasons",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
     },
-    "bonus_legendary_ink": {
-        "title": "tbd.",
-        "frame": {
-            "type": "texture",
-            "data": {
-                "unlocked": "phis:textures/gui/unlocked.png",
-                "available": "phis:textures/gui/available.png",
-                "locked": "phis:textures/gui/locked.png",
-                "excluded": "phis:textures/gui/excluded.png"
-            }
-        },
-        "size": 2.5,
-        "icon": {
-            "type": "item",
-            "data": {
-                "item": "irons_spellbooks:legendary_ink"
-            }
-        },
-        "description": [
-            "",
-            {
-                "text": "You instantly get "
-            },
-            {
-                "text": "one",
-                "color": "dark_aqua"
-            },
-            {
-                "text": " and  "
-            },
-            {
-                "text": "Netherstar",
-                "color": "aqua"
-            },
-            {
-                "text": "."
-            }
-        ],
-        "rewards": [
-            {
-                "type": "puffish_skills:command",
-                "data": {
-                    "command": "give @s irons_spellbooks:legendary_ink 2"
-                }
-            },
-            {
-                "type": "puffish_skills:command",
-                "data": {
-                    "command": "puffish_skills skills lock @s phis:eternal_turn_of_the_wheel 9z14ixn77jjmlf0y"
-                }
-            }
-        ]
+    "size": 2.5,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:diamond"
+      }
     },
-    "bonus_soul_crystal": {
-        "title": "tbd.",
-        "frame": {
-            "type": "texture",
-            "data": {
-                "unlocked": "phis:textures/gui/unlocked.png",
-                "available": "phis:textures/gui/available.png",
-                "locked": "phis:textures/gui/locked.png",
-                "excluded": "phis:textures/gui/excluded.png"
-            }
-        },
-        "size": 2.5,
-        "icon": {
-            "type": "item",
-            "data": {
-                "item": "deeperdarker:soul_crystal"
-            }
-        },
-        "description": [
-            "",
-            {
-                "text": "You instantly get "
-            },
-            {
-                "text": "one",
-                "color": "dark_aqua"
-            },
-            {
-                "text": " and  "
-            },
-            {
-                "text": "Netherstar",
-                "color": "aqua"
-            },
-            {
-                "text": "."
-            }
-        ],
-        "rewards": [
-            {
-                "type": "puffish_skills:command",
-                "data": {
-                    "command": "give @s deeperdarker:soul_crystal 4"
-                }
-            },
-            {
-                "type": "puffish_skills:command",
-                "data": {
-                    "command": "puffish_skills skills lock @s phis:eternal_turn_of_the_wheel vj996loriyaokem8"
-                }
-            }
-        ]
+    "description": [
+      "",
+      {
+        "text": "You instantly get "
+      },
+      {
+        "text": "eight",
+        "color": "dark_aqua"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Diamonds",
+        "color": "aqua"
+      },
+      {
+        "text": "."
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:command",
+        "data": { "command": "playsound minecraft:ui.button.click" }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "give @s minecraft:diamond 8"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "puffish_skills skills reset @s phis:eternal_turn_of_the_wheel"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "puffish_skills points add @s phis:eternal_turn_of_the_wheel -1"
+        }
+      }
+    ]
+  },
+  "bonus_arcane_essence": {
+    "title": "Witchcraft",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
     },
-    "bonus_bottled_undead_soul": {
-        "title": "tbd.",
-        "frame": {
-            "type": "texture",
-            "data": {
-                "unlocked": "phis:textures/gui/unlocked.png",
-                "available": "phis:textures/gui/available.png",
-                "locked": "phis:textures/gui/locked.png",
-                "excluded": "phis:textures/gui/excluded.png"
-            }
-        },
-        "size": 2.5,
-        "icon": {
-            "type": "item",
-            "data": {
-                "item": "kubejs:bottled_undead_soul"
-            }
-        },
-        "description": [
-            "",
-            {
-                "text": "You instantly get "
-            },
-            {
-                "text": "one",
-                "color": "dark_aqua"
-            },
-            {
-                "text": " and  "
-            },
-            {
-                "text": "Netherstar",
-                "color": "aqua"
-            },
-            {
-                "text": "."
-            }
-        ],
-        "rewards": [
-            {
-                "type": "puffish_skills:command",
-                "data": {
-                    "command": "give @s kubejs:bottled_undead_soul 16"
-                }
-            },
-            {
-                "type": "puffish_skills:command",
-                "data": {
-                    "command": "puffish_skills skills lock @s phis:eternal_turn_of_the_wheel ttt2xy8u5fcjzhu5"
-                }
-            }
-        ]
+    "size": 2.5,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:arcane_essence"
+      }
     },
-    "bonus_netherite_ingot": {
-        "title": "tbd.",
-        "frame": {
-            "type": "texture",
-            "data": {
-                "unlocked": "phis:textures/gui/unlocked.png",
-                "available": "phis:textures/gui/available.png",
-                "locked": "phis:textures/gui/locked.png",
-                "excluded": "phis:textures/gui/excluded.png"
-            }
-        },
-        "size": 2.5,
-        "icon": {
-            "type": "item",
-            "data": {
-                "item": "minecraft:netherite_ingot"
-            }
-        },
-        "description": [
-            "",
-            {
-                "text": "You instantly get "
-            },
-            {
-                "text": "one",
-                "color": "dark_aqua"
-            },
-            {
-                "text": " and  "
-            },
-            {
-                "text": "Netherstar",
-                "color": "aqua"
-            },
-            {
-                "text": "."
-            }
-        ],
-        "rewards": [
-            {
-                "type": "puffish_skills:command",
-                "data": {
-                    "command": "give @s minecraft:netherite_ingot 2"
-                }
-            },
-            {
-                "type": "puffish_skills:command",
-                "data": {
-                    "command": "puffish_skills skills lock @s phis:eternal_turn_of_the_wheel 8mfyrs002aizgb45"
-                }
-            }
-        ]
+    "description": [
+      "",
+      {
+        "text": "You instantly get "
+      },
+      {
+        "text": "one stack",
+        "color": "dark_aqua"
+      },
+      {
+        "text": " of "
+      },
+      {
+        "text": "Arcane Essence",
+        "color": "aqua"
+      },
+      {
+        "text": "."
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:command",
+        "data": { "command": "playsound minecraft:ui.button.click" }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "give @s irons_spellbooks:arcane_essence 64"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "puffish_skills skills reset @s phis:eternal_turn_of_the_wheel"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "puffish_skills points add @s phis:eternal_turn_of_the_wheel -1"
+        }
+      }
+    ]
+  },
+  "bonus_legendary_ink": {
+    "title": "Mighty Ravendark",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
     },
-    "bonus_random_ore": {
-        "title": "tbd.",
-        "frame": {
-            "type": "texture",
-            "data": {
-                "unlocked": "phis:textures/gui/unlocked.png",
-                "available": "phis:textures/gui/available.png",
-                "locked": "phis:textures/gui/locked.png",
-                "excluded": "phis:textures/gui/excluded.png"
-            }
-        },
-        "size": 2.5,
-        "icon": {
-            "type": "item",
-            "data": {
-                "item": "randomore:random_ore"
-            }
-        },
-        "description": [
-            "",
-            {
-                "text": "You instantly get "
-            },
-            {
-                "text": "one",
-                "color": "dark_aqua"
-            },
-            {
-                "text": " and  "
-            },
-            {
-                "text": "Netherstar",
-                "color": "aqua"
-            },
-            {
-                "text": "."
-            }
-        ],
-        "rewards": [
-            {
-                "type": "puffish_skills:command",
-                "data": {
-                    "command": "give @s randomore:random_ore 4"
-                }
-            },
-            {
-                "type": "puffish_skills:command",
-                "data": {
-                    "command": "puffish_skills skills lock @s phis:eternal_turn_of_the_wheel 5dwfadc7tnszipt5"
-                }
-            }
-        ]
+    "size": 2.5,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:legendary_ink"
+      }
     },
-    "bonus_reinforced_echo_shard": {
-        "title": "tbd.",
-        "frame": {
-            "type": "texture",
-            "data": {
-                "unlocked": "phis:textures/gui/unlocked.png",
-                "available": "phis:textures/gui/available.png",
-                "locked": "phis:textures/gui/locked.png",
-                "excluded": "phis:textures/gui/excluded.png"
-            }
-        },
-        "size": 2.5,
-        "icon": {
-            "type": "item",
-            "data": {
-                "item": "deeperdarker:reinforced_echo_shard"
-            }
-        },
-        "description": [
-            "",
-            {
-                "text": "You instantly get "
-            },
-            {
-                "text": "one",
-                "color": "dark_aqua"
-            },
-            {
-                "text": " and  "
-            },
-            {
-                "text": "Netherstar",
-                "color": "aqua"
-            },
-            {
-                "text": "."
-            }
-        ],
-        "rewards": [
-            {
-                "type": "puffish_skills:command",
-                "data": {
-                    "command": "give @s deeperdarker:reinforced_echo_shard 2"
-                }
-            },
-            {
-                "type": "puffish_skills:command",
-                "data": {
-                    "command": "puffish_skills skills lock @s phis:eternal_turn_of_the_wheel xtnukgkr9n1w9ii0"
-                }
-            }
-        ]
+    "description": [
+      "",
+      {
+        "text": "You instantly get "
+      },
+      {
+        "text": "two",
+        "color": "dark_aqua"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Legendary Ink",
+        "color": "aqua"
+      },
+      {
+        "text": "."
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:command",
+        "data": { "command": "playsound minecraft:ui.button.click" }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "give @s irons_spellbooks:legendary_ink 2"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "puffish_skills skills reset @s phis:eternal_turn_of_the_wheel"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "puffish_skills points add @s phis:eternal_turn_of_the_wheel -1"
+        }
+      }
+    ]
+  },
+  "bonus_soul_crystal": {
+    "title": "That Cannot Be Dreamed",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
     },
-    "bonus_potion_of_healing": {
-        "title": "tbd.",
-        "frame": {
-            "type": "texture",
-            "data": {
-                "unlocked": "phis:textures/gui/unlocked.png",
-                "available": "phis:textures/gui/available.png",
-                "locked": "phis:textures/gui/locked.png",
-                "excluded": "phis:textures/gui/excluded.png"
-            }
-        },
-        "size": 2.5,
-        "icon": {
-            "type": "item",
-            "data": {
-                "item": "irons_spellbooks:greater_healing_potion"
-            }
-        },
-        "description": [
-            "",
-            {
-                "text": "You instantly get "
-            },
-            {
-                "text": "one",
-                "color": "dark_aqua"
-            },
-            {
-                "text": " and  "
-            },
-            {
-                "text": "Netherstar",
-                "color": "aqua"
-            },
-            {
-                "text": "."
-            }
-        ],
-        "rewards": [
-            {
-                "type": "puffish_skills:command",
-                "data": {
-                    "command": "give @s irons_spellbooks:greater_healing_potion 8"
-                }
-            },
-            {
-                "type": "puffish_skills:command",
-                "data": {
-                    "command": "puffish_skills skills lock @s phis:eternal_turn_of_the_wheel bx1k0fdrfgs5qzdx"
-                }
-            }
-        ]
+    "size": 2.5,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "deeperdarker:soul_crystal"
+      }
     },
-    "bonus_potion_of_mana": {
-        "title": "tbd.",
-        "frame": {
-            "type": "texture",
-            "data": {
-                "unlocked": "phis:textures/gui/unlocked.png",
-                "available": "phis:textures/gui/available.png",
-                "locked": "phis:textures/gui/locked.png",
-                "excluded": "phis:textures/gui/excluded.png"
-            }
-        },
-        "size": 2.5,
-        "icon": {
-            "type": "effect",
-            "data": {
-                "effect": "irons_spellbooks:instant_mana"
-            }
-        },
-        "description": [
-            "",
-            {
-                "text": "You instantly get "
-            },
-            {
-                "text": "one",
-                "color": "dark_aqua"
-            },
-            {
-                "text": " and  "
-            },
-            {
-                "text": "Netherstar",
-                "color": "aqua"
-            },
-            {
-                "text": "."
-            }
-        ],
-        "rewards": [
-            {
-                "type": "puffish_skills:command",
-                "data": {
-                    "command": "give @s potion[potion_contents={potion:'irons_spellbooks:instant_mana_three'}] 8"
-                }
-            },
-            {
-                "type": "puffish_skills:command",
-                "data": {
-                    "command": "puffish_skills skills lock @s phis:eternal_turn_of_the_wheel 6tb9tcdthaa9o24b"
-                }
-            }
-        ]
-    }
+    "description": [
+      "",
+      {
+        "text": "You instantly get "
+      },
+      {
+        "text": "four",
+        "color": "dark_aqua"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Soul Crystals",
+        "color": "aqua"
+      },
+      {
+        "text": "."
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:command",
+        "data": { "command": "playsound minecraft:ui.button.click" }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "give @s deeperdarker:soul_crystal 4"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "puffish_skills skills reset @s phis:eternal_turn_of_the_wheel"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "puffish_skills points add @s phis:eternal_turn_of_the_wheel -1"
+        }
+      }
+    ]
+  },
+  "bonus_bottled_undead_soul": {
+    "title": "Caravan of Broken Ghosts",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "size": 2.5,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "kubejs:bottled_undead_soul"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "You instantly get "
+      },
+      {
+        "text": "16",
+        "color": "dark_aqua"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Bottled Undead Souls",
+        "color": "aqua"
+      },
+      {
+        "text": "."
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:command",
+        "data": { "command": "playsound minecraft:ui.button.click" }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "give @s kubejs:bottled_undead_soul 16"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "puffish_skills skills reset @s phis:eternal_turn_of_the_wheel"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "puffish_skills points add @s phis:eternal_turn_of_the_wheel -1"
+        }
+      }
+    ]
+  },
+  "bonus_netherite_ingot": {
+    "title": "Forgotten Aeon",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "size": 2.5,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_ingot"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "You instantly get "
+      },
+      {
+        "text": "two",
+        "color": "dark_aqua"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Netherite Ingots",
+        "color": "aqua"
+      },
+      {
+        "text": "."
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:command",
+        "data": { "command": "playsound minecraft:ui.button.click" }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "give @s minecraft:netherite_ingot 2"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "puffish_skills skills reset @s phis:eternal_turn_of_the_wheel"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "puffish_skills points add @s phis:eternal_turn_of_the_wheel -1"
+        }
+      }
+    ]
+  },
+  "bonus_random_ore": {
+    "title": "Paradox",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "size": 2.5,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "randomore:random_ore"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "You instantly get "
+      },
+      {
+        "text": "four",
+        "color": "dark_aqua"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Random Ores",
+        "color": "aqua"
+      },
+      {
+        "text": "."
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:command",
+        "data": { "command": "playsound minecraft:ui.button.click" }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "give @s randomore:random_ore 4"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "puffish_skills skills reset @s phis:eternal_turn_of_the_wheel"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "puffish_skills points add @s phis:eternal_turn_of_the_wheel -1"
+        }
+      }
+    ]
+  },
+  "bonus_reinforced_echo_shard": {
+    "title": "Last Call",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "size": 2.5,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "deeperdarker:reinforced_echo_shard"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "You instantly get "
+      },
+      {
+        "text": "two",
+        "color": "dark_aqua"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Reinforced Echo Shards",
+        "color": "aqua"
+      },
+      {
+        "text": "."
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:command",
+        "data": { "command": "playsound minecraft:ui.button.click" }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "give @s deeperdarker:reinforced_echo_shard 2"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "puffish_skills skills reset @s phis:eternal_turn_of_the_wheel"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "puffish_skills points add @s phis:eternal_turn_of_the_wheel -1"
+        }
+      }
+    ]
+  },
+  "bonus_potion_of_healing": {
+    "title": "Flowers Bloom and Flowers Fall, But I'm Still Waiting for the Spring",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "size": 2.5,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:greater_healing_potion"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "You instantly get "
+      },
+      {
+        "text": "eight",
+        "color": "dark_aqua"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Potions of Greater Healing",
+        "color": "aqua"
+      },
+      {
+        "text": "."
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:command",
+        "data": { "command": "playsound minecraft:ui.button.click" }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "give @s irons_spellbooks:greater_healing_potion 8"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "puffish_skills skills reset @s phis:eternal_turn_of_the_wheel"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "puffish_skills points add @s phis:eternal_turn_of_the_wheel -1"
+        }
+      }
+    ]
+  },
+  "bonus_potion_of_mana": {
+    "title": "Luminous Darkness",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "size": 2.5,
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "irons_spellbooks:instant_mana"
+      }
+    },
+    "description": [
+      "",
+      {
+        "text": "You instantly get "
+      },
+      {
+        "text": "eight",
+        "color": "dark_aqua"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Potions of Instant Mana",
+        "color": "aqua"
+      },
+      {
+        "text": "."
+      }
+    ],
+    "rewards": [
+      {
+        "type": "puffish_skills:command",
+        "data": { "command": "playsound minecraft:ui.button.click" }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "give @s potion[potion_contents={potion:'irons_spellbooks:instant_mana_three'}] 8"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "puffish_skills skills reset @s phis:eternal_turn_of_the_wheel"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "puffish_skills points add @s phis:eternal_turn_of_the_wheel -1"
+        }
+      }
+    ]
+  }
 }
