@@ -36,7 +36,8 @@
   // 	 Example to disable a regeneration potion: Potion:"minecraft:regeneration"
   // 	
   // 	 You can also use regular expressions by starting the value with !
-  "blacklisted_nbt": [],
+  "blacklisted_nbt": [
+  ],
   // -----------------------------------------------------------
   // Items here will not be able to be right-clicked (Interact)
   //    Example: minecraft:apple
