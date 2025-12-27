@@ -1,5 +1,6 @@
 [
   {"version":1},
+  {"ingredient":{"id":"minecraft:lantern"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"irons_spellbooks:furled_map","components":{"irons_spellbooks:furled_map_data":{"destination":"irons_spellbooks:evoker_fort","dimension":"minecraft:overworld","descriptionOverride":{"translate":"item.irons_spellbooks.evoker_fort_battle_plans"}},"minecraft:lore":["{\"color\":\"gold\",\"translate\":\"item.irons_spellbooks.furled_map_descriptor_framing\",\"with\":[{\"translate\":\"item.irons_spellbooks.evoker_fort_battle_plans\"}]}"]}},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"supplementaries:slice_map"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"supplementaries:biomesoplenty/way_sign_maple"},"type":"item_stack","bookmarkType":"INGREDIENT"},
