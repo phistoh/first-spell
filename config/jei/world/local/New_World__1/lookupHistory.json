@@ -1,5 +1,7 @@
 [
   {"version":1},
+  {"ingredient":{"id":"kubejs:diamond_shears"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:cherry_button"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"kubejs:crippling_poison"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"exposure:photograph_frame"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"supplementaries:lumisene_bottle"},"type":"item_stack","bookmarkType":"INGREDIENT"},
