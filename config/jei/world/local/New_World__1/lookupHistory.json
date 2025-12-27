@@ -1,5 +1,13 @@
 [
   {"version":1},
+  {"ingredient":{"id":"irons_spellbooks:furled_map","components":{"irons_spellbooks:furled_map_data":{"destination":"irons_spellbooks:evoker_fort","dimension":"minecraft:overworld","descriptionOverride":{"translate":"item.irons_spellbooks.evoker_fort_battle_plans"}},"minecraft:lore":["{\"color\":\"gold\",\"translate\":\"item.irons_spellbooks.furled_map_descriptor_framing\",\"with\":[{\"translate\":\"item.irons_spellbooks.evoker_fort_battle_plans\"}]}"]}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"supplementaries:slice_map"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"supplementaries:biomesoplenty/way_sign_maple"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"map_atlases:atlas"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_spellbooks:furled_map","components":{"irons_spellbooks:furled_map_data":{"destination":"irons_spellbooks:mangrove_hut","dimension":"minecraft:overworld","descriptionOverride":{"translate":"item.irons_spellbooks.alchemical_trade_route"}},"minecraft:lore":["{\"color\":\"gold\",\"translate\":\"item.irons_spellbooks.furled_map_descriptor_framing\",\"with\":[{\"translate\":\"item.irons_spellbooks.alchemical_trade_route\"}]}"]}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:recovery_compass"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:saddle"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_spellbooks:wayward_compass"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"kubejs:diamond_shears"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:cherry_button"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"kubejs:crippling_poison"},"type":"item_stack","bookmarkType":"INGREDIENT"},
@@ -31,6 +39,5 @@
   {"ingredient":{"id":"linkedchests:linked_chest"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"leafscopperbackport:copper_armor_chestplate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:enchanted_golden_apple"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"irons_spellbooks:wayward_compass"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"supplementaries:deeperdarker/way_sign_echo"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

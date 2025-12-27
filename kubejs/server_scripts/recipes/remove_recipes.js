@@ -37,4 +37,9 @@ ServerEvents.recipes((event) => {
   event.remove({ id: "irons_spellbooks:hogskin_to_leather" });
 
   event.remove({ id: "simpletms:tm_blank_netherite_block" });
+
+  event.remove({ id: "irons_spellbooks:wayward_compass" });
+
+  // double recipes
+  event.remove({ id: "vanillabackport:saddle" });
 });
