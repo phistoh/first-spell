@@ -651,7 +651,7 @@
 
 	[tweaks.bottle_xp]
 		#Allow bottling up xp by using a bottle on an enchanting table
-		enabled = false
+		enabled = true
 		#bottling health cost
 		# Default: 2
 		# Range: 0 ~ 20
