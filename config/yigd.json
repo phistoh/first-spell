@@ -20,7 +20,7 @@
   },
   "expConfig": {
     "dropBehaviour": "BEST_OF_BOTH",
-    "dropPercentage": 0,
+    "dropPercentage": 100,
     "keepPercentage": 0
   },
   "graveConfig": {
