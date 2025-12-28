@@ -1,5 +1,11 @@
 [
   {"version":1},
+  {"ingredient":{"id":"irons_spellbooks:brazier"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"rubinated_nether:ruby_brazier"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:soul_campfire"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_spellbooks:brazier_soul"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_spellbooks:cinderous_soulcaller"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"supplementaries:hourglass"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:lantern"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"irons_spellbooks:furled_map","components":{"irons_spellbooks:furled_map_data":{"destination":"irons_spellbooks:evoker_fort","dimension":"minecraft:overworld","descriptionOverride":{"translate":"item.irons_spellbooks.evoker_fort_battle_plans"}},"minecraft:lore":["{\"color\":\"gold\",\"translate\":\"item.irons_spellbooks.furled_map_descriptor_framing\",\"with\":[{\"translate\":\"item.irons_spellbooks.evoker_fort_battle_plans\"}]}"]}},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"supplementaries:slice_map"},"type":"item_stack","bookmarkType":"INGREDIENT"},

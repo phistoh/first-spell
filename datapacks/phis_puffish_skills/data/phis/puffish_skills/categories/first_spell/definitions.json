@@ -70,19 +70,6 @@
           "stage": "phis_stage_copper_and_gold",
           "operation": "add"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -154,19 +141,6 @@
         "data": {
           "stage": "phis_stage_iron",
           "operation": "add"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -240,19 +214,6 @@
           "stage": "phis_stage_diamond",
           "operation": "add"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -324,19 +285,6 @@
         "data": {
           "stage": "phis_stage_netherite",
           "operation": "add"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -417,19 +365,6 @@
           "stage": "phis_stage_warden",
           "operation": "add"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -489,19 +424,6 @@
           "stage": "phis_stage_return_scroll",
           "operation": "add"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -551,19 +473,6 @@
         "data": {
           "stage": "phis_stage_warp_stone",
           "operation": "add"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -615,19 +524,6 @@
           "stage": "phis_stage_waystone",
           "operation": "add"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -678,19 +574,6 @@
           "stage": "phis_stage_arcane_essence",
           "operation": "add"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -739,19 +622,6 @@
         "type": "puffish_skills:tag",
         "data": {
           "tag": "phis.arcane_essence"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -808,19 +678,6 @@
         "type": "puffish_skills:tag",
         "data": {
           "tag": "phis.regeneration"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -880,19 +737,6 @@
           "value": 0.5,
           "operation": "addition"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -951,19 +795,6 @@
           "value": 1,
           "operation": "addition"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -1014,19 +845,6 @@
           "stage": "phis_stage_scroll_forge",
           "operation": "add"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -1076,19 +894,6 @@
         "data": {
           "stage": "phis_stage_arcane_anvil",
           "operation": "add"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -1148,19 +953,6 @@
           "value": 0.25,
           "operation": "multiply_base"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -1218,19 +1010,6 @@
           "attribute": "additional_attributes:looting",
           "value": 1,
           "operation": "add"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -1290,19 +1069,6 @@
           "value": 0.25,
           "operation": "add"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -1358,19 +1124,6 @@
         "type": "puffish_skills:tag",
         "data": {
           "tag": "phis.mana_leech"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -1436,19 +1189,6 @@
           "value": 1000,
           "operation": "addition"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -1506,19 +1246,6 @@
           "stage": "phis_stage_muskets_and_bombs",
           "operation": "add"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -1575,19 +1302,6 @@
           "stage": "phis_stage_hellfire_ammo",
           "operation": "add"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -1643,19 +1357,6 @@
         "data": {
           "stage": "phis_stage_fireworks",
           "operation": "add"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -1759,19 +1460,6 @@
           "value": 0.5,
           "operation": "multiply_base"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -1821,19 +1509,6 @@
         "data": {
           "stage": "phis_stage_linked_pouch",
           "operation": "add"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -1893,19 +1568,6 @@
           "value": 1,
           "operation": "addition"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -1962,19 +1624,6 @@
         "data": {
           "tag": "phis.extradiamond"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -2023,19 +1672,6 @@
         "type": "puffish_skills:tag",
         "data": {
           "tag": "phis.extradust"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -2092,19 +1728,6 @@
         "data": {
           "stage": "phis_stage_eldritch_spells",
           "operation": "add"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -2194,19 +1817,6 @@
         "data": {
           "tag": "phis.irontogold"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -2264,19 +1874,6 @@
           "unlock_command": "curios add elytra @s 1",
           "lock_command": "curios remove elytra @s 1"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -2327,19 +1924,6 @@
           "unlock_command": "curios add ring @s 1",
           "lock_command": "curios remove ring @s 1"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -2389,19 +1973,6 @@
         "data": {
           "tag": "phis.spawn_eggs"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -2450,19 +2021,6 @@
         "type": "puffish_skills:tag",
         "data": {
           "tag": "phis.notrample"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -2517,19 +2075,6 @@
         "data": {
           "stage": "phis_stage_keeper_of_inventories",
           "operation": "add"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -2587,19 +2132,6 @@
         "data": {
           "tag": "phis.extraapples"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -2656,19 +2188,6 @@
         "data": {
           "tag": "phis.cheat_death"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -2717,19 +2236,6 @@
         "type": "puffish_skills:tag",
         "data": {
           "tag": "phis.sheep_milk"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -2799,19 +2305,6 @@
         "data": {
           "tag": "phis.omni_milk"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -2866,19 +2359,6 @@
         "type": "puffish_skills:tag",
         "data": {
           "tag": "phis.no_phantoms"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -2992,19 +2472,6 @@
         "data": {
           "tag": "phis.extract_various"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -3099,19 +2566,6 @@
         "data": {
           "tag": "phis.extract_blood"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -3168,19 +2622,6 @@
         "data": {
           "stage": "phis_stage_backpack_gold",
           "operation": "add"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -3239,19 +2680,6 @@
           "stage": "phis_stage_backpack_diamond",
           "operation": "add"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ]
   },
@@ -3305,19 +2733,6 @@
         "data": {
           "stage": "phis_stage_backpack_netherite",
           "operation": "add"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -3375,19 +2790,6 @@
         "data": {
           "stage": "phis_stage_infinity_key",
           "operation": "add"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -3459,19 +2861,6 @@
           "stage": "phis_stage_grappling_hooks",
           "operation": "add"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -3530,19 +2919,6 @@
           "value": 1,
           "operation": "add"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -3600,19 +2976,6 @@
           "attribute": "additional_attributes:fishing_lure",
           "value": 1,
           "operation": "add"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -3678,19 +3041,6 @@
           "value": 2,
           "operation": "add"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -3755,19 +3105,6 @@
           "value": 2,
           "operation": "add"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -3826,19 +3163,6 @@
           "value": 0.25,
           "operation": "multiply_base"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -3887,19 +3211,6 @@
         "type": "puffish_skills:tag",
         "data": {
           "tag": "phis.diamond_in_coal"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -4038,19 +3349,6 @@
           "duration_modification": "/2",
           "type": "MODIFY"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -4098,19 +3396,6 @@
         "type": "puffish_skills:tag",
         "data": {
           "tag": "phis.void_immunity"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -4169,19 +3454,6 @@
           "stage": "phis_stage_dragon_breath",
           "operation": "add"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -4239,19 +3511,6 @@
           "attribute": "combat_roll:count",
           "value": 2,
           "operation": "add"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -4315,19 +3574,6 @@
         "data": {
           "stage": "phis_stage_cobblemon",
           "operation": "add"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -4455,19 +3701,6 @@
           "value": -0.1,
           "operation": "multiply_base"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -4516,19 +3749,6 @@
         "type": "puffish_skills:tag",
         "data": {
           "tag": "phis.speed_of_blood"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -4608,19 +3828,6 @@
         "data": {
           "tag": "phis.bleed_with_me"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -4673,19 +3880,6 @@
         "type": "puffish_skills:tag",
         "data": {
           "tag": "phis.teeth_grinding"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -4763,19 +3957,6 @@
           "unlock_command": "team join warrior @s",
           "lock_command": "team leave @s"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -4838,19 +4019,6 @@
           "stage": "phis_stage_assassin_poisons",
           "operation": "add"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -4899,19 +4067,6 @@
         "type": "puffish_skills:tag",
         "data": {
           "tag": "phis.hide_in_shade"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -4986,19 +4141,6 @@
           "value": 10,
           "operation": "addition"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -5054,19 +4196,6 @@
         "type": "puffish_skills:tag",
         "data": {
           "tag": "phis.disciple_of_the_heinous_path"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -5132,19 +4261,6 @@
           "unlock_command": "team join assassin @s",
           "lock_command": "team leave @s"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -5207,19 +4323,6 @@
         "type": "puffish_skills:tag",
         "data": {
           "tag": "phis.last_guardian"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -5287,19 +4390,6 @@
           "value": 0.75,
           "operation": "addition"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -5356,19 +4446,6 @@
         "data": {
           "tag": "phis.blocking"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -5406,19 +4483,6 @@
           "attribute": "artifacts:generic.invincibility_ticks",
           "value": 2,
           "operation": "multiply_base"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -5477,19 +4541,6 @@
           "unlock_command": "team join knight @s",
           "lock_command": "team leave @s"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -5525,19 +4576,6 @@
         "type": "puffish_skills:tag",
         "data": {
           "tag": "phis.dread_reaver"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -5619,19 +4657,6 @@
           "value": 1,
           "operation": "multiply_base"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -5667,19 +4692,6 @@
         "type": "puffish_skills:tag",
         "data": {
           "tag": "phis.wolves_guard_my_coffin"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -5729,19 +4741,6 @@
         "type": "puffish_skills:tag",
         "data": {
           "tag": "phis.the_ghostly_pallid_hand_of_fear"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -5806,19 +4805,6 @@
         "data": {
           "unlock_command": "team join hunter @s",
           "lock_command": "team leave @s"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -5890,19 +4876,6 @@
         "data": {
           "unlock_command": "rarity set UNCOMMON",
           "lock_command": "rarity set COMMON"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -5981,19 +4954,6 @@
         "data": {
           "unlock_command": "rarity set RARE",
           "lock_command": "rarity set COMMON"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -6077,19 +5037,6 @@
         "type": "puffish_skills:tag",
         "data": {
           "tag": "phis.conserve_mana_fire"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -6176,19 +5123,6 @@
           "unlock_command": "rarity set EPIC",
           "lock_command": "rarity set COMMON"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -6270,19 +5204,6 @@
           "unlock_command": "team join firemage @s",
           "lock_command": "team leave @s"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -6353,19 +5274,6 @@
         "data": {
           "unlock_command": "rarity set UNCOMMON",
           "lock_command": "rarity set COMMON"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -6444,19 +5352,6 @@
         "data": {
           "unlock_command": "rarity set RARE",
           "lock_command": "rarity set COMMON"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -6548,19 +5443,6 @@
         "data": {
           "tag": "phis.conserve_mana_ice"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -6646,19 +5528,6 @@
           "unlock_command": "rarity set EPIC",
           "lock_command": "rarity set COMMON"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -6740,19 +5609,6 @@
           "unlock_command": "team join icemage @s",
           "lock_command": "team leave @s"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -6823,19 +5679,6 @@
         "data": {
           "unlock_command": "rarity set UNCOMMON",
           "lock_command": "rarity set COMMON"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -6914,19 +5757,6 @@
         "data": {
           "unlock_command": "rarity set RARE",
           "lock_command": "rarity set COMMON"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -7018,19 +5848,6 @@
         "data": {
           "tag": "phis.conserve_mana_lightning"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -7116,19 +5933,6 @@
           "unlock_command": "rarity set EPIC",
           "lock_command": "rarity set COMMON"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -7210,19 +6014,6 @@
           "unlock_command": "team join lightningmage @s",
           "lock_command": "team leave @s"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -7293,19 +6084,6 @@
         "data": {
           "unlock_command": "rarity set UNCOMMON",
           "lock_command": "rarity set COMMON"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -7384,19 +6162,6 @@
         "data": {
           "unlock_command": "rarity set RARE",
           "lock_command": "rarity set COMMON"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -7488,19 +6253,6 @@
         "data": {
           "tag": "phis.conserve_mana_holy"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -7586,19 +6338,6 @@
           "unlock_command": "rarity set EPIC",
           "lock_command": "rarity set COMMON"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -7680,19 +6419,6 @@
           "unlock_command": "team join holymage @s",
           "lock_command": "team leave @s"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -7763,19 +6489,6 @@
         "data": {
           "unlock_command": "rarity set UNCOMMON",
           "lock_command": "rarity set COMMON"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -7854,19 +6567,6 @@
         "data": {
           "unlock_command": "rarity set RARE",
           "lock_command": "rarity set COMMON"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -7958,19 +6658,6 @@
         "data": {
           "tag": "phis.conserve_mana_ender"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -8056,19 +6743,6 @@
           "unlock_command": "rarity set EPIC",
           "lock_command": "rarity set COMMON"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -8150,19 +6824,6 @@
           "unlock_command": "team join endermage @s",
           "lock_command": "team leave @s"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -8233,19 +6894,6 @@
         "data": {
           "unlock_command": "rarity set UNCOMMON",
           "lock_command": "rarity set COMMON"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -8324,19 +6972,6 @@
         "data": {
           "unlock_command": "rarity set RARE",
           "lock_command": "rarity set COMMON"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -8428,19 +7063,6 @@
         "data": {
           "tag": "phis.conserve_mana_blood"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -8526,19 +7148,6 @@
           "unlock_command": "rarity set EPIC",
           "lock_command": "rarity set COMMON"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -8620,19 +7229,6 @@
           "unlock_command": "team join bloodmage @s",
           "lock_command": "team leave @s"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -8703,19 +7299,6 @@
         "data": {
           "unlock_command": "rarity set UNCOMMON",
           "lock_command": "rarity set COMMON"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -8794,19 +7377,6 @@
         "data": {
           "unlock_command": "rarity set RARE",
           "lock_command": "rarity set COMMON"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -8898,19 +7468,6 @@
         "data": {
           "tag": "phis.conserve_mana_evocation"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -8996,19 +7553,6 @@
           "unlock_command": "rarity set EPIC",
           "lock_command": "rarity set COMMON"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -9090,19 +7634,6 @@
           "unlock_command": "team join evocationmage @s",
           "lock_command": "team leave @s"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -9173,19 +7704,6 @@
         "data": {
           "unlock_command": "rarity set UNCOMMON",
           "lock_command": "rarity set COMMON"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -9264,19 +7782,6 @@
         "data": {
           "unlock_command": "rarity set RARE",
           "lock_command": "rarity set COMMON"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -9368,19 +7873,6 @@
         "data": {
           "tag": "phis.conserve_mana_nature"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -9466,19 +7958,6 @@
           "unlock_command": "rarity set EPIC",
           "lock_command": "rarity set COMMON"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -9560,19 +8039,6 @@
           "unlock_command": "team join naturemage @s",
           "lock_command": "team leave @s"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -9643,19 +8109,6 @@
         "data": {
           "unlock_command": "rarity set UNCOMMON",
           "lock_command": "rarity set COMMON"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -9734,19 +8187,6 @@
         "data": {
           "unlock_command": "rarity set RARE",
           "lock_command": "rarity set COMMON"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -9838,19 +8278,6 @@
         "data": {
           "tag": "phis.conserve_mana_sound"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -9936,19 +8363,6 @@
           "unlock_command": "rarity set EPIC",
           "lock_command": "rarity set COMMON"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -10030,19 +8444,6 @@
           "unlock_command": "team join soundmage @s",
           "lock_command": "team leave @s"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -10121,19 +8522,6 @@
           "value": 2,
           "operation": "addition"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -10181,19 +8569,6 @@
           "attribute": "generic.max_health",
           "value": 4,
           "operation": "addition"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -10243,19 +8618,6 @@
           "value": 6,
           "operation": "addition"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -10303,19 +8665,6 @@
           "attribute": "generic.max_health",
           "value": 8,
           "operation": "addition"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -10365,19 +8714,6 @@
           "value": 10,
           "operation": "addition"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -10425,19 +8761,6 @@
           "attribute": "irons_spellbooks:max_mana",
           "value": 20,
           "operation": "addition"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -10487,19 +8810,6 @@
           "value": 30,
           "operation": "addition"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -10547,19 +8857,6 @@
           "attribute": "irons_spellbooks:max_mana",
           "value": 40,
           "operation": "addition"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -10609,19 +8906,6 @@
           "value": 0.5,
           "operation": "multiply_base"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -10669,19 +8953,6 @@
           "attribute": "irons_spellbooks:cooldown_reduction",
           "value": 0.25,
           "operation": "multiply_base"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -10750,19 +9021,6 @@
           "value": 0.25,
           "operation": "multiply_base"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -10829,19 +9087,6 @@
           "attribute": "puffish_attributes:ranged_damage",
           "value": 0.25,
           "operation": "multiply_base"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -10910,19 +9155,6 @@
           "value": 0.3,
           "operation": "multiply_base"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -10989,19 +9221,6 @@
           "attribute": "puffish_attributes:ranged_resistance",
           "value": 0.3,
           "operation": "multiply_base"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -11094,19 +9313,6 @@
           "value": 0.3,
           "operation": "multiply_base"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -11154,19 +9360,6 @@
           "attribute": "puffish_attributes:healing",
           "value": 1,
           "operation": "multiply_total"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -11216,19 +9409,6 @@
           "value": 0.25,
           "operation": "multiply_base"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -11276,19 +9456,6 @@
           "attribute": "puffish_attributes:pickaxe_speed",
           "value": 0.3,
           "operation": "multiply_base"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -11338,19 +9505,6 @@
           "value": 0.3,
           "operation": "multiply_base"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -11399,19 +9553,6 @@
           "value": 0.3,
           "operation": "multiply_base"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -11459,19 +9600,6 @@
           "attribute": "puffish_attributes:sprinting_speed",
           "value": 0.3,
           "operation": "multiply_base"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -11527,19 +9655,6 @@
           "value": 1,
           "operation": "addition"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -11593,19 +9708,6 @@
           "attribute": "puffish_attributes:fall_reduction",
           "value": 2,
           "operation": "addition"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -11661,19 +9763,6 @@
           "value": 0.5,
           "operation": "multiply_base"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -11721,19 +9810,6 @@
           "attribute": "artifacts:generic.mount_speed",
           "value": 1,
           "operation": "multiply_base"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -11785,19 +9861,6 @@
           "attribute": "artifacts:generic.movement_speed_on_snow",
           "value": 1,
           "operation": "multiply_base"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -11853,19 +9916,6 @@
           "value": 0.25,
           "operation": "multiply_base"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -11919,19 +9969,6 @@
           "attribute": "apothic_attributes:crit_damage",
           "value": 0.75,
           "operation": "multiply_base"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ],
@@ -11987,19 +10024,6 @@
           "value": 0.15,
           "operation": "multiply_base"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ],
     "metadata": {
@@ -12048,19 +10072,6 @@
           "value": 0.25,
           "operation": "multiply_base"
         }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
-        }
       }
     ]
   },
@@ -12105,19 +10116,6 @@
           "attribute": "apothic_attributes:draw_speed",
           "value": 0.25,
           "operation": "multiply_base"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "scoreboard players add @s level 1",
-          "lock_command": "scoreboard players remove @s level 1"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
         }
       }
     ]
