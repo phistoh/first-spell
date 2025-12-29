@@ -1,0 +1,23 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    "",
+    {
+      "text": "You can catch "
+    },
+    {
+      "text": "Fish",
+      "color": "red"
+    },
+    {
+      "text": " in "
+    },
+    {
+      "text": "The Nether",
+      "color": "dark_green"
+    },
+    {
+      "text": "."
+    },
+  ]
+}

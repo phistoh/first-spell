@@ -1,0 +1,16 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    "",
+    {
+      "text": "You can see more information about the targeted block when carrying a "
+    },
+    {
+      "text": "Spyglass",
+      "color": "dark_aqua"
+    },
+    {
+      "text": "."
+    }
+  ]
+}

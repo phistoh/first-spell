@@ -1,0 +1,23 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    "",
+    {
+      "text": "You can repair "
+    },
+    {
+      "text": "Diamond Shears",
+      "color": "dark_aqua"
+    },
+    {
+      "text": " by combining them with "
+    },
+    {
+      "text": "Diamonds",
+      "color": "dark_aqua"
+    },
+    {
+      "text": "."
+    }
+  ]
+}

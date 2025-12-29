@@ -80,92 +80,60 @@ for (const lantern of lanterns) {
         console.log("Objective not found: level");
         return null;
       }
+
       const scoreHolder = Java.loadClass(
         "net.minecraft.world.scores.ScoreHolder"
       ).forNameOnly(player.getUsername());
       const score = scoreboard.getOrCreatePlayerScore(scoreHolder, objective);
       const level = score.get();
 
-      if (level < 50) {
-        if (player.xp >= xp_to_level[level]) {
-          if (!player.isShiftKeyDown()) {
-            player.runCommandSilent(
-              `title @s actionbar ["",{"text":"You have enough XP to reach level "},{"text":"${
-                level + 1
-              }","color":"dark_aqua"},{"text":"!"}]`
-            );
-            return;
-          }
-          player.addXP(xp_to_level[level] * -1);
+      const level_to_compare = level < 50 ? level : 29;
+      const category = level < 50 ? "first_spell" : "eternal_turn_of_the_wheel";
+
+      // change to Levels instead of XP
+      if (player.xp >= xp_to_level[level_to_compare]) {
+        if (!player.isShiftKeyDown()) {
           player.runCommandSilent(
-            "puffish_skills points add @s phis:first_spell 1"
+            `title @s actionbar ["",{"text":"You have enough XP to reach level "},{"text":"${
+              level + 1
+            }","color":"dark_aqua"},{"text":"!"}]`
           );
-          player.runCommandSilent("scoreboard players add @s level 1");
-          const x = block.x;
-          const y = block.y;
-          const z = block.z;
-          player.runCommandSilent(
-            `particle supplementaries:bottling_xp ${x} ${y} ${z} 0 0 0 .25 25`
-          );
-          player.runCommandSilent(
-            "playsound irons_spellbooks:item.cinderous_soulcaller.toll.success master @s ~ ~ ~"
-          );
+          return;
+        }
+        player.addXP(xp_to_level[level] * -1);
+        player.runCommandSilent(
+          `puffish_skills points add @s phis:${category} 1`
+        );
+        player.runCommandSilent("scoreboard players add @s level 1");
+        const x = block.x;
+        const y = block.y;
+        const z = block.z;
+        player.runCommandSilent(
+          `particle supplementaries:bottling_xp ${x} ${y} ${z} 0 0 0 .25 25`
+        );
+        player.runCommandSilent(
+          "playsound irons_spellbooks:item.cinderous_soulcaller.toll.success master @s ~ ~ ~"
+        );
+        if (category == "first_spell") {
           player.runCommandSilent(
             "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
           );
-          player.swing();
-          player.addItemCooldown("irons_spellbooks:arcane_essence", 1 * 20);
-          if (!player.creativeMode) {
-            item.count--;
-          }
-        } else {
-          player.runCommandSilent(
-            `title @s actionbar ["",{"text":"You need additional "},{"text":"${
-              xp_to_level[level] - player.xp
-            }","color":"dark_aqua"},{"text":" XP to reach level "},{"text":"${
-              level + 1
-            }","color":"dark_aqua"},{"text":"!"}]`
-          );
+        }
+        player.swing();
+        player.addItemCooldown("irons_spellbooks:arcane_essence", 1 * 20);
+        if (!player.creativeMode) {
+          item.count--;
         }
       } else {
-        if (player.xp >= xp_to_level[29]) {
-          if (!player.isShiftKeyDown()) {
-            player.runCommandSilent(
-              `title @s actionbar ["",{"text":"You have enough XP to reach level "},{"text":"${
-                level + 1
-              }","color":"dark_aqua"},{"text":"!"}]`
-            );
-            return;
-          }
-          player.addXP(xp_to_level[29] * -1);
-          player.runCommandSilent(
-            "puffish_skills points add @s phis:eternal_turn_of_the_wheel 1"
-          );
-          player.runCommandSilent("scoreboard players add @s level 1");
-          const x = block.x;
-          const y = block.y;
-          const z = block.z;
-          player.runCommandSilent(
-            `particle supplementaries:bottling_xp ${x} ${y} ${z} 0 0 0 .25 25`
-          );
-          player.runCommandSilent(
-            "playsound irons_spellbooks:item.cinderous_soulcaller.toll.success master @s ~ ~ ~"
-          );
-          player.swing();
-          player.addItemCooldown("irons_spellbooks:arcane_essence", 1 * 20);
-          if (!player.creativeMode) {
-            item.count--;
-          }
-        } else {
-          player.runCommandSilent(
-            `title @s actionbar ["",{"text":"You need additional "},{"text":"${
-              xp_to_level[29] - player.xp
-            }","color":"dark_aqua"},{"text":" XP to reach level "},{"text":"${
-              level + 1
-            }","color":"dark_aqua"},{"text":"!"}]`
-          );
-        }
+        player.runCommandSilent(
+          `title @s actionbar ["",{"text":"You need additional "},{"text":"${
+            xp_to_level[level] - player.xp
+          }","color":"dark_aqua"},{"text":" XP to reach level "},{"text":"${
+            level + 1
+          }","color":"dark_aqua"},{"text":"!"}]`
+        );
       }
+
       lastClickTime = currentTime;
     }
   });

@@ -1,0 +1,31 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    "",
+    {
+      "text": "Hover over an item in the "
+    },
+    {
+      "text": "JEI",
+      "color": "blue",
+      "bold": true
+    },
+    {
+      "text": "sidebar and press ["
+    },
+    {
+      "keybind": "key.jei.showRecipe",
+      "color": "gold"
+    },
+    {
+      "text": "] to show how to craft the item. Press ["
+    },
+    {
+      "keybind": "key.jei.showUses",
+      "color": "gold"
+    },
+    {
+      "text": "] to show which recipes use the item."
+    }
+  ]
+}

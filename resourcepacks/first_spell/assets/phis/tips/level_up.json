@@ -1,0 +1,37 @@
+{
+  "type": "tipsmod:simple",
+  "text": [
+    "",
+    {
+      "text": "You can convert XP to skill points by pressing ["
+    },
+    {
+      "keybind": "key.sneak",
+      "color": "gold"
+    },
+    {
+      "text": "] and ["
+    },
+    {
+      "keybind": "key.use",
+      "color": "gold"
+    },
+    {
+      "text": "] on a "
+    },
+    {
+      "text": "Lantern",
+      "color": "dark_aqua"
+    },
+    {
+      "text": " while holding "
+    },
+    {
+      "text": "Arcane Essence",
+      "color": "dark_aqua"
+    },
+    {
+      "text": "."
+    }
+  ]
+}
