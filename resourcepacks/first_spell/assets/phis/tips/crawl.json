@@ -6,7 +6,7 @@
       "text": "You can press ["
     },
     {
-      "keybind": "key.personality.crawl",
+      "keybind": "key.crawl",
       "color": "gold"
     },
     {
