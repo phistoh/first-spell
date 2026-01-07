@@ -7,6 +7,6 @@
   "check_frame_position": false,
   "permission_levels": {
     "take_picture": 0,
-    "upload": 0
+    "upload": 3
   }
 }

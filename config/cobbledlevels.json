@@ -2,12 +2,11 @@
   "DimensionMinLevel": [
     "minecraft:the_nether: 40",
     "minecraft:the_end: 50",
-    "deeperdarker:deep_dark: 60"
+    "deeperdarker:otherside: 60"
   ],
   "DimensionMaxLevel": [
     "minecraft:overworld: 40",
-    "minecraft:the_nether: 50",
-    "minecraft:the_nether: 60"
+    "minecraft:the_nether: 50"
   ],
   "BiomeMinLevel": [
     "biomesoplenty:auroral_garden: 20",

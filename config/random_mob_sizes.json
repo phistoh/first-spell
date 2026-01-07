@@ -15,7 +15,8 @@
 	],
 	"exclude_list": [
 		"minecraft:shulker",
-		"minecraft:wither"
+		"minecraft:wither",
+		"cobblemon:pokemon"
 	],
 	"keep_scaling_on_conversion": true,
 	"scaling_overrides": {}
