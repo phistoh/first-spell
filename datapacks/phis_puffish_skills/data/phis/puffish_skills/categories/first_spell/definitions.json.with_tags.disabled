@@ -65,11 +65,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_copper_and_gold",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis_stage_copper_and_gold" }
       }
     ],
     "metadata": {
@@ -136,13 +133,7 @@
         "type": "puffish_skills:command",
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
-      {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_iron",
-          "operation": "add"
-        }
-      }
+      { "type": "puffish_skills:tag", "data": { "tag": "phis_stage_iron" } }
     ],
     "metadata": {
       "icon": "42bon54llh2cnvbn"
@@ -208,13 +199,7 @@
         "type": "puffish_skills:command",
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
-      {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_diamond",
-          "operation": "add"
-        }
-      }
+      { "type": "puffish_skills:tag", "data": { "tag": "phis_stage_diamond" } }
     ],
     "metadata": {
       "icon": "cjy6bvudmk1i08cl"
@@ -281,11 +266,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_netherite",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis_stage_netherite" }
       }
     ],
     "metadata": {
@@ -359,13 +341,7 @@
         "type": "puffish_skills:command",
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
-      {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_warden",
-          "operation": "add"
-        }
-      }
+      { "type": "puffish_skills:tag", "data": { "tag": "phis_stage_warden" } }
     ],
     "metadata": {
       "icon": "k0i3j0c336wgrmuw"
@@ -419,11 +395,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_return_scroll",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis_stage_return_scroll" }
       }
     ],
     "metadata": {
@@ -469,11 +442,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_warp_stone",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis_stage_warp_stone" }
       }
     ],
     "metadata": {
@@ -518,13 +488,7 @@
         "type": "puffish_skills:command",
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
-      {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_waystone",
-          "operation": "add"
-        }
-      }
+      { "type": "puffish_skills:tag", "data": { "tag": "phis_stage_waystone" } }
     ],
     "metadata": {
       "icon": "ay09vpb06sbxy4l9"
@@ -569,11 +533,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_arcane_essence",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis_stage_arcane_essence" }
       }
     ],
     "metadata": {
@@ -840,11 +801,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_scroll_forge",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis_stage_scroll_forge" }
       }
     ],
     "metadata": {
@@ -890,11 +848,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_arcane_anvil",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis_stage_arcane_anvil" }
       }
     ],
     "metadata": {
@@ -1241,11 +1196,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_muskets_and_bombs",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis_stage_muskets_and_bombs" }
       }
     ],
     "metadata": {
@@ -1297,11 +1249,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_hellfire_ammo",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis_stage_hellfire_ammo" }
       }
     ],
     "metadata": {
@@ -1353,11 +1302,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_fireworks",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis_stage_fireworks" }
       }
     ],
     "metadata": {
@@ -1505,11 +1451,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_linked_pouch",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis_stage_linked_pouch" }
       }
     ],
     "metadata": {
@@ -1724,11 +1667,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_eldritch_spells",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis_stage_eldritch_spells" }
       }
     ],
     "metadata": {
@@ -2071,11 +2011,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_keeper_of_inventories",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis_stage_keeper_of_inventories" }
       }
     ],
     "metadata": {
@@ -2618,11 +2555,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_backpack_gold",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis_stage_backpack_gold" }
       }
     ],
     "metadata": {
@@ -2675,11 +2609,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_backpack_diamond",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis_stage_backpack_diamond" }
       }
     ]
   },
@@ -2729,11 +2660,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_backpack_netherite",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis_stage_backpack_netherite" }
       }
     ],
     "metadata": {
@@ -2786,11 +2714,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_infinity_key",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis_stage_infinity_key" }
       }
     ],
     "metadata": {
@@ -2856,11 +2781,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_grappling_hooks",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis_stage_grappling_hooks" }
       }
     ],
     "metadata": {
@@ -3449,11 +3371,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_dragon_breath",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis_stage_dragon_breath" }
       }
     ],
     "metadata": {
@@ -3570,11 +3489,8 @@
         }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_cobblemon",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis_stage_cobblemon" }
       }
     ],
     "metadata": {
@@ -4014,11 +3930,8 @@
         }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_assassin_poisons",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis_stage_assassin_poisons" }
       }
     ],
     "metadata": {
@@ -5027,11 +4940,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_manuscript_fire",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis_stage_manuscript_fire" }
       },
       {
         "type": "puffish_skills:tag",
@@ -5185,11 +5095,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_focus_fire",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis_stage_focus_fire" }
       },
       {
         "type": "puffish_skills:command",
@@ -5432,11 +5339,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_manuscript_ice",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis_stage_manuscript_ice" }
       },
       {
         "type": "puffish_skills:tag",
@@ -5590,11 +5494,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_focus_ice",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis_stage_focus_ice" }
       },
       {
         "type": "puffish_skills:command",
@@ -5837,11 +5738,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_manuscript_lightning",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis_stage_manuscript_lightning" }
       },
       {
         "type": "puffish_skills:tag",
@@ -5995,11 +5893,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_focus_lightning",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis_stage_focus_lightning" }
       },
       {
         "type": "puffish_skills:command",
@@ -6242,11 +6137,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_manuscript_holy",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis_stage_manuscript_holy" }
       },
       {
         "type": "puffish_skills:tag",
@@ -6400,11 +6292,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_focus_holy",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis_stage_focus_holy" }
       },
       {
         "type": "puffish_skills:command",
@@ -6647,11 +6536,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_manuscript_ender",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis_stage_manuscript_ender" }
       },
       {
         "type": "puffish_skills:tag",
@@ -6805,11 +6691,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_focus_ender",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis_stage_focus_ender" }
       },
       {
         "type": "puffish_skills:command",
@@ -7052,11 +6935,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_manuscript_blood",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis_stage_manuscript_blood" }
       },
       {
         "type": "puffish_skills:tag",
@@ -7210,11 +7090,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_focus_blood",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis_stage_focus_blood" }
       },
       {
         "type": "puffish_skills:command",
@@ -7457,11 +7334,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_manuscript_evocation",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis_stage_manuscript_evocation" }
       },
       {
         "type": "puffish_skills:tag",
@@ -7615,11 +7489,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_focus_evocation",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis_stage_focus_evocation" }
       },
       {
         "type": "puffish_skills:command",
@@ -7862,11 +7733,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_manuscript_nature",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis_stage_manuscript_nature" }
       },
       {
         "type": "puffish_skills:tag",
@@ -8020,11 +7888,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_focus_nature",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis_stage_focus_nature" }
       },
       {
         "type": "puffish_skills:command",
@@ -8267,11 +8132,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_manuscript_sound",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis_stage_manuscript_sound" }
       },
       {
         "type": "puffish_skills:tag",
@@ -8425,11 +8287,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_focus_sound",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis_stage_focus_sound" }
       },
       {
         "type": "puffish_skills:command",

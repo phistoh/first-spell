@@ -52,6 +52,9 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "camerapture": {
+    "picture_frame": true
+  },
   "jadeaddons": {
     "equipment_requirement": ""
   },

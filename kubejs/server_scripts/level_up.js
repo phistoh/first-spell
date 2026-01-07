@@ -68,14 +68,6 @@ for (const lantern of lanterns) {
 
       if (hand == "OFF_HAND") return;
 
-      const xp_to_level = [
-        7, 16, 27, 40, 55, 72, 91, 112, 135, 160, 187, 216, 247, 280, 315, 352,
-        394, 441, 493, 550, 612, 679, 751, 828, 910, 997, 1089, 1186, 1288,
-        1395, 1507, 1628, 1758, 1897, 2045, 2202, 2368, 2543, 2727, 2920, 3122,
-        3333, 3553, 3782, 4020, 4267, 4523, 4788, 5062, 5345, 5637, 5938, 6248,
-        6567, 6895, 7232, 7578, 7933, 8297, 8670, 9052, 9443, 9843, 10252,
-      ];
-
       if (!objective) {
         console.log("Objective not found: level");
         return null;
@@ -87,20 +79,18 @@ for (const lantern of lanterns) {
       const score = scoreboard.getOrCreatePlayerScore(scoreHolder, objective);
       const level = score.get();
 
-      const level_to_compare = level < 50 ? level : 29;
+      const level_to_compare = level < 50 ? level + 1 : 30;
       const category = level < 50 ? "first_spell" : "eternal_turn_of_the_wheel";
 
       // change to Levels instead of XP
-      if (player.xp >= xp_to_level[level_to_compare]) {
+      if (player.xpLevel >= level_to_compare) {
         if (!player.isShiftKeyDown()) {
           player.runCommandSilent(
-            `title @s actionbar ["",{"text":"You have enough XP to reach level "},{"text":"${
-              level + 1
-            }","color":"dark_aqua"},{"text":"!"}]`
+            `title @s actionbar ["",{"text":"You have enough levels to purchase a skill point."}]`
           );
           return;
         }
-        player.addXP(xp_to_level[level] * -1);
+        player.addXPLevels(level_to_compare * -1);
         player.runCommandSilent(
           `puffish_skills points add @s phis:${category} 1`
         );
@@ -126,11 +116,11 @@ for (const lantern of lanterns) {
         }
       } else {
         player.runCommandSilent(
-          `title @s actionbar ["",{"text":"You need additional "},{"text":"${
-            xp_to_level[level] - player.xp
-          }","color":"dark_aqua"},{"text":" XP to reach level "},{"text":"${
-            level + 1
-          }","color":"dark_aqua"},{"text":"!"}]`
+          `title @s actionbar ["",{"text":"You need "},{"text":"${
+            level_to_compare - player.xpLevel
+          }","color":"dark_aqua"},{"text":" more level${
+            level_to_compare - player.xpLevel !== 1 ? "s" : ""
+          } to purchase another skill point."}]`
         );
       }
 
