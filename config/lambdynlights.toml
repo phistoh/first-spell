@@ -131,6 +131,7 @@ chunk_rebuild_scheduler = "culling"
 				shulker_bullet = true
 				enderman = true
 				dragon_fireball = true
+				copper_golem = true
 				chicken = true
 				sniffer = true
 				trader_llama = true
@@ -244,49 +245,69 @@ chunk_rebuild_scheduler = "culling"
 
 			[light_sources.settings.entities.luminous_beasts]
 				rare_stalker = true
-				crimson_projectile = true
 				babyfireball = true
 				phoenixbird = true
-				windy_fb = true
 				warped_projectile = true
-				rare_tree_ent = true
-				rare_mummy = true
+				frigid_gator = true
+				shadow = true
+				basalt_executioner = true
 				mummy = true
 				sea_viper = true
-				rare_baby_phoenix = true
 				soul_ember = true
-				haunt_ball = true
 				baby_phoenix = true
+				coral_sea_viper = true
 				rare_crimson_spitter = true
+				red_mummy = true
 				rare_hermit_king = true
 				the_scarecrow = true
-				scarecrow_minion = true
 				piglin_executioner = true
-				soul_furnace = true
 				vile_gator = true
-				rare_yeti = true
 				bone_stalker = true
 				sand_crab = true
 				pumpkin_minion = true
+				spell = true
 				rare_sea_viper = true
-				yeti_snowball = true
-				stalker = true
+				bogged_bone_stalker = true
 				ember = true
 				rare_vile_gator = true
 				phoenixfireball = true
-				the_furnace = true
+				golden_hermit_king = true
 				tamed_haunt_ball = true
-				horseless_headsman = true
-				crimson_spitter = true
-				tree_ent = true
-				rare_phoenix_bird = true
-				yeti_dirt_ball = true
-				rare_executioner = true
 				gilded_ent = true
 				tamed_stalker = true
 				yeti = true
 				hermit_king = true
 				baby_windy_fb = true
+				bogged_shadow = true
+				crimson_projectile = true
+				windy_fb = true
+				rare_tree_ent = true
+				rare_mummy = true
+				rare_baby_phoenix = true
+				haunt_ball = true
+				woodland_witch_doctor = true
+				green_spell = true
+				crimson_mushlin_king = true
+				tamed_shadow = true
+				baby_wind_phoenix = true
+				scarecrow_minion = true
+				warped_mushlin_king = true
+				soul_furnace = true
+				rare_yeti = true
+				wind_phoenix = true
+				yeti_snowball = true
+				stalker = true
+				the_furnace = true
+				cherry_tree_ent = true
+				horseless_headsman = true
+				crimson_spitter = true
+				tree_ent = true
+				arid_yeti = true
+				witch_doctor = true
+				rare_phoenix_bird = true
+				yeti_dirt_ball = true
+				phoenix = true
+				rare_executioner = true
 				rare_haunt_ball = true
 				rare_bone_stalker = true
 
@@ -332,6 +353,15 @@ chunk_rebuild_scheduler = "culling"
 
 			[light_sources.settings.entities.artifacts]
 				mimic = true
+
+			[light_sources.settings.entities.cobblemon]
+				empty_pokeball = true
+				npc = true
+				pokemon = true
+				generic_bedrock = true
+				chest_boat = true
+				poke_bobber = true
+				boat = true
 
 			[light_sources.settings.entities.waves]
 				waves = true
@@ -444,6 +474,17 @@ chunk_rebuild_scheduler = "culling"
 				red_panda = true
 				sea_bunny = true
 
+			[light_sources.settings.entities.fightorflight]
+				bullet_projectile = true
+				tornado = true
+				floating_spike_projectile = true
+				magic_effect = true
+				tracing_bullet = true
+				whirlpool = true
+				arrow_projectile = true
+				spike_projectile = true
+				sticky_web = true
+
 			[light_sources.settings.entities.mounts_of_mayhem]
 				parched = true
 				projectile_parched = true
@@ -520,6 +561,9 @@ chunk_rebuild_scheduler = "culling"
 				falling_block = true
 				chest_boat = true
 				boat = true
+
+			[light_sources.settings.entities.camerapture]
+				picture_frame = true
 
 			[light_sources.settings.entities.dummmmmmy]
 				target_dummy = true
