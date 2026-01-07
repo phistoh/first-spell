@@ -132,6 +132,17 @@
       },
       "sync": "immersiveoverlays:temperature"
     },
+    "immersiveoverlays:wind": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "immersiveoverlays:wind"
+    },
     "incapacitated:down_counter": {
       "displacement": {
         "x": 0,

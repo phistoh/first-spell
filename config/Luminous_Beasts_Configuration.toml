@@ -7,13 +7,14 @@
 	"Vile Gator Spawning" = true
 	"Bone Stalker Spawning" = true
 	"Piglin Executioner Spawning" = true
-	"Mushlin Spitter Spawning" = true
 	"Furnace Spawning" = true
 	"Horseless Headsman Spawning" = true
 	#1 is normal, 2 is doubled, 3 is tripled
 	"Phoenix Egg Rarity" = 1.0
 	#1 is normal, 2 is doubled, 3 is tripled
 	"Sea Viper Egg Rarity" = 1.0
+	"Mushlin King Spawning" = true
+	"Witch Doctor Spawning" = true
 
 ["Beast Items Configuration"]
 	#Determines the slowness level applied by the root
@@ -42,6 +43,10 @@
 	"Molten Coal Damage Timer" = 3.0
 	#Determines the level of strength applied to you when wearing the pumpkin helmet
 	"Pumpkin Helmet Strength Level" = 1.0
+	#Determines the level of resistance granted by the Jungle Pendant
+	"Jungle Pendant Resistance" = 1.0
+	#Determines the duration of resistance granted to the player
+	"Jungle Pendant Timer" = 6.0
 
 ["Rare Beasts Configuration"]
 	#true means spawns are on, false means they are not
@@ -52,22 +57,25 @@
 	"Rare Vile Gator Spawning" = true
 	"Rare Bone Stalker Spawning" = true
 	"Rare Piglin Executioner Spawning" = true
-	"Rare Mushlin Spitter Spawning" = true
 	"Rare Furnace Spawning" = true
-	"Rare Horseless Headsman Spawning" = true
 	#1 is normal, 2 is doubled, 3 is tripled
 	"Rare Phoenix Egg Rarity" = 1.0
 	#1 is normal, 2 is doubled, 3 is tripled
 	"Rare Sea Viper Egg Rarity" = 1.0
+	"Rare Mushlin King Spawning" = true
+	"Scarecrow Spawning" = true
+	"Rare Witchdoctor Rarity" = true
 
 ["Beast Pit Configuration"]
-	#Determines the max number of Beast pits that can be lit at any given time per world
-	"Allowed Pit Number" = 2.0
 	#Determines how long the Beast Pit stays lit (in ticks, default is 300)
 	"Beast Pit Lit Timer" = 100.0
 	#NOT WORKING AT THE MOMENT
 	"Beast Pit Spawning Radius" = 16.0
+	#Determines the max number of Beast pits that can be lit at any given time per world
+	"Allowed Beast Pit Number" = 2.0
 
 [Other]
 	#Determines if beasts can spawn in modded biomes based off of temperature
 	"Modded Biomes Support" = true
+	#determines if Tree Ents will grief leaves
+	Disable_Treeent_Griefing = true
