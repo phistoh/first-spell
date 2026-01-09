@@ -1,0 +1,8 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"irons_spellbooks:arcane_essence"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:ender_pearl"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_spellbooks:arcane_rune"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"arcaneessenceblock:arcane_essence_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:birch_wood"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
