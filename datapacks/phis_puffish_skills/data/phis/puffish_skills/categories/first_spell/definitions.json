@@ -521,7 +521,7 @@
       {
         "type": "astages:stage_reward",
         "data": {
-          "stage": "phis_stage_waystone",
+          "stage": "phis_stage_crafting_waystone",
           "operation": "add"
         }
       }
