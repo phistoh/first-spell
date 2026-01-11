@@ -1,0 +1,8 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"waystones:waystone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"waystones:blank_scroll"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"waystones:return_scroll"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"waystones:warp_scroll"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"waystones:warp_stone"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

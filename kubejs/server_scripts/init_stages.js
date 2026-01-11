@@ -159,7 +159,7 @@ const waystone_recipe_ids = [
 for (const id of waystone_recipe_ids) {
   AStages.addRestrictionForRecipe(
     `phis/crafting_${id}`,
-    "phis_stage_crafting_waystone",
+    "phis_stage_waystone",
     "minecraft:crafting",
     `waystones:${id}`
   );
