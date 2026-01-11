@@ -6,8 +6,9 @@ EntityEvents.afterHurt((event) => {
   if (sourceType != "player") return;
 
   if (source.tags.contains("phis.mana_leech")) {
-    source.runCommandSilent(
-      `mana add @s ${Math.ceil(damage * 0.25)}`
+    const player_name = source.name.string;
+    server.runCommandSilent(
+      `mana add ${player_name} ${Math.ceil(damage * 0.25)}`
     );
   }
 });

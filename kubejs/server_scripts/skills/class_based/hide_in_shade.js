@@ -2,6 +2,7 @@ EntityEvents.death((event) => {
   const {
     entity,
     source: { player },
+    server
   } = event;
 
   if (!player) return;
@@ -9,11 +10,13 @@ EntityEvents.death((event) => {
 
   if (entity.lastHurtByPlayer) {
     if (player.tags.contains("phis.hide_in_shade")) {
-      player.runCommandSilent(
-        "particle minecraft:witch ~ ~ ~ .2 .8 .2 .05 250"
+      const player_name = player.name.string;
+      const coordinates = `${player.x} ${player.y} ${player.z}`;
+      server.runCommandSilent(
+        `particle minecraft:witch ${coordinates} .2 .8 .2 .05 250`
       );
-      player.runCommandSilent(
-        "playsound irons_spellbooks:cast.blood_step master @s ~ ~ ~"
+      server.runCommandSilent(
+        `playsound irons_spellbooks:cast.blood_step master ${player_name} ${coordinates}`
       );
       player.potionEffects.add("minecraft:invisibility", 3 * 20, 3, true, true);
     } else {

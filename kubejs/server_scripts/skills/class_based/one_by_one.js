@@ -2,6 +2,7 @@ EntityEvents.death((event) => {
   const {
     entity,
     source: { player },
+    server
   } = event;
 
   if (!player) return;
@@ -16,11 +17,13 @@ EntityEvents.death((event) => {
     if (amplifier > 8) {
       amplifier = 8;
     }
-    player.runCommandSilent(
-      "particle dust{color:[0.45,0.11,0.16],scale:0.5} ~ ~1 ~ .2 1 .2 .5 10"
+    const player_name = player.name.string;
+    const coordinates = `${player.x} ${player.y} ${player.z}`;
+    server.runCommandSilent(
+      `particle dust{color:[0.45,0.11,0.16],scale:0.5} ${coordinates} .2 1 .2 .5 10`
     );
-    player.runCommandSilent(
-      "playsound irons_spellbooks:entity.guiding_bolt.impact master @s ~ ~ ~"
+    server.runCommandSilent(
+      `playsound irons_spellbooks:entity.guiding_bolt.impact master ${player_name} ${coordinates}`
     );
     player.potionEffects.add(
       "kubejs:one_by_one",

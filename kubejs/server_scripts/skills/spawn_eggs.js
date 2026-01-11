@@ -2,6 +2,7 @@ EntityEvents.death((event) => {
   const {
     entity,
     source: { player },
+    server
   } = event;
 
   if (!player) return;
@@ -12,8 +13,9 @@ EntityEvents.death((event) => {
   if (entity.lastHurtByPlayer) {
     const mob_id = entity.type;
     if (mob_id == "minecraft:player") return;
+    if (mob_id == "cobblemon:pokemon") return;
     if (Math.random() < 0.01) {
-      player.runCommandSilent(
+      server.runCommandSilent(
         `summon item ${entity.x} ${entity.y} ${entity.z} {Motion:[${
           Math.random() / 8
         }d,${Math.random() / 8}d,${

@@ -2,6 +2,7 @@ EntityEvents.afterHurt((event) => {
   const {
     entity,
     source: { player },
+    server
   } = event;
   const variants = [
     "pale",
@@ -45,14 +46,14 @@ EntityEvents.afterHurt((event) => {
       hunterDog.y = player.y;
       hunterDog.z = player.z;
       hunterDog.spawn();
-      player.runCommandSilent(
+      server.runCommandSilent(
         `particle minecraft:dust_plume ${hunterDog.x} ${hunterDog.y} ${hunterDog.z} .2 .5 .2 .01 1000`
       );
-      player.runCommandSilent(
-        `playsound minecraft:entity.wolf.ambient player @a`
+      server.runCommandSilent(
+        `playsound minecraft:entity.wolf.ambient master @a ${hunterDog.x} ${hunterDog.y} ${hunterDog.z}`
       );
       hunterDog.server.scheduleInTicks(10 * 20, () => {
-        player.runCommandSilent(
+        server.runCommandSilent(
           `particle minecraft:dust_plume ${hunterDog.x} ${hunterDog.y} ${hunterDog.z} .2 .5 .2 .01 1000`
         );
         hunterDog.remove("DISCARDED");

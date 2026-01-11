@@ -1,5 +1,7 @@
 ItemEvents.rightClicked("kubejs:arcane_infused_bottle", (event) => {
-  const { player, item, hand } = event;
+  const { player, item, hand, server } = event;
+  const player_name = player.name.string;
+  const coordinates = `${player.x} ${player.y} ${player.z}`;
 
   const extractable_liquids = {
     "biomesoplenty:blood": "irons_spellbooks:blood_vial",
@@ -17,8 +19,8 @@ ItemEvents.rightClicked("kubejs:arcane_infused_bottle", (event) => {
   } else {
     player.swing();
   }
-  player.runCommandSilent(
-    "playsound minecraft:item.bottle.fill master @s ~ ~ ~"
+  server.runCommandSilent(
+    `playsound minecraft:item.bottle.fill master ${player_name} ${coordinates}`
   );
   if (player.isCreative() == false) {
     item.count--;
@@ -27,7 +29,9 @@ ItemEvents.rightClicked("kubejs:arcane_infused_bottle", (event) => {
 });
 
 ItemEvents.entityInteracted("kubejs:arcane_infused_bottle", (event) => {
-  const { target, player, item, hand } = event;
+  const { target, player, item, hand, server } = event;
+  const player_name = player.name.string;
+  const coordinates = `${player.x} ${player.y} ${player.z}`;
 
   const snowy_biomes = [
     "biomesoplenty:auroral_garden",
@@ -112,8 +116,8 @@ ItemEvents.entityInteracted("kubejs:arcane_infused_bottle", (event) => {
   } else {
     player.swing();
   }
-  player.runCommandSilent(
-    "playsound minecraft:item.bottle.fill master @s ~ ~ ~"
+  server.runCommandSilent(
+    `playsound minecraft:item.bottle.fill master ${player_name} ${coordinates}`
   );
   if (player.isCreative() == false) {
     item.count--;

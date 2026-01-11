@@ -1,5 +1,7 @@
 ItemEvents.entityInteracted("minecraft:bucket", (event) => {
-  const { target, player, item, hand } = event;
+  const { target, player, item, hand, server } = event;
+  const player_name = player.name.string;
+  const coordinates = `${player.x} ${player.y} ${player.z}`;
 
   const milkable =
     target.type == "minecraft:cow" ||
@@ -14,8 +16,8 @@ ItemEvents.entityInteracted("minecraft:bucket", (event) => {
   } else {
     player.swing();
   }
-  player.runCommandSilent(
-    "playsound minecraft:item.bucket.fill_milk master @s ~ ~ ~"
+  server.runCommandSilent(
+    `playsound minecraft:item.bucket.fill_milk master ${player_name} ${coordinates}`
   );
   if (player.isCreative() == false) {
     item.count--;

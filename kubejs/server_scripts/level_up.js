@@ -56,9 +56,12 @@ for (const lantern of lanterns) {
 
     if (currentTime - lastClickTime >= cooldownTime) {
       const player = event.player;
+      const player_name = player.name.string;
+      const coordinates = `${player.x} ${player.y} ${player.z}`;
       const item = event.item;
       const hand = event.hand;
       const block = event.block;
+      const server = event.server;
 
       const scoreboard = player.getScoreboard();
       const objective = scoreboard.getObjective("level");
@@ -85,28 +88,28 @@ for (const lantern of lanterns) {
       // change to Levels instead of XP
       if (player.xpLevel >= level_to_compare) {
         if (!player.isShiftKeyDown()) {
-          player.runCommandSilent(
-            `title @s actionbar ["",{"text":"You have enough levels to purchase a skill point."}]`
+          server.runCommandSilent(
+            `title ${player_name} actionbar ["",{"text":"You have enough levels to purchase a skill point."}]`
           );
           return;
         }
         player.addXPLevels(level_to_compare * -1);
-        player.runCommandSilent(
-          `puffish_skills points add @s phis:${category} 1`
+        server.runCommandSilent(
+          `puffish_skills points add ${player_name} phis:${category} 1`
         );
-        player.runCommandSilent("scoreboard players add @s level 1");
+        server.runCommandSilent(`scoreboard players add ${player_name} level 1`);
         const x = block.x;
         const y = block.y;
         const z = block.z;
-        player.runCommandSilent(
+        server.runCommandSilent(
           `particle supplementaries:bottling_xp ${x} ${y} ${z} 0 0 0 .25 25`
         );
-        player.runCommandSilent(
-          "playsound irons_spellbooks:item.cinderous_soulcaller.toll.success master @s ~ ~ ~"
+        server.runCommandSilent(
+          `playsound irons_spellbooks:item.cinderous_soulcaller.toll.success master ${player_name} ${coordinates}`
         );
         if (category == "first_spell") {
-          player.runCommandSilent(
-            "execute if score @s level matches 50.. run puffish_skills category unlock @s phis:eternal_turn_of_the_wheel"
+          server.runCommandSilent(
+            `execute if score ${player_name} level matches 50.. run puffish_skills category unlock ${player_name} phis:eternal_turn_of_the_wheel`
           );
         }
         player.swing();
@@ -115,8 +118,8 @@ for (const lantern of lanterns) {
           item.count--;
         }
       } else {
-        player.runCommandSilent(
-          `title @s actionbar ["",{"text":"You need "},{"text":"${
+        server.runCommandSilent(
+          `title ${player_name} actionbar ["",{"text":"You need "},{"text":"${
             level_to_compare - player.xpLevel
           }","color":"dark_aqua"},{"text":" more level${
             level_to_compare - player.xpLevel !== 1 ? "s" : ""
