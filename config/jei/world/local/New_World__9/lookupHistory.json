@@ -1,5 +1,9 @@
 [
   {"version":1},
+  {"ingredient":{"id":"kubejs:drained_ancient_tome"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:experience_bottle"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_spellbooks:arcane_essence"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_spellbooks:bloody_vellum"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"simplemusket:enchanted_cartridge"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"simplemusket:hellfire_cartridge"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"simplemusket:cartridge"},"type":"item_stack","bookmarkType":"INGREDIENT"},
