@@ -1,5 +1,5 @@
 ServerEvents.recipes(event => {
-    event.shaped('simplemusket:hellfire_cartridge', [
+    event.shaped('8x simplemusket:hellfire_cartridge', [
         'CCC',
         'CRC',
         'CCC'
@@ -9,7 +9,7 @@ ServerEvents.recipes(event => {
     }).id("hellfire_cartridge");
 })
 ServerEvents.recipes(event => {
-    event.shaped('simplemusket:enchanted_cartridge', [
+    event.shaped('8x simplemusket:enchanted_cartridge', [
         'CCC',
         'CEC',
         'CCC'
