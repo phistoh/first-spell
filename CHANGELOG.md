@@ -11,10 +11,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Installed mod Immersive Optimization (server side)
 - Descriptions for Enchantment Encore mod
+- Recipe to get random Ancient Books
 
 ### Fixed
 
+- Hellfire and Enchanted Cartridge recipes give the correct amount of cartridges
+- Typos in tips
+
 ### Changed
+
+- Updated Waystones config to allow creation of global waystones
+- Creeper from Creeper OVerhaul Mod cannot destroy blocks anymore
+- Recipe for Lava Fishing Rod is cheaper
+- Map Atlases accept paper
+- Updated Pufferfish's Atttributes from `0.7.6` to `0.8.1` (to fix negative resistances)
+- Updated Immersive Enchanting from `2.2.0` to `3.0.0` (to allow enchantment descriptions)
 
 ### Removed
 
