@@ -1,0 +1,14 @@
+{
+  "type": "immersiveenchanting:ancient_book_loot_modifier",
+  "conditions": [
+    {
+      "condition": "any_of",
+      "terms": [
+        { "condition": "neoforge:loot_table_id", "loot_table_id": "phis:random_ancient_book"}
+      ]
+    }
+  ],
+  "count": 1,
+  "item": "immersiveenchanting:ancient_book",
+  "chance": 1
+}
