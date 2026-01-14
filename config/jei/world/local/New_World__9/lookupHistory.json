@@ -1,5 +1,6 @@
 [
   {"version":1},
+  {"ingredient":{"id":"netherdepthsupgrade:lava_fishing_rod"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"waystones:waystone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"waystones:blank_scroll"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"waystones:return_scroll"},"type":"item_stack","bookmarkType":"INGREDIENT"},
