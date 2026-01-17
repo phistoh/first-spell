@@ -1,0 +1,7 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"immersiveenchanting:ancient_book","components":{"minecraft:stored_enchantments":{"levels":{"combat_roll:acrobat":1}}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"netherdepthsupgrade:lava_fishing_rod"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"netherdepthsupgrade:blazefish"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:cooked_salmon"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
