@@ -80,25 +80,25 @@ ServerEvents.recipes((event) => {
   event.replaceInput(
     { id: "yyzsbackpack:gold_backpack" },
     "minecraft:leather",
-    "netherdepthsupgrade:soul_sucker_leather"
+    "irons_spellbooks:hogskin"
   );
 
   event.replaceInput(
     { id: "yyzsbackpack:gold_backpack_smithing" },
     "minecraft:leather",
-    "netherdepthsupgrade:soul_sucker_leather"
+    "irons_spellbooks:hogskin"
   );
 
   event.replaceInput(
     { id: "yyzsbackpack:diamond_backpack" },
     "minecraft:leather",
-    "irons_spellbooks:hogskin"
+    "netherdepthsupgrade:soul_sucker_leather"
   );
 
   event.replaceInput(
     { id: "yyzsbackpack:diamond_backpack_smithing" },
     "minecraft:leather",
-    "irons_spellbooks:hogskin"
+    "netherdepthsupgrade:soul_sucker_leather"
   );
 
   event.replaceInput(
