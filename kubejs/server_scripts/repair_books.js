@@ -20,13 +20,13 @@ BlockEvents.rightClicked("minecraft:anvil", (event) => {
     const y = block.y;
     const z = block.z;
     server.runCommandSilent(
-      `particle supplementaries:bottling_xp ${x} ${y} ${z} 0 0 0 .25 25`,
+      `particle supplementaries:bottling_xp ${x} ${y} ${z} 0 0 0 .25 25`
     );
     server.runCommandSilent(
-      `playsound minecraft:item.wolf_armor.repair master ${player_name} ${coordinates}`,
+      `playsound minecraft:item.wolf_armor.repair master ${player_name} ${coordinates}`
     );
     server.runCommandSilent(
-      `/give ${player_name} immersiveenchanting:ancient_book[stored_enchantments=${enchantment}]`,
+      `give ${player_name} immersiveenchanting:ancient_book[stored_enchantments=${enchantment}]`
     );
     player.swing();
     if (!player.creativeMode) {
