@@ -1,5 +1,7 @@
 [
   {"version":1},
+  {"ingredient":{"id":"immersiveenchanting:ancient_book","components":{"minecraft:stored_enchantments":{"levels":{"combat_roll:acrobat":1}}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:red_banner"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"kubejs:drained_ancient_tome"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:experience_bottle"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"irons_spellbooks:arcane_essence"},"type":"item_stack","bookmarkType":"INGREDIENT"},
