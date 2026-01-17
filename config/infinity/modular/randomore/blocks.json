@@ -1,24 +1,24 @@
 {
 	"elements": [
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
 			"weight": 1.0,
-			"key": "randomore:deepslate_random_ore"
+			"key": "randomore:deepslate_random_ore",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
 			"weight": 1.0,
-			"key": "randomore:random_ore"
+			"key": "randomore:random_ore",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
 		}
 	]
 }

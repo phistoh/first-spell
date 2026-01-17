@@ -462,6 +462,22 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "supplementaries:cobblemon/cannon_boat_apricorn"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:cobblemon/cannon_boat_saccharine"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:cobblemon/way_sign_apricorn"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:cobblemon/way_sign_saccharine"
+		},
+		{
+			"weight": 1.0,
 			"key": "supplementaries:cog_block"
 		},
 		{

@@ -162,6 +162,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "minecraft:copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:copper_chests"
+		},
+		{
+			"weight": 1.0,
 			"key": "minecraft:copper_ores"
 		},
 		{
@@ -227,6 +235,10 @@
 		{
 			"weight": 1.0,
 			"key": "minecraft:dragon_transparent"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:drip_stone_replaceables"
 		},
 		{
 			"weight": 1.0,
@@ -378,6 +390,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "minecraft:lanterns"
+		},
+		{
+			"weight": 1.0,
 			"key": "minecraft:lapis_ores"
 		},
 		{
@@ -387,6 +403,10 @@
 		{
 			"weight": 1.0,
 			"key": "minecraft:leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:lightning_rods"
 		},
 		{
 			"weight": 1.0,
@@ -739,6 +759,10 @@
 		{
 			"weight": 1.0,
 			"key": "minecraft:wooden_pressure_plates"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:wooden_shelves"
 		},
 		{
 			"weight": 1.0,

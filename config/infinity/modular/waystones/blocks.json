@@ -1,384 +1,384 @@
 {
 	"elements": [
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "waystones:black_portstone"
+			"key": "waystones:black_portstone",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "waystones:black_sharestone"
+			"key": "waystones:black_sharestone",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "waystones:blackstone_waystone"
+			"key": "waystones:blackstone_waystone",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "waystones:blue_portstone"
+			"key": "waystones:blue_portstone",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "waystones:blue_sharestone"
+			"key": "waystones:blue_sharestone",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "waystones:brown_portstone"
+			"key": "waystones:brown_portstone",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "waystones:brown_sharestone"
+			"key": "waystones:brown_sharestone",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "waystones:cyan_portstone"
+			"key": "waystones:cyan_portstone",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "waystones:cyan_sharestone"
+			"key": "waystones:cyan_sharestone",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "waystones:deepslate_waystone"
+			"key": "waystones:deepslate_waystone",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "waystones:end_stone_waystone"
+			"key": "waystones:end_stone_waystone",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "waystones:gray_portstone"
+			"key": "waystones:gray_portstone",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "waystones:gray_sharestone"
+			"key": "waystones:gray_sharestone",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "waystones:green_portstone"
+			"key": "waystones:green_portstone",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "waystones:green_sharestone"
+			"key": "waystones:green_sharestone",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "waystones:light_blue_portstone"
+			"key": "waystones:light_blue_portstone",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "waystones:light_blue_sharestone"
+			"key": "waystones:light_blue_sharestone",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "waystones:light_gray_portstone"
+			"key": "waystones:light_gray_portstone",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "waystones:light_gray_sharestone"
+			"key": "waystones:light_gray_sharestone",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "waystones:lime_portstone"
+			"key": "waystones:lime_portstone",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "waystones:lime_sharestone"
+			"key": "waystones:lime_sharestone",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "waystones:magenta_portstone"
+			"key": "waystones:magenta_portstone",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "waystones:magenta_sharestone"
+			"key": "waystones:magenta_sharestone",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "waystones:mossy_waystone"
+			"key": "waystones:mossy_waystone",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "waystones:orange_portstone"
+			"key": "waystones:orange_portstone",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "waystones:orange_sharestone"
+			"key": "waystones:orange_sharestone",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "waystones:pink_portstone"
+			"key": "waystones:pink_portstone",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "waystones:pink_sharestone"
+			"key": "waystones:pink_sharestone",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "waystones:purple_portstone"
+			"key": "waystones:purple_portstone",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "waystones:purple_sharestone"
+			"key": "waystones:purple_sharestone",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "waystones:red_portstone"
+			"key": "waystones:red_portstone",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "waystones:red_sharestone"
+			"key": "waystones:red_sharestone",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "waystones:sandy_waystone"
+			"key": "waystones:sandy_waystone",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "waystones:warp_plate"
+			"key": "waystones:warp_plate",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "waystones:waystone"
+			"key": "waystones:waystone",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "waystones:white_portstone"
+			"key": "waystones:white_portstone",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "waystones:yellow_portstone"
+			"key": "waystones:yellow_portstone",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "waystones:yellow_sharestone"
+			"key": "waystones:yellow_sharestone",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		}
 	]
 }

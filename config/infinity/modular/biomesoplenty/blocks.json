@@ -1,4382 +1,4382 @@
 {
 	"elements": [
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
 			"weight": 1.0,
-			"key": "biomesoplenty:algal_end_stone"
+			"key": "biomesoplenty:algal_end_stone",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:anomaly",
 			"data": {
-				"top": true,
+				"float": true,
 				"laggy": true,
-				"float": true,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:anomaly"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:barley",
 			"data": {
-				"top": false,
-				"laggy": false,
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:barley"
-		},
-		{
-			"data": {
-				"top": false,
 				"laggy": false,
-				"float": false,
+				"top": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:barnacles"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:barnacles",
 			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:black_sand",
+			"data": {
+				"float": false,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": false,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:black_sand"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:black_sandstone",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:black_sandstone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:black_sandstone_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:black_sandstone_slab"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:black_sandstone_stairs"
-		},
-		{
-			"data": {
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:black_sandstone_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:black_sandstone_stairs",
 			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:black_sandstone_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blackstone_bulb",
+			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blackstone_bulb"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blackstone_spines",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blackstone_spines"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blue_hydrangea",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blue_hydrangea"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:bramble",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:bramble"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:bramble_leaves",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:bramble_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:brimstone",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:brimstone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:brimstone_brick_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:brimstone_brick_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:brimstone_brick_stairs",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:brimstone_brick_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:brimstone_brick_wall",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:brimstone_brick_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:brimstone_bricks",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:brimstone_bricks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:brimstone_bud",
 			"data": {
-				"top": false,
-				"laggy": false,
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:brimstone_bud"
-		},
-		{
-			"data": {
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:brimstone_cluster"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:brimstone_cluster",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:brimstone_fumarole"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:brimstone_fumarole",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:burning_blossom"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:burning_blossom",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:bush"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:bush",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:cattail"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:cattail",
 			"data": {
-				"top": true,
+				"float": false,
 				"laggy": false,
-				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:chiseled_black_sandstone"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:chiseled_brimstone_bricks"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:chiseled_orange_sandstone"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:chiseled_white_sandstone"
-		},
-		{
-			"data": {
 				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:chiseled_black_sandstone",
+			"data": {
+				"float": true,
 				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:chiseled_brimstone_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:chiseled_orange_sandstone",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:chiseled_white_sandstone",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:clover",
+			"data": {
 				"float": false,
+				"laggy": false,
+				"top": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:clover"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:cut_black_sandstone",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:cut_black_sandstone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:cut_black_sandstone_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:cut_black_sandstone_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:cut_orange_sandstone",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:cut_orange_sandstone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:cut_orange_sandstone_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:cut_orange_sandstone_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:cut_white_sandstone",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:cut_white_sandstone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:cut_white_sandstone_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:cut_white_sandstone_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:cypress_leaves",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
 				"Properties": {
 					"persistent": "true"
 				},
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:cypress_leaves"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:cypress_sapling"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:dead_branch"
-		},
-		{
-			"data": {
 				"top": true,
-				"laggy": false,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:cypress_sapling",
+			"data": {
 				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:dead_branch",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:dead_button",
+			"data": {
+				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:dead_button"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:dead_door",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:dead_door"
-		},
-		{
-			"data": {
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:dead_fence"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:dead_fence",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:dead_fence_gate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:dead_fence_gate",
 			"data": {
-				"top": false,
+				"float": true,
 				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:dead_grass",
+			"data": {
 				"float": false,
+				"laggy": false,
+				"top": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:dead_grass"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:dead_hanging_sign",
 			"data": {
-				"top": false,
+				"float": false,
 				"laggy": true,
-				"float": false,
+				"top": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:dead_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:dead_leaves",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
 				"Properties": {
 					"persistent": "true"
 				},
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:dead_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:dead_log",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:dead_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:dead_planks",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:dead_planks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:dead_pressure_plate",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:dead_pressure_plate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:dead_sapling",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:dead_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:dead_sign",
 			"data": {
-				"top": true,
+				"float": false,
 				"laggy": true,
-				"float": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:dead_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:dead_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:dead_slab"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:dead_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:dead_stairs",
 			"data": {
-				"top": true,
+				"float": true,
 				"laggy": false,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:dead_trapdoor"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:dead_trapdoor",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:dead_wall_hanging_sign",
+			"data": {
+				"float": true,
 				"laggy": true,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:dead_wall_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:dead_wall_sign",
 			"data": {
-				"top": false,
+				"float": false,
 				"laggy": true,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:dead_wall_sign"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:dead_wood"
-		},
-		{
-			"data": {
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:desert_grass"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:dead_wood",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:dried_salt"
-		},
-		{
-			"data": {
-				"top": false,
 				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:dune_grass"
-		},
-		{
-			"data": {
 				"top": true,
-				"laggy": false,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:desert_grass",
+			"data": {
 				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:dried_salt",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:dune_grass",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:empyreal_button",
+			"data": {
+				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:empyreal_button"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:empyreal_door",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:empyreal_door"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:empyreal_fence"
-		},
-		{
-			"data": {
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:empyreal_fence_gate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:empyreal_fence",
 			"data": {
-				"top": false,
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:empyreal_fence_gate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:empyreal_hanging_sign",
+			"data": {
+				"float": false,
 				"laggy": true,
-				"float": false,
+				"top": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:empyreal_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:empyreal_leaves",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
 				"Properties": {
 					"persistent": "true"
 				},
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:empyreal_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:empyreal_log",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:empyreal_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:empyreal_planks",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:empyreal_planks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:empyreal_pressure_plate",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:empyreal_pressure_plate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:empyreal_sapling",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:empyreal_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:empyreal_sign",
 			"data": {
-				"top": true,
+				"float": false,
 				"laggy": true,
-				"float": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:empyreal_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:empyreal_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:empyreal_slab"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:empyreal_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:empyreal_stairs",
 			"data": {
-				"top": true,
+				"float": true,
 				"laggy": false,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:empyreal_trapdoor"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:empyreal_trapdoor",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:empyreal_wall_hanging_sign",
+			"data": {
+				"float": true,
 				"laggy": true,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:empyreal_wall_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:empyreal_wall_sign",
 			"data": {
+				"float": false,
+				"laggy": true,
 				"top": false,
-				"laggy": true,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:empyreal_wall_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:empyreal_wood",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:empyreal_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:endbloom",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:endbloom"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:enderphyte",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:enderphyte"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:eyebulb",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:eyebulb"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:fir_button",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:fir_button"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:fir_door",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:fir_door"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:fir_fence"
-		},
-		{
-			"data": {
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:fir_fence_gate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:fir_fence",
 			"data": {
-				"top": false,
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:fir_fence_gate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:fir_hanging_sign",
+			"data": {
+				"float": false,
 				"laggy": true,
-				"float": false,
+				"top": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:fir_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:fir_leaves",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
 				"Properties": {
 					"persistent": "true"
 				},
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:fir_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:fir_log",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:fir_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:fir_planks",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:fir_planks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:fir_pressure_plate",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:fir_pressure_plate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:fir_sapling",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:fir_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:fir_sign",
 			"data": {
-				"top": true,
+				"float": false,
 				"laggy": true,
-				"float": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:fir_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:fir_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:fir_slab"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:fir_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:fir_stairs",
 			"data": {
-				"top": true,
+				"float": true,
 				"laggy": false,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:fir_trapdoor"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:fir_trapdoor",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:fir_wall_hanging_sign",
+			"data": {
+				"float": true,
 				"laggy": true,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:fir_wall_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:fir_wall_sign",
 			"data": {
-				"top": false,
+				"float": false,
 				"laggy": true,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:fir_wall_sign"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:fir_wood"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:flesh"
-		},
-		{
-			"data": {
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:flesh_tendons"
+			}
 		},
 		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "biomesoplenty:flesh_tendons_strand"
-		},
-		{
+			"key": "biomesoplenty:fir_wood",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:flesh",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:flesh_tendons",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:flesh_tendons_strand",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:flowering_oak_leaves",
+			"data": {
+				"float": true,
+				"laggy": false,
 				"Properties": {
 					"persistent": "true"
 				},
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:flowering_oak_leaves"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:flowering_oak_sapling"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:glowflower"
-		},
-		{
-			"data": {
 				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:flowering_oak_sapling",
+			"data": {
+				"float": false,
 				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:glowflower",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:glowing_moss_block",
+			"data": {
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:glowing_moss_block"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:glowing_moss_carpet",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:glowing_moss_carpet"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:glowshroom",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:glowshroom"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:glowshroom_block",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:glowshroom_block"
-		},
-		{
-			"data": {
-				"top": false,
 				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:glowworm_silk"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:glowworm_silk_strand"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:goldenrod"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:hair"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:hanging_cobweb"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:hanging_cobweb_strand"
-		},
-		{
-			"data": {
 				"top": true,
-				"laggy": false,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:glowworm_silk",
+			"data": {
 				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:glowworm_silk_strand",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:goldenrod",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:hair",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:hanging_cobweb",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:hanging_cobweb_strand",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:hellbark_button",
+			"data": {
+				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:hellbark_button"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:hellbark_door",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:hellbark_door"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:hellbark_fence"
-		},
-		{
-			"data": {
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:hellbark_fence_gate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:hellbark_fence",
 			"data": {
-				"top": false,
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:hellbark_fence_gate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:hellbark_hanging_sign",
+			"data": {
+				"float": false,
 				"laggy": true,
-				"float": false,
+				"top": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:hellbark_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:hellbark_leaves",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
 				"Properties": {
 					"persistent": "true"
 				},
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:hellbark_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:hellbark_log",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:hellbark_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:hellbark_planks",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:hellbark_planks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:hellbark_pressure_plate",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:hellbark_pressure_plate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:hellbark_sapling",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:hellbark_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:hellbark_sign",
 			"data": {
-				"top": true,
+				"float": false,
 				"laggy": true,
-				"float": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:hellbark_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:hellbark_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:hellbark_slab"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:hellbark_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:hellbark_stairs",
 			"data": {
-				"top": true,
+				"float": true,
 				"laggy": false,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:hellbark_trapdoor"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:hellbark_trapdoor",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:hellbark_wall_hanging_sign",
+			"data": {
+				"float": true,
 				"laggy": true,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:hellbark_wall_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:hellbark_wall_sign",
 			"data": {
+				"float": false,
+				"laggy": true,
 				"top": false,
-				"laggy": true,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:hellbark_wall_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:hellbark_wood",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:hellbark_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:high_grass",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:high_grass"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:high_grass_plant",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:high_grass_plant"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:huge_clover_petal",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:huge_clover_petal"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:huge_lily_pad",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:huge_lily_pad"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:icy_iris",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:icy_iris"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:jacaranda_button",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:jacaranda_button"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:jacaranda_door",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:jacaranda_door"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:jacaranda_fence"
-		},
-		{
-			"data": {
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:jacaranda_fence_gate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:jacaranda_fence",
 			"data": {
-				"top": false,
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:jacaranda_fence_gate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:jacaranda_hanging_sign",
+			"data": {
+				"float": false,
 				"laggy": true,
-				"float": false,
+				"top": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:jacaranda_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:jacaranda_leaves",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
 				"Properties": {
 					"persistent": "true"
 				},
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:jacaranda_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:jacaranda_log",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:jacaranda_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:jacaranda_planks",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:jacaranda_planks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:jacaranda_pressure_plate",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:jacaranda_pressure_plate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:jacaranda_sapling",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:jacaranda_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:jacaranda_sign",
 			"data": {
-				"top": true,
+				"float": false,
 				"laggy": true,
-				"float": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:jacaranda_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:jacaranda_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:jacaranda_slab"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:jacaranda_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:jacaranda_stairs",
 			"data": {
-				"top": true,
+				"float": true,
 				"laggy": false,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:jacaranda_trapdoor"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:jacaranda_trapdoor",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:jacaranda_wall_hanging_sign",
+			"data": {
+				"float": true,
 				"laggy": true,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:jacaranda_wall_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:jacaranda_wall_sign",
 			"data": {
+				"float": false,
+				"laggy": true,
 				"top": false,
-				"laggy": true,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:jacaranda_wall_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:jacaranda_wood",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:jacaranda_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:large_rose_quartz_bud",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:large_rose_quartz_bud"
+			}
 		},
 		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "biomesoplenty:lavender"
+			"key": "biomesoplenty:lavender",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:lumaloop",
 			"data": {
-				"top": false,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"lit": "false"
 				},
+				"top": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:lumaloop"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:lumaloop_plant",
 			"data": {
-				"top": false,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"lit": "false"
 				},
+				"top": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:lumaloop_plant"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:magic_button",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:magic_button"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:magic_door",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:magic_door"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:magic_fence"
-		},
-		{
-			"data": {
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:magic_fence_gate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:magic_fence",
 			"data": {
-				"top": false,
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:magic_fence_gate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:magic_hanging_sign",
+			"data": {
+				"float": false,
 				"laggy": true,
-				"float": false,
+				"top": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:magic_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:magic_leaves",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
 				"Properties": {
 					"persistent": "true"
 				},
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:magic_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:magic_log",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:magic_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:magic_planks",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:magic_planks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:magic_pressure_plate",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:magic_pressure_plate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:magic_sapling",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:magic_sign",
+			"data": {
 				"float": false,
+				"laggy": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:magic_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:magic_slab",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:magic_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:magic_trapdoor",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:magic_wall_hanging_sign",
+			"data": {
+				"float": true,
 				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:magic_wall_sign",
+			"data": {
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:magic_sign"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:magic_slab"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:magic_stairs"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:magic_trapdoor"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:magic_wall_hanging_sign"
-		},
-		{
-			"data": {
 				"top": false,
-				"laggy": true,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:magic_wall_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:magic_wood",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:magic_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:mahogany_button",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:mahogany_button"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:mahogany_door",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:mahogany_door"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:mahogany_fence"
-		},
-		{
-			"data": {
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:mahogany_fence_gate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:mahogany_fence",
 			"data": {
-				"top": false,
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:mahogany_fence_gate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:mahogany_hanging_sign",
+			"data": {
+				"float": false,
 				"laggy": true,
-				"float": false,
+				"top": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:mahogany_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:mahogany_leaves",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
 				"Properties": {
 					"persistent": "true"
 				},
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:mahogany_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:mahogany_log",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:mahogany_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:mahogany_planks",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:mahogany_planks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:mahogany_pressure_plate",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:mahogany_pressure_plate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:mahogany_sapling",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:mahogany_sign",
+			"data": {
 				"float": false,
+				"laggy": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:mahogany_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:mahogany_slab",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:mahogany_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:mahogany_trapdoor",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:mahogany_wall_hanging_sign",
+			"data": {
+				"float": true,
 				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:mahogany_wall_sign",
+			"data": {
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:mahogany_sign"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:mahogany_slab"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:mahogany_stairs"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:mahogany_trapdoor"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:mahogany_wall_hanging_sign"
-		},
-		{
-			"data": {
 				"top": false,
-				"laggy": true,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:mahogany_wall_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:mahogany_wood",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:mahogany_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:maple_button",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:maple_button"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:maple_door",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:maple_door"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:maple_fence"
-		},
-		{
-			"data": {
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:maple_fence_gate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:maple_fence",
 			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:maple_fence_gate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:maple_hanging_sign",
+			"data": {
+				"float": false,
+				"laggy": true,
 				"top": false,
-				"laggy": true,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:maple_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:maple_log",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:maple_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:maple_planks",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:maple_planks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:maple_pressure_plate",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:maple_pressure_plate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:maple_sign",
 			"data": {
-				"top": true,
-				"laggy": true,
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:maple_sign"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:maple_slab"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:maple_stairs"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:maple_trapdoor"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": true,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:maple_wall_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:maple_slab",
 			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:maple_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:maple_trapdoor",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:maple_wall_hanging_sign",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:maple_wall_sign",
+			"data": {
+				"float": false,
+				"laggy": true,
 				"top": false,
-				"laggy": true,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:maple_wall_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:maple_wood",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:maple_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:medium_rose_quartz_bud",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:medium_rose_quartz_bud"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:mossy_black_sand",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:mossy_black_sand"
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
 			"weight": 1.0,
-			"key": "biomesoplenty:null_block"
+			"key": "biomesoplenty:null_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
 			"weight": 1.0,
-			"key": "biomesoplenty:null_end_stone"
+			"key": "biomesoplenty:null_end_stone",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:null_leaves",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
 				"Properties": {
 					"persistent": "true"
 				},
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:null_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:null_plant",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:null_plant"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:orange_cosmos",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:orange_cosmos"
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "biomesoplenty:orange_maple_leaf_pile"
+			"key": "biomesoplenty:orange_maple_leaf_pile",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:orange_maple_leaves",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
 				"Properties": {
 					"persistent": "true"
 				},
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:orange_maple_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:orange_maple_sapling",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:orange_sand",
+			"data": {
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:orange_maple_sapling"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:orange_sand"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:orange_sandstone",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:orange_sandstone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:orange_sandstone_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:orange_sandstone_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:orange_sandstone_stairs",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:orange_sandstone_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:orange_sandstone_wall",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:orange_sandstone_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:origin_grass_block",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:origin_grass_block"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:origin_leaves",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
 				"Properties": {
 					"persistent": "true"
 				},
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:origin_leaves"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:origin_sapling"
-		},
-		{
-			"data": {
 				"top": true,
-				"laggy": false,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:origin_sapling",
+			"data": {
 				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:palm_button",
+			"data": {
+				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:palm_button"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:palm_door",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:palm_door"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:palm_fence"
-		},
-		{
-			"data": {
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:palm_fence_gate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:palm_fence",
 			"data": {
-				"top": false,
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:palm_fence_gate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:palm_hanging_sign",
+			"data": {
+				"float": false,
 				"laggy": true,
-				"float": false,
+				"top": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:palm_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:palm_leaves",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
 				"Properties": {
 					"persistent": "true"
 				},
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:palm_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:palm_log",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:palm_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:palm_planks",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:palm_planks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:palm_pressure_plate",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:palm_pressure_plate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:palm_sapling",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:palm_sign",
+			"data": {
 				"float": false,
+				"laggy": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:palm_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:palm_slab",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:palm_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:palm_trapdoor",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:palm_wall_hanging_sign",
+			"data": {
+				"float": true,
 				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:palm_wall_sign",
+			"data": {
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:palm_sign"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:palm_slab"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:palm_stairs"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:palm_trapdoor"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:palm_wall_hanging_sign"
-		},
-		{
-			"data": {
 				"top": false,
-				"laggy": true,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:palm_wall_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:palm_wood",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:palm_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:pine_button",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:pine_button"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:pine_door",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:pine_door"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:pine_fence"
-		},
-		{
-			"data": {
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:pine_fence_gate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:pine_fence",
 			"data": {
-				"top": false,
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:pine_fence_gate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:pine_hanging_sign",
+			"data": {
+				"float": false,
 				"laggy": true,
-				"float": false,
+				"top": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:pine_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:pine_leaves",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
 				"Properties": {
 					"persistent": "true"
 				},
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:pine_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:pine_log",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:pine_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:pine_planks",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:pine_planks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:pine_pressure_plate",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:pine_pressure_plate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:pine_sapling",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:pine_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:pine_sign",
 			"data": {
-				"top": true,
+				"float": false,
 				"laggy": true,
-				"float": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:pine_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:pine_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:pine_slab"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:pine_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:pine_stairs",
 			"data": {
-				"top": true,
+				"float": true,
 				"laggy": false,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:pine_trapdoor"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:pine_trapdoor",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:pine_wall_hanging_sign",
+			"data": {
+				"float": true,
 				"laggy": true,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:pine_wall_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:pine_wall_sign",
 			"data": {
-				"top": false,
+				"float": false,
 				"laggy": true,
-				"float": false,
+				"top": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:pine_wall_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:pine_wood",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:pine_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:pink_daffodil",
 			"data": {
-				"top": false,
-				"laggy": false,
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:pink_daffodil"
-		},
-		{
-			"data": {
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:pink_hibiscus"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:pink_hibiscus",
 			"data": {
-				"top": true,
+				"float": false,
 				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:porous_flesh",
+			"data": {
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:porous_flesh"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:potted_burning_blossom",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:potted_burning_blossom"
-		},
-		{
-			"data": {
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:potted_cypress_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:potted_cypress_sapling",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:potted_dead_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:potted_dead_sapling",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:potted_empyreal_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:potted_empyreal_sapling",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:potted_endbloom"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:potted_endbloom",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:potted_fir_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:potted_fir_sapling",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:potted_flowering_oak_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:potted_flowering_oak_sapling",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:potted_glowflower"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:potted_glowflower",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:potted_glowshroom"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:potted_glowshroom",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:potted_hellbark_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:potted_hellbark_sapling",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:potted_jacaranda_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:potted_jacaranda_sapling",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:potted_lavender"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:potted_lavender",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:potted_magic_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:potted_magic_sapling",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:potted_mahogany_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:potted_mahogany_sapling",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:potted_orange_cosmos"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:potted_orange_cosmos",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:potted_orange_maple_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:potted_orange_maple_sapling",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:potted_origin_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:potted_origin_sapling",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:potted_palm_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:potted_palm_sapling",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:potted_pine_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:potted_pine_sapling",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:potted_pink_daffodil"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:potted_pink_daffodil",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:potted_pink_hibiscus"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:potted_pink_hibiscus",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:potted_rainbow_birch_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:potted_rainbow_birch_sapling",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:potted_red_maple_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:potted_red_maple_sapling",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:potted_redwood_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:potted_redwood_sapling",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:potted_rose"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:potted_rose",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:potted_snowblossom_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:potted_snowblossom_sapling",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:potted_sprout"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:potted_sprout",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:potted_tiny_cactus"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:potted_tiny_cactus",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:potted_toadstool"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:potted_toadstool",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:potted_umbran_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:potted_umbran_sapling",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:potted_violet"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:potted_violet",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:potted_white_lavender"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:potted_white_lavender",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:potted_willow_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:potted_willow_sapling",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:potted_wilted_lily"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:potted_wilted_lily",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:potted_yellow_maple_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:potted_yellow_maple_sapling",
 			"data": {
-				"top": false,
+				"float": true,
 				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:pus_bubble",
+			"data": {
 				"float": false,
+				"laggy": false,
+				"top": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:pus_bubble"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:rainbow_birch_leaves",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
 				"Properties": {
 					"persistent": "true"
 				},
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:rainbow_birch_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:rainbow_birch_sapling",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:rainbow_birch_sapling"
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "biomesoplenty:red_maple_leaf_pile"
+			"key": "biomesoplenty:red_maple_leaf_pile",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:red_maple_leaves",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
 				"Properties": {
 					"persistent": "true"
 				},
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:red_maple_leaves"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:red_maple_sapling"
-		},
-		{
-			"data": {
 				"top": true,
-				"laggy": false,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:red_maple_sapling",
+			"data": {
 				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:redwood_button",
+			"data": {
+				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:redwood_button"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:redwood_door",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:redwood_door"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:redwood_fence"
-		},
-		{
-			"data": {
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:redwood_fence_gate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:redwood_fence",
 			"data": {
-				"top": false,
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:redwood_fence_gate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:redwood_hanging_sign",
+			"data": {
+				"float": false,
 				"laggy": true,
-				"float": false,
+				"top": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:redwood_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:redwood_leaves",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
 				"Properties": {
 					"persistent": "true"
 				},
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:redwood_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:redwood_log",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:redwood_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:redwood_planks",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:redwood_planks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:redwood_pressure_plate",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:redwood_pressure_plate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:redwood_sapling",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:redwood_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:redwood_sign",
 			"data": {
-				"top": true,
+				"float": false,
 				"laggy": true,
-				"float": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:redwood_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:redwood_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:redwood_slab"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:redwood_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:redwood_stairs",
 			"data": {
-				"top": true,
+				"float": true,
 				"laggy": false,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:redwood_trapdoor"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:redwood_trapdoor",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:redwood_wall_hanging_sign",
+			"data": {
+				"float": true,
 				"laggy": true,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:redwood_wall_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:redwood_wall_sign",
 			"data": {
-				"top": false,
+				"float": false,
 				"laggy": true,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:redwood_wall_sign"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:redwood_wood"
-		},
-		{
-			"data": {
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:reed"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:redwood_wood",
 			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:reed",
+			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:rose"
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
 			"weight": 1.0,
-			"key": "biomesoplenty:rose_quartz_block"
-		},
-		{
+			"key": "biomesoplenty:rose",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:rose_quartz_cluster"
-		},
-		{
-			"data": {
+				"laggy": false,
 				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:rose_quartz_block",
+			"data": {
+				"float": true,
 				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:rose_quartz_cluster",
+			"data": {
 				"float": false,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:sea_oats"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:sea_oats",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
+				"top": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:small_rose_quartz_bud"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:small_rose_quartz_bud",
 			"data": {
-				"top": true,
+				"float": false,
 				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:smooth_black_sandstone",
+			"data": {
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:smooth_black_sandstone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:smooth_black_sandstone_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:smooth_black_sandstone_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:smooth_black_sandstone_stairs",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:smooth_black_sandstone_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:smooth_orange_sandstone",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:smooth_orange_sandstone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:smooth_orange_sandstone_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:smooth_orange_sandstone_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:smooth_orange_sandstone_stairs",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:smooth_orange_sandstone_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:smooth_white_sandstone",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:smooth_white_sandstone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:smooth_white_sandstone_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:smooth_white_sandstone_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:smooth_white_sandstone_stairs",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:smooth_white_sandstone_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:snowblossom_leaves",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
 				"Properties": {
 					"persistent": "true"
 				},
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:snowblossom_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:snowblossom_sapling",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:snowblossom_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:spanish_moss",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:spanish_moss"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:spanish_moss_plant",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:spanish_moss_plant"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:spider_egg",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:spider_egg"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:sprout",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:sprout"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:stringy_cobweb",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:stringy_cobweb"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:stripped_dead_log",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:stripped_dead_log"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:stripped_dead_wood"
-		},
-		{
-			"data": {
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:stripped_empyreal_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:stripped_dead_wood",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:stripped_empyreal_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:stripped_empyreal_log",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:stripped_fir_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:stripped_empyreal_wood",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:stripped_fir_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:stripped_fir_log",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:stripped_hellbark_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:stripped_fir_wood",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:stripped_hellbark_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:stripped_hellbark_log",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:stripped_jacaranda_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:stripped_hellbark_wood",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:stripped_jacaranda_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:stripped_jacaranda_log",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:stripped_magic_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:stripped_jacaranda_wood",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:stripped_magic_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:stripped_magic_log",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:stripped_mahogany_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:stripped_magic_wood",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:stripped_mahogany_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:stripped_mahogany_log",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:stripped_maple_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:stripped_mahogany_wood",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:stripped_maple_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:stripped_maple_log",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:stripped_palm_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:stripped_maple_wood",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:stripped_palm_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:stripped_palm_log",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:stripped_pine_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:stripped_palm_wood",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:stripped_pine_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:stripped_pine_log",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:stripped_redwood_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:stripped_pine_wood",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:stripped_redwood_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:stripped_redwood_log",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:stripped_umbran_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:stripped_redwood_wood",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:stripped_umbran_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:stripped_umbran_log",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:stripped_willow_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:stripped_umbran_wood",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:stripped_willow_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:stripped_willow_log",
 			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:stripped_willow_wood",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:tall_lavender",
+			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:tall_lavender"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:tall_white_lavender",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:tall_white_lavender"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:thermal_calcite",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:thermal_calcite"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:thermal_calcite_vent",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:thermal_calcite_vent"
-		},
-		{
-			"data": {
-				"top": false,
 				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:tiny_cactus"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:toadstool"
-		},
-		{
-			"data": {
 				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:tiny_cactus",
+			"data": {
+				"float": false,
 				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:toadstool",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:toadstool_block",
+			"data": {
 				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:toadstool_block"
-		},
-		{
-			"data": {
-				"top": false,
 				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:tundra_shrub"
-		},
-		{
-			"data": {
 				"top": true,
-				"laggy": false,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:tundra_shrub",
+			"data": {
 				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:umbran_button",
+			"data": {
+				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:umbran_button"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:umbran_door",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:umbran_door"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:umbran_fence"
-		},
-		{
-			"data": {
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:umbran_fence_gate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:umbran_fence",
 			"data": {
-				"top": false,
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:umbran_fence_gate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:umbran_hanging_sign",
+			"data": {
+				"float": false,
 				"laggy": true,
-				"float": false,
+				"top": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:umbran_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:umbran_leaves",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
 				"Properties": {
 					"persistent": "true"
 				},
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:umbran_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:umbran_log",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:umbran_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:umbran_planks",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:umbran_planks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:umbran_pressure_plate",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:umbran_pressure_plate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:umbran_sapling",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:umbran_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:umbran_sign",
 			"data": {
-				"top": true,
+				"float": false,
 				"laggy": true,
-				"float": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:umbran_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:umbran_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:umbran_slab"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:umbran_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:umbran_stairs",
 			"data": {
-				"top": true,
+				"float": true,
 				"laggy": false,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:umbran_trapdoor"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:umbran_trapdoor",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:umbran_wall_hanging_sign",
+			"data": {
+				"float": true,
 				"laggy": true,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:umbran_wall_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:umbran_wall_sign",
 			"data": {
-				"top": false,
+				"float": false,
 				"laggy": true,
-				"float": false,
+				"top": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:umbran_wall_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:umbran_wood",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:umbran_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:unmapped_end_stone",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:unmapped_end_stone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:violet",
 			"data": {
-				"top": false,
-				"laggy": false,
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:violet"
-		},
-		{
-			"data": {
-				"top": false,
 				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:watergrass"
-		},
-		{
-			"data": {
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:waterlily"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:watergrass",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:webbing"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:waterlily",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:white_lavender"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:webbing",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:white_petals"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:white_lavender",
 			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:white_petals",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:white_sand",
+			"data": {
+				"float": false,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": false,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:white_sand"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:white_sandstone",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:white_sandstone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:white_sandstone_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:white_sandstone_slab"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:white_sandstone_stairs"
-		},
-		{
-			"data": {
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:white_sandstone_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:white_sandstone_stairs",
 			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:white_sandstone_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:wildflower",
+			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:wildflower"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:willow_button",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:willow_button"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:willow_door",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:willow_door"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:willow_fence"
-		},
-		{
-			"data": {
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:willow_fence_gate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:willow_fence",
 			"data": {
-				"top": false,
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:willow_fence_gate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:willow_hanging_sign",
+			"data": {
+				"float": false,
 				"laggy": true,
-				"float": false,
+				"top": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:willow_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:willow_leaves",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
 				"Properties": {
 					"persistent": "true"
 				},
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:willow_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:willow_log",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:willow_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:willow_planks",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:willow_planks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:willow_pressure_plate",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:willow_pressure_plate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:willow_sapling",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:willow_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:willow_sign",
 			"data": {
-				"top": true,
+				"float": false,
 				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:willow_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:willow_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:willow_trapdoor",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "biomesoplenty:willow_vine",
+			"data": {
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:willow_sign"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:willow_slab"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:willow_stairs"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:willow_trapdoor"
-		},
-		{
-			"data": {
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:willow_vine"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:willow_wall_hanging_sign",
 			"data": {
-				"top": true,
-				"laggy": true,
 				"float": true,
+				"laggy": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:willow_wall_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:willow_wall_sign",
 			"data": {
+				"float": false,
+				"laggy": true,
 				"top": false,
-				"laggy": true,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:willow_wall_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:willow_wood",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:willow_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:wilted_lily",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:wilted_lily"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:wispjelly",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:wispjelly"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:yellow_maple_leaf_pile",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:yellow_maple_leaf_pile"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:yellow_maple_leaves",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
 				"Properties": {
 					"persistent": "true"
 				},
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:yellow_maple_leaves"
+			}
 		},
 		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "biomesoplenty:yellow_maple_sapling"
+			"key": "biomesoplenty:yellow_maple_sapling",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
 		}
 	]
 }

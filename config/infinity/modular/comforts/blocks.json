@@ -1,334 +1,334 @@
 {
 	"elements": [
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "comforts:hammock_black"
+			"key": "comforts:hammock_black",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "comforts:hammock_blue"
+			"key": "comforts:hammock_blue",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "comforts:hammock_brown"
+			"key": "comforts:hammock_brown",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "comforts:hammock_cyan"
+			"key": "comforts:hammock_cyan",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "comforts:hammock_gray"
+			"key": "comforts:hammock_gray",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "comforts:hammock_green"
+			"key": "comforts:hammock_green",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "comforts:hammock_light_blue"
+			"key": "comforts:hammock_light_blue",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "comforts:hammock_light_gray"
+			"key": "comforts:hammock_light_gray",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "comforts:hammock_lime"
+			"key": "comforts:hammock_lime",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "comforts:hammock_magenta"
+			"key": "comforts:hammock_magenta",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "comforts:hammock_orange"
+			"key": "comforts:hammock_orange",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "comforts:hammock_pink"
+			"key": "comforts:hammock_pink",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "comforts:hammock_purple"
+			"key": "comforts:hammock_purple",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "comforts:hammock_red"
+			"key": "comforts:hammock_red",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "comforts:hammock_white"
+			"key": "comforts:hammock_white",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "comforts:hammock_yellow"
+			"key": "comforts:hammock_yellow",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "comforts:rope_and_nail",
 			"data": {
-				"top": false,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
+				"top": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "comforts:rope_and_nail"
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "comforts:sleeping_bag_black"
+			"key": "comforts:sleeping_bag_black",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "comforts:sleeping_bag_blue"
+			"key": "comforts:sleeping_bag_blue",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "comforts:sleeping_bag_brown"
+			"key": "comforts:sleeping_bag_brown",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "comforts:sleeping_bag_cyan"
+			"key": "comforts:sleeping_bag_cyan",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "comforts:sleeping_bag_gray"
+			"key": "comforts:sleeping_bag_gray",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "comforts:sleeping_bag_green"
+			"key": "comforts:sleeping_bag_green",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "comforts:sleeping_bag_light_blue"
+			"key": "comforts:sleeping_bag_light_blue",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "comforts:sleeping_bag_light_gray"
+			"key": "comforts:sleeping_bag_light_gray",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "comforts:sleeping_bag_lime"
+			"key": "comforts:sleeping_bag_lime",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "comforts:sleeping_bag_magenta"
+			"key": "comforts:sleeping_bag_magenta",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "comforts:sleeping_bag_orange"
+			"key": "comforts:sleeping_bag_orange",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "comforts:sleeping_bag_pink"
+			"key": "comforts:sleeping_bag_pink",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "comforts:sleeping_bag_purple"
+			"key": "comforts:sleeping_bag_purple",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "comforts:sleeping_bag_red"
+			"key": "comforts:sleeping_bag_red",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "comforts:sleeping_bag_white"
+			"key": "comforts:sleeping_bag_white",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "comforts:sleeping_bag_yellow"
+			"key": "comforts:sleeping_bag_yellow",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		}
 	]
 }

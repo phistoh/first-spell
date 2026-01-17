@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "phis:random_ancient_book",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "phis:spell_foci",
+			"data": {
+				"Type": "chest"
+			}
+		}
+	]
+}

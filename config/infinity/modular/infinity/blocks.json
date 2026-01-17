@@ -1,194 +1,194 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "infinity:altar",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "infinity:altar"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "infinity:ant",
 			"data": {
-				"top": true,
+				"float": true,
 				"laggy": false,
-				"float": true,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "infinity:ant"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "infinity:biome_bottle",
 			"data": {
-				"top": true,
-				"laggy": true,
 				"float": true,
+				"laggy": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "infinity:biome_bottle"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "infinity:book_box",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "infinity:book_box"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "infinity:chromatic_carpet",
 			"data": {
-				"top": true,
-				"laggy": true,
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "infinity:chromatic_carpet"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": true,
-				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "infinity:chromatic_wool"
-		},
-		{
-			"data": {
 				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "infinity:cosmic_altar"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "infinity:cursor"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "infinity:haunted_air"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "infinity:chromatic_wool",
 			"data": {
+				"float": true,
+				"laggy": true,
 				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:cosmic_altar",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:cursor",
+			"data": {
+				"float": true,
 				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:haunted_air",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:iridescent_carpet",
+			"data": {
 				"float": false,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "infinity:iridescent_carpet"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "infinity:iridescent_kelp",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "infinity:iridescent_kelp"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "infinity:iridescent_kelp_plant",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "infinity:iridescent_kelp_plant"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "infinity:iridescent_wool"
+				"top": true,
+				"full": false
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "infinity:iridescent_wool",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:neither_portal",
+			"data": {
+				"float": true,
 				"laggy": true,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "infinity:neither_portal"
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "infinity:netherite_slab"
+			"key": "infinity:netherite_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "infinity:netherite_stairs"
+			"key": "infinity:netherite_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "infinity:notes_block",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "infinity:notes_block"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "infinity:rail_helper",
 			"data": {
-				"top": true,
+				"float": true,
 				"laggy": true,
-				"float": true,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "infinity:rail_helper"
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "infinity:timebomb"
+			"key": "infinity:timebomb",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		}
 	]
 }

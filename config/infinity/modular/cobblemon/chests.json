@@ -1,0 +1,36 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "cobblemon:black_gilded_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:blue_gilded_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:gilded_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:gimmighoul_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:green_gilded_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:pink_gilded_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:white_gilded_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:yellow_gilded_chest"
+		}
+	]
+}

@@ -1,11 +1,11 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "linkedchests:blocks/linked_chest",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "linkedchests:blocks/linked_chest"
+			}
 		}
 	]
 }

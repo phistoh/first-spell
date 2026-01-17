@@ -1,32 +1,32 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:pale_oak",
 			"data": {
 				"Type": "tree"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:pale_oak"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:pale_oak_bonemeal",
 			"data": {
 				"Type": "tree"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:pale_oak_bonemeal"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:pale_oak_creaking",
 			"data": {
 				"Type": "tree"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:pale_oak_creaking"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:pale_oak_creaking_bonemeal",
 			"data": {
 				"Type": "tree"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:pale_oak_creaking_bonemeal"
+			}
 		}
 	]
 }

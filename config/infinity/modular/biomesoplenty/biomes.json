@@ -1,487 +1,487 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:aspen_glade",
 			"data": {
 				"Color": 13746762
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:aspen_glade"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:auroral_garden",
 			"data": {
 				"Color": 10876919
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:auroral_garden"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:bayou",
 			"data": {
 				"Color": 9165671
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:bayou"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:bog",
 			"data": {
 				"Color": 13008731
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:bog"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:cold_desert",
 			"data": {
 				"Color": 11904876
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:cold_desert"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:coniferous_forest",
 			"data": {
 				"Color": -9329070
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:coniferous_forest"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:crag",
 			"data": {
 				"Color": -9721536
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:crag"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:crystalline_chasm",
 			"data": {
 				"Color": -5331926
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:crystalline_chasm"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:dead_forest",
 			"data": {
 				"Color": 12040035
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:dead_forest"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:dryland",
 			"data": {
 				"Color": 14344371
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:dryland"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:dune_beach",
 			"data": {
 				"Color": -8869574
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:dune_beach"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:end_corruption",
 			"data": {
 				"Color": 4764952
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:end_corruption"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:end_reef",
 			"data": {
 				"Color": 15073276
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:end_reef"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:end_wilds",
 			"data": {
 				"Color": 15381341
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:end_wilds"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:erupting_inferno",
 			"data": {
 				"Color": -5331926
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:erupting_inferno"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:field",
 			"data": {
 				"Color": 6533741
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:field"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:fir_clearing",
 			"data": {
 				"Color": -9329070
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:fir_clearing"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:floodplain",
 			"data": {
 				"Color": 6016293
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:floodplain"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:forested_field",
 			"data": {
 				"Color": 6533741
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:forested_field"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:fungal_jungle",
 			"data": {
 				"Color": 14738722
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:fungal_jungle"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:glowing_grotto",
 			"data": {
 				"Color": -9328819
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:glowing_grotto"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:grassland",
 			"data": {
 				"Color": 6993519
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:grassland"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:gravel_beach",
 			"data": {
 				"Color": -9329070
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:gravel_beach"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:highland",
 			"data": {
 				"Color": -9721536
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:highland"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:hot_springs",
 			"data": {
 				"Color": 6332795
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:hot_springs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:jacaranda_glade",
 			"data": {
 				"Color": 8634480
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:jacaranda_glade"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:jade_cliffs",
 			"data": {
 				"Color": 9156462
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:jade_cliffs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:lavender_field",
 			"data": {
 				"Color": 10601325
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:lavender_field"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:lush_desert",
 			"data": {
 				"Color": 13881686
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:lush_desert"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:lush_savanna",
 			"data": {
 				"Color": 13881686
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:lush_savanna"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:maple_woods",
 			"data": {
 				"Color": -9591962
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:maple_woods"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:marsh",
 			"data": {
 				"Color": -10310599
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:marsh"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:mediterranean_forest",
 			"data": {
 				"Color": -8148685
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:mediterranean_forest"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:moor",
 			"data": {
 				"Color": 7914605
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:moor"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:muskeg",
 			"data": {
 				"Color": 9280363
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:muskeg"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:mystic_grove",
 			"data": {
 				"Color": 7397557
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:mystic_grove"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:old_growth_dead_forest",
 			"data": {
 				"Color": 12040035
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:old_growth_dead_forest"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:old_growth_woodland",
 			"data": {
 				"Color": 8762376
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:old_growth_woodland"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:ominous_woods",
 			"data": {
 				"Color": 7030908
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:ominous_woods"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:orchard",
 			"data": {
 				"Color": 13236061
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:orchard"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:origin_valley",
 			"data": {
 				"Color": 3866368
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:origin_valley"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:overgrown_greens",
 			"data": {
 				"Color": 5618801
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:overgrown_greens"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:pasture",
 			"data": {
 				"Color": 13100658
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:pasture"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:prairie",
 			"data": {
 				"Color": 13100658
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:prairie"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:pumpkin_patch",
 			"data": {
 				"Color": 13553994
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:pumpkin_patch"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:rainforest",
 			"data": {
 				"Color": 8970560
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:rainforest"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:redwood_forest",
 			"data": {
 				"Color": 9355074
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:redwood_forest"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:rocky_rainforest",
 			"data": {
 				"Color": 8970560
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:rocky_rainforest"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:rocky_shrubland",
 			"data": {
 				"Color": -7560118
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:rocky_shrubland"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:scrubland",
 			"data": {
 				"Color": -6772444
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:scrubland"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:seasonal_forest",
 			"data": {
 				"Color": 13742666
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:seasonal_forest"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:shrubland",
 			"data": {
 				"Color": -7560118
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:shrubland"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:snowblossom_grove",
 			"data": {
 				"Color": 7705454
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:snowblossom_grove"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:snowy_coniferous_forest",
 			"data": {
 				"Color": -10444421
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:snowy_coniferous_forest"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:snowy_fir_clearing",
 			"data": {
 				"Color": -10444421
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:snowy_fir_clearing"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:snowy_maple_woods",
 			"data": {
 				"Color": -10444421
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:snowy_maple_woods"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:spider_nest",
 			"data": {
 				"Color": -9328819
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:spider_nest"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:tropics",
 			"data": {
 				"Color": -14435065
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:tropics"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:tundra",
 			"data": {
 				"Color": 12949340
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:tundra"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:undergrowth",
 			"data": {
 				"Color": -5331926
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:undergrowth"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:visceral_heap",
 			"data": {
 				"Color": -5331926
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:visceral_heap"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:volcanic_plains",
 			"data": {
 				"Color": 5537090
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:volcanic_plains"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:volcano",
 			"data": {
 				"Color": 5537090
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:volcano"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:wasteland",
 			"data": {
 				"Color": 11904876
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:wasteland"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:wasteland_steppe",
 			"data": {
 				"Color": 13091727
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:wasteland_steppe"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:wetland",
 			"data": {
 				"Color": 5215831
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:wetland"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:wintry_origin_valley",
 			"data": {
 				"Color": 3866368
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:wintry_origin_valley"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:withered_abyss",
 			"data": {
 				"Color": 3222582
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:withered_abyss"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:woodland",
 			"data": {
 				"Color": 8762376
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:woodland"
+			}
 		}
 	]
 }

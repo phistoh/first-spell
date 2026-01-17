@@ -1,22 +1,22 @@
 {
 	"elements": [
 		{
-			"data": {
-				"Category": "harmful",
-				"Color": 9127187,
-				"Instant": false
-			},
 			"weight": 1.0,
-			"key": "mynethersdelight:b_pungent"
+			"key": "mynethersdelight:b_pungent",
+			"data": {
+				"Instant": false,
+				"Color": 9127187,
+				"Category": "harmful"
+			}
 		},
 		{
-			"data": {
-				"Category": "beneficial",
-				"Color": 16766720,
-				"Instant": false
-			},
 			"weight": 1.0,
-			"key": "mynethersdelight:g_pungent"
+			"key": "mynethersdelight:g_pungent",
+			"data": {
+				"Instant": false,
+				"Color": 16766720,
+				"Category": "beneficial"
+			}
 		}
 	]
 }

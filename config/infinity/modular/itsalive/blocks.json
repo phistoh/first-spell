@@ -1,164 +1,164 @@
 {
 	"elements": [
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "itsalive:brushed_enamel_brick_slab"
+			"key": "itsalive:brushed_enamel_brick_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "itsalive:brushed_enamel_brick_stairs"
+			"key": "itsalive:brushed_enamel_brick_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "itsalive:brushed_enamel_bricks",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "itsalive:brushed_enamel_bricks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "itsalive:brushed_enamel_column",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "itsalive:brushed_enamel_column"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "itsalive:brushed_sculk_tooth",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "itsalive:brushed_sculk_tooth"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "itsalive:enamel_brick_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "itsalive:enamel_brick_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "itsalive:enamel_brick_stairs",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "itsalive:enamel_brick_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "itsalive:enamel_bricks",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "itsalive:enamel_bricks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "itsalive:enamel_column",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "itsalive:enamel_column"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "itsalive:sculk_tendrils",
 			"data": {
-				"top": false,
-				"laggy": false,
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "itsalive:sculk_tendrils"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "itsalive:sculk_thatch"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "itsalive:sculk_thatch_slab"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "itsalive:sculk_thatch_stairs"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "itsalive:sculk_tooth"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "itsalive:spinal_column"
-		},
-		{
-			"data": {
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
+			}
+		},
+		{
 			"weight": 1.0,
-			"key": "itsalive:tall_sculk_tendrils"
+			"key": "itsalive:sculk_thatch",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "itsalive:sculk_thatch_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "itsalive:sculk_thatch_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "itsalive:sculk_tooth",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "itsalive:spinal_column",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "itsalive:tall_sculk_tendrils",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
 		}
 	]
 }

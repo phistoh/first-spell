@@ -1,11 +1,11 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:bronze",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:bronze"
+			}
 		}
 	]
 }

@@ -1,339 +1,329 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "amendments:carpet_slab",
 			"data": {
-				"top": true,
-				"laggy": true,
 				"float": true,
+				"laggy": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "amendments:carpet_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "amendments:carpet_stairs",
 			"data": {
-				"top": true,
-				"laggy": true,
 				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "amendments:carpet_stairs"
-		},
-		{
-			"data": {
+				"laggy": true,
 				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "amendments:cauldron_hack"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": true,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "amendments:ceiling_banner_black"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_black",
 			"data": {
-				"top": false,
-				"laggy": true,
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "amendments:ceiling_banner_blue"
-		},
-		{
-			"data": {
-				"top": false,
 				"laggy": true,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "amendments:ceiling_banner_brown"
-		},
-		{
-			"data": {
 				"top": false,
-				"laggy": true,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "amendments:ceiling_banner_cyan"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_blue",
 			"data": {
+				"float": false,
+				"laggy": true,
 				"top": false,
-				"laggy": true,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "amendments:ceiling_banner_gray"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_brown",
 			"data": {
+				"float": false,
+				"laggy": true,
 				"top": false,
-				"laggy": true,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "amendments:ceiling_banner_green"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_cyan",
 			"data": {
+				"float": false,
+				"laggy": true,
 				"top": false,
-				"laggy": true,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "amendments:ceiling_banner_light_blue"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_gray",
 			"data": {
+				"float": false,
+				"laggy": true,
 				"top": false,
-				"laggy": true,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "amendments:ceiling_banner_light_gray"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_green",
 			"data": {
+				"float": false,
+				"laggy": true,
 				"top": false,
-				"laggy": true,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "amendments:ceiling_banner_lime"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_light_blue",
 			"data": {
+				"float": false,
+				"laggy": true,
 				"top": false,
-				"laggy": true,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "amendments:ceiling_banner_magenta"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_light_gray",
 			"data": {
+				"float": false,
+				"laggy": true,
 				"top": false,
-				"laggy": true,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "amendments:ceiling_banner_orange"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_lime",
 			"data": {
+				"float": false,
+				"laggy": true,
 				"top": false,
-				"laggy": true,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "amendments:ceiling_banner_pink"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_magenta",
 			"data": {
+				"float": false,
+				"laggy": true,
 				"top": false,
-				"laggy": true,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "amendments:ceiling_banner_purple"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_orange",
 			"data": {
+				"float": false,
+				"laggy": true,
 				"top": false,
-				"laggy": true,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "amendments:ceiling_banner_red"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_pink",
 			"data": {
+				"float": false,
+				"laggy": true,
 				"top": false,
-				"laggy": true,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "amendments:ceiling_banner_white"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_purple",
 			"data": {
+				"float": false,
+				"laggy": true,
 				"top": false,
-				"laggy": true,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "amendments:ceiling_banner_yellow"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_red",
 			"data": {
-				"top": true,
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_white",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:ceiling_banner_yellow",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:directional_cake",
+			"data": {
+				"float": false,
 				"laggy": false,
-				"float": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "amendments:directional_cake"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "amendments:double_cake",
 			"data": {
-				"top": true,
+				"float": false,
 				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "amendments:double_cake"
-		},
-		{
-			"data": {
 				"top": true,
-				"laggy": true,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "amendments:dye_cauldron"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "amendments:dye_cauldron",
 			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:hanging_flower_pot",
+			"data": {
+				"float": false,
+				"laggy": true,
 				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:liquid_cauldron",
+			"data": {
+				"float": true,
 				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:skull_candle",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:skull_candle_soul",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:skull_candle_soul_wall",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:skull_candle_wall",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:skull_pile",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:tool_hook",
+			"data": {
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "amendments:hanging_flower_pot"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "amendments:liquid_cauldron"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"Properties": {
-					"lit": "false"
-				},
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "amendments:skull_candle"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"Properties": {
-					"lit": "false"
-				},
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "amendments:skull_candle_soul"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"Properties": {
-					"lit": "false"
-				},
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "amendments:skull_candle_soul_wall"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"Properties": {
-					"lit": "false"
-				},
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "amendments:skull_candle_wall"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "amendments:skull_pile"
-		},
-		{
-			"data": {
 				"top": false,
-				"laggy": true,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "amendments:tool_hook"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "amendments:wall_lantern",
 			"data": {
-				"top": false,
-				"laggy": true,
 				"float": false,
+				"laggy": true,
 				"Properties": {
 					"lit": "false"
 				},
+				"top": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "amendments:wall_lantern"
+			}
 		},
 		{
-			"data": {
-				"top": false,
-				"laggy": true,
-				"float": false,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "amendments:water_lily_pad"
+			"key": "amendments:water_lily_pad",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
 		}
 	]
 }

@@ -1,0 +1,60 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "mounts_of_mayhem:entity.nautilus.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "mounts_of_mayhem:entity.nautilus.dash"
+		},
+		{
+			"weight": 1.0,
+			"key": "mounts_of_mayhem:entity.nautilus.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "mounts_of_mayhem:entity.nautilus.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "mounts_of_mayhem:entity.parched.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "mounts_of_mayhem:entity.parched.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "mounts_of_mayhem:entity.parched.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "mounts_of_mayhem:entity.parched.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "mounts_of_mayhem:item.nautilus_saddle_equip"
+		},
+		{
+			"weight": 1.0,
+			"key": "mounts_of_mayhem:item.spear.attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "mounts_of_mayhem:item.spear.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "mounts_of_mayhem:item.spear.lunge"
+		},
+		{
+			"weight": 1.0,
+			"key": "mounts_of_mayhem:item.spear.use"
+		},
+		{
+			"weight": 1.0,
+			"key": "mounts_of_mayhem:player_breathe"
+		}
+	]
+}

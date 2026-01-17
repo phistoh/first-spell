@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "cobblemon:npc",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "cobblemon:pokemon",
+			"data": {
+				"Category": "creature"
+			}
+		}
+	]
+}

@@ -1,25 +1,25 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "arcaneessenceblock:blocks/arcane_essence_block",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "arcaneessenceblock:blocks/arcane_essence_block"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "arcaneessenceblock:blocks/arcane_ingot_block",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "arcaneessenceblock:blocks/arcane_ingot_block"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "arcaneessenceblock:blocks/essence_sack",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "arcaneessenceblock:blocks/essence_sack"
+			}
 		}
 	]
 }

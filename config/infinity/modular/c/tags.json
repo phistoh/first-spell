@@ -230,10 +230,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "c:ladders"
-		},
-		{
-			"weight": 1.0,
 			"key": "c:mineable/knife"
 		},
 		{

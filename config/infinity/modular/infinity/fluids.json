@@ -1,11 +1,11 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "infinity:iridescence",
 			"data": {
 				"fluidName": "infinity:iridescence"
-			},
-			"weight": 1.0,
-			"key": "infinity:iridescence"
+			}
 		}
 	]
 }

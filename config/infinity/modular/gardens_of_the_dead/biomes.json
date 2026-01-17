@@ -1,18 +1,18 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:soulblight_forest",
 			"data": {
 				"Color": -5331926
-			},
-			"weight": 1.0,
-			"key": "gardens_of_the_dead:soulblight_forest"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:whistling_woods",
 			"data": {
 				"Color": -5331926
-			},
-			"weight": 1.0,
-			"key": "gardens_of_the_dead:whistling_woods"
+			}
 		}
 	]
 }

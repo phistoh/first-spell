@@ -1,242 +1,242 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:blocks/chiseled_resin_bricks",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:blocks/chiseled_resin_bricks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:blocks/closed_eyeblossom",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:blocks/closed_eyeblossom"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:blocks/creaking_heart",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:blocks/creaking_heart"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:blocks/dried_ghast",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:blocks/dried_ghast"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:blocks/open_eyeblossom",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:blocks/open_eyeblossom"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:blocks/pale_hanging_moss",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:blocks/pale_hanging_moss"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:blocks/pale_moss_block",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:blocks/pale_moss_block"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:blocks/pale_moss_carpet",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:blocks/pale_moss_carpet"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:blocks/pale_oak_button",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:blocks/pale_oak_button"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:blocks/pale_oak_door",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:blocks/pale_oak_door"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:blocks/pale_oak_fence",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:blocks/pale_oak_fence"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:blocks/pale_oak_fence_gate",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:blocks/pale_oak_fence_gate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:blocks/pale_oak_hanging_sign",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:blocks/pale_oak_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:blocks/pale_oak_leaves",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:blocks/pale_oak_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:blocks/pale_oak_log",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:blocks/pale_oak_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:blocks/pale_oak_planks",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:blocks/pale_oak_planks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:blocks/pale_oak_pressure_plate",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:blocks/pale_oak_pressure_plate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:blocks/pale_oak_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:blocks/pale_oak_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:blocks/pale_oak_sign",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:blocks/pale_oak_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:blocks/pale_oak_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:blocks/pale_oak_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:blocks/pale_oak_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:blocks/pale_oak_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:blocks/pale_oak_trapdoor",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:blocks/pale_oak_trapdoor"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:blocks/pale_oak_wood",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:blocks/pale_oak_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:blocks/potted_closed_eyeblossom",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:blocks/potted_closed_eyeblossom"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:blocks/potted_open_eyeblossom",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:blocks/potted_open_eyeblossom"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:blocks/potted_pale_oak_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:blocks/potted_pale_oak_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:blocks/resin_block",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:blocks/resin_block"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:blocks/resin_brick_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:blocks/resin_brick_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:blocks/resin_brick_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:blocks/resin_brick_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:blocks/resin_brick_wall",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:blocks/resin_brick_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:blocks/resin_bricks",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:blocks/resin_bricks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:blocks/resin_clump",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:blocks/resin_clump"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:blocks/stripped_pale_oak_log",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:blocks/stripped_pale_oak_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:blocks/stripped_pale_oak_wood",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:blocks/stripped_pale_oak_wood"
+			}
 		}
 	]
 }

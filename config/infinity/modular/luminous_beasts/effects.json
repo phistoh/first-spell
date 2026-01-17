@@ -1,40 +1,40 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "luminous_beasts:antidote",
 			"data": {
-				"Category": "beneficial",
+				"Instant": false,
 				"Color": -6628754,
-				"Instant": false
-			},
-			"weight": 1.0,
-			"key": "luminous_beasts:antidote"
+				"Category": "beneficial"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "luminous_beasts:infection",
 			"data": {
-				"Category": "harmful",
+				"Instant": false,
 				"Color": -7071720,
-				"Instant": false
-			},
-			"weight": 1.0,
-			"key": "luminous_beasts:infection"
+				"Category": "harmful"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "luminous_beasts:universal_poison",
 			"data": {
-				"Category": "harmful",
+				"Instant": false,
 				"Color": -8987828,
-				"Instant": false
-			},
-			"weight": 1.0,
-			"key": "luminous_beasts:universal_poison"
+				"Category": "harmful"
+			}
 		},
 		{
-			"data": {
-				"Category": "harmful",
-				"Color": -15623291,
-				"Instant": false
-			},
 			"weight": 1.0,
-			"key": "luminous_beasts:warped_infection"
+			"key": "luminous_beasts:warped_infection",
+			"data": {
+				"Instant": false,
+				"Color": -15623291,
+				"Category": "harmful"
+			}
 		}
 	]
 }

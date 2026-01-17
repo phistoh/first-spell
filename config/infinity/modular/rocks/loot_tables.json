@@ -1,186 +1,186 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "rocks:blocks/acacia_stick",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "rocks:blocks/acacia_stick"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rocks:blocks/andesite_rock",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "rocks:blocks/andesite_rock"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rocks:blocks/bamboo_stick",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "rocks:blocks/bamboo_stick"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rocks:blocks/birch_stick",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "rocks:blocks/birch_stick"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rocks:blocks/cherry_stick",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "rocks:blocks/cherry_stick"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rocks:blocks/crimson_stick",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "rocks:blocks/crimson_stick"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rocks:blocks/dark_oak_stick",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "rocks:blocks/dark_oak_stick"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rocks:blocks/diorite_rock",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "rocks:blocks/diorite_rock"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rocks:blocks/end_stone_rock",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "rocks:blocks/end_stone_rock"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rocks:blocks/geyser",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "rocks:blocks/geyser"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rocks:blocks/granite_rock",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "rocks:blocks/granite_rock"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rocks:blocks/gravel_rock",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "rocks:blocks/gravel_rock"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rocks:blocks/jungle_stick",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "rocks:blocks/jungle_stick"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rocks:blocks/mangrove_stick",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "rocks:blocks/mangrove_stick"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rocks:blocks/nether_geyser",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "rocks:blocks/nether_geyser"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rocks:blocks/netherrack_rock",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "rocks:blocks/netherrack_rock"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rocks:blocks/oak_stick",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "rocks:blocks/oak_stick"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rocks:blocks/pinecone",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "rocks:blocks/pinecone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rocks:blocks/red_sand_rock",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "rocks:blocks/red_sand_rock"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rocks:blocks/rock",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "rocks:blocks/rock"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rocks:blocks/sand_rock",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "rocks:blocks/sand_rock"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rocks:blocks/seashell",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "rocks:blocks/seashell"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rocks:blocks/soul_soil_rock",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "rocks:blocks/soul_soil_rock"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rocks:blocks/spruce_stick",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "rocks:blocks/spruce_stick"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rocks:blocks/starfish",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "rocks:blocks/starfish"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rocks:blocks/warped_stick",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "rocks:blocks/warped_stick"
+			}
 		}
 	]
 }

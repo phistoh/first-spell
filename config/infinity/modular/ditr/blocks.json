@@ -1,14 +1,14 @@
 {
 	"elements": [
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
 			"weight": 1.0,
-			"key": "ditr:obsidian_diamond_ore"
+			"key": "ditr:obsidian_diamond_ore",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
 		}
 	]
 }

@@ -1,11 +1,11 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "simplemusket:musket_pillager",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "simplemusket:musket_pillager"
+			}
 		}
 	]
 }

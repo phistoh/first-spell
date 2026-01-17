@@ -1,0 +1,60 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "copperagebackport:blocks/copper_button",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "copperagebackport:blocks/exposed_copper_button",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "copperagebackport:blocks/oxidized_copper_button",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "copperagebackport:blocks/waxed_copper_button",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "copperagebackport:blocks/waxed_exposed_copper_button",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "copperagebackport:blocks/waxed_oxidized_copper_button",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "copperagebackport:blocks/waxed_weathered_copper_button",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "copperagebackport:blocks/weathered_copper_button",
+			"data": {
+				"Type": "block"
+			}
+		}
+	]
+}

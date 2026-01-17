@@ -1,74 +1,74 @@
 {
 	"elements": [
 		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "spring_to_life:bush"
+			"key": "spring_to_life:bush",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "spring_to_life:cactus_flower",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "spring_to_life:cactus_flower"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "spring_to_life:firefly_bush",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "spring_to_life:firefly_bush"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "spring_to_life:leaf_litter",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "spring_to_life:leaf_litter"
+			}
 		},
 		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "spring_to_life:short_dry_grass"
+			"key": "spring_to_life:short_dry_grass",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "spring_to_life:tall_dry_grass"
+			"key": "spring_to_life:tall_dry_grass",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "spring_to_life:wildflowers"
+			"key": "spring_to_life:wildflowers",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
 		}
 	]
 }

@@ -1,7 +1,10 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "philipsruins:ancient_crypt",
 			"data": {
+				"step": "surface_structures",
 				"terrain_adaptation": "beard_box",
 				"spawn_overrides": {
 					"monster": {
@@ -10,147 +13,147 @@
 						]
 					}
 				},
-				"step": "surface_structures",
 				"id": "philipsruins:ancient_crypt"
-			},
-			"weight": 1.0,
-			"key": "philipsruins:ancient_crypt"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "philipsruins:ancient_dungeon",
 			"data": {
+				"step": "underground_structures",
 				"terrain_adaptation": "bury",
 				"spawn_overrides": {
 					"monster": {
 						"bounding_box": "full",
 						"spawns": [
 							{
+								"type": "minecraft:zombie",
 								"weight": 2,
 								"minCount": 4,
-								"type": "minecraft:zombie",
 								"maxCount": 12
 							}
 						]
 					}
 				},
-				"step": "underground_structures",
 				"id": "philipsruins:ancient_dungeon"
-			},
-			"weight": 1.0,
-			"key": "philipsruins:ancient_dungeon"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "philipsruins:ancient_ruins",
 			"data": {
+				"step": "surface_structures",
 				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
 					"monster": {
 						"bounding_box": "full",
 						"spawns": [
 							{
+								"type": "minecraft:zombie",
 								"weight": 12,
 								"minCount": 5,
-								"type": "minecraft:zombie",
 								"maxCount": 12
 							}
 						]
 					}
 				},
-				"step": "surface_structures",
 				"id": "philipsruins:ancient_ruins"
-			},
-			"weight": 1.0,
-			"key": "philipsruins:ancient_ruins"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "philipsruins:ancient_towers",
 			"data": {
+				"step": "surface_structures",
 				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
 					"monster": {
 						"bounding_box": "full",
 						"spawns": [
 							{
+								"type": "minecraft:zombie",
 								"weight": 12,
 								"minCount": 5,
-								"type": "minecraft:zombie",
 								"maxCount": 20
 							}
 						]
 					}
 				},
-				"step": "surface_structures",
 				"id": "philipsruins:ancient_towers"
-			},
-			"weight": 1.0,
-			"key": "philipsruins:ancient_towers"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "philipsruins:field_stone_ruins",
 			"data": {
+				"step": "surface_structures",
 				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
 					"monster": {
 						"bounding_box": "full",
 						"spawns": [
 							{
+								"type": "minecraft:skeleton",
 								"weight": 10,
 								"minCount": 2,
-								"type": "minecraft:skeleton",
 								"maxCount": 10
 							},
 							{
+								"type": "minecraft:zombie",
 								"weight": 12,
 								"minCount": 5,
-								"type": "minecraft:zombie",
 								"maxCount": 12
 							}
 						]
 					}
 				},
-				"step": "surface_structures",
 				"id": "philipsruins:field_stone_ruins"
-			},
-			"weight": 1.0,
-			"key": "philipsruins:field_stone_ruins"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "philipsruins:field_stone_ruins_rocks",
 			"data": {
+				"step": "surface_structures",
 				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
 				},
-				"step": "surface_structures",
 				"id": "philipsruins:field_stone_ruins_rocks"
-			},
-			"weight": 1.0,
-			"key": "philipsruins:field_stone_ruins_rocks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "philipsruins:level_one_ruins",
 			"data": {
+				"step": "surface_structures",
 				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
 					"monster": {
 						"bounding_box": "full",
 						"spawns": [
 							{
+								"type": "minecraft:skeleton",
 								"weight": 10,
 								"minCount": 2,
-								"type": "minecraft:skeleton",
 								"maxCount": 10
 							},
 							{
+								"type": "minecraft:zombie",
 								"weight": 12,
 								"minCount": 5,
-								"type": "minecraft:zombie",
 								"maxCount": 12
 							}
 						]
 					}
 				},
-				"step": "surface_structures",
 				"id": "philipsruins:level_one_ruins"
-			},
-			"weight": 1.0,
-			"key": "philipsruins:level_one_ruins"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "philipsruins:level_three_ruins",
 			"data": {
+				"step": "surface_structures",
 				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
 					"monster": {
@@ -159,14 +162,14 @@
 						]
 					}
 				},
-				"step": "surface_structures",
 				"id": "philipsruins:level_three_ruins"
-			},
-			"weight": 1.0,
-			"key": "philipsruins:level_three_ruins"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "philipsruins:level_two_ruins",
 			"data": {
+				"step": "surface_structures",
 				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
 					"monster": {
@@ -175,14 +178,14 @@
 						]
 					}
 				},
-				"step": "surface_structures",
 				"id": "philipsruins:level_two_ruins"
-			},
-			"weight": 1.0,
-			"key": "philipsruins:level_two_ruins"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "philipsruins:level_two_ruins_pool",
 			"data": {
+				"step": "surface_structures",
 				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
 					"monster": {
@@ -191,86 +194,86 @@
 						]
 					}
 				},
-				"step": "surface_structures",
 				"id": "philipsruins:level_two_ruins_pool"
-			},
-			"weight": 1.0,
-			"key": "philipsruins:level_two_ruins_pool"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "philipsruins:lost_soul_city",
 			"data": {
+				"step": "underground_structures",
 				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
 					"monster": {
 						"bounding_box": "full",
 						"spawns": [
 							{
+								"type": "minecraft:wither_skeleton",
 								"weight": 1,
 								"minCount": 1,
-								"type": "minecraft:wither_skeleton",
 								"maxCount": 2
 							}
 						]
 					}
 				},
-				"step": "underground_structures",
 				"id": "philipsruins:lost_soul_city"
-			},
-			"weight": 1.0,
-			"key": "philipsruins:lost_soul_city"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "philipsruins:lost_soul_dungeon",
 			"data": {
+				"step": "underground_decoration",
 				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
 					"monster": {
 						"bounding_box": "piece",
 						"spawns": [
 							{
+								"type": "minecraft:wither_skeleton",
 								"weight": 1,
 								"minCount": 1,
-								"type": "minecraft:wither_skeleton",
 								"maxCount": 5
 							}
 						]
 					}
 				},
-				"step": "underground_decoration",
 				"id": "philipsruins:lost_soul_dungeon"
-			},
-			"weight": 1.0,
-			"key": "philipsruins:lost_soul_dungeon"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "philipsruins:ocean_fortress",
 			"data": {
+				"step": "surface_structures",
 				"terrain_adaptation": "beard_box",
 				"spawn_overrides": {
 					"monster": {
 						"bounding_box": "full",
 						"spawns": [
 							{
+								"type": "minecraft:guardian",
 								"weight": 1,
 								"minCount": 2,
-								"type": "minecraft:guardian",
 								"maxCount": 3
 							},
 							{
+								"type": "minecraft:drowned",
 								"weight": 3,
 								"minCount": 5,
-								"type": "minecraft:drowned",
 								"maxCount": 9
 							}
 						]
 					}
 				},
-				"step": "surface_structures",
 				"id": "philipsruins:ocean_fortress"
-			},
-			"weight": 1.0,
-			"key": "philipsruins:ocean_fortress"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "philipsruins:ocean_ruins",
 			"data": {
+				"step": "surface_structures",
 				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
 					"monster": {
@@ -279,42 +282,42 @@
 						]
 					}
 				},
-				"step": "surface_structures",
 				"id": "philipsruins:ocean_ruins"
-			},
-			"weight": 1.0,
-			"key": "philipsruins:ocean_ruins"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "philipsruins:pumpkin_ruins",
 			"data": {
+				"step": "surface_structures",
 				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
 					"monster": {
 						"bounding_box": "full",
 						"spawns": [
 							{
+								"type": "minecraft:skeleton",
 								"weight": 10,
 								"minCount": 2,
-								"type": "minecraft:skeleton",
 								"maxCount": 10
 							},
 							{
+								"type": "minecraft:zombie",
 								"weight": 12,
 								"minCount": 5,
-								"type": "minecraft:zombie",
 								"maxCount": 12
 							}
 						]
 					}
 				},
-				"step": "surface_structures",
 				"id": "philipsruins:pumpkin_ruins"
-			},
-			"weight": 1.0,
-			"key": "philipsruins:pumpkin_ruins"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "philipsruins:rare_ruin",
 			"data": {
+				"step": "surface_structures",
 				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
 					"monster": {
@@ -323,33 +326,30 @@
 						]
 					}
 				},
-				"step": "surface_structures",
 				"id": "philipsruins:rare_ruin"
-			},
-			"weight": 1.0,
-			"key": "philipsruins:rare_ruin"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "philipsruins:underground_structures",
 			"data": {
+				"step": "underground_structures",
 				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
 					"monster": {
 						"bounding_box": "full",
 						"spawns": [
 							{
+								"type": "minecraft:wither_skeleton",
 								"weight": 1,
 								"minCount": 1,
-								"type": "minecraft:wither_skeleton",
 								"maxCount": 5
 							}
 						]
 					}
 				},
-				"step": "underground_structures",
 				"id": "philipsruins:underground_structures"
-			},
-			"weight": 1.0,
-			"key": "philipsruins:underground_structures"
+			}
 		}
 	]
 }

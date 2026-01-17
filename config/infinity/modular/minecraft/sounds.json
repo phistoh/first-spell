@@ -874,6 +874,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "minecraft:block.copper_chest.close"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:block.copper_chest.open"
+		},
+		{
+			"weight": 1.0,
 			"key": "minecraft:block.copper_door.close"
 		},
 		{
@@ -899,6 +907,22 @@
 		{
 			"weight": 1.0,
 			"key": "minecraft:block.copper_grate.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:block.copper_statue.become_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:block.copper_statue.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:block.copper_statue.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:block.copper_statue.place"
 		},
 		{
 			"weight": 1.0,
@@ -2330,6 +2354,30 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "minecraft:block.shelf.activate"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:block.shelf.deactivate"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:block.shelf.multi_swap"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:block.shelf.place_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:block.shelf.single_swap"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:block.shelf.take_item"
+		},
+		{
+			"weight": 1.0,
 			"key": "minecraft:block.shroomlight.break"
 		},
 		{
@@ -2998,14 +3046,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "minecraft:button_hover"
-		},
-		{
-			"weight": 1.0,
-			"key": "minecraft:button_hover_reverse"
-		},
-		{
-			"weight": 1.0,
 			"key": "minecraft:enchant.thorns.hit"
 		},
 		{
@@ -3403,6 +3443,98 @@
 		{
 			"weight": 1.0,
 			"key": "minecraft:entity.cod.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:entity.copper_golem.become_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:entity.copper_golem.death.exposed"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:entity.copper_golem.death.oxidized"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:entity.copper_golem.death.unaffected"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:entity.copper_golem.death.weathered"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:entity.copper_golem.head_spin.exposed"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:entity.copper_golem.head_spin.oxidized"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:entity.copper_golem.head_spin.unaffected"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:entity.copper_golem.head_spin.weathered"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:entity.copper_golem.hurt.exposed"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:entity.copper_golem.hurt.oxidized"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:entity.copper_golem.hurt.unaffected"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:entity.copper_golem.hurt.weathered"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:entity.copper_golem.item_drop"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:entity.copper_golem.item_no_drop"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:entity.copper_golem.no_item_get"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:entity.copper_golem.no_item_no_get"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:entity.copper_golem.shear"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:entity.copper_golem.spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:entity.copper_golem.step.exposed"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:entity.copper_golem.step.oxidized"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:entity.copper_golem.step.unaffected"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:entity.copper_golem.step.weathered"
 		},
 		{
 			"weight": 1.0,
@@ -5842,6 +5974,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "minecraft:item.armor.equip_copper"
+		},
+		{
+			"weight": 1.0,
 			"key": "minecraft:item.armor.equip_diamond"
 		},
 		{
@@ -6251,6 +6387,10 @@
 		{
 			"weight": 1.0,
 			"key": "minecraft:ui.toast.out"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:weather.end_flash"
 		},
 		{
 			"weight": 1.0,

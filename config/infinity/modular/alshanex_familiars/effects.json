@@ -1,22 +1,22 @@
 {
 	"elements": [
 		{
-			"data": {
-				"Category": "beneficial",
-				"Color": 14270531,
-				"Instant": false
-			},
 			"weight": 1.0,
-			"key": "alshanex_familiars:bird_buff"
+			"key": "alshanex_familiars:bird_buff",
+			"data": {
+				"Instant": false,
+				"Color": 14270531,
+				"Category": "beneficial"
+			}
 		},
 		{
-			"data": {
-				"Category": "harmful",
-				"Color": 13695487,
-				"Instant": false
-			},
 			"weight": 1.0,
-			"key": "alshanex_familiars:sleepy"
+			"key": "alshanex_familiars:sleepy",
+			"data": {
+				"Instant": false,
+				"Color": 13695487,
+				"Category": "harmful"
+			}
 		}
 	]
 }

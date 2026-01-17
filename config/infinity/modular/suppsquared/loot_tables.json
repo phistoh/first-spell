@@ -1,571 +1,585 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/biomesoplenty/item_shelf_dead",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/biomesoplenty/item_shelf_dead"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/biomesoplenty/item_shelf_empyreal",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/biomesoplenty/item_shelf_empyreal"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/biomesoplenty/item_shelf_fir",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/biomesoplenty/item_shelf_fir"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/biomesoplenty/item_shelf_hellbark",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/biomesoplenty/item_shelf_hellbark"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/biomesoplenty/item_shelf_jacaranda",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/biomesoplenty/item_shelf_jacaranda"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/biomesoplenty/item_shelf_magic",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/biomesoplenty/item_shelf_magic"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/biomesoplenty/item_shelf_mahogany",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/biomesoplenty/item_shelf_mahogany"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/biomesoplenty/item_shelf_maple",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/biomesoplenty/item_shelf_maple"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/biomesoplenty/item_shelf_palm",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/biomesoplenty/item_shelf_palm"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/biomesoplenty/item_shelf_pine",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/biomesoplenty/item_shelf_pine"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/biomesoplenty/item_shelf_redwood",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/biomesoplenty/item_shelf_redwood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/biomesoplenty/item_shelf_umbran",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/biomesoplenty/item_shelf_umbran"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/biomesoplenty/item_shelf_willow",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/biomesoplenty/item_shelf_willow"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/brass_lantern",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/brass_lantern"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/cobblemon/item_shelf_apricorn",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/copper_lantern"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/cobblemon/item_shelf_saccharine",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/copper_plaque"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/copper_lantern",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/crimson_lantern"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/copper_plaque",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/daub_frame_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/crimson_lantern",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/daub_frame_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/daub_frame_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/daub_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/daub_frame_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/daub_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/daub_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/deeperdarker/item_shelf_bloom"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/daub_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/deeperdarker/item_shelf_echo"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/deeperdarker/item_shelf_bloom",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/gardens_of_the_dead/item_shelf_soulblight"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/deeperdarker/item_shelf_echo",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/gardens_of_the_dead/item_shelf_whistlecane"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/gardens_of_the_dead/item_shelf_soulblight",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/gold_candle_holder"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/gardens_of_the_dead/item_shelf_whistlecane",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/gold_candle_holder_black"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/gold_candle_holder",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/gold_candle_holder_blue"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/gold_candle_holder_black",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/gold_candle_holder_brown"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/gold_candle_holder_blue",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/gold_candle_holder_cupric"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/gold_candle_holder_brown",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/gold_candle_holder_cyan"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/gold_candle_holder_cupric",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/gold_candle_holder_ender"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/gold_candle_holder_cyan",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/gold_candle_holder_gray"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/gold_candle_holder_ender",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/gold_candle_holder_green"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/gold_candle_holder_gray",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/gold_candle_holder_light_blue"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/gold_candle_holder_green",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/gold_candle_holder_light_gray"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/gold_candle_holder_light_blue",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/gold_candle_holder_lime"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/gold_candle_holder_light_gray",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/gold_candle_holder_magenta"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/gold_candle_holder_lime",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/gold_candle_holder_orange"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/gold_candle_holder_magenta",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/gold_candle_holder_pink"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/gold_candle_holder_orange",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/gold_candle_holder_purple"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/gold_candle_holder_pink",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/gold_candle_holder_red"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/gold_candle_holder_purple",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/gold_candle_holder_soul"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/gold_candle_holder_red",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/gold_candle_holder_spectacle"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/gold_candle_holder_soul",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/gold_candle_holder_white"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/gold_candle_holder_spectacle",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/gold_candle_holder_yellow"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/gold_candle_holder_white",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/gold_plaque"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/gold_candle_holder_yellow",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/iron_plaque"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/gold_plaque",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/item_shelf_acacia"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/iron_plaque",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/item_shelf_bamboo"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/item_shelf_acacia",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/item_shelf_birch"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/item_shelf_bamboo",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/item_shelf_cherry"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/item_shelf_birch",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/item_shelf_crimson"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/item_shelf_cherry",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/item_shelf_dark_oak"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/item_shelf_crimson",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/item_shelf_jungle"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/item_shelf_dark_oak",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/item_shelf_mangrove"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/item_shelf_jungle",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/item_shelf_spruce"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/item_shelf_mangrove",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/item_shelf_warped"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/item_shelf_spruce",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/metal_brace"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/item_shelf_warped",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/metal_cross_brace"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/metal_brace",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/metal_frame"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/metal_cross_brace",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/moresnifferflowers/item_shelf_corrupted"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/metal_frame",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/moresnifferflowers/item_shelf_vivicus"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/moresnifferflowers/item_shelf_corrupted",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/mynethersdelight/item_shelf_powdery"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/moresnifferflowers/item_shelf_vivicus",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/sack_black"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/mynethersdelight/item_shelf_powdery",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/sack_blue"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/sack_black",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/sack_brown"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/sack_blue",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/sack_cyan"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/sack_brown",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/sack_gray"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/sack_cyan",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/sack_green"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/sack_gray",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/sack_light_blue"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/sack_green",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/sack_light_gray"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/sack_light_blue",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/sack_lime"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/sack_light_gray",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/sack_magenta"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/sack_lime",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/sack_orange"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/sack_magenta",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/sack_pink"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/sack_orange",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/sack_purple"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/sack_pink",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/sack_red"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/sack_purple",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "suppsquared:blocks/sack_white"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/sack_red",
 			"data": {
 				"Type": "block"
-			},
+			}
+		},
+		{
 			"weight": 1.0,
-			"key": "suppsquared:blocks/sack_yellow"
+			"key": "suppsquared:blocks/sack_white",
+			"data": {
+				"Type": "block"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "suppsquared:blocks/sack_yellow",
 			"data": {
 				"Type": "block"
-			},
+			}
+		},
+		{
 			"weight": 1.0,
-			"key": "suppsquared:blocks/vanillabackport/item_shelf_pale_oak"
+			"key": "suppsquared:blocks/vanillabackport/item_shelf_pale_oak",
+			"data": {
+				"Type": "block"
+			}
 		}
 	]
 }

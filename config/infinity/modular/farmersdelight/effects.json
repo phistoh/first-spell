@@ -1,22 +1,22 @@
 {
 	"elements": [
 		{
-			"data": {
-				"Category": "beneficial",
-				"Color": 14545909,
-				"Instant": false
-			},
 			"weight": 1.0,
-			"key": "farmersdelight:comfort"
+			"key": "farmersdelight:comfort",
+			"data": {
+				"Instant": false,
+				"Color": 14545909,
+				"Category": "beneficial"
+			}
 		},
 		{
-			"data": {
-				"Category": "beneficial",
-				"Color": 15971072,
-				"Instant": false
-			},
 			"weight": 1.0,
-			"key": "farmersdelight:nourishment"
+			"key": "farmersdelight:nourishment",
+			"data": {
+				"Instant": false,
+				"Color": 15971072,
+				"Category": "beneficial"
+			}
 		}
 	]
 }

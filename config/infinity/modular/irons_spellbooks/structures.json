@@ -1,70 +1,58 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:ancient_battleground",
 			"data": {
+				"step": "underground_decoration",
 				"terrain_adaptation": "beard_box",
 				"spawn_overrides": {
 				},
-				"step": "underground_decoration",
 				"id": "irons_spellbooks:ancient_battleground"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:ancient_battleground"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:catacombs",
 			"data": {
+				"step": "underground_decoration",
 				"terrain_adaptation": "bury",
 				"spawn_overrides": {
 					"monster": {
 						"bounding_box": "piece",
 						"spawns": [
 							{
+								"type": "irons_spellbooks:catacombs_zombie",
 								"weight": 10,
 								"minCount": 1,
-								"type": "irons_spellbooks:catacombs_zombie",
 								"maxCount": 1
 							},
 							{
+								"type": "minecraft:skeleton",
 								"weight": 5,
 								"minCount": 1,
-								"type": "minecraft:skeleton",
 								"maxCount": 1
 							},
 							{
+								"type": "irons_spellbooks:necromancer",
 								"weight": 2,
 								"minCount": 1,
-								"type": "irons_spellbooks:necromancer",
 								"maxCount": 1
 							}
 						]
 					}
 				},
-				"step": "underground_decoration",
 				"id": "irons_spellbooks:catacombs"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:catacombs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:citadel",
 			"data": {
+				"step": "fluid_springs",
 				"terrain_adaptation": "beard_box",
 				"spawn_overrides": {
-					"water_creature": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"underground_water_creature": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
 					"ambient": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"axolotls": {
 						"bounding_box": "full",
 						"spawns": [
 						]
@@ -74,7 +62,22 @@
 						"spawns": [
 						]
 					},
+					"misc": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"axolotls": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
 					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"underground_water_creature": {
 						"bounding_box": "full",
 						"spawns": [
 						]
@@ -84,100 +87,97 @@
 						"spawns": [
 						]
 					},
-					"misc": {
+					"water_creature": {
 						"bounding_box": "full",
 						"spawns": [
 						]
 					}
 				},
-				"step": "fluid_springs",
 				"id": "irons_spellbooks:citadel"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:citadel"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:evoker_fort",
 			"data": {
+				"step": "surface_structures",
 				"terrain_adaptation": "beard_box",
 				"spawn_overrides": {
 					"monster": {
 						"bounding_box": "piece",
 						"spawns": [
 							{
+								"type": "minecraft:pillager",
 								"weight": 10,
 								"minCount": 2,
-								"type": "minecraft:pillager",
 								"maxCount": 3
 							},
 							{
+								"type": "minecraft:vindicator",
 								"weight": 5,
 								"minCount": 4,
-								"type": "minecraft:vindicator",
 								"maxCount": 4
 							}
 						]
 					}
 				},
-				"step": "surface_structures",
 				"id": "irons_spellbooks:evoker_fort"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:evoker_fort"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:ice_spider_den",
 			"data": {
+				"step": "underground_decoration",
 				"terrain_adaptation": "beard_box",
 				"spawn_overrides": {
 				},
-				"step": "underground_decoration",
 				"id": "irons_spellbooks:ice_spider_den"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:ice_spider_den"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:impaled_icebreaker",
 			"data": {
+				"step": "underground_decoration",
 				"terrain_adaptation": "none",
 				"spawn_overrides": {
 				},
-				"step": "underground_decoration",
 				"id": "irons_spellbooks:impaled_icebreaker"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:impaled_icebreaker"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:mangrove_hut",
 			"data": {
+				"step": "surface_structures",
 				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
 				},
-				"step": "surface_structures",
 				"id": "irons_spellbooks:mangrove_hut"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:mangrove_hut"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:mountain_tower",
 			"data": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
 				"step": "surface_structures",
-				"id": "irons_spellbooks:mountain_tower"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:mountain_tower"
-		},
-		{
-			"data": {
 				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
 				},
-				"step": "underground_decoration",
-				"id": "irons_spellbooks:pyromancer_tower"
-			},
+				"id": "irons_spellbooks:mountain_tower"
+			}
+		},
+		{
 			"weight": 1.0,
-			"key": "irons_spellbooks:pyromancer_tower"
+			"key": "irons_spellbooks:pyromancer_tower",
+			"data": {
+				"step": "underground_decoration",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "irons_spellbooks:pyromancer_tower"
+			}
 		}
 	]
 }

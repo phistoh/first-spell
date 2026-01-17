@@ -1,753 +1,753 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "artifacts:artifact",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:artifact"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:chests/campsite_barrel",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:chests/campsite_barrel"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:chests/campsite_barrel/cobblestone",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:chests/campsite_barrel/cobblestone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:chests/campsite_barrel/cobwebs",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:chests/campsite_barrel/cobwebs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:chests/campsite_barrel/crops",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:chests/campsite_barrel/crops"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:chests/campsite_barrel/food",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:chests/campsite_barrel/food"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:chests/campsite_barrel/gems",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:chests/campsite_barrel/gems"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:chests/campsite_barrel/ingots",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:chests/campsite_barrel/ingots"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:chests/campsite_barrel/minecarts",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:chests/campsite_barrel/minecarts"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:chests/campsite_barrel/ores",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:chests/campsite_barrel/ores"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:chests/campsite_barrel/rails",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:chests/campsite_barrel/rails"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:chests/campsite_barrel/tnt",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:chests/campsite_barrel/tnt"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:chests/campsite_chest",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:chests/campsite_chest"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:entities/mimic",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:entities/mimic"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:entity_equipment/drowned",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:entity_equipment/drowned"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:entity_equipment/ghast",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:entity_equipment/ghast"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:entity_equipment/husk",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:entity_equipment/husk"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:entity_equipment/piglin",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:entity_equipment/piglin"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:entity_equipment/piglin_brute",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:entity_equipment/piglin_brute"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:entity_equipment/skeleton",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:entity_equipment/skeleton"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:entity_equipment/stray",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:entity_equipment/stray"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:entity_equipment/wither_skeleton",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:entity_equipment/wither_skeleton"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:entity_equipment/zombie",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:entity_equipment/zombie"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:entity_equipment/zombified_piglin",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:entity_equipment/zombified_piglin"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:inject/archaeology/desert_pyramid",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "artifacts:inject/archaeology/desert_pyramid"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:inject/archaeology/desert_well",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "artifacts:inject/archaeology/desert_well"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:inject/archaeology/ocean_ruin_cold",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "artifacts:inject/archaeology/ocean_ruin_cold"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:inject/archaeology/ocean_ruin_warm",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "artifacts:inject/archaeology/ocean_ruin_warm"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:inject/archaeology/trail_ruins_rare",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "artifacts:inject/archaeology/trail_ruins_rare"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:inject/chests/abandoned_mineshaft",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "artifacts:inject/chests/abandoned_mineshaft"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:inject/chests/ancient_city",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "artifacts:inject/chests/ancient_city"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:inject/chests/ancient_city_ice_box",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "artifacts:inject/chests/ancient_city_ice_box"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:inject/chests/bastion_hoglin_stable",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "artifacts:inject/chests/bastion_hoglin_stable"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:inject/chests/bastion_treasure",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "artifacts:inject/chests/bastion_treasure"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:inject/chests/buried_treasure",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "artifacts:inject/chests/buried_treasure"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:inject/chests/desert_pyramid",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "artifacts:inject/chests/desert_pyramid"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:inject/chests/end_city_treasure",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "artifacts:inject/chests/end_city_treasure"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:inject/chests/igloo_chest",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "artifacts:inject/chests/igloo_chest"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:inject/chests/jungle_temple",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "artifacts:inject/chests/jungle_temple"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:inject/chests/nether_bridge",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "artifacts:inject/chests/nether_bridge"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:inject/chests/pillager_outpost",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "artifacts:inject/chests/pillager_outpost"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:inject/chests/ruined_portal",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "artifacts:inject/chests/ruined_portal"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:inject/chests/shipwreck_treasure",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "artifacts:inject/chests/shipwreck_treasure"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:inject/chests/simple_dungeon",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "artifacts:inject/chests/simple_dungeon"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:inject/chests/spawn_bonus_chest",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "artifacts:inject/chests/spawn_bonus_chest"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:inject/chests/stronghold_corridor",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "artifacts:inject/chests/stronghold_corridor"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:inject/chests/underwater_ruin_big",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "artifacts:inject/chests/underwater_ruin_big"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:inject/chests/village/village_armorer",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "artifacts:inject/chests/village/village_armorer"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:inject/chests/village/village_butcher",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "artifacts:inject/chests/village/village_butcher"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:inject/chests/village/village_desert_house",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "artifacts:inject/chests/village/village_desert_house"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:inject/chests/village/village_plains_house",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "artifacts:inject/chests/village/village_plains_house"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:inject/chests/village/village_savanna_house",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "artifacts:inject/chests/village/village_savanna_house"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:inject/chests/village/village_snowy_house",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "artifacts:inject/chests/village/village_snowy_house"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:inject/chests/village/village_taiga_house",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "artifacts:inject/chests/village/village_taiga_house"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:inject/chests/village/village_tannery",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "artifacts:inject/chests/village/village_tannery"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:inject/chests/village/village_temple",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "artifacts:inject/chests/village/village_temple"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:inject/chests/village/village_toolsmith",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "artifacts:inject/chests/village/village_toolsmith"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:inject/chests/village/village_weaponsmith",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "artifacts:inject/chests/village/village_weaponsmith"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:inject/chests/woodland_mansion",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "artifacts:inject/chests/woodland_mansion"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:inject/entities/cow",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "artifacts:inject/entities/cow"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:inject/entities/mooshroom",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "artifacts:inject/entities/mooshroom"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/anglers_hat",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/anglers_hat"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/antidote_vessel",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/antidote_vessel"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/aqua_dashers",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/aqua_dashers"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/bunny_hoppers",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/bunny_hoppers"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/charm_of_shrinking",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/charm_of_shrinking"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/charm_of_sinking",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/charm_of_sinking"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/chorus_totem",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/chorus_totem"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/cloud_in_a_bottle",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/cloud_in_a_bottle"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/cowboy_hat",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/cowboy_hat"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/cross_necklace",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/cross_necklace"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/crystal_heart",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/crystal_heart"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/digging_claws",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/digging_claws"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/drinking_hat",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/drinking_hat"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/everlasting_beef",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/everlasting_beef"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/feral_claws",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/feral_claws"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/fire_gauntlet",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/fire_gauntlet"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/flame_pendant",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/flame_pendant"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/flippers",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/flippers"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/golden_hook",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/golden_hook"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/helium_flamingo",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/helium_flamingo"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/kitty_slippers",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/kitty_slippers"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/lucky_scarf",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/lucky_scarf"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/night_vision_goggles",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/night_vision_goggles"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/obsidian_skull",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/obsidian_skull"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/onion_ring",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/onion_ring"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/panic_necklace",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/panic_necklace"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/pickaxe_heater",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/pickaxe_heater"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/pocket_piston",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/pocket_piston"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/power_glove",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/power_glove"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/rooted_boots",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/rooted_boots"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/running_shoes",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/running_shoes"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/scarf_of_invisibility",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/scarf_of_invisibility"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/shock_pendant",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/shock_pendant"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/snorkel",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/snorkel"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/snowshoes",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/snowshoes"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/steadfast_spikes",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/steadfast_spikes"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/strider_shoes",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/strider_shoes"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/superstitious_hat",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/superstitious_hat"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/thorn_pendant",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/thorn_pendant"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/umbrella",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/umbrella"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/universal_attractor",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/universal_attractor"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/vampiric_glove",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/vampiric_glove"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/villager_hat",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/villager_hat"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/warp_drive",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/warp_drive"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/whoopee_cushion",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/whoopee_cushion"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "artifacts:items/withered_bracelet",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "artifacts:items/withered_bracelet"
+			}
 		}
 	]
 }

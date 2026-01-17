@@ -1,18 +1,18 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:snowblossom_tree",
 			"data": {
 				"Type": "tree"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:snowblossom_tree"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:trees_snowblossom_grove",
 			"data": {
 				"Type": "tree"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:trees_snowblossom_grove"
+			}
 		}
 	]
 }

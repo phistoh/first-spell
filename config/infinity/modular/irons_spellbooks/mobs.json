@@ -1,130 +1,130 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:apothecarist",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:apothecarist"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:archevoker",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:archevoker"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:catacombs_zombie",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:catacombs_zombie"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:citadel_keeper",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:citadel_keeper"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:cryomancer",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:cryomancer"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:cultist",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:cultist"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:cursed_armor_stand",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:cursed_armor_stand"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:dead_king",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:dead_king"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:debug_wizard",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:debug_wizard"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:fire_boss",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:fire_boss"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:ice_spider",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:ice_spider"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:magehunter_vindicator",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:magehunter_vindicator"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:necromancer",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:necromancer"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:priest",
 			"data": {
 				"Category": "creature"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:priest"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:pyromancer",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:pyromancer"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:spectral_steed",
 			"data": {
 				"Category": "creature"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:spectral_steed"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:summoned_polar_bear",
 			"data": {
 				"Category": "creature"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:summoned_polar_bear"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:summoned_vex",
 			"data": {
 				"Category": "creature"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:summoned_vex"
+			}
 		}
 	]
 }

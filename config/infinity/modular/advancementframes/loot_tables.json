@@ -1,18 +1,18 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "advancementframes:blocks/advancement_frame",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "advancementframes:blocks/advancement_frame"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "advancementframes:blocks/stat_frame",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "advancementframes:blocks/stat_frame"
+			}
 		}
 	]
 }

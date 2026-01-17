@@ -1,144 +1,144 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "infinity:blocks/altar",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "infinity:blocks/altar"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "infinity:blocks/ant",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "infinity:blocks/ant"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "infinity:blocks/biome_bottle",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "infinity:blocks/biome_bottle"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "infinity:blocks/book_box",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "infinity:blocks/book_box"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "infinity:blocks/chromatic_carpet",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "infinity:blocks/chromatic_carpet"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "infinity:blocks/chromatic_wool",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "infinity:blocks/chromatic_wool"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "infinity:blocks/cosmic_altar",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "infinity:blocks/cosmic_altar"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "infinity:blocks/cursor",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "infinity:blocks/cursor"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "infinity:blocks/iridescent_carpet",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "infinity:blocks/iridescent_carpet"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "infinity:blocks/iridescent_kelp",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "infinity:blocks/iridescent_kelp"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "infinity:blocks/iridescent_kelp_plant",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "infinity:blocks/iridescent_kelp_plant"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "infinity:blocks/iridescent_wool",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "infinity:blocks/iridescent_wool"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "infinity:blocks/netherite_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "infinity:blocks/netherite_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "infinity:blocks/netherite_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "infinity:blocks/netherite_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "infinity:blocks/notes_block",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "infinity:blocks/notes_block"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "infinity:entities/ant",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "infinity:entities/ant"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "infinity:entities/bishop",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "infinity:entities/bishop"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "infinity:entities/chaos_pawn_black",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "infinity:entities/chaos_pawn_black"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "infinity:entities/chaos_pawn_white",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "infinity:entities/chaos_pawn_white"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "infinity:entities/chaos_skeleton",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "infinity:entities/chaos_skeleton"
+			}
 		}
 	]
 }

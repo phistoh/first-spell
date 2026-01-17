@@ -1,0 +1,13 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "fightorflight:resistance_weakened",
+			"data": {
+				"Instant": false,
+				"Color": 11799564,
+				"Category": "harmful"
+			}
+		}
+	]
+}

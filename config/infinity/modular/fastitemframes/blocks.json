@@ -1,24 +1,24 @@
 {
 	"elements": [
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": false,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "fastitemframes:glow_item_frame"
+			"key": "fastitemframes:glow_item_frame",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": false,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "fastitemframes:item_frame"
+			"key": "fastitemframes:item_frame",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		}
 	]
 }

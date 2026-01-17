@@ -1,795 +1,795 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:blocks/alchemist_cauldron",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:blocks/alchemist_cauldron"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:blocks/arcane_anvil",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:blocks/arcane_anvil"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:blocks/armor_pile",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:blocks/armor_pile"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:blocks/blood_cauldron",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:blocks/blood_cauldron"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:blocks/book_stack",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:blocks/book_stack"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:blocks/brazier",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:blocks/brazier"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:blocks/brazier_soul",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:blocks/brazier_soul"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:blocks/deepslate_mithril_ore",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:blocks/deepslate_mithril_ore"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:blocks/firefly_jar",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:blocks/firefly_jar"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:blocks/ice_spider_egg",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:blocks/ice_spider_egg"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:blocks/inscription_table",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:blocks/inscription_table"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:blocks/mithril_ore",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:blocks/mithril_ore"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:blocks/nether_brick_pillar",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:blocks/nether_brick_pillar"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:blocks/pedestal",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:blocks/pedestal"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:blocks/portal_frame",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:blocks/portal_frame"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:blocks/scroll_forge",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:blocks/scroll_forge"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:blocks/wisewood_bookshelf",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:blocks/wisewood_bookshelf"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:blocks/wisewood_chiseled_bookshelf",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:blocks/wisewood_chiseled_bookshelf"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/additional_ancient_city_loot",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/additional_ancient_city_loot"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/additional_end_city_loot",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/additional_end_city_loot"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/additional_generic_loot",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/additional_generic_loot"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/additional_good_loot",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/additional_good_loot"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/additional_library_loot",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/additional_library_loot"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/additional_nether_loot",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/additional_nether_loot"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/additional_treasure_loot",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/additional_treasure_loot"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/battleground/burial_loot",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/battleground/burial_loot"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/battleground/piglin_camp",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/battleground/piglin_camp"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/bookshelf_loot",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/bookshelf_loot"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/catacombs/armory_loot",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/catacombs/armory_loot"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/catacombs/coffin_loot",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/catacombs/coffin_loot"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/catacombs/crypt_loot",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/catacombs/crypt_loot"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/catacombs/hidden_trough_treasure",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/catacombs/hidden_trough_treasure"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/catacombs/pot",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/catacombs/pot"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/catacombs/wall_loot",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/catacombs/wall_loot"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/citadel/citadel_bookshelf",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/citadel/citadel_bookshelf"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/citadel/citadel_tomes",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/citadel/citadel_tomes"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/citadel/citadel_vault",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/citadel/citadel_vault"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/citadel/rampart_chest",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/citadel/rampart_chest"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/citadel/rampart_supplies",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/citadel/rampart_supplies"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/citadel/spawner_reward",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/citadel/spawner_reward"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/component_storage",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/component_storage"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/evoker_fort",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/evoker_fort"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/evoker_fort/guard_tower",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/evoker_fort/guard_tower"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/filler_storage_loot",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/filler_storage_loot"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/generic_magic_treasure",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/generic_magic_treasure"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/ice_spider_den/basement",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/ice_spider_den/basement"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/ice_spider_den/cask",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/ice_spider_den/cask"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/ice_spider_den/dungeon",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/ice_spider_den/dungeon"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/ice_spider_den/pot",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/ice_spider_den/pot"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/ice_spider_den/spawner_reward",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/ice_spider_den/spawner_reward"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/ice_spider_den/tower",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/ice_spider_den/tower"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/impaled_icebreaker/captain_quarters",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/impaled_icebreaker/captain_quarters"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/impaled_icebreaker/food_barrel",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/impaled_icebreaker/food_barrel"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/magic_bookshelf_loot",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/magic_bookshelf_loot"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/mangrove_hut",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/mangrove_hut"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/mangrove_hut/hidden_potion_storage",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/mangrove_hut/hidden_potion_storage"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/mangrove_hut/potion_ingredient_storage",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/mangrove_hut/potion_ingredient_storage"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/mountain_tower/ice_barrel",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/mountain_tower/ice_barrel"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/mountain_tower/mountain_tower",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/mountain_tower/mountain_tower"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/priest_house",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/priest_house"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/pyromancer_tower/burnt_chest",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/pyromancer_tower/burnt_chest"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/pyromancer_tower/fire_ale_cask",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/pyromancer_tower/fire_ale_cask"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/pyromancer_tower/fire_ale_trove",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/pyromancer_tower/fire_ale_trove"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/pyromancer_tower/old_cask",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/pyromancer_tower/old_cask"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/pyromancer_tower/pot",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/pyromancer_tower/pot"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/pyromancer_tower/pyromancer_basic_storage",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/pyromancer_tower/pyromancer_basic_storage"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/pyromancer_tower/pyromancer_supplies",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/pyromancer_tower/pyromancer_supplies"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/sewer_loot",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/sewer_loot"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/trial_chambers/additional_ominous_spawner_consumable_loot",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/trial_chambers/additional_ominous_spawner_consumable_loot"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/trial_chambers/additional_ominous_vault_loot",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/trial_chambers/additional_ominous_vault_loot"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/trial_chambers/additional_regular_spawner_consumable_loot",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/trial_chambers/additional_regular_spawner_consumable_loot"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/trial_chambers/additional_regular_vault_loot",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/trial_chambers/additional_regular_vault_loot"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/trial_chambers/additional_trial_chest_loot",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/trial_chambers/additional_trial_chest_loot"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/trial_chambers/pot_replacement",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/trial_chambers/pot_replacement"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:chests/wheat",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:chests/wheat"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:entities/additional_blaze_loot",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:entities/additional_blaze_loot"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:entities/additional_dragon_loot",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:entities/additional_dragon_loot"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:entities/additional_evoker_loot",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:entities/additional_evoker_loot"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:entities/additional_hoglin_loot",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:entities/additional_hoglin_loot"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:entities/additional_stray_loot",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:entities/additional_stray_loot"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:entities/apothecarist",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:entities/apothecarist"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:entities/archevoker",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:entities/archevoker"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:entities/citadel_keeper",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:entities/citadel_keeper"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:entities/cryomancer",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:entities/cryomancer"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:entities/cultist",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:entities/cultist"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:entities/dead_king",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:entities/dead_king"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:entities/fire_boss",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:entities/fire_boss"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:entities/fire_boss_per_player",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:entities/fire_boss_per_player"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:entities/ice_spider",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:entities/ice_spider"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:entities/necromancer",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:entities/necromancer"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:entities/priest",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:entities/priest"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:entities/pyromancer",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:entities/pyromancer"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:magic_items/all_focuses",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:magic_items/all_focuses"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:magic_items/basic_curios",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:magic_items/basic_curios"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:magic_items/decent_ink",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:magic_items/decent_ink"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:magic_items/good_ink",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:magic_items/good_ink"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:magic_items/great_ink",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:magic_items/great_ink"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:magic_items/poor_ink",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:magic_items/poor_ink"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:magic_items/random_elixir",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:magic_items/random_elixir"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:magic_items/random_potion",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:magic_items/random_potion"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:magic_items/random_potion_or_elixir",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:magic_items/random_potion_or_elixir"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:magic_items/reward_ink",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:magic_items/reward_ink"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:magic_items/scroll_pouch",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:magic_items/scroll_pouch"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:spawners/ancient_battleground/ominous_projectiles",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:spawners/ancient_battleground/ominous_projectiles"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:spawners/catacombs/ominous_zombie_spawner",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:spawners/catacombs/ominous_zombie_spawner"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:spawners/catacombs/regular_zombie_spawner",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:spawners/catacombs/regular_zombie_spawner"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:test/ring_gen",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:test/ring_gen"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:test/ring_gen_all_schools",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:test/ring_gen_all_schools"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:test/scroll_gen",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:test/scroll_gen"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:test/scroll_gen_fire",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:test/scroll_gen_fire"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:test/scroll_gen_force_eldritch",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:test/scroll_gen_force_eldritch"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:test/scroll_gen_magic_missile",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:test/scroll_gen_magic_missile"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:test/scroll_gen_notforce_eldritch",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "irons_spellbooks:test/scroll_gen_notforce_eldritch"
+			}
 		}
 	]
 }

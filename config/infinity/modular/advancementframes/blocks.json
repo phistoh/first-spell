@@ -1,24 +1,24 @@
 {
 	"elements": [
 		{
-			"data": {
-				"top": false,
-				"laggy": true,
-				"float": false,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "advancementframes:advancement_frame"
+			"key": "advancementframes:advancement_frame",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": false,
-				"laggy": true,
-				"float": false,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "advancementframes:stat_frame"
+			"key": "advancementframes:stat_frame",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
 		}
 	]
 }

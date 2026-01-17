@@ -1,67 +1,67 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "philipsruins:chest/ancient_ruins",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "philipsruins:chest/ancient_ruins"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "philipsruins:chest/ancient_ruins_loot",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "philipsruins:chest/ancient_ruins_loot"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "philipsruins:chest/level_one_ruins_loot",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "philipsruins:chest/level_one_ruins_loot"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "philipsruins:chest/level_three_ruins_loot",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "philipsruins:chest/level_three_ruins_loot"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "philipsruins:chest/lost_soul_city_loot",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "philipsruins:chest/lost_soul_city_loot"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "philipsruins:chest/ocean_ruin_fortress",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "philipsruins:chest/ocean_ruin_fortress"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "philipsruins:chest/ocean_ruins_loot",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "philipsruins:chest/ocean_ruins_loot"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "philipsruins:chest/ruin_loot",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "philipsruins:chest/ruin_loot"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "philipsruins:chest/ruin_loot_value",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "philipsruins:chest/ruin_loot_value"
+			}
 		}
 	]
 }

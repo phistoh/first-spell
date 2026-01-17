@@ -1,32 +1,32 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "spring_to_life:birch_leaf_litter",
 			"data": {
 				"Type": "tree"
-			},
-			"weight": 1.0,
-			"key": "spring_to_life:birch_leaf_litter"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "spring_to_life:dark_oak_leaf_litter",
 			"data": {
 				"Type": "tree"
-			},
-			"weight": 1.0,
-			"key": "spring_to_life:dark_oak_leaf_litter"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "spring_to_life:fancy_oak_leaf_litter",
 			"data": {
 				"Type": "tree"
-			},
-			"weight": 1.0,
-			"key": "spring_to_life:fancy_oak_leaf_litter"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "spring_to_life:oak_leaf_litter",
 			"data": {
 				"Type": "tree"
-			},
-			"weight": 1.0,
-			"key": "spring_to_life:oak_leaf_litter"
+			}
 		}
 	]
 }

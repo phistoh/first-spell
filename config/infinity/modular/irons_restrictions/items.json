@@ -1,0 +1,36 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "irons_restrictions:common_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_restrictions:epic_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_restrictions:fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_restrictions:legendary_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_restrictions:manuscript"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_restrictions:rare_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_restrictions:uncommon_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_restrictions:unfinished_manuscript"
+		}
+	]
+}

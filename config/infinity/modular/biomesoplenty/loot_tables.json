@@ -1,2811 +1,2811 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:advancements/all_biomes",
 			"data": {
 				"Type": "generic"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:advancements/all_biomes"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/algal_end_stone",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/algal_end_stone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/anomaly",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/anomaly"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/barley",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/barley"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/barnacles",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/barnacles"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/black_sand",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/black_sand"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/black_sandstone",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/black_sandstone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/black_sandstone_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/black_sandstone_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/black_sandstone_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/black_sandstone_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/black_sandstone_wall",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/black_sandstone_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/blackstone_bulb",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/blackstone_bulb"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/blackstone_spines",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/blackstone_spines"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/blue_hydrangea",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/blue_hydrangea"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/bramble",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/bramble"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/bramble_leaves",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/bramble_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/brimstone",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/brimstone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/brimstone_brick_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/brimstone_brick_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/brimstone_brick_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/brimstone_brick_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/brimstone_brick_wall",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/brimstone_brick_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/brimstone_bricks",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/brimstone_bricks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/brimstone_bud",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/brimstone_bud"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/brimstone_cluster",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/brimstone_cluster"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/brimstone_fumarole",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/brimstone_fumarole"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/burning_blossom",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/burning_blossom"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/bush",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/bush"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/cattail",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/cattail"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/chiseled_black_sandstone",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/chiseled_black_sandstone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/chiseled_brimstone_bricks",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/chiseled_brimstone_bricks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/chiseled_orange_sandstone",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/chiseled_orange_sandstone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/chiseled_white_sandstone",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/chiseled_white_sandstone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/clover",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/clover"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/cut_black_sandstone",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/cut_black_sandstone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/cut_black_sandstone_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/cut_black_sandstone_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/cut_orange_sandstone",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/cut_orange_sandstone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/cut_orange_sandstone_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/cut_orange_sandstone_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/cut_white_sandstone",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/cut_white_sandstone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/cut_white_sandstone_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/cut_white_sandstone_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/cypress_leaves",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/cypress_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/cypress_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/cypress_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/dead_branch",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/dead_branch"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/dead_button",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/dead_button"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/dead_door",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/dead_door"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/dead_fence",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/dead_fence"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/dead_fence_gate",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/dead_fence_gate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/dead_grass",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/dead_grass"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/dead_hanging_sign",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/dead_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/dead_leaves",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/dead_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/dead_log",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/dead_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/dead_planks",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/dead_planks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/dead_pressure_plate",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/dead_pressure_plate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/dead_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/dead_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/dead_sign",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/dead_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/dead_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/dead_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/dead_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/dead_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/dead_trapdoor",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/dead_trapdoor"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/dead_wood",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/dead_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/desert_grass",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/desert_grass"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/dried_salt",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/dried_salt"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/dune_grass",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/dune_grass"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/empyreal_button",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/empyreal_button"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/empyreal_door",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/empyreal_door"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/empyreal_fence",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/empyreal_fence"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/empyreal_fence_gate",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/empyreal_fence_gate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/empyreal_hanging_sign",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/empyreal_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/empyreal_leaves",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/empyreal_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/empyreal_log",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/empyreal_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/empyreal_planks",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/empyreal_planks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/empyreal_pressure_plate",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/empyreal_pressure_plate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/empyreal_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/empyreal_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/empyreal_sign",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/empyreal_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/empyreal_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/empyreal_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/empyreal_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/empyreal_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/empyreal_trapdoor",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/empyreal_trapdoor"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/empyreal_wood",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/empyreal_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/endbloom",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/endbloom"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/enderphyte",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/enderphyte"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/eyebulb",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/eyebulb"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/fir_button",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/fir_button"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/fir_door",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/fir_door"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/fir_fence",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/fir_fence"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/fir_fence_gate",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/fir_fence_gate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/fir_hanging_sign",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/fir_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/fir_leaves",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/fir_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/fir_log",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/fir_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/fir_planks",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/fir_planks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/fir_pressure_plate",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/fir_pressure_plate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/fir_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/fir_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/fir_sign",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/fir_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/fir_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/fir_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/fir_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/fir_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/fir_trapdoor",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/fir_trapdoor"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/fir_wood",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/fir_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/flesh",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/flesh"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/flesh_tendons",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/flesh_tendons"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/flesh_tendons_strand",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/flesh_tendons_strand"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/flowering_oak_leaves",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/flowering_oak_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/flowering_oak_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/flowering_oak_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/glowflower",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/glowflower"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/glowing_moss_block",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/glowing_moss_block"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/glowing_moss_carpet",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/glowing_moss_carpet"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/glowshroom",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/glowshroom"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/glowshroom_block",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/glowshroom_block"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/glowworm_silk",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/glowworm_silk"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/glowworm_silk_strand",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/glowworm_silk_strand"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/goldenrod",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/goldenrod"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/hair",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/hair"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/hanging_cobweb",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/hanging_cobweb"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/hanging_cobweb_strand",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/hanging_cobweb_strand"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/hellbark_button",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/hellbark_button"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/hellbark_door",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/hellbark_door"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/hellbark_fence",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/hellbark_fence"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/hellbark_fence_gate",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/hellbark_fence_gate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/hellbark_hanging_sign",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/hellbark_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/hellbark_leaves",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/hellbark_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/hellbark_log",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/hellbark_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/hellbark_planks",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/hellbark_planks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/hellbark_pressure_plate",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/hellbark_pressure_plate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/hellbark_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/hellbark_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/hellbark_sign",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/hellbark_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/hellbark_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/hellbark_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/hellbark_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/hellbark_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/hellbark_trapdoor",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/hellbark_trapdoor"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/hellbark_wood",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/hellbark_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/high_grass",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/high_grass"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/high_grass_plant",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/high_grass_plant"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/huge_clover_petal",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/huge_clover_petal"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/huge_lily_pad",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/huge_lily_pad"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/icy_iris",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/icy_iris"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/jacaranda_button",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/jacaranda_button"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/jacaranda_door",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/jacaranda_door"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/jacaranda_fence",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/jacaranda_fence"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/jacaranda_fence_gate",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/jacaranda_fence_gate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/jacaranda_hanging_sign",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/jacaranda_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/jacaranda_leaves",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/jacaranda_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/jacaranda_log",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/jacaranda_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/jacaranda_planks",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/jacaranda_planks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/jacaranda_pressure_plate",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/jacaranda_pressure_plate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/jacaranda_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/jacaranda_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/jacaranda_sign",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/jacaranda_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/jacaranda_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/jacaranda_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/jacaranda_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/jacaranda_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/jacaranda_trapdoor",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/jacaranda_trapdoor"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/jacaranda_wood",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/jacaranda_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/large_rose_quartz_bud",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/large_rose_quartz_bud"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/lavender",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/lavender"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/lumaloop",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/lumaloop"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/lumaloop_plant",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/lumaloop_plant"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/magic_button",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/magic_button"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/magic_door",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/magic_door"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/magic_fence",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/magic_fence"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/magic_fence_gate",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/magic_fence_gate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/magic_hanging_sign",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/magic_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/magic_leaves",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/magic_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/magic_log",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/magic_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/magic_planks",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/magic_planks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/magic_pressure_plate",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/magic_pressure_plate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/magic_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/magic_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/magic_sign",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/magic_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/magic_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/magic_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/magic_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/magic_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/magic_trapdoor",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/magic_trapdoor"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/magic_wood",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/magic_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/mahogany_button",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/mahogany_button"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/mahogany_door",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/mahogany_door"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/mahogany_fence",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/mahogany_fence"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/mahogany_fence_gate",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/mahogany_fence_gate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/mahogany_hanging_sign",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/mahogany_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/mahogany_leaves",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/mahogany_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/mahogany_log",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/mahogany_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/mahogany_planks",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/mahogany_planks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/mahogany_pressure_plate",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/mahogany_pressure_plate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/mahogany_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/mahogany_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/mahogany_sign",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/mahogany_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/mahogany_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/mahogany_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/mahogany_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/mahogany_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/mahogany_trapdoor",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/mahogany_trapdoor"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/mahogany_wood",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/mahogany_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/maple_button",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/maple_button"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/maple_door",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/maple_door"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/maple_fence",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/maple_fence"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/maple_fence_gate",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/maple_fence_gate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/maple_hanging_sign",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/maple_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/maple_log",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/maple_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/maple_planks",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/maple_planks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/maple_pressure_plate",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/maple_pressure_plate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/maple_sign",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/maple_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/maple_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/maple_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/maple_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/maple_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/maple_trapdoor",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/maple_trapdoor"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/maple_wood",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/maple_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/medium_rose_quartz_bud",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/medium_rose_quartz_bud"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/mossy_black_sand",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/mossy_black_sand"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/null_block",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/null_block"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/null_end_stone",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/null_end_stone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/null_leaves",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/null_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/null_plant",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/null_plant"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/orange_cosmos",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/orange_cosmos"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/orange_maple_leaf_pile",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/orange_maple_leaf_pile"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/orange_maple_leaves",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/orange_maple_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/orange_maple_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/orange_maple_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/orange_sand",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/orange_sand"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/orange_sandstone",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/orange_sandstone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/orange_sandstone_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/orange_sandstone_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/orange_sandstone_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/orange_sandstone_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/orange_sandstone_wall",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/orange_sandstone_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/origin_grass_block",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/origin_grass_block"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/origin_leaves",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/origin_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/origin_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/origin_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/palm_button",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/palm_button"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/palm_door",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/palm_door"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/palm_fence",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/palm_fence"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/palm_fence_gate",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/palm_fence_gate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/palm_hanging_sign",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/palm_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/palm_leaves",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/palm_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/palm_log",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/palm_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/palm_planks",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/palm_planks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/palm_pressure_plate",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/palm_pressure_plate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/palm_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/palm_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/palm_sign",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/palm_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/palm_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/palm_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/palm_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/palm_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/palm_trapdoor",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/palm_trapdoor"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/palm_wood",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/palm_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/pine_button",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/pine_button"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/pine_door",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/pine_door"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/pine_fence",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/pine_fence"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/pine_fence_gate",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/pine_fence_gate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/pine_hanging_sign",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/pine_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/pine_leaves",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/pine_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/pine_log",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/pine_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/pine_planks",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/pine_planks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/pine_pressure_plate",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/pine_pressure_plate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/pine_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/pine_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/pine_sign",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/pine_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/pine_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/pine_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/pine_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/pine_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/pine_trapdoor",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/pine_trapdoor"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/pine_wood",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/pine_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/pink_daffodil",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/pink_daffodil"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/pink_hibiscus",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/pink_hibiscus"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/porous_flesh",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/porous_flesh"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/potted_burning_blossom",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/potted_burning_blossom"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/potted_cypress_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/potted_cypress_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/potted_dead_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/potted_dead_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/potted_empyreal_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/potted_empyreal_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/potted_endbloom",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/potted_endbloom"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/potted_fir_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/potted_fir_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/potted_flowering_oak_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/potted_flowering_oak_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/potted_glowflower",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/potted_glowflower"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/potted_glowshroom",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/potted_glowshroom"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/potted_hellbark_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/potted_hellbark_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/potted_jacaranda_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/potted_jacaranda_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/potted_lavender",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/potted_lavender"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/potted_magic_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/potted_magic_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/potted_mahogany_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/potted_mahogany_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/potted_orange_cosmos",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/potted_orange_cosmos"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/potted_orange_maple_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/potted_orange_maple_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/potted_origin_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/potted_origin_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/potted_palm_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/potted_palm_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/potted_pine_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/potted_pine_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/potted_pink_daffodil",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/potted_pink_daffodil"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/potted_pink_hibiscus",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/potted_pink_hibiscus"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/potted_rainbow_birch_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/potted_rainbow_birch_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/potted_red_maple_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/potted_red_maple_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/potted_redwood_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/potted_redwood_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/potted_rose",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/potted_rose"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/potted_snowblossom_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/potted_snowblossom_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/potted_sprout",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/potted_sprout"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/potted_tiny_cactus",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/potted_tiny_cactus"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/potted_toadstool",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/potted_toadstool"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/potted_umbran_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/potted_umbran_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/potted_violet",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/potted_violet"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/potted_white_lavender",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/potted_white_lavender"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/potted_willow_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/potted_willow_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/potted_wilted_lily",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/potted_wilted_lily"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/potted_yellow_maple_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/potted_yellow_maple_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/pus_bubble",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/pus_bubble"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/rainbow_birch_leaves",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/rainbow_birch_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/rainbow_birch_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/rainbow_birch_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/red_maple_leaf_pile",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/red_maple_leaf_pile"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/red_maple_leaves",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/red_maple_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/red_maple_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/red_maple_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/redwood_button",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/redwood_button"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/redwood_door",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/redwood_door"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/redwood_fence",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/redwood_fence"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/redwood_fence_gate",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/redwood_fence_gate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/redwood_hanging_sign",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/redwood_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/redwood_leaves",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/redwood_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/redwood_log",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/redwood_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/redwood_planks",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/redwood_planks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/redwood_pressure_plate",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/redwood_pressure_plate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/redwood_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/redwood_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/redwood_sign",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/redwood_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/redwood_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/redwood_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/redwood_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/redwood_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/redwood_trapdoor",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/redwood_trapdoor"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/redwood_wood",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/redwood_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/reed",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/reed"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/rose",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/rose"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/rose_quartz_block",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/rose_quartz_block"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/rose_quartz_cluster",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/rose_quartz_cluster"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/sea_oats",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/sea_oats"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/small_rose_quartz_bud",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/small_rose_quartz_bud"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/smooth_black_sandstone",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/smooth_black_sandstone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/smooth_black_sandstone_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/smooth_black_sandstone_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/smooth_black_sandstone_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/smooth_black_sandstone_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/smooth_orange_sandstone",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/smooth_orange_sandstone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/smooth_orange_sandstone_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/smooth_orange_sandstone_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/smooth_orange_sandstone_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/smooth_orange_sandstone_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/smooth_white_sandstone",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/smooth_white_sandstone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/smooth_white_sandstone_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/smooth_white_sandstone_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/smooth_white_sandstone_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/smooth_white_sandstone_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/snowblossom_leaves",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/snowblossom_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/snowblossom_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/snowblossom_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/spanish_moss",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/spanish_moss"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/spanish_moss_plant",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/spanish_moss_plant"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/spider_egg",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/spider_egg"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/sprout",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/sprout"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/stripped_dead_log",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/stripped_dead_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/stripped_dead_wood",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/stripped_dead_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/stripped_empyreal_log",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/stripped_empyreal_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/stripped_empyreal_wood",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/stripped_empyreal_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/stripped_fir_log",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/stripped_fir_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/stripped_fir_wood",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/stripped_fir_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/stripped_hellbark_log",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/stripped_hellbark_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/stripped_hellbark_wood",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/stripped_hellbark_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/stripped_jacaranda_log",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/stripped_jacaranda_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/stripped_jacaranda_wood",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/stripped_jacaranda_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/stripped_magic_log",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/stripped_magic_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/stripped_magic_wood",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/stripped_magic_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/stripped_mahogany_log",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/stripped_mahogany_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/stripped_mahogany_wood",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/stripped_mahogany_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/stripped_maple_log",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/stripped_maple_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/stripped_maple_wood",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/stripped_maple_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/stripped_palm_log",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/stripped_palm_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/stripped_palm_wood",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/stripped_palm_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/stripped_pine_log",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/stripped_pine_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/stripped_pine_wood",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/stripped_pine_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/stripped_redwood_log",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/stripped_redwood_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/stripped_redwood_wood",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/stripped_redwood_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/stripped_umbran_log",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/stripped_umbran_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/stripped_umbran_wood",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/stripped_umbran_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/stripped_willow_log",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/stripped_willow_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/stripped_willow_wood",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/stripped_willow_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/tall_lavender",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/tall_lavender"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/tall_white_lavender",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/tall_white_lavender"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/thermal_calcite",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/thermal_calcite"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/thermal_calcite_vent",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/thermal_calcite_vent"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/tiny_cactus",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/tiny_cactus"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/toadstool",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/toadstool"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/toadstool_block",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/toadstool_block"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/tundra_shrub",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/tundra_shrub"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/umbran_button",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/umbran_button"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/umbran_door",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/umbran_door"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/umbran_fence",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/umbran_fence"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/umbran_fence_gate",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/umbran_fence_gate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/umbran_hanging_sign",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/umbran_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/umbran_leaves",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/umbran_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/umbran_log",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/umbran_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/umbran_planks",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/umbran_planks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/umbran_pressure_plate",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/umbran_pressure_plate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/umbran_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/umbran_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/umbran_sign",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/umbran_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/umbran_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/umbran_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/umbran_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/umbran_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/umbran_trapdoor",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/umbran_trapdoor"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/umbran_wood",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/umbran_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/unmapped_end_stone",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/unmapped_end_stone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/violet",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/violet"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/watergrass",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/watergrass"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/waterlily",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/waterlily"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/webbing",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/webbing"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/white_lavender",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/white_lavender"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/white_petals",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/white_petals"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/white_sand",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/white_sand"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/white_sandstone",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/white_sandstone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/white_sandstone_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/white_sandstone_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/white_sandstone_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/white_sandstone_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/white_sandstone_wall",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/white_sandstone_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/wildflower",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/wildflower"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/willow_button",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/willow_button"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/willow_door",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/willow_door"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/willow_fence",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/willow_fence"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/willow_fence_gate",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/willow_fence_gate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/willow_hanging_sign",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/willow_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/willow_leaves",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/willow_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/willow_log",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/willow_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/willow_planks",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/willow_planks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/willow_pressure_plate",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/willow_pressure_plate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/willow_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/willow_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/willow_sign",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/willow_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/willow_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/willow_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/willow_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/willow_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/willow_trapdoor",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/willow_trapdoor"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/willow_vine",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/willow_vine"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/willow_wood",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/willow_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/wilted_lily",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/wilted_lily"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/wispjelly",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/wispjelly"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/yellow_maple_leaf_pile",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/yellow_maple_leaf_pile"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/yellow_maple_leaves",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/yellow_maple_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "biomesoplenty:blocks/yellow_maple_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "biomesoplenty:blocks/yellow_maple_sapling"
+			}
 		}
 	]
 }

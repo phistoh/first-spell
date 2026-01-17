@@ -1,0 +1,68 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:gauntlet_arena",
+			"data": {
+				"step": "underground_decoration",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "bosses_of_mass_destruction:gauntlet_arena"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:lich_tower",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "bosses_of_mass_destruction:lich_tower"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:obsidilith_arena",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "bosses_of_mass_destruction:obsidilith_arena"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:void_blossom",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "bosses_of_mass_destruction:void_blossom"
+			}
+		}
+	]
+}

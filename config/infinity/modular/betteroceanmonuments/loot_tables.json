@@ -1,11 +1,11 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "betteroceanmonuments:chests/upper_side_chamber",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "betteroceanmonuments:chests/upper_side_chamber"
+			}
 		}
 	]
 }

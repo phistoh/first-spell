@@ -2,6 +2,46 @@
 	"elements": [
 		{
 			"weight": 1.0,
+			"key": "kubejs:amplifying_poison"
+		},
+		{
+			"weight": 1.0,
+			"key": "kubejs:arcane_infused_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "kubejs:atrophic_poison"
+		},
+		{
+			"weight": 1.0,
+			"key": "kubejs:blazing_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "kubejs:bottled_undead_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "kubejs:copper_knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "kubejs:cosmic_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "kubejs:crackling_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "kubejs:crimson_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "kubejs:crippling_poison"
+		},
+		{
+			"weight": 1.0,
 			"key": "kubejs:deadly_poison"
 		},
 		{
@@ -10,7 +50,63 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "kubejs:diamond_shears"
+		},
+		{
+			"weight": 1.0,
+			"key": "kubejs:drained_ancient_tome"
+		},
+		{
+			"weight": 1.0,
+			"key": "kubejs:echoing_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "kubejs:freezing_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "kubejs:immaculate_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "kubejs:infinity_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "kubejs:infinity_key_charged"
+		},
+		{
+			"weight": 1.0,
+			"key": "kubejs:instant_poison"
+		},
+		{
+			"weight": 1.0,
+			"key": "kubejs:leeching_poison"
+		},
+		{
+			"weight": 1.0,
+			"key": "kubejs:mystical_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "kubejs:numbing_poison"
+		},
+		{
+			"weight": 1.0,
 			"key": "kubejs:potion_of_unlearning"
+		},
+		{
+			"weight": 1.0,
+			"key": "kubejs:unfathomable_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "kubejs:warden_knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "kubejs:wild_soul"
 		}
 	]
 }

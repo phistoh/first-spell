@@ -1,308 +1,308 @@
 {
 	"elements": [
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": true
-			},
 			"weight": 1.0,
-			"key": "friendsandfoes:acacia_beehive"
+			"key": "friendsandfoes:acacia_beehive",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": true
-			},
 			"weight": 1.0,
-			"key": "friendsandfoes:bamboo_beehive"
+			"key": "friendsandfoes:bamboo_beehive",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": true
-			},
 			"weight": 1.0,
-			"key": "friendsandfoes:birch_beehive"
+			"key": "friendsandfoes:birch_beehive",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "friendsandfoes:buttercup",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "friendsandfoes:buttercup"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "friendsandfoes:cherry_beehive",
 			"data": {
-				"top": true,
+				"float": true,
 				"laggy": true,
-				"float": true,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "friendsandfoes:cherry_beehive"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "friendsandfoes:copper_button",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "friendsandfoes:copper_button"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "friendsandfoes:crab_egg",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "friendsandfoes:crab_egg"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "friendsandfoes:crimson_beehive",
 			"data": {
-				"top": true,
+				"float": true,
 				"laggy": true,
-				"float": true,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "friendsandfoes:crimson_beehive"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "friendsandfoes:dark_oak_beehive",
 			"data": {
-				"top": true,
+				"float": true,
 				"laggy": true,
-				"float": true,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "friendsandfoes:dark_oak_beehive"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "friendsandfoes:exposed_copper_button",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "friendsandfoes:exposed_copper_button"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "friendsandfoes:exposed_lightning_rod",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "friendsandfoes:exposed_lightning_rod"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "friendsandfoes:jungle_beehive",
 			"data": {
-				"top": true,
+				"float": true,
 				"laggy": true,
-				"float": true,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "friendsandfoes:jungle_beehive"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "friendsandfoes:mangrove_beehive",
 			"data": {
-				"top": true,
+				"float": true,
 				"laggy": true,
-				"float": true,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "friendsandfoes:mangrove_beehive"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "friendsandfoes:oxidized_copper_button",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "friendsandfoes:oxidized_copper_button"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "friendsandfoes:oxidized_lightning_rod",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "friendsandfoes:oxidized_lightning_rod"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "friendsandfoes:potted_buttercup"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "friendsandfoes:potted_buttercup",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "friendsandfoes:spruce_beehive",
+			"data": {
+				"float": true,
 				"laggy": true,
-				"float": true,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "friendsandfoes:spruce_beehive"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "friendsandfoes:warped_beehive",
 			"data": {
-				"top": true,
+				"float": true,
 				"laggy": true,
-				"float": true,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "friendsandfoes:warped_beehive"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "friendsandfoes:waxed_copper_button",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "friendsandfoes:waxed_copper_button"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "friendsandfoes:waxed_exposed_copper_button",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "friendsandfoes:waxed_exposed_copper_button"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "friendsandfoes:waxed_exposed_lightning_rod",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "friendsandfoes:waxed_exposed_lightning_rod"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "friendsandfoes:waxed_lightning_rod",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "friendsandfoes:waxed_lightning_rod"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "friendsandfoes:waxed_oxidized_copper_button",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "friendsandfoes:waxed_oxidized_copper_button"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "friendsandfoes:waxed_oxidized_lightning_rod",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "friendsandfoes:waxed_oxidized_lightning_rod"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "friendsandfoes:waxed_weathered_copper_button",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "friendsandfoes:waxed_weathered_copper_button"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "friendsandfoes:waxed_weathered_lightning_rod",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "friendsandfoes:waxed_weathered_lightning_rod"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "friendsandfoes:weathered_copper_button",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "friendsandfoes:weathered_copper_button"
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "friendsandfoes:weathered_lightning_rod"
+			"key": "friendsandfoes:weathered_lightning_rod",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		}
 	]
 }

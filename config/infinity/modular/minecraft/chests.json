@@ -10,6 +10,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "minecraft:copper_chest"
+		},
+		{
+			"weight": 1.0,
 			"key": "minecraft:crafter"
 		},
 		{
@@ -22,11 +26,39 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "minecraft:exposed_copper_chest"
+		},
+		{
+			"weight": 1.0,
 			"key": "minecraft:hopper"
 		},
 		{
 			"weight": 1.0,
+			"key": "minecraft:oxidized_copper_chest"
+		},
+		{
+			"weight": 1.0,
 			"key": "minecraft:trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:waxed_copper_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:waxed_exposed_copper_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:waxed_oxidized_copper_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:waxed_weathered_copper_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:weathered_copper_chest"
 		}
 	]
 }

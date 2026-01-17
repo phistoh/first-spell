@@ -1,81 +1,81 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:blazefish",
 			"data": {
 				"Category": "water_ambient"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:blazefish"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:bonefish",
 			"data": {
 				"Category": "water_ambient"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:bonefish"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:eyeball_fish",
 			"data": {
 				"Category": "water_ambient"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:eyeball_fish"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:fortressgrouper",
 			"data": {
 				"Category": "water_ambient"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:fortressgrouper"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:glowdine",
 			"data": {
 				"Category": "water_ambient"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:glowdine"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:lava_pufferfish",
 			"data": {
 				"Category": "water_ambient"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:lava_pufferfish"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:magmacubefish",
 			"data": {
 				"Category": "water_ambient"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:magmacubefish"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:obsidianfish",
 			"data": {
 				"Category": "water_ambient"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:obsidianfish"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:searing_cod",
 			"data": {
 				"Category": "water_ambient"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:searing_cod"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:soulsucker",
 			"data": {
 				"Category": "water_ambient"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:soulsucker"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:wither_bonefish",
 			"data": {
 				"Category": "water_ambient"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:wither_bonefish"
+			}
 		}
 	]
 }

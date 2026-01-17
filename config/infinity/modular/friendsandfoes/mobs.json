@@ -1,60 +1,60 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "friendsandfoes:crab",
 			"data": {
 				"Category": "creature"
-			},
-			"weight": 1.0,
-			"key": "friendsandfoes:crab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "friendsandfoes:glare",
 			"data": {
 				"Category": "glares"
-			},
-			"weight": 1.0,
-			"key": "friendsandfoes:glare"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "friendsandfoes:iceologer",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "friendsandfoes:iceologer"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "friendsandfoes:illusioner",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "friendsandfoes:illusioner"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "friendsandfoes:mauler",
 			"data": {
 				"Category": "creature"
-			},
-			"weight": 1.0,
-			"key": "friendsandfoes:mauler"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "friendsandfoes:moobloom",
 			"data": {
 				"Category": "creature"
-			},
-			"weight": 1.0,
-			"key": "friendsandfoes:moobloom"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "friendsandfoes:rascal",
 			"data": {
 				"Category": "rascals"
-			},
-			"weight": 1.0,
-			"key": "friendsandfoes:rascal"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "friendsandfoes:wildfire",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "friendsandfoes:wildfire"
+			}
 		}
 	]
 }

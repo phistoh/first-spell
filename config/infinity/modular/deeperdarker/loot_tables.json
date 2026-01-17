@@ -1,1047 +1,1047 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/ancient_vase",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/ancient_vase"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/bloom_button",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/bloom_button"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/bloom_door",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/bloom_door"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/bloom_fence",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/bloom_fence"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/bloom_fence_gate",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/bloom_fence_gate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/bloom_hanging_sign",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/bloom_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/bloom_planks",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/bloom_planks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/bloom_pressure_plate",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/bloom_pressure_plate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/bloom_sign",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/bloom_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/bloom_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/bloom_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/bloom_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/bloom_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/bloom_trapdoor",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/bloom_trapdoor"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/blooming_moss_block",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/blooming_moss_block"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/blooming_sculk_stone",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/blooming_sculk_stone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/blooming_stem",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/blooming_stem"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/chiseled_gloomslate",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/chiseled_gloomslate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/chiseled_sculk_stone",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/chiseled_sculk_stone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/cobbled_gloomslate",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/cobbled_gloomslate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/cobbled_gloomslate_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/cobbled_gloomslate_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/cobbled_gloomslate_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/cobbled_gloomslate_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/cobbled_gloomslate_wall",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/cobbled_gloomslate_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/cobbled_sculk_stone",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/cobbled_sculk_stone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/cobbled_sculk_stone_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/cobbled_sculk_stone_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/cobbled_sculk_stone_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/cobbled_sculk_stone_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/cobbled_sculk_stone_wall",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/cobbled_sculk_stone_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/crystallized_amber",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/crystallized_amber"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/cut_gloomslate",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/cut_gloomslate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/cut_gloomslate_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/cut_gloomslate_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/cut_gloomslate_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/cut_gloomslate_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/cut_gloomslate_wall",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/cut_gloomslate_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/cut_sculk_stone",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/cut_sculk_stone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/cut_sculk_stone_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/cut_sculk_stone_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/cut_sculk_stone_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/cut_sculk_stone_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/cut_sculk_stone_wall",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/cut_sculk_stone_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/echo_button",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/echo_button"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/echo_door",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/echo_door"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/echo_fence",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/echo_fence"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/echo_fence_gate",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/echo_fence_gate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/echo_hanging_sign",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/echo_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/echo_leaves",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/echo_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/echo_log",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/echo_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/echo_planks",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/echo_planks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/echo_pressure_plate",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/echo_pressure_plate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/echo_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/echo_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/echo_sign",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/echo_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/echo_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/echo_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/echo_soil",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/echo_soil"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/echo_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/echo_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/echo_trapdoor",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/echo_trapdoor"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/echo_wood",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/echo_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/gloomslate",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/gloomslate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/gloomslate_brick_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/gloomslate_brick_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/gloomslate_brick_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/gloomslate_brick_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/gloomslate_brick_wall",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/gloomslate_brick_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/gloomslate_bricks",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/gloomslate_bricks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/gloomslate_coal_ore",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/gloomslate_coal_ore"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/gloomslate_copper_ore",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/gloomslate_copper_ore"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/gloomslate_diamond_ore",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/gloomslate_diamond_ore"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/gloomslate_emerald_ore",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/gloomslate_emerald_ore"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/gloomslate_gold_ore",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/gloomslate_gold_ore"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/gloomslate_iron_ore",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/gloomslate_iron_ore"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/gloomslate_lapis_ore",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/gloomslate_lapis_ore"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/gloomslate_redstone_ore",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/gloomslate_redstone_ore"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/gloomslate_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/gloomslate_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/gloomslate_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/gloomslate_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/gloomslate_tile_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/gloomslate_tile_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/gloomslate_tile_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/gloomslate_tile_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/gloomslate_tile_wall",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/gloomslate_tile_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/gloomslate_tiles",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/gloomslate_tiles"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/gloomslate_wall",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/gloomslate_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/gloomy_cactus",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/gloomy_cactus"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/gloomy_geyser",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/gloomy_geyser"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/gloomy_grass",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/gloomy_grass"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/gloomy_sculk",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/gloomy_sculk"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/glowing_flowers",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/glowing_flowers"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/glowing_grass",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/glowing_grass"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/glowing_roots",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/glowing_roots"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/glowing_roots_plant",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/glowing_roots_plant"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/glowing_vines_plant",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/glowing_vines_plant"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/ice_lily",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/ice_lily"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/infested_sculk",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/infested_sculk"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/lily_flower",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/lily_flower"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/polished_gloomslate",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/polished_gloomslate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/polished_gloomslate_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/polished_gloomslate_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/polished_gloomslate_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/polished_gloomslate_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/polished_gloomslate_wall",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/polished_gloomslate_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/polished_sculk_stone",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/polished_sculk_stone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/polished_sculk_stone_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/polished_sculk_stone_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/polished_sculk_stone_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/polished_sculk_stone_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/polished_sculk_stone_wall",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/polished_sculk_stone_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/potted_blooming_stem",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/potted_blooming_stem"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/potted_echo_sapling",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/potted_echo_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/sculk_gleam",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/sculk_gleam"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/sculk_grime",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/sculk_grime"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/sculk_grime_brick_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/sculk_grime_brick_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/sculk_grime_brick_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/sculk_grime_brick_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/sculk_grime_brick_wall",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/sculk_grime_brick_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/sculk_grime_bricks",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/sculk_grime_bricks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/sculk_jaw",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/sculk_jaw"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/sculk_stone",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/sculk_stone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/sculk_stone_brick_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/sculk_stone_brick_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/sculk_stone_brick_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/sculk_stone_brick_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/sculk_stone_brick_wall",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/sculk_stone_brick_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/sculk_stone_bricks",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/sculk_stone_bricks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/sculk_stone_coal_ore",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/sculk_stone_coal_ore"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/sculk_stone_copper_ore",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/sculk_stone_copper_ore"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/sculk_stone_diamond_ore",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/sculk_stone_diamond_ore"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/sculk_stone_emerald_ore",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/sculk_stone_emerald_ore"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/sculk_stone_gold_ore",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/sculk_stone_gold_ore"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/sculk_stone_iron_ore",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/sculk_stone_iron_ore"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/sculk_stone_lapis_ore",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/sculk_stone_lapis_ore"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/sculk_stone_redstone_ore",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/sculk_stone_redstone_ore"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/sculk_stone_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/sculk_stone_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/sculk_stone_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/sculk_stone_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/sculk_stone_tile_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/sculk_stone_tile_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/sculk_stone_tile_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/sculk_stone_tile_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/sculk_stone_tile_wall",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/sculk_stone_tile_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/sculk_stone_tiles",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/sculk_stone_tiles"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/sculk_stone_wall",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/sculk_stone_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/sculk_tendrils",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/sculk_tendrils"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/sculk_tendrils_plant",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/sculk_tendrils_plant"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/sculk_vines",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/sculk_vines"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/sculk_vines_plant",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/sculk_vines_plant"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/smooth_gloomslate",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/smooth_gloomslate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/smooth_gloomslate_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/smooth_gloomslate_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/smooth_gloomslate_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/smooth_gloomslate_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/smooth_gloomslate_wall",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/smooth_gloomslate_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/smooth_sculk_stone",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/smooth_sculk_stone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/smooth_sculk_stone_slab",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/smooth_sculk_stone_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/smooth_sculk_stone_stairs",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/smooth_sculk_stone_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/smooth_sculk_stone_wall",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/smooth_sculk_stone_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/soundproof_glass",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/soundproof_glass"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/stripped_blooming_stem",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/stripped_blooming_stem"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/stripped_echo_log",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/stripped_echo_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blocks/stripped_echo_wood",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blocks/stripped_echo_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:chests/ancient_temple_apex",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:chests/ancient_temple_apex"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:chests/ancient_temple_basement",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:chests/ancient_temple_basement"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:chests/ancient_temple_fountain",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:chests/ancient_temple_fountain"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:chests/ancient_temple_secret",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:chests/ancient_temple_secret"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:chests/ancient_temple_storage",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:chests/ancient_temple_storage"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:chests/crystallized_amber",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:chests/crystallized_amber"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:entities/angler_fish",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:entities/angler_fish"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:entities/sculk_centipede",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:entities/sculk_centipede"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:entities/sculk_leech",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:entities/sculk_leech"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:entities/sculk_snapper",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:entities/sculk_snapper"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:entities/shattered",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:entities/shattered"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:entities/shriek_worm",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:entities/shriek_worm"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:entities/sludge",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:entities/sludge"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:entities/stalker",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:entities/stalker"
+			}
 		}
 	]
 }

@@ -1,249 +1,263 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "luminous_beasts:arid_yeti",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "luminous_beasts:baby_phoenix"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "luminous_beasts:baby_phoenix",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "luminous_beasts:bone_stalker"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "luminous_beasts:baby_wind_phoenix",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "luminous_beasts:crimson_spitter"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "luminous_beasts:basalt_executioner",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "luminous_beasts:ember"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "luminous_beasts:bogged_bone_stalker",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "luminous_beasts:gilded_ent"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "luminous_beasts:bogged_shadow",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "luminous_beasts:hermit_king"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "luminous_beasts:bone_stalker",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "luminous_beasts:horseless_headsman"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "luminous_beasts:cherry_tree_ent",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "luminous_beasts:mummy"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "luminous_beasts:coral_sea_viper",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "luminous_beasts:phoenixbird"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "luminous_beasts:crimson_mushlin_king",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "luminous_beasts:piglin_executioner"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "luminous_beasts:ember",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "luminous_beasts:pumpkin_minion"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "luminous_beasts:frigid_gator",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "luminous_beasts:rare_baby_phoenix"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "luminous_beasts:gilded_ent",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "luminous_beasts:rare_bone_stalker"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "luminous_beasts:golden_hermit_king",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "luminous_beasts:rare_crimson_spitter"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "luminous_beasts:hermit_king",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "luminous_beasts:rare_executioner"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "luminous_beasts:horseless_headsman",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "luminous_beasts:rare_hermit_king"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "luminous_beasts:mummy",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "luminous_beasts:rare_mummy"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "luminous_beasts:phoenix",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "luminous_beasts:rare_phoenix_bird"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "luminous_beasts:piglin_executioner",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "luminous_beasts:rare_sea_viper"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "luminous_beasts:pumpkin_minion",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "luminous_beasts:rare_stalker"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "luminous_beasts:red_mummy",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "luminous_beasts:rare_tree_ent"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "luminous_beasts:sand_crab",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "luminous_beasts:rare_vile_gator"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "luminous_beasts:scarecrow_minion",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "luminous_beasts:rare_yeti"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "luminous_beasts:sea_viper",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "luminous_beasts:sand_crab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "luminous_beasts:shadow",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "luminous_beasts:scarecrow_minion"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "luminous_beasts:soul_ember",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "luminous_beasts:sea_viper"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "luminous_beasts:soul_furnace",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "luminous_beasts:soul_ember"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "luminous_beasts:tamed_shadow",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "luminous_beasts:soul_furnace"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "luminous_beasts:the_furnace",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "luminous_beasts:stalker"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "luminous_beasts:the_scarecrow",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "luminous_beasts:tamed_stalker"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "luminous_beasts:tree_ent",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "luminous_beasts:the_furnace"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "luminous_beasts:vile_gator",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "luminous_beasts:the_scarecrow"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "luminous_beasts:warped_mushlin_king",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "luminous_beasts:tree_ent"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "luminous_beasts:wind_phoenix",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "luminous_beasts:vile_gator"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "luminous_beasts:witch_doctor",
 			"data": {
 				"Category": "monster"
-			},
+			}
+		},
+		{
 			"weight": 1.0,
-			"key": "luminous_beasts:yeti"
+			"key": "luminous_beasts:woodland_witch_doctor",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:yeti",
+			"data": {
+				"Category": "monster"
+			}
 		}
 	]
 }

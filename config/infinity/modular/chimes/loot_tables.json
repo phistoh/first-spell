@@ -1,46 +1,46 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "chimes:blocks/amethyst_chimes",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "chimes:blocks/amethyst_chimes"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "chimes:blocks/bamboo_chimes",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "chimes:blocks/bamboo_chimes"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "chimes:blocks/carved_bamboo_chimes",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "chimes:blocks/carved_bamboo_chimes"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "chimes:blocks/copper_chimes",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "chimes:blocks/copper_chimes"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "chimes:blocks/glass_bells",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "chimes:blocks/glass_bells"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "chimes:blocks/iron_chimes",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "chimes:blocks/iron_chimes"
+			}
 		}
 	]
 }

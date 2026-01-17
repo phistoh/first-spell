@@ -1,13 +1,13 @@
 {
 	"elements": [
 		{
-			"data": {
-				"Category": "beneficial",
-				"Color": 16046361,
-				"Instant": false
-			},
 			"weight": 1.0,
-			"key": "netherdepthsupgrade:lava_vision"
+			"key": "netherdepthsupgrade:lava_vision",
+			"data": {
+				"Instant": false,
+				"Color": 16046361,
+				"Category": "beneficial"
+			}
 		}
 	]
 }

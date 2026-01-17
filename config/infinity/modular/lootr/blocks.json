@@ -1,64 +1,64 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "lootr:lootr_barrel",
 			"data": {
-				"top": true,
-				"laggy": true,
 				"float": true,
+				"laggy": true,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "lootr:lootr_barrel"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "lootr:lootr_chest",
 			"data": {
-				"top": true,
-				"laggy": true,
 				"float": true,
+				"laggy": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "lootr:lootr_chest"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "lootr:lootr_inventory",
 			"data": {
-				"top": true,
-				"laggy": true,
 				"float": true,
+				"laggy": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "lootr:lootr_inventory"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "lootr:lootr_shulker",
 			"data": {
-				"top": true,
-				"laggy": true,
 				"float": true,
+				"laggy": true,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "lootr:lootr_shulker"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "lootr:lootr_trapped_chest",
 			"data": {
-				"top": true,
-				"laggy": true,
 				"float": true,
+				"laggy": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "lootr:lootr_trapped_chest"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "lootr:trophy",
 			"data": {
-				"top": true,
+				"float": true,
 				"laggy": false,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "lootr:trophy"
+			}
 		}
 	]
 }

@@ -1,14 +1,14 @@
 {
 	"elements": [
 		{
-			"data": {
-				"top": false,
-				"laggy": true,
-				"float": false,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "fastpaintings:painting"
+			"key": "fastpaintings:painting",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
 		}
 	]
 }

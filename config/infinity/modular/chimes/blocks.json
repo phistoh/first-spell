@@ -1,64 +1,64 @@
 {
 	"elements": [
 		{
-			"data": {
-				"top": false,
-				"laggy": true,
-				"float": false,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "chimes:amethyst_chimes"
+			"key": "chimes:amethyst_chimes",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": false,
-				"laggy": true,
-				"float": false,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "chimes:bamboo_chimes"
+			"key": "chimes:bamboo_chimes",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": false,
-				"laggy": true,
-				"float": false,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "chimes:carved_bamboo_chimes"
+			"key": "chimes:carved_bamboo_chimes",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": false,
-				"laggy": true,
-				"float": false,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "chimes:copper_chimes"
+			"key": "chimes:copper_chimes",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": false,
-				"laggy": true,
-				"float": false,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "chimes:glass_bells"
+			"key": "chimes:glass_bells",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": false,
-				"laggy": true,
-				"float": false,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "chimes:iron_chimes"
+			"key": "chimes:iron_chimes",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
 		}
 	]
 }

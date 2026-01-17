@@ -2,7 +2,19 @@
 	"elements": [
 		{
 			"weight": 1.0,
+			"key": "luminous_beasts:arid_yeti_spawn_egg"
+		},
+		{
+			"weight": 1.0,
 			"key": "luminous_beasts:baby_phoenix_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:baby_wind_phoenix_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:basalt_executioner_spawn_egg"
 		},
 		{
 			"weight": 1.0,
@@ -11,6 +23,14 @@
 		{
 			"weight": 1.0,
 			"key": "luminous_beasts:beast_pit_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:bogged_bone_stalker_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:bogged_shadow_spawn_egg"
 		},
 		{
 			"weight": 1.0,
@@ -30,11 +50,19 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "luminous_beasts:crimson_spitter_disc"
+			"key": "luminous_beasts:cherry_tree_ent_spawn_egg"
 		},
 		{
 			"weight": 1.0,
-			"key": "luminous_beasts:crimson_spitter_spawn_egg"
+			"key": "luminous_beasts:coral_sea_viper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:crimson_mushlin_king_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:crimson_spitter_disc"
 		},
 		{
 			"weight": 1.0,
@@ -62,6 +90,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "luminous_beasts:firebugs_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:frigid_gator_spawn_egg"
+		},
+		{
+			"weight": 1.0,
 			"key": "luminous_beasts:furnace_disc"
 		},
 		{
@@ -79,6 +115,10 @@
 		{
 			"weight": 1.0,
 			"key": "luminous_beasts:gilded_ent_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:golden_hermit_king_spawn_egg"
 		},
 		{
 			"weight": 1.0,
@@ -107,6 +147,10 @@
 		{
 			"weight": 1.0,
 			"key": "luminous_beasts:horseless_headsman_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:jungle_pendant"
 		},
 		{
 			"weight": 1.0,
@@ -146,11 +190,11 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "luminous_beasts:phoenix_trophy"
+			"key": "luminous_beasts:phoenix_spawn_egg"
 		},
 		{
 			"weight": 1.0,
-			"key": "luminous_beasts:phoenixbird_spawn_egg"
+			"key": "luminous_beasts:phoenix_trophy"
 		},
 		{
 			"weight": 1.0,
@@ -166,23 +210,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "luminous_beasts:rare_baby_phoenix_spawn_egg"
-		},
-		{
-			"weight": 1.0,
-			"key": "luminous_beasts:rare_bone_stalker_spawn_egg"
-		},
-		{
-			"weight": 1.0,
 			"key": "luminous_beasts:rare_bone_stalker_trophy"
-		},
-		{
-			"weight": 1.0,
-			"key": "luminous_beasts:rare_crimson_spitter_spawn_egg"
-		},
-		{
-			"weight": 1.0,
-			"key": "luminous_beasts:rare_executioner_spawn_egg"
 		},
 		{
 			"weight": 1.0,
@@ -190,15 +218,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "luminous_beasts:rare_hermit_king_spawn_egg"
-		},
-		{
-			"weight": 1.0,
 			"key": "luminous_beasts:rare_hermit_king_trophy"
-		},
-		{
-			"weight": 1.0,
-			"key": "luminous_beasts:rare_mummy_spawn_egg"
 		},
 		{
 			"weight": 1.0,
@@ -206,15 +226,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "luminous_beasts:rare_phoenix_bird_spawn_egg"
-		},
-		{
-			"weight": 1.0,
 			"key": "luminous_beasts:rare_phoenix_trophy"
-		},
-		{
-			"weight": 1.0,
-			"key": "luminous_beasts:rare_sea_viper_spawn_egg"
 		},
 		{
 			"weight": 1.0,
@@ -222,19 +234,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "luminous_beasts:rare_stalker_spawn_egg"
-		},
-		{
-			"weight": 1.0,
-			"key": "luminous_beasts:rare_tree_ent_spawn_egg"
-		},
-		{
-			"weight": 1.0,
 			"key": "luminous_beasts:rare_tree_ent_trophy"
-		},
-		{
-			"weight": 1.0,
-			"key": "luminous_beasts:rare_vile_gator_spawn_egg"
 		},
 		{
 			"weight": 1.0,
@@ -250,11 +250,15 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "luminous_beasts:rare_yeti_spawn_egg"
+			"key": "luminous_beasts:rare_witch_doctor_trophy"
 		},
 		{
 			"weight": 1.0,
 			"key": "luminous_beasts:rare_yeti_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:red_mummy_spawn_egg"
 		},
 		{
 			"weight": 1.0,
@@ -282,6 +286,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "luminous_beasts:shadow_spawn_egg"
+		},
+		{
+			"weight": 1.0,
 			"key": "luminous_beasts:shellmet_helmet"
 		},
 		{
@@ -306,7 +314,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "luminous_beasts:stalker_spawn_egg"
+			"key": "luminous_beasts:tamed_shadow_spawn_egg"
 		},
 		{
 			"weight": 1.0,
@@ -354,6 +362,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "luminous_beasts:warped_mushlin_king_spawn_egg"
+		},
+		{
+			"weight": 1.0,
 			"key": "luminous_beasts:warped_shot"
 		},
 		{
@@ -363,6 +375,22 @@
 		{
 			"weight": 1.0,
 			"key": "luminous_beasts:wind_phoenix_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:wind_phoenix_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:witch_doctor_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:witch_doctor_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_beasts:woodland_witch_doctor_spawn_egg"
 		},
 		{
 			"weight": 1.0,

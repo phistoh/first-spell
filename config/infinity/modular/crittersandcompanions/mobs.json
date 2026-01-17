@@ -1,74 +1,74 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "crittersandcompanions:dragonfly",
 			"data": {
 				"Category": "ambient"
-			},
-			"weight": 1.0,
-			"key": "crittersandcompanions:dragonfly"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "crittersandcompanions:dumbo_octopus",
 			"data": {
 				"Category": "water_ambient"
-			},
-			"weight": 1.0,
-			"key": "crittersandcompanions:dumbo_octopus"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "crittersandcompanions:ferret",
 			"data": {
 				"Category": "creature"
-			},
-			"weight": 1.0,
-			"key": "crittersandcompanions:ferret"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "crittersandcompanions:jumping_spider",
 			"data": {
 				"Category": "creature"
-			},
-			"weight": 1.0,
-			"key": "crittersandcompanions:jumping_spider"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "crittersandcompanions:koi_fish",
 			"data": {
 				"Category": "water_ambient"
-			},
-			"weight": 1.0,
-			"key": "crittersandcompanions:koi_fish"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "crittersandcompanions:leaf_insect",
 			"data": {
 				"Category": "ambient"
-			},
-			"weight": 1.0,
-			"key": "crittersandcompanions:leaf_insect"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "crittersandcompanions:otter",
 			"data": {
 				"Category": "water_creature"
-			},
-			"weight": 1.0,
-			"key": "crittersandcompanions:otter"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "crittersandcompanions:red_panda",
 			"data": {
 				"Category": "creature"
-			},
-			"weight": 1.0,
-			"key": "crittersandcompanions:red_panda"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "crittersandcompanions:sea_bunny",
 			"data": {
 				"Category": "water_ambient"
-			},
-			"weight": 1.0,
-			"key": "crittersandcompanions:sea_bunny"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "crittersandcompanions:shima_enaga",
 			"data": {
 				"Category": "creature"
-			},
-			"weight": 1.0,
-			"key": "crittersandcompanions:shima_enaga"
+			}
 		}
 	]
 }

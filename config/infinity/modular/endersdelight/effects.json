@@ -1,13 +1,13 @@
 {
 	"elements": [
 		{
-			"data": {
-				"Category": "beneficial",
-				"Color": 3124687,
-				"Instant": false
-			},
 			"weight": 1.0,
-			"key": "endersdelight:phasing"
+			"key": "endersdelight:phasing",
+			"data": {
+				"Instant": false,
+				"Color": 3124687,
+				"Category": "beneficial"
+			}
 		}
 	]
 }

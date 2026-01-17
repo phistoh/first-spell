@@ -1,102 +1,102 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "spring_to_life:blocks/bush",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "spring_to_life:blocks/bush"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "spring_to_life:blocks/cactus_flower",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "spring_to_life:blocks/cactus_flower"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "spring_to_life:blocks/firefly_bush",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "spring_to_life:blocks/firefly_bush"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "spring_to_life:blocks/leaf_litter",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "spring_to_life:blocks/leaf_litter"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "spring_to_life:blocks/short_dry_grass",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "spring_to_life:blocks/short_dry_grass"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "spring_to_life:blocks/tall_dry_grass",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "spring_to_life:blocks/tall_dry_grass"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "spring_to_life:blocks/wildflowers",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "spring_to_life:blocks/wildflowers"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "spring_to_life:chests/ruined_portal_lodestone",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "spring_to_life:chests/ruined_portal_lodestone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "spring_to_life:entities/cold_chicken",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "spring_to_life:entities/cold_chicken"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "spring_to_life:entities/cold_cow",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "spring_to_life:entities/cold_cow"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "spring_to_life:entities/cold_pig",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "spring_to_life:entities/cold_pig"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "spring_to_life:entities/warm_chicken",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "spring_to_life:entities/warm_chicken"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "spring_to_life:entities/warm_cow",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "spring_to_life:entities/warm_cow"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "spring_to_life:entities/warm_pig",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "spring_to_life:entities/warm_pig"
+			}
 		}
 	]
 }

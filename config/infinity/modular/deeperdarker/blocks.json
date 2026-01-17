@@ -1,1429 +1,1429 @@
 {
 	"elements": [
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "deeperdarker:ancient_vase"
+			"key": "deeperdarker:ancient_vase",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:bloom_button",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:bloom_button"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:bloom_door",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:bloom_door"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:bloom_fence"
-		},
-		{
-			"data": {
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:bloom_fence_gate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:bloom_fence",
 			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:bloom_fence_gate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:bloom_hanging_sign",
+			"data": {
+				"float": false,
+				"laggy": true,
 				"top": false,
-				"laggy": true,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:bloom_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:bloom_planks",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:bloom_planks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:bloom_pressure_plate",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:bloom_pressure_plate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:bloom_sign",
 			"data": {
-				"top": true,
-				"laggy": true,
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:bloom_sign"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:bloom_slab"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:bloom_stairs"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:bloom_trapdoor"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": true,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:bloom_wall_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:bloom_slab",
 			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:bloom_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:bloom_trapdoor",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:bloom_wall_hanging_sign",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:bloom_wall_sign",
+			"data": {
+				"float": false,
+				"laggy": true,
 				"top": false,
-				"laggy": true,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:bloom_wall_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blooming_moss_block",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blooming_moss_block"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blooming_sculk_stone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:blooming_sculk_stone",
 			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:blooming_stem",
+			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:blooming_stem"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:chiseled_gloomslate",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:chiseled_gloomslate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:chiseled_sculk_stone",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:chiseled_sculk_stone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:cobbled_gloomslate",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:cobbled_gloomslate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:cobbled_gloomslate_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:cobbled_gloomslate_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:cobbled_gloomslate_stairs",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:cobbled_gloomslate_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:cobbled_gloomslate_wall",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:cobbled_gloomslate_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:cobbled_sculk_stone",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:cobbled_sculk_stone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:cobbled_sculk_stone_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:cobbled_sculk_stone_slab"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:cobbled_sculk_stone_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:cobbled_sculk_stone_stairs",
 			"data": {
-				"top": true,
+				"float": true,
 				"laggy": false,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:cobbled_sculk_stone_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:cobbled_sculk_stone_wall",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:crystallized_amber",
+			"data": {
+				"float": true,
 				"laggy": true,
-				"float": true,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:crystallized_amber"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:cut_gloomslate",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:cut_gloomslate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:cut_gloomslate_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:cut_gloomslate_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:cut_gloomslate_stairs",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:cut_gloomslate_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:cut_gloomslate_wall",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:cut_gloomslate_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:cut_sculk_stone",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:cut_sculk_stone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:cut_sculk_stone_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:cut_sculk_stone_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:cut_sculk_stone_stairs",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:cut_sculk_stone_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:cut_sculk_stone_wall",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:cut_sculk_stone_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:echo_button",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:echo_button"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:echo_door",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:echo_door"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:echo_fence"
-		},
-		{
-			"data": {
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:echo_fence_gate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:echo_fence",
 			"data": {
-				"top": false,
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:echo_fence_gate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:echo_hanging_sign",
+			"data": {
+				"float": false,
 				"laggy": true,
-				"float": false,
+				"top": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:echo_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:echo_leaves",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
 				"Properties": {
 					"persistent": "true"
 				},
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:echo_leaves"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:echo_log",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:echo_log"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:echo_planks",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:echo_planks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:echo_pressure_plate",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:echo_pressure_plate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:echo_sapling",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:echo_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:echo_sign",
 			"data": {
-				"top": true,
+				"float": false,
 				"laggy": true,
-				"float": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:echo_sign"
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "deeperdarker:echo_slab"
+			"key": "deeperdarker:echo_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:echo_soil",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:echo_soil"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:echo_stairs",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:echo_stairs"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:echo_trapdoor"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:echo_trapdoor",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:echo_wall_hanging_sign",
+			"data": {
+				"float": true,
 				"laggy": true,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:echo_wall_hanging_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:echo_wall_sign",
 			"data": {
+				"float": false,
+				"laggy": true,
 				"top": false,
-				"laggy": true,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:echo_wall_sign"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:echo_wood",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:echo_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:gloomslate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate_brick_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:gloomslate_brick_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate_brick_stairs",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:gloomslate_brick_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate_brick_wall",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:gloomslate_brick_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate_bricks",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:gloomslate_bricks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate_coal_ore",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:gloomslate_coal_ore"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate_copper_ore",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:gloomslate_copper_ore"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate_diamond_ore",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:gloomslate_diamond_ore"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate_emerald_ore",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:gloomslate_emerald_ore"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate_gold_ore",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:gloomslate_gold_ore"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate_iron_ore",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:gloomslate_iron_ore"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate_lapis_ore",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:gloomslate_lapis_ore"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate_redstone_ore",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
 				"Properties": {
 					"lit": "false"
 				},
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:gloomslate_redstone_ore"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:gloomslate_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate_stairs",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:gloomslate_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate_tile_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:gloomslate_tile_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate_tile_stairs",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:gloomslate_tile_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate_tile_wall",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:gloomslate_tile_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate_tiles",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:gloomslate_tiles"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomslate_wall",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:gloomslate_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomy_cactus",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:gloomy_cactus"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomy_geyser",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:gloomy_geyser"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomy_grass",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:gloomy_grass"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:gloomy_sculk",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:gloomy_sculk"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:glowing_flowers",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:glowing_flowers"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:glowing_grass",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:glowing_grass"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:glowing_roots",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:glowing_roots"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:glowing_roots_plant",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": true,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:glowing_roots_plant"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:glowing_vines",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:glowing_vines"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:glowing_vines_plant",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:glowing_vines_plant"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:ice_lily",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:ice_lily"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:infested_sculk",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:infested_sculk"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:lily_flower",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:lily_flower"
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "deeperdarker:otherside_portal"
+			"key": "deeperdarker:otherside_portal",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:polished_gloomslate",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:polished_gloomslate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:polished_gloomslate_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:polished_gloomslate_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:polished_gloomslate_stairs",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:polished_gloomslate_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:polished_gloomslate_wall",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:polished_gloomslate_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:polished_sculk_stone",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:polished_sculk_stone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:polished_sculk_stone_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:polished_sculk_stone_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:polished_sculk_stone_stairs",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:polished_sculk_stone_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:polished_sculk_stone_wall",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:polished_sculk_stone_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:potted_blooming_stem",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:potted_blooming_stem"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:potted_echo_sapling",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:potted_echo_sapling"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_gleam",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:sculk_gleam"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_grime",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:sculk_grime"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_grime_brick_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:sculk_grime_brick_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_grime_brick_stairs",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:sculk_grime_brick_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_grime_brick_wall",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:sculk_grime_brick_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_grime_bricks",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:sculk_grime_bricks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_jaw",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:sculk_jaw"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:sculk_stone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone_brick_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:sculk_stone_brick_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone_brick_stairs",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:sculk_stone_brick_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone_brick_wall",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:sculk_stone_brick_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone_bricks",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:sculk_stone_bricks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone_coal_ore",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:sculk_stone_coal_ore"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone_copper_ore",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:sculk_stone_copper_ore"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone_diamond_ore",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:sculk_stone_diamond_ore"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone_emerald_ore",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:sculk_stone_emerald_ore"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone_gold_ore",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:sculk_stone_gold_ore"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone_iron_ore",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:sculk_stone_iron_ore"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone_lapis_ore",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:sculk_stone_lapis_ore"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone_redstone_ore",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
 				"Properties": {
 					"lit": "false"
 				},
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:sculk_stone_redstone_ore"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:sculk_stone_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone_stairs",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:sculk_stone_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone_tile_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:sculk_stone_tile_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone_tile_stairs",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:sculk_stone_tile_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone_tile_wall",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:sculk_stone_tile_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone_tiles",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:sculk_stone_tiles"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_stone_wall",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:sculk_stone_wall"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:sculk_tendrils"
-		},
-		{
-			"data": {
 				"top": true,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:sculk_tendrils_plant"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_tendrils",
 			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_tendrils_plant",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_vines",
+			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:sculk_vines"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "deeperdarker:sculk_vines_plant",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:smooth_gloomslate",
+			"data": {
+				"float": true,
 				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:smooth_gloomslate_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:smooth_gloomslate_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:smooth_gloomslate_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:smooth_sculk_stone",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:smooth_sculk_stone_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:smooth_sculk_stone_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:smooth_sculk_stone_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:soundproof_glass",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "deeperdarker:stripped_blooming_stem",
+			"data": {
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:sculk_vines_plant"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:smooth_gloomslate"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:smooth_gloomslate_slab"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:smooth_gloomslate_stairs"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:smooth_gloomslate_wall"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:smooth_sculk_stone"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:smooth_sculk_stone_slab"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:smooth_sculk_stone_stairs"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:smooth_sculk_stone_wall"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:soundproof_glass"
-		},
-		{
-			"data": {
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "deeperdarker:stripped_blooming_stem"
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
 			"weight": 1.0,
-			"key": "deeperdarker:stripped_echo_log"
+			"key": "deeperdarker:stripped_echo_log",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
 			"weight": 1.0,
-			"key": "deeperdarker:stripped_echo_wood"
+			"key": "deeperdarker:stripped_echo_wood",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
 		}
 	]
 }

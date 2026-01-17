@@ -1,87 +1,87 @@
 {
 	"elements": [
 		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "endersdelight:amberveil_mushroom"
+			"key": "endersdelight:amberveil_mushroom",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "endersdelight:chorus_crate",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "endersdelight:chorus_crate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "endersdelight:chorus_pie",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "endersdelight:chorus_pie"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "endersdelight:chorusflame_bush",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "endersdelight:chorusflame_bush"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "endersdelight:endstone_stove",
 			"data": {
-				"top": true,
-				"laggy": true,
 				"float": true,
+				"laggy": true,
 				"Properties": {
 					"lit": "false"
 				},
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "endersdelight:endstone_stove"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "endersdelight:ethereal_saffron_bush"
-		},
-		{
-			"data": {
 				"top": true,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "endersdelight:stuffed_shulker_block"
+				"full": true
+			}
 		},
 		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "endersdelight:voidpepper_bush"
+			"key": "endersdelight:ethereal_saffron_bush",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "endersdelight:stuffed_shulker_block",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "endersdelight:voidpepper_bush",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
 		}
 	]
 }

@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "combat_roll:roll"
+		},
+		{
+			"weight": 1.0,
+			"key": "combat_roll:roll_cooldown_ready"
+		}
+	]
+}

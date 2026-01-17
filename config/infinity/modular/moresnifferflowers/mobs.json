@@ -1,11 +1,11 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:bobling",
 			"data": {
 				"Category": "creature"
-			},
-			"weight": 1.0,
-			"key": "moresnifferflowers:bobling"
+			}
 		}
 	]
 }

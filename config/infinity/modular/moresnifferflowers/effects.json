@@ -1,112 +1,112 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:bland",
 			"data": {
-				"Category": "harmful",
+				"Instant": false,
 				"Color": 8029316,
-				"Instant": false
-			},
-			"weight": 1.0,
-			"key": "moresnifferflowers:bland"
+				"Category": "harmful"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:combo_meal",
 			"data": {
-				"Category": "beneficial",
+				"Instant": false,
 				"Color": 15919578,
-				"Instant": false
-			},
-			"weight": 1.0,
-			"key": "moresnifferflowers:combo_meal"
+				"Category": "beneficial"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:extracted",
 			"data": {
-				"Category": "neutral",
+				"Instant": false,
 				"Color": 14058905,
-				"Instant": false
-			},
-			"weight": 1.0,
-			"key": "moresnifferflowers:extracted"
+				"Category": "neutral"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:glued",
 			"data": {
-				"Category": "harmful",
+				"Instant": false,
 				"Color": 8797331,
-				"Instant": false
-			},
-			"weight": 1.0,
-			"key": "moresnifferflowers:glued"
+				"Category": "harmful"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:gluing_touch",
 			"data": {
-				"Category": "beneficial",
+				"Instant": false,
 				"Color": 14714040,
-				"Instant": false
-			},
-			"weight": 1.0,
-			"key": "moresnifferflowers:gluing_touch"
+				"Category": "beneficial"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:hardened_mouth",
 			"data": {
-				"Category": "beneficial",
+				"Instant": false,
 				"Color": 12937506,
-				"Instant": false
-			},
-			"weight": 1.0,
-			"key": "moresnifferflowers:hardened_mouth"
+				"Category": "beneficial"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:pants_on_fire",
 			"data": {
-				"Category": "harmful",
+				"Instant": false,
 				"Color": 4083092,
-				"Instant": false
-			},
-			"weight": 1.0,
-			"key": "moresnifferflowers:pants_on_fire"
+				"Category": "harmful"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:salty",
 			"data": {
-				"Category": "harmful",
+				"Instant": false,
 				"Color": 13283756,
-				"Instant": false
-			},
-			"weight": 1.0,
-			"key": "moresnifferflowers:salty"
+				"Category": "harmful"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:slippery",
 			"data": {
-				"Category": "harmful",
+				"Instant": false,
 				"Color": 16764160,
-				"Instant": false
-			},
-			"weight": 1.0,
-			"key": "moresnifferflowers:slippery"
+				"Category": "harmful"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:sticky",
 			"data": {
-				"Category": "harmful",
+				"Instant": false,
 				"Color": 10708892,
-				"Instant": false
-			},
-			"weight": 1.0,
-			"key": "moresnifferflowers:sticky"
+				"Category": "harmful"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:untouchable",
 			"data": {
-				"Category": "beneficial",
+				"Instant": false,
 				"Color": 16775774,
-				"Instant": false
-			},
-			"weight": 1.0,
-			"key": "moresnifferflowers:untouchable"
+				"Category": "beneficial"
+			}
 		},
 		{
-			"data": {
-				"Category": "beneficial",
-				"Color": 12953404,
-				"Instant": false
-			},
 			"weight": 1.0,
-			"key": "moresnifferflowers:well_balanced"
+			"key": "moresnifferflowers:well_balanced",
+			"data": {
+				"Instant": false,
+				"Color": 12953404,
+				"Category": "beneficial"
+			}
 		}
 	]
 }

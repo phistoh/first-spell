@@ -1,494 +1,494 @@
 {
 	"elements": [
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:acrobat_skeleton"
+			"key": "realmrpg_skeletons:acrobat_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:arrow_skeleton"
+			"key": "realmrpg_skeletons:arrow_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:basic_skeleton"
+			"key": "realmrpg_skeletons:basic_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:bow_skeleton"
+			"key": "realmrpg_skeletons:bow_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:buried_skeleton"
+			"key": "realmrpg_skeletons:buried_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:burnt_skeleton"
+			"key": "realmrpg_skeletons:burnt_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:cactus_skeleton"
+			"key": "realmrpg_skeletons:cactus_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:chorus_skeleton"
+			"key": "realmrpg_skeletons:chorus_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:chorus_tangled_skeleton"
+			"key": "realmrpg_skeletons:chorus_tangled_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:common_skeleton"
+			"key": "realmrpg_skeletons:common_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:corrupted_skeleton"
+			"key": "realmrpg_skeletons:corrupted_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:crimson_tangled_skeleton"
+			"key": "realmrpg_skeletons:crimson_tangled_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:crystal_skeleton"
+			"key": "realmrpg_skeletons:crystal_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:devastated_skeleton"
+			"key": "realmrpg_skeletons:devastated_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:dragon_burnt_skeleton"
+			"key": "realmrpg_skeletons:dragon_burnt_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:dripstone_skeleton"
+			"key": "realmrpg_skeletons:dripstone_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:duelist_skeleton"
+			"key": "realmrpg_skeletons:duelist_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:dungeon_crawler_skeleton"
+			"key": "realmrpg_skeletons:dungeon_crawler_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:dusty_skeleton"
+			"key": "realmrpg_skeletons:dusty_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:explorer_skeleton"
+			"key": "realmrpg_skeletons:explorer_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:frozen_waterdrop_skeleton"
+			"key": "realmrpg_skeletons:frozen_waterdrop_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:fungus_gatherer_skeleton"
+			"key": "realmrpg_skeletons:fungus_gatherer_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:headache_skeleton"
+			"key": "realmrpg_skeletons:headache_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:headless_skeleton"
+			"key": "realmrpg_skeletons:headless_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:hunted_skeleton"
+			"key": "realmrpg_skeletons:hunted_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:lucky_skeleton"
+			"key": "realmrpg_skeletons:lucky_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:melted_skeleton"
+			"key": "realmrpg_skeletons:melted_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:mossy_skeleton"
+			"key": "realmrpg_skeletons:mossy_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:mushroomer_skeleton"
+			"key": "realmrpg_skeletons:mushroomer_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:neutralized_skeleton"
+			"key": "realmrpg_skeletons:neutralized_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:pierced_skeleton"
+			"key": "realmrpg_skeletons:pierced_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:powder_snow_skeleton"
+			"key": "realmrpg_skeletons:powder_snow_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:quicksand_skeleton"
+			"key": "realmrpg_skeletons:quicksand_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:rookie_skeleton"
+			"key": "realmrpg_skeletons:rookie_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:shot_skeleton"
+			"key": "realmrpg_skeletons:shot_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:shroom_skeleton"
+			"key": "realmrpg_skeletons:shroom_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:skeleton_from_the_sky"
+			"key": "realmrpg_skeletons:skeleton_from_the_sky",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:slain_skeleton"
+			"key": "realmrpg_skeletons:slain_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:snow_skeleton"
+			"key": "realmrpg_skeletons:snow_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:spider_victim_skeleton"
+			"key": "realmrpg_skeletons:spider_victim_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:stalactite_skeleton"
+			"key": "realmrpg_skeletons:stalactite_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:swimmer_skeleton"
+			"key": "realmrpg_skeletons:swimmer_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:thief_skeleton"
+			"key": "realmrpg_skeletons:thief_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:trident_skeleton"
+			"key": "realmrpg_skeletons:trident_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:unsaved_skeleton"
+			"key": "realmrpg_skeletons:unsaved_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:vines_tangled_skeleton"
+			"key": "realmrpg_skeletons:vines_tangled_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:waterdrop_skeleton"
+			"key": "realmrpg_skeletons:waterdrop_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:webbed_skeleton"
+			"key": "realmrpg_skeletons:webbed_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "realmrpg_skeletons:winter_skeleton"
+			"key": "realmrpg_skeletons:winter_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		}
 	]
 }

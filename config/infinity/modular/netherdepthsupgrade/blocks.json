@@ -1,154 +1,154 @@
 {
 	"elements": [
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "netherdepthsupgrade:crimson_kelp"
+			"key": "netherdepthsupgrade:crimson_kelp",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:crimson_kelp_block",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:crimson_kelp_block"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:crimson_kelp_carpet_block",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:crimson_kelp_carpet_block"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:crimson_kelp_plant"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:crimson_kelp_plant",
 			"data": {
-				"top": true,
+				"float": false,
 				"laggy": false,
-				"float": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:crimson_seagrass"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:crimson_seagrass",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:lava_glass",
+			"data": {
+				"float": true,
 				"laggy": true,
-				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:lava_glass"
-		},
-		{
-			"data": {
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:lava_sponge"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:lava_sponge",
 			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:tall_crimson_seagrass",
+			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:tall_crimson_seagrass"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:tall_warped_seagrass",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:tall_warped_seagrass"
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "netherdepthsupgrade:warped_kelp"
+			"key": "netherdepthsupgrade:warped_kelp",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:warped_kelp_block",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:warped_kelp_block"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:warped_kelp_carpet_block",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:warped_kelp_carpet_block"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:warped_kelp_plant",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:warped_kelp_plant"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:warped_seagrass",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:warped_seagrass"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:wet_lava_sponge",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:wet_lava_sponge"
+			}
 		}
 	]
 }

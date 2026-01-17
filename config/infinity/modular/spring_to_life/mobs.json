@@ -1,46 +1,46 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "spring_to_life:cold_chicken",
 			"data": {
 				"Category": "creature"
-			},
-			"weight": 1.0,
-			"key": "spring_to_life:cold_chicken"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "spring_to_life:cold_cow",
 			"data": {
 				"Category": "creature"
-			},
-			"weight": 1.0,
-			"key": "spring_to_life:cold_cow"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "spring_to_life:cold_pig",
 			"data": {
 				"Category": "creature"
-			},
-			"weight": 1.0,
-			"key": "spring_to_life:cold_pig"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "spring_to_life:warm_chicken",
 			"data": {
 				"Category": "creature"
-			},
-			"weight": 1.0,
-			"key": "spring_to_life:warm_chicken"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "spring_to_life:warm_cow",
 			"data": {
 				"Category": "creature"
-			},
-			"weight": 1.0,
-			"key": "spring_to_life:warm_cow"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "spring_to_life:warm_pig",
 			"data": {
 				"Category": "creature"
-			},
-			"weight": 1.0,
-			"key": "spring_to_life:warm_pig"
+			}
 		}
 	]
 }

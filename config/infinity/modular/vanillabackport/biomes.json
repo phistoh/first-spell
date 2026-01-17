@@ -1,11 +1,11 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:pale_garden",
 			"data": {
 				"Color": 8883574
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:pale_garden"
+			}
 		}
 	]
 }

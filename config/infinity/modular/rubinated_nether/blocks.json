@@ -1,712 +1,712 @@
 {
 	"elements": [
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
 			"weight": 1.0,
-			"key": "rubinated_nether:bleeding_obsidian"
+			"key": "rubinated_nether:bleeding_obsidian",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
 			"weight": 1.0,
-			"key": "rubinated_nether:bronze_block"
+			"key": "rubinated_nether:bronze_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:bronze_bulb",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
 				"Properties": {
 					"lit": "false"
 				},
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:bronze_bulb"
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
 			"weight": 1.0,
-			"key": "rubinated_nether:chiseled_shrine_stone_bricks"
+			"key": "rubinated_nether:chiseled_shrine_stone_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
 			"weight": 1.0,
-			"key": "rubinated_nether:corroded_bronze_block"
+			"key": "rubinated_nether:corroded_bronze_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:corroded_bronze_bulb",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
 				"Properties": {
 					"lit": "false"
 				},
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:corroded_bronze_bulb"
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
 			"weight": 1.0,
-			"key": "rubinated_nether:corroded_cut_bronze_bricks"
+			"key": "rubinated_nether:corroded_cut_bronze_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:corroded_cut_bronze_bricks_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:corroded_cut_bronze_bricks_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:corroded_cut_bronze_bricks_stairs",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:corroded_cut_bronze_bricks_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:corroded_cut_bronze_pillar",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:corroded_cut_bronze_pillar"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:crystallized_bronze_block",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:crystallized_bronze_block"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:crystallized_bronze_bulb",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
 				"Properties": {
 					"lit": "false"
 				},
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:crystallized_bronze_bulb"
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
 			"weight": 1.0,
-			"key": "rubinated_nether:crystallized_cut_bronze_bricks"
+			"key": "rubinated_nether:crystallized_cut_bronze_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:crystallized_cut_bronze_bricks_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:crystallized_cut_bronze_bricks_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:crystallized_cut_bronze_bricks_stairs",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:crystallized_cut_bronze_bricks_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:crystallized_cut_bronze_pillar",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:crystallized_cut_bronze_pillar"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:cut_bronze_bricks",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:cut_bronze_bricks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:cut_bronze_bricks_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:cut_bronze_bricks_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:cut_bronze_bricks_stairs",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:cut_bronze_bricks_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:cut_bronze_pillar",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:cut_bronze_pillar"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:discolored_bronze_block",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:discolored_bronze_block"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:discolored_bronze_bulb",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
 				"Properties": {
 					"lit": "false"
 				},
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:discolored_bronze_bulb"
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
 			"weight": 1.0,
-			"key": "rubinated_nether:discolored_cut_bronze_bricks"
+			"key": "rubinated_nether:discolored_cut_bronze_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:discolored_cut_bronze_bricks_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:discolored_cut_bronze_bricks_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:discolored_cut_bronze_bricks_stairs",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:discolored_cut_bronze_bricks_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:discolored_cut_bronze_pillar",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:discolored_cut_bronze_pillar"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:dry_ice",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:dry_ice"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:freezer",
 			"data": {
-				"top": true,
-				"laggy": true,
 				"float": true,
+				"laggy": true,
 				"Properties": {
 					"lit": "false"
 				},
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:freezer"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:lava_lamp",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:lava_lamp"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:molten_ruby_block",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:molten_ruby_block"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:molten_ruby_glass",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:molten_ruby_glass"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:molten_ruby_glass_pane",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:molten_ruby_glass_pane"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:molten_ruby_ore",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:molten_ruby_ore"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:nether_ruby_ore",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:nether_ruby_ore"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:ornate_ruby_glass",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:ornate_ruby_glass"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:ornate_ruby_glass_pane",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:ornate_ruby_glass_pane"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:polished_shrine_stone",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:polished_shrine_stone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:polished_shrine_stone_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:polished_shrine_stone_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:polished_shrine_stone_stairs",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:polished_shrine_stone_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:polished_shrine_stone_wall",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:polished_shrine_stone_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:rubinated_blackstone",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:rubinated_blackstone"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:rubinated_chiseled_shrine_stone_bricks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:rubinated_chiseled_shrine_stone_bricks",
 			"data": {
-				"top": true,
+				"float": true,
 				"laggy": false,
-				"float": true,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:rubinated_shrine_stone_bricks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:rubinated_shrine_stone_bricks",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:rubination_altar",
+			"data": {
+				"float": true,
 				"laggy": true,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:rubination_altar"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:ruby_block",
 			"data": {
-				"top": true,
+				"float": true,
 				"laggy": false,
-				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:ruby_block"
-		},
-		{
-			"data": {
 				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:ruby_brazier"
+				"full": true
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:ruby_brazier",
 			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:ruby_chandelier",
+			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:ruby_chandelier"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:ruby_glass",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:ruby_glass"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:ruby_glass_pane",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:ruby_glass_pane"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:ruby_lantern"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:ruby_lantern",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "rubinated_nether:ruby_laser",
+			"data": {
+				"float": true,
 				"laggy": true,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:ruby_laser"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:runestone",
 			"data": {
-				"top": true,
-				"laggy": true,
 				"float": false,
+				"laggy": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:runestone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:shrine_stone",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:shrine_stone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:shrine_stone_bricks",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:shrine_stone_bricks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:shrine_stone_bricks_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:shrine_stone_bricks_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:shrine_stone_bricks_stairs",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:shrine_stone_bricks_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:shrine_stone_bricks_wall",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:shrine_stone_bricks_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:shrine_stone_pillar",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:shrine_stone_pillar"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:shrine_stone_tiles",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:shrine_stone_tiles"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:shrine_stone_tiles_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:shrine_stone_tiles_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:shrine_stone_tiles_stairs",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:shrine_stone_tiles_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:shrine_stone_tiles_wall",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:shrine_stone_tiles_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:soakstone",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:soakstone"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:tarnished_bronze_block",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:tarnished_bronze_block"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:tarnished_bronze_bulb",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
 				"Properties": {
 					"lit": "false"
 				},
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:tarnished_bronze_bulb"
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
 			"weight": 1.0,
-			"key": "rubinated_nether:tarnished_cut_bronze_bricks"
+			"key": "rubinated_nether:tarnished_cut_bronze_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:tarnished_cut_bronze_bricks_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:tarnished_cut_bronze_bricks_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "rubinated_nether:tarnished_cut_bronze_bricks_stairs",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "rubinated_nether:tarnished_cut_bronze_bricks_stairs"
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
 			"weight": 1.0,
-			"key": "rubinated_nether:tarnished_cut_bronze_pillar"
+			"key": "rubinated_nether:tarnished_cut_bronze_pillar",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
 		}
 	]
 }

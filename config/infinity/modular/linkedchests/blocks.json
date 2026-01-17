@@ -1,14 +1,14 @@
 {
 	"elements": [
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "linkedchests:linked_chest"
+			"key": "linkedchests:linked_chest",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		}
 	]
 }

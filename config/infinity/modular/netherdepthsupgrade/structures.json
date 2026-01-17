@@ -1,26 +1,26 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:nether_fortress_piece",
 			"data": {
+				"step": "surface_structures",
 				"terrain_adaptation": "none",
 				"spawn_overrides": {
 					"water_ambient": {
 						"bounding_box": "full",
 						"spawns": [
 							{
+								"type": "netherdepthsupgrade:blazefish",
 								"weight": 10,
 								"minCount": 3,
-								"type": "netherdepthsupgrade:blazefish",
 								"maxCount": 4
 							}
 						]
 					}
 				},
-				"step": "surface_structures",
 				"id": "netherdepthsupgrade:nether_fortress_piece"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:nether_fortress_piece"
+			}
 		}
 	]
 }

@@ -1,130 +1,130 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:entities/badlands_enderman",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "endermanoverhaul:entities/badlands_enderman"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:entities/cave_enderman",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "endermanoverhaul:entities/cave_enderman"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:entities/coral_enderman",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "endermanoverhaul:entities/coral_enderman"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:entities/crimson_forest_enderman",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "endermanoverhaul:entities/crimson_forest_enderman"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:entities/dark_oak_enderman",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "endermanoverhaul:entities/dark_oak_enderman"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:entities/desert_enderman",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "endermanoverhaul:entities/desert_enderman"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:entities/end_enderman",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "endermanoverhaul:entities/end_enderman"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:entities/end_islands_enderman",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "endermanoverhaul:entities/end_islands_enderman"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:entities/flower_fields_enderman",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "endermanoverhaul:entities/flower_fields_enderman"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:entities/ice_spikes_enderman",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "endermanoverhaul:entities/ice_spikes_enderman"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:entities/mushroom_fields_enderman",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "endermanoverhaul:entities/mushroom_fields_enderman"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:entities/nether_wastes_enderman",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "endermanoverhaul:entities/nether_wastes_enderman"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:entities/savanna_enderman",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "endermanoverhaul:entities/savanna_enderman"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:entities/snowy_enderman",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "endermanoverhaul:entities/snowy_enderman"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:entities/soulsand_valley_enderman",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "endermanoverhaul:entities/soulsand_valley_enderman"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:entities/swamp_enderman",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "endermanoverhaul:entities/swamp_enderman"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:entities/warped_forest_enderman",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "endermanoverhaul:entities/warped_forest_enderman"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:entities/windswept_hills_enderman",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "endermanoverhaul:entities/windswept_hills_enderman"
+			}
 		}
 	]
 }

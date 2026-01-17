@@ -1,0 +1,326 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "simpletms:blocks/machine_tm",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/bca/general/attic",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/bca/general/bedroom",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/bca/general/blacksmith",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/bca/general/easter_egg",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/bca/general/gardening",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/bca/general/ice_chest",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/bca/general/miner",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/bca/general/pokecenter",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/bca/general/workshop",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/cobblemon/ruins/gilded_chests/ruins",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/cobblemon/shipwreck_coves/fishing_boats/fishing_boat",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/cobblemon/shipwreck_coves/gilded_chests/big_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/cobblemon/shipwreck_coves/gilded_chests/lesser_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/cobblemon/villages/village_pokecenters",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/minecraft/chests/abandoned_mineshaft",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/minecraft/chests/ancient_city",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/minecraft/chests/bastion_bridge",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/minecraft/chests/bastion_other",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/minecraft/chests/bastion_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/minecraft/chests/desert_pyramid",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/minecraft/chests/end_city_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/minecraft/chests/igloo_chest",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/minecraft/chests/jungle_temple",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/minecraft/chests/nether_bridge",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/minecraft/chests/pillager_outpost",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/minecraft/chests/ruined_portal",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/minecraft/chests/shipwreck_treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/minecraft/chests/simple_dungeon",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/minecraft/chests/spawn_bonus_chest",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/minecraft/chests/stronghold_corridor",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/minecraft/chests/stronghold_crossing",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/minecraft/chests/stronghold_library",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/minecraft/chests/underwater_ruin_big",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/minecraft/chests/underwater_ruin_small",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/minecraft/chests/village/village_desert_house",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/minecraft/chests/village/village_plains_house",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/minecraft/chests/village/village_savanna_house",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/minecraft/chests/village/village_snowy_house",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/minecraft/chests/village/village_taiga_house",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/minecraft/chests/village/village_temple",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/minecraft/chests/woodland_mansion",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/pokeloot/blocks/greatball_loot",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/pokeloot/blocks/masterball_loot",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/pokeloot/blocks/pokeball_loot",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "simpletms:injection/pokeloot/blocks/ultraball_loot",
+			"data": {
+				"Type": "generic"
+			}
+		}
+	]
+}

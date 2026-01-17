@@ -1,0 +1,25 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "mounts_of_mayhem:nautilus",
+			"data": {
+				"Category": "water_creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mounts_of_mayhem:parched",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mounts_of_mayhem:zombie_nautilus",
+			"data": {
+				"Category": "monster"
+			}
+		}
+	]
+}

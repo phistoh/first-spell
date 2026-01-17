@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "immersiveenchanting:ancient_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersiveenchanting:creative_bookshelf"
+		}
+	]
+}

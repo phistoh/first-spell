@@ -1,0 +1,67 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:blocks/levitation_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:blocks/mob_ward",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:blocks/monolith_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:blocks/void_lily",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:chests/gauntlet",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:chests/lich_tower",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:chests/obsidilith",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:entities/lich",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:entities/void_blossom",
+			"data": {
+				"Type": "generic"
+			}
+		}
+	]
+}

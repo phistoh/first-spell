@@ -1,109 +1,109 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:archmage_pet",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "alshanex_familiars:archmage_pet"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:bard_pet",
 			"data": {
 				"Category": "creature"
-			},
-			"weight": 1.0,
-			"key": "alshanex_familiars:bard_pet"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:blue_bird",
 			"data": {
 				"Category": "creature"
-			},
-			"weight": 1.0,
-			"key": "alshanex_familiars:blue_bird"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:cleric_pet",
 			"data": {
 				"Category": "creature"
-			},
-			"weight": 1.0,
-			"key": "alshanex_familiars:cleric_pet"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:druid_pet",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "alshanex_familiars:druid_pet"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:frostling_pet",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "alshanex_familiars:frostling_pet"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:hunter_pet",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "alshanex_familiars:hunter_pet"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:illusionist_pet",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "alshanex_familiars:illusionist_pet"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:mage_pet",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "alshanex_familiars:mage_pet"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:necromancer_pet",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "alshanex_familiars:necromancer_pet"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:plague_pet",
 			"data": {
 				"Category": "creature"
-			},
-			"weight": 1.0,
-			"key": "alshanex_familiars:plague_pet"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:scorcher_pet",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "alshanex_familiars:scorcher_pet"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:soul_entity",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "alshanex_familiars:soul_entity"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:summoned_shadow",
 			"data": {
 				"Category": "creature"
-			},
-			"weight": 1.0,
-			"key": "alshanex_familiars:summoned_shadow"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "alshanex_familiars:summoner_pet",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "alshanex_familiars:summoner_pet"
+			}
 		}
 	]
 }

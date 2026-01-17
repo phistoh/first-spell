@@ -1,18 +1,18 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:creaking",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:creaking"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "vanillabackport:happy_ghast",
 			"data": {
 				"Category": "creature"
-			},
-			"weight": 1.0,
-			"key": "vanillabackport:happy_ghast"
+			}
 		}
 	]
 }

@@ -1,32 +1,32 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "variantsandventures:gelid",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "variantsandventures:gelid"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "variantsandventures:murk",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "variantsandventures:murk"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "variantsandventures:thicket",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "variantsandventures:thicket"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "variantsandventures:verdant",
 			"data": {
 				"Category": "monster"
-			},
-			"weight": 1.0,
-			"key": "variantsandventures:verdant"
+			}
 		}
 	]
 }

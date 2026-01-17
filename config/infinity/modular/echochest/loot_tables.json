@@ -1,11 +1,11 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "echochest:blocks/echo_chest",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "echochest:blocks/echo_chest"
+			}
 		}
 	]
 }

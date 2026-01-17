@@ -1,14 +1,14 @@
 {
 	"elements": [
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "yigd:grave"
+			"key": "yigd:grave",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		}
 	]
 }

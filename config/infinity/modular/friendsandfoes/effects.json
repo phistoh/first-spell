@@ -1,13 +1,13 @@
 {
 	"elements": [
 		{
-			"data": {
-				"Category": "beneficial",
-				"Color": 16685131,
-				"Instant": false
-			},
 			"weight": 1.0,
-			"key": "friendsandfoes:reach"
+			"key": "friendsandfoes:reach",
+			"data": {
+				"Instant": false,
+				"Color": 16685131,
+				"Category": "beneficial"
+			}
 		}
 	]
 }

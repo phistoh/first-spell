@@ -1,16 +1,19 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "betterwitchhuts:witch_circle",
 			"data": {
+				"step": "surface_structures",
 				"terrain_adaptation": "none",
 				"spawn_overrides": {
 					"creature": {
 						"bounding_box": "piece",
 						"spawns": [
 							{
+								"type": "minecraft:cat",
 								"weight": 1,
 								"minCount": 1,
-								"type": "minecraft:cat",
 								"maxCount": 1
 							}
 						]
@@ -19,31 +22,31 @@
 						"bounding_box": "piece",
 						"spawns": [
 							{
+								"type": "minecraft:witch",
 								"weight": 1,
 								"minCount": 1,
-								"type": "minecraft:witch",
 								"maxCount": 1
 							}
 						]
 					}
 				},
-				"step": "surface_structures",
 				"id": "betterwitchhuts:witch_circle"
-			},
-			"weight": 1.0,
-			"key": "betterwitchhuts:witch_circle"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "betterwitchhuts:witch_hut",
 			"data": {
+				"step": "surface_structures",
 				"terrain_adaptation": "none",
 				"spawn_overrides": {
 					"creature": {
 						"bounding_box": "piece",
 						"spawns": [
 							{
+								"type": "minecraft:cat",
 								"weight": 1,
 								"minCount": 1,
-								"type": "minecraft:cat",
 								"maxCount": 1
 							}
 						]
@@ -52,19 +55,16 @@
 						"bounding_box": "piece",
 						"spawns": [
 							{
+								"type": "minecraft:witch",
 								"weight": 1,
 								"minCount": 1,
-								"type": "minecraft:witch",
 								"maxCount": 1
 							}
 						]
 					}
 				},
-				"step": "surface_structures",
 				"id": "betterwitchhuts:witch_hut"
-			},
-			"weight": 1.0,
-			"key": "betterwitchhuts:witch_hut"
+			}
 		}
 	]
 }

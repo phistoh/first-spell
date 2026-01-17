@@ -26,6 +26,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "luminous_beasts:firebugs"
+		},
+		{
+			"weight": 1.0,
 			"key": "luminous_beasts:gator"
 		},
 		{

@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "copperagebackport:copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperagebackport:copper_chests"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperagebackport:wooden_shelves"
+		}
+	]
+}

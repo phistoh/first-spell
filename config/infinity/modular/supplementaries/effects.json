@@ -1,22 +1,22 @@
 {
 	"elements": [
 		{
-			"data": {
-				"Category": "harmful",
-				"Color": 14500864,
-				"Instant": false
-			},
 			"weight": 1.0,
-			"key": "supplementaries:flammable"
+			"key": "supplementaries:flammable",
+			"data": {
+				"Instant": false,
+				"Color": 14500864,
+				"Category": "harmful"
+			}
 		},
 		{
-			"data": {
-				"Category": "harmful",
-				"Color": 7095583,
-				"Instant": false
-			},
 			"weight": 1.0,
-			"key": "supplementaries:overencumbered"
+			"key": "supplementaries:overencumbered",
+			"data": {
+				"Instant": false,
+				"Color": 7095583,
+				"Category": "harmful"
+			}
 		}
 	]
 }

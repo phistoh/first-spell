@@ -1,24 +1,24 @@
 {
 	"elements": [
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "crittersandcompanions:sea_bunny_slime_block"
+			"key": "crittersandcompanions:sea_bunny_slime_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "crittersandcompanions:silk_cocoon"
+			"key": "crittersandcompanions:silk_cocoon",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		}
 	]
 }

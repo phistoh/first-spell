@@ -1,256 +1,256 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:blocks/crimson_kelp",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:blocks/crimson_kelp"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:blocks/crimson_kelp_block",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:blocks/crimson_kelp_block"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:blocks/crimson_kelp_carpet_block",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:blocks/crimson_kelp_carpet_block"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:blocks/crimson_kelp_plant",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:blocks/crimson_kelp_plant"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:blocks/crimson_seagrass",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:blocks/crimson_seagrass"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:blocks/lava_glass",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:blocks/lava_glass"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:blocks/lava_sponge",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:blocks/lava_sponge"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:blocks/tall_crimson_seagrass",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:blocks/tall_crimson_seagrass"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:blocks/tall_warped_seagrass",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:blocks/tall_warped_seagrass"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:blocks/warped_kelp",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:blocks/warped_kelp"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:blocks/warped_kelp_block",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:blocks/warped_kelp_block"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:blocks/warped_kelp_carpet_block",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:blocks/warped_kelp_carpet_block"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:blocks/warped_kelp_plant",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:blocks/warped_kelp_plant"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:blocks/warped_seagrass",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:blocks/warped_seagrass"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:blocks/wet_lava_sponge",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:blocks/wet_lava_sponge"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:entities/blazefish",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:entities/blazefish"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:entities/bonefish",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:entities/bonefish"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:entities/eyeball_fish",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:entities/eyeball_fish"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:entities/fortressgrouper",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:entities/fortressgrouper"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:entities/glowdine",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:entities/glowdine"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:entities/lava_pufferfish",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:entities/lava_pufferfish"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:entities/magmacubefish",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:entities/magmacubefish"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:entities/obsidianfish",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:entities/obsidianfish"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:entities/searing_cod",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:entities/searing_cod"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:entities/soulsucker",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:entities/soulsucker"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:entities/wither_bonefish",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:entities/wither_bonefish"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:gameplay/failed_fishing",
 			"data": {
 				"Type": "fishing"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:gameplay/failed_fishing"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:gameplay/failed_fishing/junk",
 			"data": {
 				"Type": "fishing"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:gameplay/failed_fishing/junk"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:gameplay/lava_fishing",
 			"data": {
 				"Type": "fishing"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:gameplay/lava_fishing"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:gameplay/lava_fishing/fish",
 			"data": {
 				"Type": "fishing"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:gameplay/lava_fishing/fish"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:gameplay/lava_fishing/junk",
 			"data": {
 				"Type": "fishing"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:gameplay/lava_fishing/junk"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:gameplay/lava_fishing/treasure",
 			"data": {
 				"Type": "fishing"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:gameplay/lava_fishing/treasure"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:gameplay/nether_fishing",
 			"data": {
 				"Type": "fishing"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:gameplay/nether_fishing"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:gameplay/nether_fishing/fish",
 			"data": {
 				"Type": "fishing"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:gameplay/nether_fishing/fish"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:gameplay/nether_fishing/junk",
 			"data": {
 				"Type": "fishing"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:gameplay/nether_fishing/junk"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "netherdepthsupgrade:gameplay/nether_fishing/treasure",
 			"data": {
 				"Type": "fishing"
-			},
-			"weight": 1.0,
-			"key": "netherdepthsupgrade:gameplay/nether_fishing/treasure"
+			}
 		}
 	]
 }

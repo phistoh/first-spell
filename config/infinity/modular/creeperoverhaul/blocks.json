@@ -1,24 +1,24 @@
 {
 	"elements": [
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "creeperoverhaul:potted_tiny_cactus"
+			"key": "creeperoverhaul:potted_tiny_cactus",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "creeperoverhaul:tiny_cactus"
+			"key": "creeperoverhaul:tiny_cactus",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
 		}
 	]
 }

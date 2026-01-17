@@ -1,25 +1,25 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:bobling_tree",
 			"data": {
 				"Type": "tree"
-			},
-			"weight": 1.0,
-			"key": "moresnifferflowers:bobling_tree"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:corrupted_tree",
 			"data": {
 				"Type": "tree"
-			},
-			"weight": 1.0,
-			"key": "moresnifferflowers:corrupted_tree"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "moresnifferflowers:giant_corrupted_tree",
 			"data": {
 				"Type": "tree"
-			},
-			"weight": 1.0,
-			"key": "moresnifferflowers:giant_corrupted_tree"
+			}
 		}
 	]
 }

@@ -1,11 +1,11 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "ditr:blocks/obsidian_diamond_ore",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "ditr:blocks/obsidian_diamond_ore"
+			}
 		}
 	]
 }

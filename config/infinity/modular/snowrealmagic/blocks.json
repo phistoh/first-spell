@@ -1,114 +1,114 @@
 {
 	"elements": [
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "snowrealmagic:fence"
+			"key": "snowrealmagic:fence",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "snowrealmagic:fence2"
+			"key": "snowrealmagic:fence2",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "snowrealmagic:fence_gate"
+			"key": "snowrealmagic:fence_gate",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "snowrealmagic:slab"
+			"key": "snowrealmagic:slab",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "snowrealmagic:snow",
 			"data": {
-				"top": true,
-				"laggy": true,
 				"float": false,
+				"laggy": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "snowrealmagic:snow"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "snowrealmagic:snow_extra_collision",
 			"data": {
-				"top": true,
-				"laggy": true,
 				"float": false,
+				"laggy": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "snowrealmagic:snow_extra_collision"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "snowrealmagic:snowy_double_plant_lower",
 			"data": {
-				"top": true,
-				"laggy": true,
 				"float": false,
+				"laggy": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "snowrealmagic:snowy_double_plant_lower"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "snowrealmagic:snowy_double_plant_upper",
 			"data": {
-				"top": true,
-				"laggy": true,
 				"float": false,
+				"laggy": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "snowrealmagic:snowy_double_plant_upper"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "snowrealmagic:snowy_plant",
 			"data": {
-				"top": true,
-				"laggy": true,
 				"float": false,
+				"laggy": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "snowrealmagic:snowy_plant"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "snowrealmagic:stairs",
 			"data": {
-				"top": true,
-				"laggy": true,
 				"float": true,
+				"laggy": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "snowrealmagic:stairs"
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "snowrealmagic:wall"
+			"key": "snowrealmagic:wall",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		}
 	]
 }

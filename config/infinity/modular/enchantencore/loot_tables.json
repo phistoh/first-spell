@@ -1,11 +1,11 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "enchantencore:all_enchants",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "enchantencore:all_enchants"
+			}
 		}
 	]
 }

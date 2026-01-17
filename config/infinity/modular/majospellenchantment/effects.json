@@ -1,22 +1,22 @@
 {
 	"elements": [
 		{
-			"data": {
-				"Category": "beneficial",
-				"Color": 65504,
-				"Instant": false
-			},
 			"weight": 1.0,
-			"key": "majospellenchantment:phase_dashed"
+			"key": "majospellenchantment:phase_dashed",
+			"data": {
+				"Instant": false,
+				"Color": 65504,
+				"Category": "beneficial"
+			}
 		},
 		{
-			"data": {
-				"Category": "harmful",
-				"Color": 9055202,
-				"Instant": false
-			},
 			"weight": 1.0,
-			"key": "majospellenchantment:sunday_fever"
+			"key": "majospellenchantment:sunday_fever",
+			"data": {
+				"Instant": false,
+				"Color": 9055202,
+				"Category": "harmful"
+			}
 		}
 	]
 }

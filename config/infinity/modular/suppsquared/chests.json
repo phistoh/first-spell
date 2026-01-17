@@ -54,6 +54,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "suppsquared:cobblemon/item_shelf_apricorn"
+		},
+		{
+			"weight": 1.0,
+			"key": "suppsquared:cobblemon/item_shelf_saccharine"
+		},
+		{
+			"weight": 1.0,
 			"key": "suppsquared:deeperdarker/item_shelf_bloom"
 		},
 		{

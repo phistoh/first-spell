@@ -1,53 +1,53 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "variantsandventures:entities/gelid",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "variantsandventures:entities/gelid"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "variantsandventures:entities/murk",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "variantsandventures:entities/murk"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "variantsandventures:entities/thicket",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "variantsandventures:entities/thicket"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "variantsandventures:entities/verdant",
 			"data": {
 				"Type": "entity"
-			},
-			"weight": 1.0,
-			"key": "variantsandventures:entities/verdant"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "variantsandventures:shearing/murk_purple",
 			"data": {
 				"Type": "shearing"
-			},
-			"weight": 1.0,
-			"key": "variantsandventures:shearing/murk_purple"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "variantsandventures:shearing/murk_red",
 			"data": {
 				"Type": "shearing"
-			},
-			"weight": 1.0,
-			"key": "variantsandventures:shearing/murk_red"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "variantsandventures:shearing/murk_yellow",
 			"data": {
 				"Type": "shearing"
-			},
-			"weight": 1.0,
-			"key": "variantsandventures:shearing/murk_yellow"
+			}
 		}
 	]
 }

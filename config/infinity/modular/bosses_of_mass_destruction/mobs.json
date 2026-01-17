@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:gauntlet",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:lich",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:obsidilith",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:void_blossom",
+			"data": {
+				"Category": "monster"
+			}
+		}
+	]
+}

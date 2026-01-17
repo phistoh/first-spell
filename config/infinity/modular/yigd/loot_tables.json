@@ -1,11 +1,11 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "yigd:blocks/grave",
 			"data": {
 				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "yigd:blocks/grave"
+			}
 		}
 	]
 }

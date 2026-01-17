@@ -1,2472 +1,2472 @@
 {
 	"elements": [
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "supplementaries:ash"
+			"key": "supplementaries:ash",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:ash_bricks",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "supplementaries:ash_bricks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:ash_bricks_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:ash_bricks_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:ash_bricks_stairs",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:ash_bricks_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:ash_bricks_wall",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:ash_bricks_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:ashen_basalt",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "supplementaries:ashen_basalt"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:awning",
 			"data": {
-				"top": false,
-				"laggy": false,
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:awning"
-		},
-		{
-			"data": {
-				"top": false,
 				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:awning_black"
-		},
-		{
-			"data": {
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:awning_blue"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:awning_black",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:awning_brown"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:awning_blue",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:awning_cyan"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:awning_brown",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:awning_gray"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:awning_cyan",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:awning_green"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:awning_gray",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:awning_light_blue"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:awning_green",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:awning_light_gray"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:awning_light_blue",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:awning_lime"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:awning_light_gray",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:awning_magenta"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:awning_lime",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:awning_orange"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:awning_magenta",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:awning_pink"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:awning_orange",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:awning_purple"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:awning_pink",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:awning_red"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:awning_purple",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:awning_white"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:awning_red",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:awning_yellow"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:awning_white",
 			"data": {
-				"top": true,
-				"laggy": true,
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:awning_yellow",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bamboo_spikes",
+			"data": {
 				"float": true,
+				"laggy": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:bamboo_spikes"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:bellows",
 			"data": {
-				"top": true,
-				"laggy": true,
 				"float": true,
+				"laggy": true,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "supplementaries:bellows"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:blackboard",
 			"data": {
-				"top": true,
+				"float": true,
 				"laggy": true,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:blackboard"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:blackstone_lamp",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "supplementaries:blackstone_lamp"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:blackstone_tile",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "supplementaries:blackstone_tile"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:blackstone_tile_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:blackstone_tile_slab"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:blackstone_tile_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:blackstone_tile_stairs",
 			"data": {
-				"top": true,
+				"float": true,
 				"laggy": false,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:blackstone_tile_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:blackstone_tile_wall",
 			"data": {
-				"top": true,
+				"float": true,
 				"laggy": false,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:blaze_rod"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:blaze_rod",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:block_generator",
+			"data": {
+				"float": true,
 				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:book_pile",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:book_pile_horizontal",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bubble_block",
+			"data": {
 				"float": true,
+				"laggy": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:block_generator"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:bunting_black",
 			"data": {
-				"top": true,
-				"laggy": true,
 				"float": false,
+				"laggy": false,
+				"top": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:book_pile"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:bunting_blue",
 			"data": {
-				"top": true,
-				"laggy": true,
 				"float": false,
+				"laggy": false,
+				"top": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:book_pile_horizontal"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:bunting_brown",
 			"data": {
-				"top": true,
-				"laggy": true,
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bunting_cyan",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bunting_gray",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bunting_green",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bunting_light_blue",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bunting_light_gray",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bunting_lime",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bunting_magenta",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bunting_orange",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bunting_pink",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bunting_purple",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bunting_red",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bunting_wall_black",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bunting_wall_blue",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bunting_wall_brown",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bunting_wall_cyan",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bunting_wall_gray",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bunting_wall_green",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bunting_wall_light_blue",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bunting_wall_light_gray",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bunting_wall_lime",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bunting_wall_magenta",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bunting_wall_orange",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bunting_wall_pink",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bunting_wall_purple",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bunting_wall_red",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bunting_wall_white",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bunting_wall_yellow",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bunting_white",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bunting_yellow",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:cage",
+			"data": {
 				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:bubble_block"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:bunting_black"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:bunting_blue"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:bunting_brown"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:bunting_cyan"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:bunting_gray"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:bunting_green"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:bunting_light_blue"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:bunting_light_gray"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:bunting_lime"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:bunting_magenta"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:bunting_orange"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:bunting_pink"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:bunting_purple"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:bunting_red"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:bunting_wall_black"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:bunting_wall_blue"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:bunting_wall_brown"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:bunting_wall_cyan"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:bunting_wall_gray"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:bunting_wall_green"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:bunting_wall_light_blue"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:bunting_wall_light_gray"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:bunting_wall_lime"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:bunting_wall_magenta"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:bunting_wall_orange"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:bunting_wall_pink"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:bunting_wall_purple"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:bunting_wall_red"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:bunting_wall_white"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:bunting_wall_yellow"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:bunting_white"
-		},
-		{
-			"data": {
-				"top": false,
-				"laggy": false,
-				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:bunting_yellow"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": true,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:cage"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor",
 					"lit": "false"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:candle_holder"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_black",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor",
 					"lit": "false"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:candle_holder_black"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_blue",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor",
 					"lit": "false"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:candle_holder_blue"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_brown",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor",
 					"lit": "false"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:candle_holder_brown"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_cyan",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor",
 					"lit": "false"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:candle_holder_cyan"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_gray",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor",
 					"lit": "false"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:candle_holder_gray"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_green",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor",
 					"lit": "false"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:candle_holder_green"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_light_blue",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor",
 					"lit": "false"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:candle_holder_light_blue"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_light_gray",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor",
 					"lit": "false"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:candle_holder_light_gray"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_lime",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor",
 					"lit": "false"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:candle_holder_lime"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_magenta",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor",
 					"lit": "false"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:candle_holder_magenta"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_orange",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor",
 					"lit": "false"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:candle_holder_orange"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_pink",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor",
 					"lit": "false"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:candle_holder_pink"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_purple",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor",
 					"lit": "false"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:candle_holder_purple"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_red",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor",
 					"lit": "false"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:candle_holder_red"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_white",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor",
 					"lit": "false"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:candle_holder_white"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_yellow",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"face": "floor",
 					"lit": "false"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:candle_holder_yellow"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:cannon",
 			"data": {
-				"top": true,
+				"float": true,
 				"laggy": true,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:cannon"
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "supplementaries:cannonball"
+			"key": "supplementaries:cannonball",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:checker_block",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "supplementaries:checker_block"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:checker_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:checker_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:clock_block",
 			"data": {
-				"top": true,
+				"float": true,
 				"laggy": true,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:clock_block"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:cog_block",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "supplementaries:cog_block"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:confetti_litter",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:confetti_litter"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:crank",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:crystal_display",
+			"data": {
+				"float": true,
 				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:daub",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:daub_brace",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:daub_cross_brace",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:daub_frame",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:deepslate_lamp",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:doormat",
+			"data": {
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:crank"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:crystal_display"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "supplementaries:daub"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "supplementaries:daub_brace"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "supplementaries:daub_cross_brace"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "supplementaries:daub_frame"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "supplementaries:deepslate_lamp"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": true,
-				"float": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:doormat"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:end_stone_lamp",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "supplementaries:end_stone_lamp"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:enderman_head",
 			"data": {
-				"top": true,
-				"laggy": true,
 				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:enderman_head"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": true,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:enderman_wall_head"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:enderman_wall_head",
 			"data": {
-				"top": true,
+				"float": true,
 				"laggy": true,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:faucet"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:faucet",
 			"data": {
+				"float": true,
+				"laggy": true,
 				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:feather_block",
+			"data": {
+				"float": true,
 				"laggy": false,
-				"float": true,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "supplementaries:feather_block"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:fine_wood",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "supplementaries:fine_wood"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:fine_wood_slab",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:fine_wood_slab"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:fine_wood_stairs",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:fine_wood_stairs"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:fire_pit",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
 				"Properties": {
 					"lit": "false"
 				},
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:fire_pit"
-		},
-		{
-			"data": {
 				"top": true,
-				"laggy": true,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:flag_black"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_black",
 			"data": {
+				"float": true,
+				"laggy": true,
 				"top": true,
-				"laggy": true,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:flag_blue"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_blue",
 			"data": {
+				"float": true,
+				"laggy": true,
 				"top": true,
-				"laggy": true,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:flag_brown"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_brown",
 			"data": {
+				"float": true,
+				"laggy": true,
 				"top": true,
-				"laggy": true,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:flag_cyan"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_cyan",
 			"data": {
+				"float": true,
+				"laggy": true,
 				"top": true,
-				"laggy": true,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:flag_gray"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_gray",
 			"data": {
+				"float": true,
+				"laggy": true,
 				"top": true,
-				"laggy": true,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:flag_green"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_green",
 			"data": {
+				"float": true,
+				"laggy": true,
 				"top": true,
-				"laggy": true,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:flag_light_blue"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_light_blue",
 			"data": {
+				"float": true,
+				"laggy": true,
 				"top": true,
-				"laggy": true,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:flag_light_gray"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_light_gray",
 			"data": {
+				"float": true,
+				"laggy": true,
 				"top": true,
-				"laggy": true,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:flag_lime"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_lime",
 			"data": {
+				"float": true,
+				"laggy": true,
 				"top": true,
-				"laggy": true,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:flag_magenta"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_magenta",
 			"data": {
+				"float": true,
+				"laggy": true,
 				"top": true,
-				"laggy": true,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:flag_orange"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_orange",
 			"data": {
+				"float": true,
+				"laggy": true,
 				"top": true,
-				"laggy": true,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:flag_pink"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_pink",
 			"data": {
+				"float": true,
+				"laggy": true,
 				"top": true,
-				"laggy": true,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:flag_purple"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_purple",
 			"data": {
+				"float": true,
+				"laggy": true,
 				"top": true,
-				"laggy": true,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:flag_red"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_red",
 			"data": {
+				"float": true,
+				"laggy": true,
 				"top": true,
-				"laggy": true,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:flag_white"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_white",
 			"data": {
+				"float": true,
+				"laggy": true,
 				"top": true,
-				"laggy": true,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:flag_yellow"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_yellow",
 			"data": {
-				"top": false,
-				"laggy": false,
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flax",
+			"data": {
 				"float": false,
+				"laggy": false,
+				"top": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:flax"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:flax_block",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "supplementaries:flax_block"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "supplementaries:flint_block"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:flint_block",
 			"data": {
+				"float": true,
+				"laggy": false,
 				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flower_box",
+			"data": {
+				"float": true,
 				"laggy": true,
-				"float": true,
 				"Properties": {
 					"face": "floor"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:flower_box"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:fodder",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "supplementaries:fodder"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:globe",
 			"data": {
-				"top": true,
-				"laggy": true,
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:globe"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": true,
-				"float": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:globe_sepia"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:globe_sepia",
 			"data": {
-				"top": true,
+				"float": false,
 				"laggy": true,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:goblet"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:goblet",
 			"data": {
+				"float": true,
+				"laggy": true,
 				"top": true,
-				"laggy": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:gold_door",
+			"data": {
 				"float": false,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:gold_door"
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "supplementaries:gold_gate"
+			"key": "supplementaries:gold_gate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "supplementaries:gold_trapdoor"
+			"key": "supplementaries:gold_trapdoor",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:gravel_bricks",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "supplementaries:gravel_bricks"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:gunpowder",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:gunpowder"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:hourglass"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:iron_gate"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:hourglass",
 			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:iron_gate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:item_shelf",
+			"data": {
+				"float": false,
+				"laggy": true,
 				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:jar",
+			"data": {
+				"float": true,
 				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:jar_boat",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:lapis_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:lapis_bricks_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:lapis_bricks_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:lapis_bricks_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:lock_block",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:lunch_basket",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:moving_slidy_block",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:moving_slidy_block_source",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:netherite_door",
+			"data": {
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:item_shelf"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": true,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:jar"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:netherite_trapdoor",
 			"data": {
-				"top": true,
+				"float": true,
 				"laggy": true,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:jar_boat"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:notice_board",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": true,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "supplementaries:lapis_bricks"
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "supplementaries:lapis_bricks_slab"
-		},
-		{
+			"key": "supplementaries:pancake",
 			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:lapis_bricks_stairs"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:lapis_bricks_wall"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "supplementaries:lock_block"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:lunch_basket"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:moving_slidy_block"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:moving_slidy_block_source"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:netherite_door"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:netherite_trapdoor"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "supplementaries:notice_board"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:pedestal",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:planter",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:potted_flax",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_black",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_blue",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_brown",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_cyan",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_gray",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_green",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_light_blue",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_light_gray",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_lime",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_magenta",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_orange",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_pink",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_purple",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_red",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_white",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_yellow",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:pulley_block",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:raked_gravel",
+			"data": {
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:pancake"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:pedestal"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:planter"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:redstone_illuminator",
 			"data": {
-				"top": true,
+				"float": true,
 				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:potted_flax"
-		},
-		{
-			"data": {
 				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:present"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:present_black"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:present_blue"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:present_brown"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:present_cyan"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:present_gray"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:present_green"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:present_light_blue"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:present_light_gray"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:present_lime"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:present_magenta"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:present_orange"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:present_pink"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:present_purple"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:present_red"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:present_white"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:present_yellow"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "supplementaries:pulley_block"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:relayer",
 			"data": {
-				"top": true,
+				"float": true,
 				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:rope",
+			"data": {
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:raked_gravel"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "supplementaries:redstone_illuminator"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "supplementaries:relayer"
-		},
-		{
-			"data": {
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:rope"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:rope_buntings",
 			"data": {
+				"float": false,
+				"laggy": true,
 				"top": false,
-				"laggy": true,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:rope_buntings"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:rope_knot",
 			"data": {
-				"top": true,
-				"laggy": true,
 				"float": true,
+				"laggy": true,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "supplementaries:rope_knot"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:rope_tomatoes",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:rope_tomatoes"
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": false,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "supplementaries:sack"
+			"key": "supplementaries:sack",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:safe",
 			"data": {
-				"top": true,
-				"laggy": true,
 				"float": true,
+				"laggy": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:safe"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:sconce",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"lit": "false"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:sconce"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:sconce_green",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"lit": "false"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:sconce_green"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:sconce_lever",
 			"data": {
-				"top": false,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"lit": "false"
 				},
+				"top": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:sconce_lever"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:sconce_soul",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"lit": "false"
 				},
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:sconce_soul"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:sconce_wall",
 			"data": {
-				"top": false,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"lit": "false"
 				},
+				"top": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:sconce_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:sconce_wall_green",
 			"data": {
-				"top": false,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"lit": "false"
 				},
+				"top": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:sconce_wall_green"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:sconce_wall_soul",
 			"data": {
-				"top": false,
-				"laggy": false,
 				"float": false,
+				"laggy": false,
 				"Properties": {
 					"lit": "false"
 				},
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:sconce_wall_soul"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": false,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "supplementaries:slidy_block"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "supplementaries:soap_block"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "supplementaries:speaker_block"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "supplementaries:spring_launcher"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:spring_launcher_arm"
-		},
-		{
-			"data": {
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:spring_launcher_head"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:slidy_block",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": true,
-				"laggy": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:soap_block",
+			"data": {
 				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:speaker_block",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:spring_launcher",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:spring_launcher_arm",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:spring_launcher_head",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:statue",
+			"data": {
+				"float": true,
+				"laggy": true,
 				"Properties": {
 					"lit": "false"
 				},
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:statue"
-		},
-		{
-			"data": {
 				"top": true,
-				"laggy": false,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:stick"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:stick",
 			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:stick_tomatoes",
+			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:stone_lamp",
+			"data": {
+				"float": true,
 				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:stone_tile",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:stone_tile_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:stone_tile_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:stone_tile_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:structure_temp",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:sugar_cube",
+			"data": {
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:stick_tomatoes"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": false,
-				"float": true,
+				"top": true,
 				"full": true
-			},
-			"weight": 1.0,
-			"key": "supplementaries:stone_lamp"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:suspicious_gravel_bricks",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "supplementaries:stone_tile"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:stone_tile_slab"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:stone_tile_stairs"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:stone_tile_wall"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:structure_temp"
+				"top": true,
+				"full": true
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:timber_brace",
 			"data": {
+				"float": true,
+				"laggy": true,
 				"top": true,
-				"laggy": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:timber_cross_brace",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:timber_frame",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_black",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_blue",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_brown",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_cyan",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_gray",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_green",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_light_blue",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_light_gray",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_lime",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_magenta",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_orange",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_pink",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_purple",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_red",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_white",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_yellow",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:turn_table",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:urn",
+			"data": {
 				"float": false,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "supplementaries:sugar_cube"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": true,
-				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "supplementaries:suspicious_gravel_bricks"
-		},
-		{
-			"data": {
 				"top": true,
-				"laggy": true,
-				"float": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:timber_brace"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:way_sign",
 			"data": {
-				"top": true,
-				"laggy": true,
 				"float": true,
+				"laggy": true,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:timber_cross_brace"
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "supplementaries:timber_frame"
-		},
-		{
+			"key": "supplementaries:way_sign_wall",
 			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:trapped_present"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:trapped_present_black"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:trapped_present_blue"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:trapped_present_brown"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:trapped_present_cyan"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:trapped_present_gray"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:trapped_present_green"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:trapped_present_light_blue"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:trapped_present_light_gray"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:trapped_present_lime"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:trapped_present_magenta"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:trapped_present_orange"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:trapped_present_pink"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:trapped_present_purple"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:trapped_present_red"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:trapped_present_white"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:trapped_present_yellow"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "supplementaries:turn_table"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
 				"float": false,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:urn"
-		},
-		{
-			"data": {
-				"top": true,
 				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:way_sign"
-		},
-		{
-			"data": {
 				"top": false,
-				"laggy": true,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:way_sign_wall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:wicker_fence",
 			"data": {
-				"top": true,
-				"laggy": false,
 				"float": true,
+				"laggy": false,
+				"top": true,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:wicker_fence"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "supplementaries:wild_flax",
 			"data": {
+				"float": false,
+				"laggy": false,
 				"top": false,
-				"laggy": false,
-				"float": false,
 				"full": false
-			},
-			"weight": 1.0,
-			"key": "supplementaries:wild_flax"
+			}
 		},
 		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
 			"weight": 1.0,
-			"key": "supplementaries:wind_vane"
+			"key": "supplementaries:wind_vane",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
 		}
 	]
 }

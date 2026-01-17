@@ -1,67 +1,67 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "betterfortresses:chests/beacon",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "betterfortresses:chests/beacon"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "betterfortresses:chests/extra",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "betterfortresses:chests/extra"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "betterfortresses:chests/hall",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "betterfortresses:chests/hall"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "betterfortresses:chests/keep",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "betterfortresses:chests/keep"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "betterfortresses:chests/obsidian",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "betterfortresses:chests/obsidian"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "betterfortresses:chests/puzzle",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "betterfortresses:chests/puzzle"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "betterfortresses:chests/quarters",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "betterfortresses:chests/quarters"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "betterfortresses:chests/storage",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "betterfortresses:chests/storage"
+			}
 		},
 		{
+			"weight": 1.0,
+			"key": "betterfortresses:chests/worship",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "betterfortresses:chests/worship"
+			}
 		}
 	]
 }

@@ -1,11 +1,11 @@
 {
 	"elements": [
 		{
+			"weight": 1.0,
+			"key": "betterwitchhuts:chests/hut_0",
 			"data": {
 				"Type": "chest"
-			},
-			"weight": 1.0,
-			"key": "betterwitchhuts:chests/hut_0"
+			}
 		}
 	]
 }

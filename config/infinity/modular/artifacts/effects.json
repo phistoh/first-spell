@@ -1,13 +1,13 @@
 {
 	"elements": [
 		{
-			"data": {
-				"Category": "beneficial",
-				"Color": 9715130,
-				"Instant": false
-			},
 			"weight": 1.0,
-			"key": "artifacts:magnetism"
+			"key": "artifacts:magnetism",
+			"data": {
+				"Instant": false,
+				"Color": 9715130,
+				"Category": "beneficial"
+			}
 		}
 	]
 }
