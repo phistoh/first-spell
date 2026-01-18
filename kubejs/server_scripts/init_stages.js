@@ -424,13 +424,13 @@ AStages.addRestrictionForItem(
 // Tier 3
 AStages.addRestrictionForRecipe(
   "phis/crafting_backpack_diamond",
-  "phis_stage_backpack_diamond_dragonskin",
+  "phis_stage_backpack_diamond",
   "minecraft:crafting",
   "yyzsbackpack:diamond_backpack"
 );
 AStages.addRestrictionForRecipe(
   "phis/crafting_backpack_diamond_smithing",
-  "phis_stage_backpack_diamond_dragonskin",
+  "phis_stage_backpack_diamond",
   "minecraft:crafting",
   "yyzsbackpack:diamond_backpack_smithing"
 );
