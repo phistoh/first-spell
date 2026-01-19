@@ -21,7 +21,7 @@ for (const tier of tiers) {
     `minecraft:${tier}_boots`,
     `minecraft:${tier}_leggings`,
     `mounts_of_mayhem:${tier}_spear`,
-    `farmersdelight:${tier}_knife`
+    `farmersdelight:${tier}_knife`,
   )
     .setCanBeStoredInInventory(true)
     .setCanBeStoredInContainers(true)
@@ -40,7 +40,7 @@ AStages.addRestrictionForItem(
   "leafscopperbackport:copper_armor_helmet",
   "leafscopperbackport:copper_armor_chestplate",
   "leafscopperbackport:copper_armor_boots",
-  "leafscopperbackport:copper_armor_leggings"
+  "leafscopperbackport:copper_armor_leggings",
 )
   .setCanBeStoredInInventory(true)
   .setCanBeStoredInContainers(true)
@@ -67,7 +67,7 @@ AStages.addRestrictionForItem(
   "deeperdarker:resonarium_helmet",
   "deeperdarker:resonarium_chestplate",
   "deeperdarker:resonarium_boots",
-  "deeperdarker:resonarium_leggings"
+  "deeperdarker:resonarium_leggings",
 )
   .setCanBeStoredInInventory(true)
   .setCanBeStoredInContainers(true)
@@ -98,7 +98,7 @@ for (const tier of tiers) {
       restriction,
       stage,
       "minecraft:crafting",
-      recipeID
+      recipeID,
     );
   }
   let restriction = `phis/crafting_${tier}_knife`;
@@ -111,7 +111,7 @@ for (const tier of tiers) {
     restriction,
     stage,
     "minecraft:crafting",
-    recipeID
+    recipeID,
   );
 }
 
@@ -121,26 +121,26 @@ AStages.addRestrictionForRecipe(
   "phis/crafting_return_scroll",
   "phis_stage_return_scroll",
   "minecraft:crafting",
-  "waystones:return_scroll"
+  "waystones:return_scroll",
 );
 
 AStages.addRestrictionForRecipe(
   "phis/crafting_unbound_scroll",
   "phis_stage_return_scroll",
   "minecraft:crafting",
-  "waystones:blank_scroll"
+  "waystones:blank_scroll",
 );
 
 AStages.addRestrictionForRecipe(
   "phis/crafting_warp_stone",
   "phis_stage_warp_stone",
   "minecraft:crafting",
-  "waystones:warp_stone"
+  "waystones:warp_stone",
 );
 AStages.addRestrictionForItem(
   "phis/use_warp_stone",
   "phis_stage_warp_stone",
-  "waystones:warp_stone"
+  "waystones:warp_stone",
 )
   .setCanBeStoredInInventory(true)
   .setCanBeStoredInContainers(true)
@@ -161,7 +161,7 @@ for (const id of waystone_recipe_ids) {
     `phis/crafting_${id}`,
     "phis_stage_waystone",
     "minecraft:crafting",
-    `waystones:${id}`
+    `waystones:${id}`,
   );
 }
 
@@ -173,7 +173,7 @@ AStages.addRestrictionForItem(
   "waystones:sandy_waystone",
   "waystones:deepslate_waystone",
   "waystones:blackstone_waystone",
-  "waystones:end_stone_waystone"
+  "waystones:end_stone_waystone",
 )
   .setCanBeStoredInInventory(true)
   .setCanBeStoredInContainers(true)
@@ -185,7 +185,7 @@ AStages.addRestrictionForRecipe(
   "phis/crafting_arcane_essence",
   "phis_stage_arcane_essence",
   "minecraft:crafting",
-  "kubejs:arcane_essence"
+  "kubejs:arcane_essence",
 );
 
 // Scroll Forge
@@ -193,17 +193,17 @@ AStages.addRestrictionForRecipe(
   "phis/crafting_scroll_forge",
   "phis_stage_scroll_forge",
   "minecraft:crafting",
-  "irons_spellbooks:scroll_forge"
+  "irons_spellbooks:scroll_forge",
 );
 AStages.addRestrictionForScreen(
   "phis/opening_scroll_forge",
   "phis_stage_scroll_forge",
-  "irons_spellbooks:scroll_forge_menu"
+  "irons_spellbooks:scroll_forge_menu",
 );
 AStages.addRestrictionForItem(
   "phis/use_scroll_forge",
   "phis_stage_scroll_forge",
-  "irons_spellbooks:scroll_forge"
+  "irons_spellbooks:scroll_forge",
 )
   .setCanBeStoredInInventory(true)
   .setCanBeStoredInContainers(true)
@@ -214,17 +214,17 @@ AStages.addRestrictionForRecipe(
   "phis/crafting_arcane_anvil",
   "phis_stage_arcane_anvil",
   "minecraft:crafting",
-  "irons_spellbooks:arcane_anvil"
+  "irons_spellbooks:arcane_anvil",
 );
 AStages.addRestrictionForScreen(
   "phis/opening_arcane_anvil",
   "phis_stage_arcane_anvil",
-  "irons_spellbooks:arcane_anvil_menu"
+  "irons_spellbooks:arcane_anvil_menu",
 );
 AStages.addRestrictionForItem(
   "phis/use_arcane_anvil",
   "phis_stage_arcane_anvil",
-  "irons_spellbooks:arcane_anvil"
+  "irons_spellbooks:arcane_anvil",
 )
   .setCanBeStoredInInventory(true)
   .setCanBeStoredInContainers(true)
@@ -235,12 +235,12 @@ AStages.addRestrictionForRecipe(
   "phis/crafting_simple_musket",
   "phis_stage_muskets_and_bombs",
   "minecraft:crafting",
-  "simplemusket:musket"
+  "simplemusket:musket",
 );
 AStages.addRestrictionForItem(
   "phis/use_simple_musket",
   "phis_stage_muskets_and_bombs",
-  "simplemusket:musket"
+  "simplemusket:musket",
 )
   .setCanBeStoredInInventory(true)
   .setCanBeStoredInContainers(true)
@@ -250,7 +250,7 @@ AStages.addRestrictionForRecipe(
   "phis/crafting_hellfire_ammo",
   "phis_stage_hellfire_ammo",
   "minecraft:crafting",
-  "kubejs:hellfire_cartridge"
+  "kubejs:hellfire_cartridge",
 );
 
 // Bombs
@@ -258,13 +258,13 @@ AStages.addRestrictionForRecipe(
   "phis/crafting_bomb",
   "phis_stage_muskets_and_bombs",
   "minecraft:crafting",
-  "supplementaries:bomb"
+  "supplementaries:bomb",
 );
 AStages.addRestrictionForItem(
   "phis/use_bombs",
   "phis_stage_muskets_and_bombs",
   "supplementaries:bomb",
-  "supplementaries:bomb_blue"
+  "supplementaries:bomb_blue",
 )
   .setCanBeStoredInInventory(true)
   .setCanBeStoredInContainers(true)
@@ -277,13 +277,13 @@ for (const id of fireworks_recipe_ids) {
     `phis/crafting_${id}`,
     "phis_stage_fireworks",
     "minecraft:crafting",
-    `minecraft:${id}`
+    `minecraft:${id}`,
   );
 }
 AStages.addRestrictionForItem(
   "phis/use_fireworks",
   "phis_stage_fireworks",
-  "minecraft:firework_rocket"
+  "minecraft:firework_rocket",
 )
   .setCanBeStoredInInventory(true)
   .setCanBeStoredInContainers(true)
@@ -294,12 +294,12 @@ AStages.addRestrictionForRecipe(
   "phis/crafting_linked_pouch",
   "phis_stage_linked_pouch",
   "minecraft:crafting",
-  "linkedchests:linked_pouch"
+  "linkedchests:linked_pouch",
 );
 AStages.addRestrictionForItem(
   "phis/use_linked_pouch",
   "phis_stage_linked_pouch",
-  "linkedchests:linked_pouch"
+  "linkedchests:linked_pouch",
 )
   .setCanBeStoredInInventory(true)
   .setCanBeStoredInContainers(true)
@@ -310,12 +310,12 @@ AStages.addRestrictionForRecipe(
   "phis/crafting_eldritch_manuscript",
   "phis_stage_eldritch_spells",
   "minecraft:crafting",
-  "irons_spellbooks:eldritch_manuscript"
+  "irons_spellbooks:eldritch_manuscript",
 );
 AStages.addRestrictionForItem(
   "phis/use_eldritch_manuscript",
   "phis_stage_eldritch_spells",
-  "irons_spellbooks:eldritch_manuscript"
+  "irons_spellbooks:eldritch_manuscript",
 )
   .setCanBeStoredInInventory(true)
   .setCanBeStoredInContainers(true)
@@ -345,12 +345,12 @@ for (const hook of hooks) {
     `phis/crafting_${hook}`,
     "phis_stage_grappling_hooks",
     "minecraft:crafting",
-    `kubejs:${hook}`
+    `kubejs:${hook}`,
   );
   AStages.addRestrictionForItem(
     `phis/use_${hook}`,
     "phis_stage_grappling_hooks",
-    `hooked:${hook}`
+    `hooked:${hook}`,
   )
     .setCanBeStoredInInventory(true)
     .setCanBeStoredInContainers(true)
@@ -372,7 +372,7 @@ for (const poison of poisons) {
     `phis/crafting_${poison}`,
     "phis_stage_assassin_poisons",
     "minecraft:crafting",
-    `kubejs:${poison}`
+    `kubejs:${poison}`,
   );
 }
 
@@ -393,7 +393,7 @@ for (const school of schools) {
     `phis/crafting_${school}_manuscript`,
     `phis_stage_manuscript_${school}`,
     "minecraft:crafting",
-    `irons_restrictions:${school}_manuscript`
+    `irons_restrictions:${school}_manuscript`,
   );
 }
 
@@ -403,19 +403,13 @@ AStages.addRestrictionForRecipe(
   "phis/crafting_backpack_gold",
   "phis_stage_backpack_gold",
   "minecraft:crafting",
-  "yyzsbackpack:gold_backpack"
-);
-AStages.addRestrictionForRecipe(
-  "phis/crafting_backpack_gold_smithing",
-  "phis_stage_backpack_gold",
-  "minecraft:crafting",
-  "yyzsbackpack:gold_backpack_smithing"
+  "phis:gold_backpack",
 );
 
 AStages.addRestrictionForItem(
   "phis/use_gold_backpack",
   "phis_stage_backpack_gold",
-  "yyzsbackpack:gold_backpack"
+  "sophisticatedbackpacks:gold_backpack",
 )
   .setCanBeStoredInInventory(true)
   .setCanBeStoredInContainers(true)
@@ -426,18 +420,12 @@ AStages.addRestrictionForRecipe(
   "phis/crafting_backpack_diamond",
   "phis_stage_backpack_diamond",
   "minecraft:crafting",
-  "yyzsbackpack:diamond_backpack"
-);
-AStages.addRestrictionForRecipe(
-  "phis/crafting_backpack_diamond_smithing",
-  "phis_stage_backpack_diamond",
-  "minecraft:crafting",
-  "yyzsbackpack:diamond_backpack_smithing"
+  "phis:diamond_backpack",
 );
 AStages.addRestrictionForItem(
   "phis/use_diamond_backpack",
   "phis_stage_backpack_diamond",
-  "yyzsbackpack:diamond_backpack"
+  "sophisticatedbackpacks:diamond_backpack",
 )
   .setCanBeStoredInInventory(true)
   .setCanBeStoredInContainers(true)
@@ -448,19 +436,13 @@ AStages.addRestrictionForRecipe(
   "phis/crafting_backpack_netherite",
   "phis_stage_backpack_netherite",
   "minecraft:crafting",
-  "yyzsbackpack:netherite_backpack"
-);
-AStages.addRestrictionForRecipe(
-  "phis/crafting_backpack_netherite_smithing",
-  "phis_stage_backpack_netherite",
-  "minecraft:crafting",
-  "yyzsbackpack:netherite_backpack_smithing"
+  "phis:netherite_backpack",
 );
 
 AStages.addRestrictionForItem(
   "phis/use_netherite_backpack",
   "phis_stage_backpack_netherite",
-  "yyzsbackpack:netherite_backpack"
+  "sophisticatedbackpacks:netherite_backpack",
 )
   .setCanBeStoredInInventory(true)
   .setCanBeStoredInContainers(true)
@@ -471,13 +453,13 @@ AStages.addRestrictionForRecipe(
   "phis/crafting_infinity_key",
   "phis_stage_infinity_key",
   "minecraft:crafting",
-  "kubejs:infinity_key"
+  "kubejs:infinity_key",
 );
 
 AStages.addRestrictionForItem(
   "phis/use_infinity_key",
   "phis_stage_infinity_key",
-  "kubejs:infinity_key"
+  "kubejs:infinity_key",
 )
   .setCanBeStoredInInventory(true)
   .setCanBeStoredInContainers(true)
@@ -488,7 +470,7 @@ AStages.addRestrictionForRecipe(
   "phis/crafting_dragon_breath",
   "phis_stage_dragon_breath",
   "rubinated_nether:freezing",
-  "kubejs:dragon_breath_freezing"
+  "kubejs:dragon_breath_freezing",
 );
 
 // Keep inventory
@@ -496,14 +478,14 @@ AStages.addRestrictionForRecipe(
   "phis/crafting_keeper_of_inventories",
   "phis_stage_keeper_of_inventories",
   "minecraft:crafting",
-  "keeperofinventories:keeper_of_inventories_craft"
+  "keeperofinventories:keeper_of_inventories_craft",
 );
 
 // Cobblemon
 AStages.addRestrictionForTag(
   "phis/use_pokeballs",
   "phis_stage_cobblemon",
-  "cobblemon:poke_balls"
+  "cobblemon:poke_balls",
 )
   .setCanBeStoredInInventory(true)
   .setCanBeStoredInContainers(true)
