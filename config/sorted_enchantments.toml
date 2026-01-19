@@ -5,5 +5,5 @@
 	# default: false
 	enableBooks = false
 	# Whether to sort curses below all other enchantments
-		# default: true
-		sortCursesBelow = true
+	# default: true
+	sortCursesBelow = true

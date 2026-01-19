@@ -1,6 +1,6 @@
-# Enable Item Descriptions
-# default: true
-item_descriptions = true
+	# Enable Item Descriptions
+	# default: true
+	item_descriptions = true
 	# Always show Item Descriptions while hovering over an item in your inventory.
 	# default: false
 	display_always = false
@@ -11,89 +11,89 @@ item_descriptions = true
 	# default: false
 	show_mod_name = false
 
-	[hint]
-		# When descriptions on an item are not visible, show a tooltip with the default text 'Show more' and the keybind.
-		# default: false
-		enabled = false
-		# Show keybinds in hint text.
-		# default: true
-		show_keybinds = true
-		# This setting changes what Minecraft colour is used for hint tooltips, either by colour code or name.
-		# default: Gray
-		color = "Gray"
-		# Italicize Hints
-		# default: false
-		italics = false
-		# Force-uppercase hint keybinds.
-		# default: true
-		uppercase = true
+[hint]
+	# When descriptions on an item are not visible, show a tooltip with the default text 'Show more' and the keybind.
+	# default: false
+	enabled = false
+	# Show keybinds in hint text.
+	# default: true
+	show_keybinds = true
+	# This setting changes what Minecraft colour is used for hint tooltips, either by colour code or name.
+	# default: Gray
+	color = "Gray"
+	# Italicize Hints
+	# default: false
+	italics = false
+	# Force-uppercase hint keybinds.
+	# default: true
+	uppercase = true
 
-	[style]
-		# This setting changes what Minecraft colour is used for block, item, and entity tooltips, either by colour code or name.
-		# default: Gray
-		color = "Gray"
-		# This setting changes whether block, item, and entity tooltips are italicized.
-		# default: false
-		italics = false
-		# This setting changes whether block, item, and entity tooltips are bolded.
-		# default: false
-		bold = false
-		# Changes the minimum width of multi-line tooltip. Expands for longer item names. Ignored when ToolTipFix is present.
-		# default: 160
-		length = 160
-		# Color of the mod name tooltip
-		# default: Blue
-		mod_name_color = "Blue"
-		# Whether to italicize the mod name tooltip
-		# default: true
-		mod_name_italics = true
+[style]
+	# This setting changes what Minecraft colour is used for block, item, and entity tooltips, either by colour code or name.
+	# default: Gray
+	color = "Gray"
+	# This setting changes whether block, item, and entity tooltips are italicized.
+	# default: false
+	italics = false
+	# This setting changes whether block, item, and entity tooltips are bolded.
+	# default: false
+	bold = false
+	# Changes the minimum width of multi-line tooltip. Expands for longer item names. Ignored when ToolTipFix is present.
+	# default: 160
+	length = 160
+	# Color of the mod name tooltip
+	# default: Blue
+	mod_name_color = "Blue"
+	# Whether to italicize the mod name tooltip
+	# default: true
+	mod_name_italics = true
 
-	[keybinds]
-		# Show descriptions when the Ctrl key is held.
-		# default: true
-		display_when_ctrl_is_held = true
-		# Show descriptions when the Shift key is held.
-		# default: false
-		display_when_shift_is_held = false
-		# Show descriptions when the Alt key is held.
-		# default: false
-		display_when_alt_is_held = false
-		# Invert all Item Descriptions keybinds.
-		# default: false
-		invert = false
+[keybinds]
+	# Show descriptions when the Ctrl key is held.
+	# default: true
+	display_when_ctrl_is_held = true
+	# Show descriptions when the Shift key is held.
+	# default: false
+	display_when_shift_is_held = false
+	# Show descriptions when the Alt key is held.
+	# default: false
+	display_when_alt_is_held = false
+	# Invert all Item Descriptions keybinds.
+	# default: false
+	invert = false
 
-	[block_descriptions]
-		# This will show Block Descriptions in compatible mods. This can also be disabled in Jade/WTHIT's settings.
-		# default: true
-		enable = true
-		# Always show Block Descriptions, not just when a key is held.
-		# default: false
-		show_always = false
+[block_descriptions]
+	# This will show Block Descriptions in compatible mods. This can also be disabled in Jade/WTHIT's settings.
+	# default: true
+	enable = true
+	# Always show Block Descriptions, not just when a key is held.
+	# default: false
+	show_always = false
 
-	[entity_descriptions]
-		# This will show Entity Descriptions in compatible mods. This can also be disabled in Jade/WTHIT's settings.
-		# default: true
-		enable = true
-		# Always show Entity Descriptions, not just when a key is held.
-		# default: false
-		show_always = false
+[entity_descriptions]
+	# This will show Entity Descriptions in compatible mods. This can also be disabled in Jade/WTHIT's settings.
+	# default: true
+	enable = true
+	# Always show Entity Descriptions, not just when a key is held.
+	# default: false
+	show_always = false
 
-	[enchantment_descriptions]
-		# Enable enchantment descriptions.
-		# default: true
-		enable = true
-		# Always show Enchantment Descriptions, not just when a key is held.
-		# default: false
-		display_always = false
-		# By default, descriptions are shown on all enchanted items. Disable if this should only apply to books.
-		# default: false
-		only_show_on_books = false
-		# Hide Item Descriptions on Enchanted Books, since they'll always have an Enchantment Description.
-		# default: true
-		only_enchantment_descriptions_on_books = true
-		# Show Enchantment Descriptions in the Enchanting Table
-		# default: true
-		show_in_table = false
+[enchantment_descriptions]
+	# Enable enchantment descriptions.
+	# default: true
+	enable = true
+	# Always show Enchantment Descriptions, not just when a key is held.
+	# default: false
+	display_always = false
+	# By default, descriptions are shown on all enchanted items. Disable if this should only apply to books.
+	# default: false
+	only_show_on_books = false
+	# Hide Item Descriptions on Enchanted Books, since they'll always have an Enchantment Description.
+	# default: true
+	only_enchantment_descriptions_on_books = true
+	# Show Enchantment Descriptions in the Enchanting Table
+	# default: true
+	show_in_table = false
 	# This setting changes what Minecraft colour is used for enchantment tooltips, either by colour code or name.
 	# default: Dark Gray
 	color = "Dark Gray"

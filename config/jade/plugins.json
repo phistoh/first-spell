@@ -58,10 +58,6 @@
   "jadeaddons": {
     "equipment_requirement": ""
   },
-  "exposure": {
-    "lightroom": true,
-    "photograph_frame": true
-  },
   "jade_access": {
     "held_item": true,
     "sign": true,
@@ -71,6 +67,13 @@
   },
   "jadeaddons.lootr": {
     "info": true
+  },
+  "cobblemonintegrations": {
+    "healer": true,
+    "campfire_pot": true,
+    "fossil_analyzer": true,
+    "pokemon_entity": true,
+    "berry_bush": true
   },
   "item-descriptions": {
     "block_descriptions": true,
