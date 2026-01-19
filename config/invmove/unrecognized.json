@@ -1,0 +1,15 @@
+{
+  "allowMovement": {
+    "de.maxhenkel.voicechat.gui.group.JoinGroupScreen": true,
+    "com.cobblemon.mod.common.client.gui.summary.Summary": true,
+    "com.cobblemon.mod.common.client.gui.interact.wheel.InteractWheelGUI": true,
+    "net.blay09.mods.waystones.client.gui.screen.WaystoneSelectionScreen": false,
+    "pepjebs.mapatlases.client.screen.AtlasOverviewScreen": true
+  },
+  "hideBackground": {
+    "com.cobblemon.mod.common.client.gui.summary.Summary": true,
+    "com.cobblemon.mod.common.client.gui.interact.wheel.InteractWheelGUI": true,
+    "net.blay09.mods.waystones.client.gui.screen.WaystoneSelectionScreen": false,
+    "pepjebs.mapatlases.client.screen.AtlasOverviewScreen": true
+  }
+}
