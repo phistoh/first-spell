@@ -5,6 +5,32 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.4] - 2026-01-19
+
+### Added
+
+- Recipe to craft *Arcane-infused bottles*
+- **Pickup Notifier** mod (client and server side)
+- **Inventory Backup** mod (client and server side)
+- **Cobblemon integrations** mod (client and server side)
+- **Cobblemon: PlayerXP** mod (client and server side)
+- **InvMove** mod (client side, disabled by default)
+- **InvMove Compats** mod (client side, disabled by default)
+- **Nemo's Inventory Sorting** mod (client side, disabled by default)
+
+### Fixed
+
+- *Diamond backpack* skill now unlocks the recipe
+- Unlocking skill points now works with wall-hanging lanterns
+
+### Changed
+
+- *Diamond backpack* is bigger (6x9 slots)
+- *Netherite backpack* is bigger (9x9 slots)
+- Updated **JEI** from `19.25.0.323` to `19.27.0.340`
+
+### Removed
+
 ## [1.3] - 2026-01-18
 
 ### Added
