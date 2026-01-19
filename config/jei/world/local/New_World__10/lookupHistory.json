@@ -1,5 +1,7 @@
 [
   {"version":1},
+  {"ingredient":{"id":"irons_spellbooks:arcane_essence"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kubejs:arcane_infused_bottle"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"immersiveenchanting:ancient_book","components":{"minecraft:stored_enchantments":{"levels":{"combat_roll:acrobat":1}}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"netherdepthsupgrade:lava_fishing_rod"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"netherdepthsupgrade:blazefish"},"type":"item_stack","bookmarkType":"INGREDIENT"},
