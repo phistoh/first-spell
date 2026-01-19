@@ -47,6 +47,7 @@ const lanterns = [
   "rubinated_nether:ruby_lantern",
   "suppsquared:copper_lantern",
   "suppsquared:crimson_lantern",
+  "amendments:wall_lantern",
 ];
 
 for (const lantern of lanterns) {
