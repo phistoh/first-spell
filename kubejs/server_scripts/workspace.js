@@ -1,14 +1,7 @@
-ItemEvents.firstLeftClicked((event) => {
-//   const { item } = event;
+ItemEvents.rightClicked("minecraft:diamond_sword", (event) => {
+  const item = event.item;
+  const nbt = item.toNBT()?.components;
 
-//   console.log(item)
-//   console.log(item.getItem().get)
-  // console.log(item.getAttributeModifiers())
-
-//   for (const entry of item.getAttributeModifiers().modifiers()) {
-//     console.log(entry.attribute());
-//     if (entry.attribute() == "generic.armor") {
-//       console.log(entry.attribute());
-//     }
-//   }
+  
+  console.log(nbt["minecraft:enchantments"])
 });
