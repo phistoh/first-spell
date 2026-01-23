@@ -22,6 +22,14 @@ ServerEvents.recipes((event) => {
 
 ServerEvents.recipes((event) => {
   event.replaceInput(
+    { mod: "irons_spellbooks" },
+    "minecraft:enchanted_book",
+    "immersiveenchanting:ancient_book"
+  );
+});
+
+ServerEvents.recipes((event) => {
+  event.replaceInput(
     { id: "minecraft:recovery_compass" },
     "minecraft:echo_shard",
     "minecraft:prismarine_shard"
@@ -53,18 +61,6 @@ ServerEvents.recipes((event) => {
     "#phis:enchanting_table"
   );
 
-  // event.replaceInput(
-  //   { input: "enchant_revised:enchant_altar" },
-  //   "enchant_revised:enchant_altar",
-  //   "#phis:enchanting_table"
-  // );
-
-  // event.replaceInput(
-  //   { output: "enchant_revised:enchant_altar" },
-  //   "minecraft:lapis_lazuli",
-  //   "irons_spellbooks:arcane_essence"
-  // );
-
   event.replaceInput(
     { output: "crittersandcompanions:silk_lead" },
     "minecraft:iron_ingot",
@@ -75,42 +71,6 @@ ServerEvents.recipes((event) => {
     { output: "bosses_of_mass_destruction:void_lily" },
     "minecraft:amethyst_shard",
     "irons_spellbooks:arcane_essence"
-  );
-
-  event.replaceInput(
-    { id: "yyzsbackpack:gold_backpack" },
-    "minecraft:leather",
-    "irons_spellbooks:hogskin"
-  );
-
-  event.replaceInput(
-    { id: "yyzsbackpack:gold_backpack_smithing" },
-    "minecraft:leather",
-    "irons_spellbooks:hogskin"
-  );
-
-  event.replaceInput(
-    { id: "yyzsbackpack:diamond_backpack" },
-    "minecraft:leather",
-    "netherdepthsupgrade:soul_sucker_leather"
-  );
-
-  event.replaceInput(
-    { id: "yyzsbackpack:diamond_backpack_smithing" },
-    "minecraft:leather",
-    "netherdepthsupgrade:soul_sucker_leather"
-  );
-
-  event.replaceInput(
-    { id: "yyzsbackpack:netherite_backpack" },
-    "minecraft:leather",
-    "irons_spellbooks:dragonskin"
-  );
-
-  event.replaceInput(
-    { id: "yyzsbackpack:netherite_backpack_smithing" },
-    "minecraft:leather",
-    "irons_spellbooks:dragonskin"
   );
 
   event.replaceInput(

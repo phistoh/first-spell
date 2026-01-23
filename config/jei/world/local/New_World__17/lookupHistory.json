@@ -1,5 +1,12 @@
 [
   {"version":1},
+  {"ingredient":{"id":"irons_spellbooks:druidic_spell_book","components":{"irons_spellbooks:spell_container":{"mustEquip":true,"data":[],"maxSpells":10,"spellWheel":true}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_spellbooks:villager_spell_book","components":{"irons_spellbooks:spell_container":{"mustEquip":true,"data":[],"maxSpells":10,"spellWheel":true}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_spellbooks:dragonskin_spell_book","components":{"irons_spellbooks:spell_container":{"mustEquip":true,"data":[],"maxSpells":12,"spellWheel":true}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_spellbooks:evoker_spell_book","components":{"irons_spellbooks:spell_container":{"mustEquip":true,"data":[{"id":"irons_spellbooks:fang_strike","index":0,"level":6,"locked":true},{"id":"irons_spellbooks:fang_ward","index":1,"level":4,"locked":true},{"id":"irons_spellbooks:summon_vex","index":2,"level":4,"locked":true}],"maxSpells":10,"spellWheel":true}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_spellbooks:copper_spell_book","components":{"irons_spellbooks:spell_container":{"mustEquip":true,"data":[],"maxSpells":5,"spellWheel":true}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_spellbooks:diamond_spell_book","components":{"irons_spellbooks:spell_container":{"mustEquip":true,"data":[],"maxSpells":10,"spellWheel":true}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_spellbooks:gold_spell_book","components":{"irons_spellbooks:spell_container":{"mustEquip":true,"data":[],"maxSpells":8,"spellWheel":true}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"kubejs:potion_of_unlearning"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"kubejs:echoing_soul"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"keeperofinventories:keeper_of_inventories"},"type":"item_stack","bookmarkType":"INGREDIENT"},
