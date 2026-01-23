@@ -922,5 +922,47 @@
 		"x": 64,
 		"y": -992,
 		"root": true
+	},
+	"1lnr7nc7b77nknlj": {
+		"definition": "unarmored",
+		"x": -224,
+		"y": -960,
+		"root": true
+	},
+	"j5ciudkg8jkhonac": {
+		"definition": "dagger_damage",
+		"x": -224,
+		"y": -896,
+		"root": true
+	},
+	"b49iv0wqcx38byfc": {
+		"definition": "trident_damage",
+		"x": -224,
+		"y": -832,
+		"root": true
+	},
+	"1gcpb8mqalhvka2r": {
+		"definition": "mace_damage",
+		"x": -224,
+		"y": -768,
+		"root": true
+	},
+	"03equwp92h9b0sbr": {
+		"definition": "axe_damage",
+		"x": -224,
+		"y": -704,
+		"root": true
+	},
+	"xz37o8i5w9f2kp7g": {
+		"definition": "sword_damage",
+		"x": -224,
+		"y": -640,
+		"root": true
+	},
+	"ciquyiy73azjjxnr": {
+		"definition": "spear_damage",
+		"x": -224,
+		"y": -576,
+		"root": true
 	}
 }

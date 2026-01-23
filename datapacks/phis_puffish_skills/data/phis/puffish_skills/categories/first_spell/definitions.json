@@ -10065,5 +10065,340 @@
         }
       }
     ]
+  },
+  "comment_3": {
+    "title": " ================================================================================ PATCH 1.6 BELOW ================================================================================",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
+      }
+    },
+    "size": 2,
+    "description": "Do not implement",
+    "required_spent_points": 99,
+    "rewards": [
+      {
+        "type": "puffish_skills:command",
+        "data": { "command": "playsound minecraft:ui.button.click" }
+      }
+    ],
+    "metadata": {
+      "icon": "g5x2usnqsenpe63o"
+    }
+  },
+  "axe_damage": {
+    "title": "Blood, Blood, Blood, Blood, Blood!!!!!",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/skill_icons/major/axe_damage_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/axe_damage_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/axe_damage_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/axe_damage_locked.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
+      }
+    },
+    "size": 2,
+    "description": [
+      "",
+      {
+        "text": "+25% "
+      },
+      {
+        "text": "damage with axes.",
+        "color": "dark_green"
+      },
+      { "text": "\n\nRequires level 9.", "color": "dark_gray" }
+    ],
+    "required_spent_points": 9,
+    "rewards": [
+      {
+        "type": "puffish_skills:command",
+        "data": { "command": "playsound minecraft:ui.button.click" }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_damage",
+          "value": 0.25,
+          "operation": "multiply_base"
+        }
+      }
+    ]
+  },
+  "sword_damage": {
+    "title": "Dragonslayer",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/skill_icons/major/sword_damage_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/sword_damage_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/sword_damage_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/sword_damage_locked.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
+      }
+    },
+    "size": 2,
+    "description": [
+      "",
+      {
+        "text": "+25% "
+      },
+      {
+        "text": "damage with swords.",
+        "color": "dark_green"
+      },
+      { "text": "\n\nRequires level 11.", "color": "dark_gray" }
+    ],
+    "required_spent_points": 11,
+    "rewards": [
+      {
+        "type": "puffish_skills:command",
+        "data": { "command": "playsound minecraft:ui.button.click" }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sword_damage",
+          "value": 0.25,
+          "operation": "multiply_base"
+        }
+      }
+    ]
+  },
+  "mace_damage": {
+    "title": "Crush the Bloodied Horns of the Goat",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/skill_icons/major/mace_damage_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/mace_damage_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/mace_damage_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/mace_damage_locked.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
+      }
+    },
+    "size": 2,
+    "description": [
+      "",
+      {
+        "text": "+25% "
+      },
+      {
+        "text": "damage with maces.",
+        "color": "dark_green"
+      },
+      { "text": "\n\nRequires level 7.", "color": "dark_gray" }
+    ],
+    "required_spent_points": 7,
+    "rewards": [
+      {
+        "type": "puffish_skills:command",
+        "data": { "command": "playsound minecraft:ui.button.click" }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mace_damage",
+          "value": 0.25,
+          "operation": "multiply_base"
+        }
+      }
+    ]
+  },
+  "trident_damage": {
+    "title": "Tides of Chaos",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/skill_icons/major/trident_damage_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/trident_damage_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/trident_damage_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/trident_damage_locked.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
+      }
+    },
+    "size": 2,
+    "description": [
+      "",
+      {
+        "text": "+25% "
+      },
+      {
+        "text": "damage with tridents.",
+        "color": "dark_green"
+      },
+      { "text": "\n\nRequires level 5.", "color": "dark_gray" }
+    ],
+    "required_spent_points": 5,
+    "rewards": [
+      {
+        "type": "puffish_skills:command",
+        "data": { "command": "playsound minecraft:ui.button.click" }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:trident_damage",
+          "value": 0.25,
+          "operation": "multiply_base"
+        }
+      }
+    ]
+  },
+  "dagger_damage": {
+    "title": "Twist the Knife",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/skill_icons/major/dagger_damage_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/dagger_damage_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/dagger_damage_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/dagger_damage_locked.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
+      }
+    },
+    "size": 2,
+    "description": [
+      "",
+      {
+        "text": "+25% "
+      },
+      {
+        "text": "damage with knives.",
+        "color": "dark_green"
+      },
+      { "text": "\n\nRequires level 3.", "color": "dark_gray" }
+    ],
+    "required_spent_points": 3,
+    "rewards": [
+      {
+        "type": "puffish_skills:command",
+        "data": { "command": "playsound minecraft:ui.button.click" }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "phis.dagger_damage"
+        }
+      }
+    ]
+  },
+  "spear_damage": {
+    "title": "The Thorns That Guide My Warpath",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/skill_icons/major/spear_damage_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/spear_damage_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/spear_damage_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/spear_damage_locked.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
+      }
+    },
+    "size": 2,
+    "description": [
+      "",
+      {
+        "text": "+25% "
+      },
+      {
+        "text": "damage with spears.",
+        "color": "dark_green"
+      },
+      { "text": "\n\nRequires level 13.", "color": "dark_gray" }
+    ],
+    "required_spent_points": 13,
+    "rewards": [
+      {
+        "type": "puffish_skills:command",
+        "data": { "command": "playsound minecraft:ui.button.click" }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "phis.spear_damage"
+        }
+      }
+    ]
+  },
+  "unarmored": {
+    "title": "Heir to the Cosmic Seed",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/skill_icons/major/unarmored_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/unarmored_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/unarmored_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/unarmored_locked.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
+      }
+    },
+    "size": 2,
+    "description": [
+      "",
+      {
+        "text": "When not waring armor, you sometimes dodge incoming damage. In addition, you get more XP when slaying monsters."
+      },
+      { "text": "\n\nRequires level 1.", "color": "dark_gray" }
+    ],
+    "required_spent_points": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:command",
+        "data": { "command": "playsound minecraft:ui.button.click" }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "phis.unarmored"
+        }
+      }
+    ]
   }
 }
