@@ -27,9 +27,9 @@ LootJS.modifiers((event) => {
   for (const undead_mob of undead_mobs) {
     event.addTableModifier(undead_mob).pool((pool) => {
       pool
-        .addEntry(LootEntry.of("kubejs:bottled_undead_soul").setCount([0, 1]))
+        .addEntry(LootEntry.of("endrem:undead_soul").setCount([0, 1]))
         .when((condition) => {
-          condition.randomChance(0.1);
+          condition.randomChance(0.01);
         });
     });
   }
