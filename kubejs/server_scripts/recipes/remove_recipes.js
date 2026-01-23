@@ -1,5 +1,4 @@
 ServerEvents.recipes((event) => {
-  event.remove({ id: "irons_spellbooks:divine_pearl" });
   event.remove({ id: "irons_spellbooks:spider_den_map" });
   event.remove({ id: "irons_spellbooks:citadel_map" });
   const trim_duplication_ids = [
