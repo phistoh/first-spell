@@ -1,5 +1,6 @@
 [
   {"version":1},
+  {"ingredient":{"id":"netherdepthsupgrade:soul_sucker_leather"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"irons_spellbooks:druidic_spell_book","components":{"irons_spellbooks:spell_container":{"mustEquip":true,"data":[],"maxSpells":10,"spellWheel":true}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"irons_spellbooks:villager_spell_book","components":{"irons_spellbooks:spell_container":{"mustEquip":true,"data":[],"maxSpells":10,"spellWheel":true}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"irons_spellbooks:dragonskin_spell_book","components":{"irons_spellbooks:spell_container":{"mustEquip":true,"data":[],"maxSpells":12,"spellWheel":true}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
