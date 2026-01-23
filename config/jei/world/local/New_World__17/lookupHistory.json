@@ -1,5 +1,13 @@
 [
   {"version":1},
+  {"ingredient":{"id":"irons_spellbooks:deepslate_mithril_ore"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_spellbooks:mithril_ore"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_spellbooks:dragonskin"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_spellbooks:raw_mithril"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_spellbooks:mithril_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_spellbooks:mithril_scrap"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_spellbooks:mithril_weave"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"arcaneessenceblock:arcane_essence_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"mounts_of_mayhem:stone_spear"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"mounts_of_mayhem:wooden_spear"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"netherdepthsupgrade:soul_sucker_leather"},"type":"item_stack","bookmarkType":"INGREDIENT"},
