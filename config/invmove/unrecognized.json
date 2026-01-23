@@ -9,7 +9,9 @@
     "top.theillusivec4.curios.client.gui.CuriosScreen": true,
     "net.p3pp3rf1y.sophisticatedbackpacks.client.gui.BackpackSettingsScreen": true,
     "mezz.jei.gui.recipes.RecipesGui": true,
-    "io.redspace.ironsspellbooks.gui.arcane_anvil.ArcaneAnvilScreen": true
+    "io.redspace.ironsspellbooks.gui.arcane_anvil.ArcaneAnvilScreen": true,
+    "betteradvancements.common.gui.BetterAdvancementsScreen": true,
+    "com.gizmo.music.MusicManagerScreen": true
   },
   "hideBackground": {
     "com.cobblemon.mod.common.client.gui.summary.Summary": true,
@@ -20,6 +22,7 @@
     "top.theillusivec4.curios.client.gui.CuriosScreen": true,
     "net.p3pp3rf1y.sophisticatedbackpacks.client.gui.BackpackSettingsScreen": true,
     "mezz.jei.gui.recipes.RecipesGui": true,
-    "io.redspace.ironsspellbooks.gui.arcane_anvil.ArcaneAnvilScreen": true
+    "io.redspace.ironsspellbooks.gui.arcane_anvil.ArcaneAnvilScreen": true,
+    "com.gizmo.music.MusicManagerScreen": true
   }
 }
