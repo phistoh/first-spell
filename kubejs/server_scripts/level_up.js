@@ -83,8 +83,8 @@ for (const lantern of lanterns) {
       const score = scoreboard.getOrCreatePlayerScore(scoreHolder, objective);
       const level = score.get();
 
-      const level_to_compare = level < 50 ? level + 1 : 30;
-      const category = level < 50 ? "first_spell" : "eternal_turn_of_the_wheel";
+      const level_to_compare = level < 64 ? level + 1 : 30;
+      const category = level < 64 ? "first_spell" : "eternal_turn_of_the_wheel";
 
       // change to Levels instead of XP
       if (player.xpLevel >= level_to_compare) {
@@ -110,7 +110,7 @@ for (const lantern of lanterns) {
         );
         if (category == "first_spell") {
           server.runCommandSilent(
-            `execute if score ${player_name} level matches 50.. run puffish_skills category unlock ${player_name} phis:eternal_turn_of_the_wheel`
+            `execute if score ${player_name} level matches 64.. run puffish_skills category unlock ${player_name} phis:eternal_turn_of_the_wheel`
           );
         }
         player.swing();
