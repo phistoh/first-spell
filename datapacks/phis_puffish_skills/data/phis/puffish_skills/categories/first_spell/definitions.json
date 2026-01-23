@@ -5158,9 +5158,6 @@
         "color": "gold"
       },
       {
-        "text": "."
-      },
-      {
         "text": ".\nIn addition, you unlock "
       },
       {
@@ -5177,7 +5174,7 @@
       },
       { "text": "\n\nRequires level 32.", "color": "dark_gray" }
     ],
-    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "extra_description": "To create a spell focus, hold an Arcane-infused bottle and press [Right Mouse Button] while holding [Shift]",
     "required_spent_points": 32,
     "rewards": [
       {
@@ -5185,11 +5182,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_focus_fire",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis.can_create_blazing_soul" }
       },
       {
         "type": "puffish_skills:command",
@@ -5563,9 +5557,6 @@
         "color": "#d0f9ff"
       },
       {
-        "text": "."
-      },
-      {
         "text": ".\nIn addition, you unlock "
       },
       {
@@ -5582,7 +5573,7 @@
       },
       { "text": "\n\nRequires level 32.", "color": "dark_gray" }
     ],
-    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "extra_description": "To create a spell focus, hold an Arcane-infused bottle and press [Right Mouse Button] while holding [Shift]",
     "required_spent_points": 32,
     "rewards": [
       {
@@ -5590,11 +5581,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_focus_ice",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis.can_create_freezing_soul" }
       },
       {
         "type": "puffish_skills:command",
@@ -5968,9 +5956,6 @@
         "color": "aqua"
       },
       {
-        "text": "."
-      },
-      {
         "text": ".\nIn addition, you unlock "
       },
       {
@@ -5987,7 +5972,7 @@
       },
       { "text": "\n\nRequires level 32.", "color": "dark_gray" }
     ],
-    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "extra_description": "To create a spell focus, hold an Arcane-infused bottle and press [Right Mouse Button] while holding [Shift]",
     "required_spent_points": 32,
     "rewards": [
       {
@@ -5995,11 +5980,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_focus_lightning",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis.can_create_crackling_soul" }
       },
       {
         "type": "puffish_skills:command",
@@ -6373,9 +6355,6 @@
         "color": "#fff8d4"
       },
       {
-        "text": "."
-      },
-      {
         "text": ".\nIn addition, you unlock "
       },
       {
@@ -6392,7 +6371,7 @@
       },
       { "text": "\n\nRequires level 32.", "color": "dark_gray" }
     ],
-    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "extra_description": "To create a spell focus, hold an Arcane-infused bottle and press [Right Mouse Button] while holding [Shift]",
     "required_spent_points": 32,
     "rewards": [
       {
@@ -6400,11 +6379,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_focus_holy",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis.can_create_immaculate_soul" }
       },
       {
         "type": "puffish_skills:command",
@@ -6778,9 +6754,6 @@
         "color": "light_purple"
       },
       {
-        "text": "."
-      },
-      {
         "text": ".\nIn addition, you unlock "
       },
       {
@@ -6797,7 +6770,7 @@
       },
       { "text": "\n\nRequires level 32.", "color": "dark_gray" }
     ],
-    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "extra_description": "To create a spell focus, hold an Arcane-infused bottle and press [Right Mouse Button] while holding [Shift]",
     "required_spent_points": 32,
     "rewards": [
       {
@@ -6805,11 +6778,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_focus_ender",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis.can_create_cosmic_soul" }
       },
       {
         "type": "puffish_skills:command",
@@ -7183,9 +7153,6 @@
         "color": "dark_red"
       },
       {
-        "text": "."
-      },
-      {
         "text": ".\nIn addition, you unlock "
       },
       {
@@ -7202,7 +7169,7 @@
       },
       { "text": "\n\nRequires level 32.", "color": "dark_gray" }
     ],
-    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "extra_description": "To create a spell focus, hold an Arcane-infused bottle and press [Right Mouse Button] while holding [Shift]",
     "required_spent_points": 32,
     "rewards": [
       {
@@ -7210,11 +7177,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_focus_blood",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis.can_create_crimson_soul" }
       },
       {
         "type": "puffish_skills:command",
@@ -7588,9 +7552,6 @@
         "color": "white"
       },
       {
-        "text": "."
-      },
-      {
         "text": ".\nIn addition, you unlock "
       },
       {
@@ -7607,7 +7568,7 @@
       },
       { "text": "\n\nRequires level 32.", "color": "dark_gray" }
     ],
-    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "extra_description": "To create a spell focus, hold an Arcane-infused bottle and press [Right Mouse Button] while holding [Shift]",
     "required_spent_points": 32,
     "rewards": [
       {
@@ -7615,11 +7576,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_focus_evocation",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis.can_create_mystical_soul" }
       },
       {
         "type": "puffish_skills:command",
@@ -7993,9 +7951,6 @@
         "color": "green"
       },
       {
-        "text": "."
-      },
-      {
         "text": ".\nIn addition, you unlock "
       },
       {
@@ -8012,7 +7967,7 @@
       },
       { "text": "\n\nRequires level 32.", "color": "dark_gray" }
     ],
-    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "extra_description": "To create a spell focus, hold an Arcane-infused bottle and press [Right Mouse Button] while holding [Shift]",
     "required_spent_points": 32,
     "rewards": [
       {
@@ -8020,11 +7975,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_focus_nature",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis.can_create_wild_soul" }
       },
       {
         "type": "puffish_skills:command",
@@ -8414,7 +8366,7 @@
       },
       { "text": "\n\nRequires level 32.", "color": "dark_gray" }
     ],
-    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "extra_description": "To create a spell focus, hold an Arcane-infused bottle and press [Right Mouse Button] while holding [Shift]",
     "required_spent_points": 32,
     "rewards": [
       {
@@ -8422,11 +8374,8 @@
         "data": { "command": "playsound minecraft:ui.button.click" }
       },
       {
-        "type": "astages:stage_reward",
-        "data": {
-          "stage": "phis_stage_focus_sound",
-          "operation": "add"
-        }
+        "type": "puffish_skills:tag",
+        "data": { "tag": "phis.can_create_echoing_soul" }
       },
       {
         "type": "puffish_skills:command",
