@@ -491,6 +491,9 @@ chunk_rebuild_scheduler = "culling"
 				zombie_nautilus = true
 				nautilus = true
 
+			[light_sources.settings.entities.sophisticatedbackpacks]
+				everlasting_backpack_item = true
+
 			[light_sources.settings.entities.simplemusket]
 				musket_pillager = true
 				bullet = true
