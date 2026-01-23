@@ -18,9 +18,9 @@ show_mod_name = false
 	# Show keybinds in hint text.
 	# default: true
 	show_keybinds = true
-		# This setting changes what Minecraft colour is used for hint tooltips, either by colour code or name.
-		# default: Gray
-		color = "Gray"
+	# This setting changes what Minecraft colour is used for hint tooltips, either by colour code or name.
+	# default: Gray
+	color = "Gray"
 	# Italicize Hints
 	# default: false
 	italics = false

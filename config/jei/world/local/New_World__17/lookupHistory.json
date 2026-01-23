@@ -1,5 +1,7 @@
 [
   {"version":1},
+  {"ingredient":{"id":"unbreakablecatalyst:unbreakable_catalyst"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"rubinated_nether:ardenter_rune"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"irons_spellbooks:divine_pearl"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"irons_spellbooks:divine_soulshard"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"mounts_of_mayhem:diamond_spear"},"type":"item_stack","bookmarkType":"INGREDIENT"},

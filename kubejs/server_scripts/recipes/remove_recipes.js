@@ -40,6 +40,8 @@ ServerEvents.recipes((event) => {
 
   event.remove({ id: "irons_spellbooks:wayward_compass" });
 
+  event.remove({ id: "unbreakablecatalyst:unbreakable_catalyst" });
+
   // double recipes
   event.remove({ id: "vanillabackport:saddle" });
 });

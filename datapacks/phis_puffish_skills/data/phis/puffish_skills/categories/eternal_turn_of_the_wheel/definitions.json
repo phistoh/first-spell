@@ -14,7 +14,7 @@
     "icon": {
       "type": "item",
       "data": {
-        "item": "minecraft:nether_star"
+        "item": "unbreakablecatalyst:unbreakable_catalyst"
       }
     },
     "description": [
@@ -30,7 +30,7 @@
         "text": " "
       },
       {
-        "text": "Nether Star",
+        "text": "Unbreakable Catalyst",
         "color": "yellow"
       },
       {
@@ -45,7 +45,7 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "command": "give @s minecraft:nether_star"
+          "command": "give @s unbreakablecatalyst:unbreakable_catalyst"
         }
       },
       {
