@@ -119,6 +119,9 @@ ENCHANTMENTS = [
     Enchantment("wax_on_trail", "enchantencore", 1, 1),
     Enchantment("witch_arrow_trail", "enchantencore", 1, 1),
     Enchantment("witch_trail", "enchantencore", 1, 1),
+    Enchantment("acrobat", "combat_roll", 1, 5),
+    Enchantment("longfooted", "combat_roll", 1, 4),
+    Enchantment("multi_roll", "combat_roll", 1, 3),
     # Tier 2
     Enchantment("feather_falling", "minecraft", 2, 4),
     Enchantment("efficiency", "minecraft", 2, 5),
