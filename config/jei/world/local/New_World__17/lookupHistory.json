@@ -1,5 +1,7 @@
 [
   {"version":1},
+  {"ingredient":{"id":"kubejs:echoing_soul"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"keeperofinventories:keeper_of_inventories"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"irons_spellbooks:wandering_magician_chestplate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"endrem:cryptic_eye"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"sophisticatedbackpacks:iron_backpack"},"type":"item_stack","bookmarkType":"INGREDIENT"},
