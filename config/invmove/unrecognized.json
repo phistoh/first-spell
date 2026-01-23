@@ -8,7 +8,8 @@
     "net.p3pp3rf1y.sophisticatedbackpacks.client.gui.BackpackScreen": true,
     "top.theillusivec4.curios.client.gui.CuriosScreen": true,
     "net.p3pp3rf1y.sophisticatedbackpacks.client.gui.BackpackSettingsScreen": true,
-    "mezz.jei.gui.recipes.RecipesGui": true
+    "mezz.jei.gui.recipes.RecipesGui": true,
+    "io.redspace.ironsspellbooks.gui.arcane_anvil.ArcaneAnvilScreen": true
   },
   "hideBackground": {
     "com.cobblemon.mod.common.client.gui.summary.Summary": true,
@@ -18,6 +19,7 @@
     "net.p3pp3rf1y.sophisticatedbackpacks.client.gui.BackpackScreen": true,
     "top.theillusivec4.curios.client.gui.CuriosScreen": true,
     "net.p3pp3rf1y.sophisticatedbackpacks.client.gui.BackpackSettingsScreen": true,
-    "mezz.jei.gui.recipes.RecipesGui": true
+    "mezz.jei.gui.recipes.RecipesGui": true,
+    "io.redspace.ironsspellbooks.gui.arcane_anvil.ArcaneAnvilScreen": true
   }
 }
