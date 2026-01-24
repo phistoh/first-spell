@@ -6156,7 +6156,7 @@
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/skill_icons/holy/holy_mage_3unlocked.png",
+        "unlocked": "phis:textures/gui/skill_icons/holy/holy_mage_3_unlocked.png",
         "available": "phis:textures/gui/skill_icons/holy/holy_mage_3_locked.png",
         "affordable": "phis:textures/gui/skill_icons/holy/holy_mage_3_available.png",
         "locked": "phis:textures/gui/skill_icons/holy/holy_mage_3_locked.png"

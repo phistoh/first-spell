@@ -5,6 +5,38 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.6] - 2026-01-24
+
+### Added
+
+- Skill to create spell foci from health
+- Recipe to transmute spell foic to foci of different schools
+- Skills to boost different weapon types
+- Skill to boost unarmored gameplay
+- Recipe to create *Dragonskin*
+- Recipes to create *Mithril*
+- Recipes to create *Spears*
+- **Unbreakable Catalyst** mod
+- **Complete Cobblemon Collection** data- and resource pack
+- Way to decurse cursed items
+
+### Fixed
+
+- Undead mobs now drop *Undead Soul* instead of *Bottled Undead Soul*
+- **Iron's Spellbooks** now use *Ancient Books* instead of *Enchanted Books* in recipes
+- Recipe to create *Soul Sucker Leather* from *Soul Sucker* does not use up shears anymore
+- **Combat Roll** enchantments are not free anymore
+
+### Changed
+
+- **Iron's Spellbooks** mage armors are a bit stronger (e.g. spell school specific sets are comparable with *Iron Armor*)
+- Max level now is 64 (a whole stack)
+- Update **Just Colored Lighting** shader from `0.4.1` to `0.4.6`
+- *Divine Pearls* are now craftable again
+- Update **NeoForge** from `21.1.215` to `21.1.216`
+
+### Removed
+
 ## [1.5] - 2026-01-19
 
 ### Added
@@ -19,76 +51,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 
-
-￼enchantencore:bunny_hop 3
-￼enchantencore:crab_claw 3
-￼enchantencore:crop_dance 1
-￼enchantencore:electric_walker 1
-￼enchantencore:end_speed 3
-￼enchantencore:glass_breaker 1
-￼enchantencore:gluttony 5
-￼enchantencore:grass_walker 2
-￼enchantencore:growth 5
-￼enchantencore:shrinkage 5
-￼enchantencore:night_vision 1
-￼enchantencore:pickpocket 1
-￼enchantencore:pufferfish 1
-￼enchantencore:sand_speed 3
-￼enchantencore:seeker 3
-￼enchantencore:summer_walker 2
-￼enchantencore:cherry_leaves_arrow_trail 1
-￼enchantencore:cherry_leaves_trail 1
-￼enchantencore:cosy_smoke_arrow_trail 1
-￼enchantencore:cosy_smoke_trail 1
-￼enchantencore:dolphin_arrow_trail 1
-￼enchantencore:dolphin_trail 1
-￼enchantencore:dripping_honey_arrow_trail 1
-￼enchantencore:dripping_honey_trail 1
-￼enchantencore:dripping_lava_arrow_trail 1
-￼enchantencore:dripping_lava_trail 1
-￼enchantencore:dripping_obsidian_tear_arrow_trail 1
-￼enchantencore:dripping_obsidian_tear_trail 1
-￼enchantencore:dripping_water_arrow_trail 1
-￼enchantencore:dripping_water_trail 1
-￼enchantencore:enchant_arrow_trail 1
-￼enchantencore:enchant_trail 1
-￼enchantencore:end_rod_arrow_trail 1
-￼enchantencore:end_rod_trail 1
-￼enchantencore:firework_arrow_trail 1
-￼enchantencore:firework_trail 1
-￼enchantencore:flame_arrow_trail 1
-￼enchantencore:flame_trail 1
-￼enchantencore:happy_villager_arrow_trail 1
-￼enchantencore:happy_villager_trail 1
-￼enchantencore:heart_arrow_trail 1
-￼enchantencore:heart_trail 1
-￼enchantencore:note_arrow_trail 1
-￼enchantencore:note_trail 1
-￼enchantencore:ominous_spawning_arrow_trail 1
-￼enchantencore:ominous_spawning_trail 1
-￼enchantencore:portal_arrow_trail 1
-￼enchantencore:portal_trail 1
-￼enchantencore:raid_omen_arrow_trail 1
-￼enchantencore:raid_omen_trail 1
-￼enchantencore:scrape_arrow_trail 1
-￼enchantencore:scrape_trail 1
-￼enchantencore:sculk_soul_arrow_trail 1
-￼enchantencore:sculk_soul_trail 1
-￼enchantencore:snowflake_arrow_trail 1
-￼enchantencore:snowflake_trail 1
-￼enchantencore:soul_fire_flame_arrow_trail 1
-￼enchantencore:soul_fire_flame_trail 1
-￼enchantencore:totem_arrow_trail 1
-￼enchantencore:totem_trail 1
-￼enchantencore:trial_omen_arrow_trail 1
-￼enchantencore:trial_omen_trail 1
-￼enchantencore:wax_off_arrow_trail 1
-￼enchantencore:wax_off_trail 1
-￼enchantencore:wax_on_arrow_trail 1
-￼enchantencore:wax_on_trail 1
-￼enchantencore:witch_arrow_trail 1
-￼enchantencore:witch_trail 1
-Tier 2 -- Border Overworld- **yyzs Backpacks** mod (client and server side)
+- **yyzs Backpacks** mod (client and server side)
 
 ## [1.4] - 2026-01-19
 

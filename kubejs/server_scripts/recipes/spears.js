@@ -23,4 +23,11 @@ ServerEvents.recipes((event) => {
     M: "minecraft:diamond",
     S: "minecraft:stick",
   });
+
+  event.smithing(
+    "mounts_of_mayhem:netherite_spear", // arg 1: output
+    "minecraft:netherite_upgrade_smithing_template", // arg 2: the smithing template
+    "mounts_of_mayhem:diamond_spear", // arg 3: the item to be upgraded
+    "minecraft:netherite_ingot" // arg 4: the upgrade item
+  );
 });

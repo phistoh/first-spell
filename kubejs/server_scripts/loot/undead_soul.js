@@ -1,35 +1,33 @@
-LootJS.modifiers((event) => {
+LootJS.lootTables((event) => {
   const undead_mobs = [
-    "minecraft:bogged",
-    "minecraft:drowned",
-    "minecraft:husk",
-    "minecraft:phantom",
-    "minecraft:skeleton",
-    "minecraft:skeleton_horse",
-    "minecraft:stray",
-    "minecraft:wither",
-    "minecraft:wither_skeleton",
-    "minecraft:zoglin",
-    "minecraft:zombie",
-    "minecraft:zombie_horse",
-    "minecraft:zombie_villager",
-    "minecraft:zombified_piglin",
-    "variantsandventures:gelid",
-    "variantsandventures:murk",
-    "variantsandventures:thicket",
-    "variantsandventures:verdant",
-    "mounts_of_mayhem:zombie_nautilus",
-    "mounts_of_mayhem:parched",
-    "netherdepthsupgrade:wither_bonefish",
-    "bosses_of_mass_destruction:lich",
+    "minecraft:entities/bogged",
+    "minecraft:entities/drowned",
+    "minecraft:entities/husk",
+    "minecraft:entities/phantom",
+    "minecraft:entities/skeleton",
+    "minecraft:entities/skeleton_horse",
+    "minecraft:entities/stray",
+    "minecraft:entities/wither",
+    "minecraft:entities/wither_skeleton",
+    "minecraft:entities/zoglin",
+    "minecraft:entities/zombie",
+    "minecraft:entities/zombie_horse",
+    "minecraft:entities/zombie_villager",
+    "minecraft:entities/zombified_piglin",
+    "variantsandventures:entities/gelid",
+    "variantsandventures:entities/murk",
+    "variantsandventures:entities/thicket",
+    "variantsandventures:entities/verdant",
+    "netherdepthsupgrade:entities/wither_bonefish",
+    "bosses_of_mass_destruction:entities/lich",
   ];
 
   for (const undead_mob of undead_mobs) {
-    event.addTableModifier(undead_mob).pool((pool) => {
-      pool
-        .addEntry(LootEntry.of("endrem:undead_soul").setCount([0, 1]))
+    event.getLootTable(undead_mob).createPool((pool) => {
+      pool.rolls([0,1])
+        .addEntry(LootEntry.of("endrem:undead_soul"))
         .when((condition) => {
-          condition.randomChance(0.01);
+          condition.randomChance(0.1);
         });
     });
   }
