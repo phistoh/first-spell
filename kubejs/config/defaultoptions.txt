@@ -49,7 +49,7 @@ mouseSensitivity:0.2548808902799511
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:false
-resourcePacks:["vanilla","fabric","mod_resources","moonlight:merged_pack","file/infinity","file/first_spell"]
+resourcePacks:["vanilla","fabric","mod_resources","moonlight:merged_pack","file/Gentler Weather Sounds 2.0.0.zip","file/mod-descriptions-v7.zip","file/infinity","file/CCCwLegends1.7.zip","file/first_spell"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us

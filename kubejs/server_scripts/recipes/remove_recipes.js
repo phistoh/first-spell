@@ -43,4 +43,24 @@ ServerEvents.recipes((event) => {
 
   // double recipes
   event.remove({ id: "vanillabackport:saddle" });
+  event.remove({ id: "leafscopperbackport:copper_nugget_recipe" });
+  event.remove({ id: "leafscopperbackport:blast_copper_leggings" });
+  event.remove({ id: "leafscopperbackport:blast_copper_axe" });
+  event.remove({ id: "leafscopperbackport:blast_copper_shovel" });
+  event.remove({ id: "leafscopperbackport:blast_copper_helmet" });
+  event.remove({ id: "leafscopperbackport:blast_copper_sword" });
+  event.remove({ id: "leafscopperbackport:blast_copper_chestplate" });
+  event.remove({ id: "leafscopperbackport:blast_copper_pickaxe" });
+  event.remove({ id: "leafscopperbackport:blast_copper_hoe" });
+  event.remove({ id: "leafscopperbackport:blast_copper_boots" });
+  event.remove({ id: "leafscopperbackport:smelt_copper_leggings" });
+  event.remove({ id: "leafscopperbackport:smelt_copper_axe" });
+  event.remove({ id: "leafscopperbackport:smelt_copper_shovel" });
+  event.remove({ id: "leafscopperbackport:smelt_copper_helmet" });
+  event.remove({ id: "leafscopperbackport:smelt_copper_sword" });
+  event.remove({ id: "leafscopperbackport:smelt_copper_chestplate" });
+  event.remove({ id: "leafscopperbackport:smelt_copper_pickaxe" });
+  event.remove({ id: "leafscopperbackport:smelt_copper_hoe" });
+  event.remove({ id: "leafscopperbackport:smelt_copper_boots" });
+  event.remove({ id: "leafscopperbackport:copper_ingot_recipe" });
 });

@@ -1,5 +1,7 @@
 [
   {"version":1},
+  {"ingredient":{"id":"leafscopperbackport:copper_nugget"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:copper_nugget"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"bosses_of_mass_destruction:crystal_fruit"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"bosses_of_mass_destruction:mob_ward"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"bosses_of_mass_destruction:ancient_anima"},"type":"item_stack","bookmarkType":"INGREDIENT"},
