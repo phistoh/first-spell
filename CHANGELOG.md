@@ -19,6 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Unbreakable Catalyst** mod
 - **Complete Cobblemon Collection** data- and resource pack
 - Way to decurse cursed items
+- Way to convert *Copper Nuggets* from **Leaf's Copper Backport** to regular ones
 
 ### Fixed
 
@@ -36,6 +37,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update **NeoForge** from `21.1.215` to `21.1.216`
 
 ### Removed
+
+- Recipes to get *Copper Nuggets* from **Leaf's Copper Backport**
 
 ## [1.5] - 2026-01-19
 
