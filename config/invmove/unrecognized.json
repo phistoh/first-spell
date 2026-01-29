@@ -16,7 +16,13 @@
     "net.minecraft.client.gui.screens.PauseScreen": true,
     "net.minecraft.client.gui.screens.options.OptionsScreen": true,
     "net.caffeinemc.mods.sodium.client.gui.SodiumOptionsGUI": true,
-    "net.irisshaders.iris.gui.screen.ShaderPackScreen": true
+    "net.irisshaders.iris.gui.screen.ShaderPackScreen": true,
+    "net.neoforged.neoforge.client.gui.ModListScreen": true,
+    "xaero.map.gui.GuiWorldMapSettings": true,
+    "net.minecraft.client.gui.screens.options.SoundOptionsScreen": true,
+    "net.minecraft.client.gui.screens.options.controls.ControlsScreen": true,
+    "com.blamejared.controlling.client.NewKeyBindsScreen": true,
+    "xaero.map.gui.GuiMap": true
   },
   "hideBackground": {
     "com.cobblemon.mod.common.client.gui.summary.Summary": true,
