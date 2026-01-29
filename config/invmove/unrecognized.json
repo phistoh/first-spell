@@ -12,7 +12,11 @@
     "io.redspace.ironsspellbooks.gui.arcane_anvil.ArcaneAnvilScreen": true,
     "betteradvancements.common.gui.BetterAdvancementsScreen": true,
     "com.gizmo.music.MusicManagerScreen": true,
-    "com.cobblemon.mod.common.client.gui.pc.PCGUI": true
+    "com.cobblemon.mod.common.client.gui.pc.PCGUI": true,
+    "net.minecraft.client.gui.screens.PauseScreen": true,
+    "net.minecraft.client.gui.screens.options.OptionsScreen": true,
+    "net.caffeinemc.mods.sodium.client.gui.SodiumOptionsGUI": true,
+    "net.irisshaders.iris.gui.screen.ShaderPackScreen": true
   },
   "hideBackground": {
     "com.cobblemon.mod.common.client.gui.summary.Summary": true,
