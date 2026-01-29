@@ -429,6 +429,17 @@
       },
       "sync": "usefulspyglass:hud_base"
     },
+    "xaerohud:hud": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "xaerohud:hud"
+    },
     "xaeroworldmap:crosshair_message": {
       "displacement": {
         "x": 0,

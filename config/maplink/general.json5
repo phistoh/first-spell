@@ -3,7 +3,7 @@
 	"serverEntries": [
 		{
 			"maptype": "Squaremap",
-			"ip": "localhost:35069",
+			"ip": "localhost:46099",
 			"link": "localhost:8080",
 			"markerVisibilityMode": "Auto",
 			"markerLayers": [],
