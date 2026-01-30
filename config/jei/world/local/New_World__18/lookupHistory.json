@@ -1,4 +1,11 @@
 [
   {"version":1},
-  {"ingredient":{"id":"irons_restrictions:common_upgrade"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"irons_restrictions:uncommon_upgrade"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_restrictions:common_upgrade"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_restrictions:manuscript"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_restrictions:manuscript","components":{"irons_restrictions:school_component":"irons_spellbooks:blood"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_restrictions:manuscript","components":{"irons_restrictions:school_component":"irons_spellbooks:ice"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_restrictions:manuscript","components":{"irons_restrictions:school_component":"irons_spellbooks:holy"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_restrictions:manuscript","components":{"irons_restrictions:school_component":"irons_spellbooks:fire"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_restrictions:manuscript","components":{"irons_restrictions:school_component":"familiarslib:sound"}},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]
