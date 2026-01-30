@@ -490,3 +490,23 @@ AStages.addRestrictionForTag(
   .setCanBeStoredInInventory(true)
   .setCanBeStoredInContainers(true)
   .setCanPickedUp(true);
+
+// Iron's Restrictions
+const rarities = ["uncommon", "rare", "epic", "legendary"];
+for (const rarity of rarities) {
+  AStages.addRestrictionForRecipe(
+    `phis/crafting_${rarity}_upgrade`,
+    `phis_stage_spells_${rarity}`,
+    "minecraft:crafting",
+    `kubejs:${rarity}_orb`,
+  );
+
+  AStages.addRestrictionForItem(
+    `phis/use_${rarity}_upgrade`,
+    `phis_stage_spells_${rarity}`,
+    `irons_restrictions:${rarity}_upgrade`,
+  )
+    .setCanBeStoredInInventory(true)
+    .setCanBeStoredInContainers(true)
+    .setCanPickedUp(true);
+}

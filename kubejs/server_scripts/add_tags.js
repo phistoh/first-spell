@@ -28,18 +28,15 @@ ServerEvents.tags("item", (event) => {
   }
 
   // Corrupted Shield is a Shield!
-  event.add('c:tools/shield', 'endermanoverhaul:corrupted_shield')
-  event.add('c:tools/shields', 'endermanoverhaul:corrupted_shield')
+  event.add("c:tools/shield", "endermanoverhaul:corrupted_shield");
+  event.add("c:tools/shields", "endermanoverhaul:corrupted_shield");
 
   // Arcane Essence related
   // event.add(
   //   "fated_inventory:charges_fated_altar",
   //   "irons_spellbooks:arcane_essence"
   // );
-  event.add(
-    "sneakycurses:reveals_curses",
-    "irons_spellbooks:arcane_essence"
-  );
+  event.add("sneakycurses:reveals_curses", "irons_spellbooks:arcane_essence");
 
   // Rock splitter tag
   const rock_splitter = [
@@ -53,12 +50,12 @@ ServerEvents.tags("item", (event) => {
     "rocks:netherrack_splitter",
     "rocks:soul_soil_splitter",
     "minecraft:flint",
-    "minecraft:prismarine_shard"
-  ]
+    "minecraft:prismarine_shard",
+  ];
   for (const splitter of rock_splitter) {
     event.add("rocks:splitter", splitter);
   }
-  
+
   // Nether bricks (for Nether chest)
   event.add("phis:nether_bricks", "minecraft:nether_bricks");
   event.add("phis:nether_bricks", "minecraft:chiseled_nether_bricks");
@@ -89,8 +86,16 @@ ServerEvents.tags("item", (event) => {
   // event.add("phis:enchanting_table", "enchant_revised:enchant_altar");
 
   // Sticky Crafting
-  event.add("map_atlases:sticky_crafting_items", "moresnifferflowers:corrupted_slime_ball");
-  event.add("map_atlases:sticky_crafting_items", "crittersandcompanions:sea_bunny_slime_bottle");
+  event.add(
+    "map_atlases:sticky_crafting_items",
+    "moresnifferflowers:corrupted_slime_ball",
+  );
+  event.add(
+    "map_atlases:sticky_crafting_items",
+    "crittersandcompanions:sea_bunny_slime_bottle",
+  );
+  event.add("map_atlases:sticky_crafting_items", "minecraft:slime_ball");
+  event.add("map_atlases:sticky_crafting_items", "minecraft:honey_bottle");
 
   // Ink
   event.add("phis:ink", "supplementaries:antique_ink");
@@ -101,14 +106,98 @@ ServerEvents.tags("item", (event) => {
   event.add("phis:ink", "irons_spellbooks:legendary_ink");
 
   // Diamond Shears
-  event.add("c:enchantables", "kubejs:diamond_shears")
-  event.add("enchantencore:all_enchantable", "kubejs:diamond_shears")
-  event.add('enchantencore:all_tools', "kubejs:diamond_shears")
-  event.add('minecraft:enchantable/durability', "kubejs:diamond_shears")
-  event.add('minecraft:enchantable/vanishing', "kubejs:diamond_shears")
-  event.add('enchantencore:no_weapons', "kubejs:diamond_shears")
-  event.add('c:tools/shears', "kubejs:diamond_shears")
-  event.add('minecraft:enchantable/mining', "kubejs:diamond_shears")
+  event.add("c:enchantables", "kubejs:diamond_shears");
+  event.add("enchantencore:all_enchantable", "kubejs:diamond_shears");
+  event.add("enchantencore:all_tools", "kubejs:diamond_shears");
+  event.add("minecraft:enchantable/durability", "kubejs:diamond_shears");
+  event.add("minecraft:enchantable/vanishing", "kubejs:diamond_shears");
+  event.add("enchantencore:no_weapons", "kubejs:diamond_shears");
+  event.add("c:tools/shears", "kubejs:diamond_shears");
+  event.add("minecraft:enchantable/mining", "kubejs:diamond_shears");
+
+  // Plushies
+  const plushies = [
+    "plushie_allay",
+    "plushie_axolotl",
+    "plushie_bee",
+    "plushie_chicken",
+    "plushie_cow",
+    "plushie_fox",
+    "plushie_parrot",
+    "plushie_pig",
+    "plushie_sheep",
+    "plushie_turtle",
+    "plushie_camel",
+    "plushie_cat",
+    "plushie_creeper",
+    "plushie_dolphin",
+    "plushie_enderdragon",
+    "plushie_enderman",
+    "plushie_frog",
+    "plushie_ghast",
+    "plushie_goat",
+    "plushie_horse",
+    "plushie_mooshroom",
+    "plushie_panda",
+    "plushie_polar_bear",
+    "plushie_pufferfish",
+    "plushie_rabbit",
+    "plushie_skeleton_horse",
+    "plushie_sniffer",
+    "plushie_squid",
+    "plushie_wolf",
+    "plushie_donkey",
+    "plushie_bat",
+    "plushie_phantom",
+    "plushie_skeleton",
+    "plushie_spider",
+    "plushie_warden",
+    "plushie_witch",
+    "plushie_wither",
+    "plushie_wither_skeleton",
+    "plushie_zoglin",
+    "plushie_zombie",
+    "plushie_trader_lama",
+    "plushie_villager",
+    "plushie_wandering_trader",
+    "plushie_zombie_villager",
+    "plushie_iron_golem",
+    "plushie_evoker",
+    "plushie_pillager",
+    "plushie_ravanger",
+    "plushie_vex",
+    "plushie_vindicator",
+    "plushie_blaze",
+    "plushie_drowned",
+    "plushie_hoglin",
+    "plushie_husk",
+    "plushie_magma_cube",
+    "plushie_piglin",
+    "plushie_piglin_brute",
+    "plushie_stray",
+    "plushie_strider",
+    "plushie_zombified_piglin",
+    "plushie_armadillo",
+    "plushie_breeze",
+    "plushie_cave_spider",
+    "plushie_glow_squid",
+    "plushie_guardian",
+    "plushie_llama",
+    "plushie_mule",
+    "plushie_shulker",
+    "plushie_slime",
+    "plushie_elder_guardian",
+    "plushie_peter",
+    "plushie_dark_father",
+    "plushie_emperor",
+    "plushie_yoga",
+    "plushie_chewie",
+    "plushie_dan_rolo",
+    "plushie_storm_soldier",
+  ];
+  for (const plush of plushies) {
+    event.add("phis:plushies", `plushie_buddies:${plush}`);
+  }
 });
 
 ServerEvents.tags("block", (event) => {
