@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:empty_map",
+    "minecraft:filled_map"
+  ]
+}
