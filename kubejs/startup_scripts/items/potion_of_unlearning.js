@@ -13,7 +13,7 @@ StartupEvents.registry("item", (event) => {
       if (!level.isClientSide()) {
         const player_name = entity.name.string
         const coordinates = `${entity.x} ${entity.y} ${entity.z}`
-        
+
         entity.server.runCommandSilent(
           `title ${player_name} subtitle {"text": "Don't forget to reassign them.", "color": "dark_aqua"}`
         );
@@ -27,6 +27,8 @@ StartupEvents.registry("item", (event) => {
           `puffish_skills skills reset ${player_name} phis:first_spell`
         );
         entity.server.runCommandSilent(`astages remove_all ${player_name}`);
+
+        entity.server.runCommandSilent(`execute as ${player_name} run rarity set COMMON`);
       }
       return itemstack;
     });
