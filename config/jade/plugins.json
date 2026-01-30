@@ -75,10 +75,6 @@
     "pokemon_entity": true,
     "berry_bush": true
   },
-  "item-descriptions": {
-    "block_descriptions": true,
-    "entity_descriptions": true
-  },
   "supplementaries": {
     "hat_stand": true
   },
@@ -98,6 +94,10 @@
   },
   "astages": {
     "block_component_provider": true
+  },
+  "item_descriptions": {
+    "block_descriptions": true,
+    "entity_descriptions": true
   },
   "balm": {
     "jade": true

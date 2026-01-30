@@ -18,9 +18,9 @@ show_mod_name = false
 	# Show keybinds in hint text.
 	# default: true
 	show_keybinds = true
-	# This setting changes what Minecraft colour is used for hint tooltips, either by colour code or name.
-	# default: Gray
-	color = "Gray"
+	# This setting changes what colour code is used for hint tooltips.
+	# default: 11184810
+	colour = 11184810
 	# Italicize Hints
 	# default: false
 	italics = false
@@ -29,9 +29,9 @@ show_mod_name = false
 	uppercase = true
 
 [style]
-	# This setting changes what Minecraft colour is used for block, item, and entity tooltips, either by colour code or name.
-	# default: Gray
-	color = "Gray"
+	# This setting changes what colour code is used for block, item, and entity tooltips.
+	# default: 11184810
+	colour = 11184810
 	# This setting changes whether block, item, and entity tooltips are italicized.
 	# default: false
 	italics = false
@@ -41,9 +41,9 @@ show_mod_name = false
 	# Changes the minimum width of multi-line tooltip. Expands for longer item names. Ignored when ToolTipFix is present.
 	# default: 160
 	length = 160
-	# Color of the mod name tooltip
-	# default: Blue
-	mod_name_color = "Blue"
+	# Colour of the mod name tooltip
+	# default: 5592575
+	mod_name_colour = 5592575
 	# Whether to italicize the mod name tooltip
 	# default: true
 	mod_name_italics = true
@@ -93,10 +93,10 @@ show_mod_name = false
 	only_enchantment_descriptions_on_books = true
 	# Show Enchantment Descriptions in the Enchanting Table
 	# default: true
-	show_in_table = false
-	# This setting changes what Minecraft colour is used for enchantment tooltips, either by colour code or name.
-	# default: Dark Gray
-	color = "Dark Gray"
+	show_in_table = true
+	# This setting changes what colour code is used for enchantment tooltips.
+	# default: 5592405
+	colour = 4478429
 	# Italicize Enchantment Descriptions
 	# default: false
 	italics = false
@@ -108,9 +108,9 @@ show_mod_name = false
 	# Always show Effect Descriptions, not just when a key is held.
 	# default: false
 	display_always = false
-	# This setting changes what Minecraft colour is used for effect tooltips, either by colour code or name.
-	# default: Dark Gray
-	color = "Dark Gray"
+	# This setting changes what colour code is used for effect tooltips.
+	# default: 5592405
+	colour = 5592405
 	# Replace Item Descriptions with Effect Descriptions when present.
 	# default: false
 	only_show_effect_descriptions = false

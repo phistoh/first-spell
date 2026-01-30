@@ -32,7 +32,6 @@ ENCHANTMENTS = [
     Enchantment("scholar_of_blocks", "enchantencore", 0, 0),
     Enchantment("scholar_of_mobs", "enchantencore", 0, 0),
     Enchantment("swift_slash", "enchantencore", 0, 0),
-    Enchantment("mending", "minecraft", 0, 0),
     Enchantment("cleansing", "enchantencore", 0, 0),
     Enchantment("handyman", "enchantencore", 0, 0),
     Enchantment("illumination", "enchantencore", 0, 0),
