@@ -1,8 +1,8 @@
 LootJS.modifiers((event) => {
   const echo_mobs = [
-    "deeperdarker:sculk_centipede",
-    "deeperdarker:sculk_snapper",
-    "deeperdarker:sculk_snapper",
+    "deeperdarker:entities/sculk_centipede",
+    "deeperdarker:entities/sculk_snapper",
+    "deeperdarker:entities/sculk_snapper",
   ];
 
   for (const echo_mob of echo_mobs) {
