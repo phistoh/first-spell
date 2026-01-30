@@ -1,5 +1,13 @@
 [
   {"version":1},
+  {"ingredient":{"id":"luckyswardrobe:snow_fox_hat"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"luckyswardrobe:snowy_coat"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"luckyswardrobe:witch_hat"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"luckyswardrobe:blacksmith_mask"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"luckyswardrobe:farmer_hat"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"luckyswardrobe:explorers_hat"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"luckyswardrobe:top_hat"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"luckyswardrobe:hat"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:crimson_stairs"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"leafscopperbackport:copper_nugget"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:copper_nugget"},"type":"item_stack","bookmarkType":"INGREDIENT"},

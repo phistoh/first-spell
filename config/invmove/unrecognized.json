@@ -22,7 +22,9 @@
     "net.minecraft.client.gui.screens.options.SoundOptionsScreen": true,
     "net.minecraft.client.gui.screens.options.controls.ControlsScreen": true,
     "com.blamejared.controlling.client.NewKeyBindsScreen": true,
-    "xaero.map.gui.GuiMap": true
+    "xaero.map.gui.GuiMap": true,
+    "lain.mods.cos.impl.client.gui.GuiCosArmorInventory": true,
+    "net.blay09.mods.hardcorerevival.client.KnockoutScreen": true
   },
   "hideBackground": {
     "com.cobblemon.mod.common.client.gui.summary.Summary": true,
@@ -35,6 +37,8 @@
     "mezz.jei.gui.recipes.RecipesGui": true,
     "io.redspace.ironsspellbooks.gui.arcane_anvil.ArcaneAnvilScreen": true,
     "com.gizmo.music.MusicManagerScreen": true,
-    "com.cobblemon.mod.common.client.gui.pc.PCGUI": true
+    "com.cobblemon.mod.common.client.gui.pc.PCGUI": true,
+    "lain.mods.cos.impl.client.gui.GuiCosArmorInventory": true,
+    "net.blay09.mods.hardcorerevival.client.KnockoutScreen": true
   }
 }

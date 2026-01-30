@@ -374,6 +374,72 @@
       },
       "sync": "overflowingbars:toughness_level"
     },
+    "revive_me:chat_fallen_timer_screen": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "revive_me:chat_fallen_timer_screen"
+    },
+    "revive_me:fallen_screen": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "revive_me:fallen_screen"
+    },
+    "revive_me:fallen_self_revive_screen": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "revive_me:fallen_self_revive_screen"
+    },
+    "revive_me:requirement_screen": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "revive_me:requirement_screen"
+    },
+    "revive_me:revive_button": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "revive_me:revive_button"
+    },
+    "revive_me:revive_screen": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "revive_me:revive_screen"
+    },
     "rubinated_nether:ruby_lens_overlay": {
       "displacement": {
         "x": 0,
