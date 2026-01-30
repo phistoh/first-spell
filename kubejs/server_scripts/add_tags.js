@@ -198,6 +198,8 @@ ServerEvents.tags("item", (event) => {
   for (const plush of plushies) {
     event.add("phis:plushies", `plushie_buddies:${plush}`);
   }
+
+  event.add("c:tools/ranged_weapon", "simplemusket:musket")
 });
 
 ServerEvents.tags("block", (event) => {

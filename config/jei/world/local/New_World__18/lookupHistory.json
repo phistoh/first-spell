@@ -1,5 +1,7 @@
 [
   {"version":1},
+  {"ingredient":{"id":"irons_restrictions:manuscript","components":{"irons_restrictions:school_component":"irons_spellbooks:lightning"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kubejs:drained_ancient_tome"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"irons_restrictions:uncommon_upgrade"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"irons_restrictions:common_upgrade"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"irons_restrictions:manuscript"},"type":"item_stack","bookmarkType":"INGREDIENT"},
