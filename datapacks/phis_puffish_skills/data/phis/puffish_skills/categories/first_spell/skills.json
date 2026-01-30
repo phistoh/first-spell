@@ -964,5 +964,41 @@
 		"x": -224,
 		"y": -576,
 		"root": true
+	},
+	"wvftulr8yqc05243": {
+		"definition": "versatile",
+		"x": 64,
+		"y": -832,
+		"root": true
+	},
+	"ea8chvlk14412tb8": {
+		"definition": "miners_wisdom",
+		"x": 64,
+		"y": -704,
+		"root": true
+	},
+	"le6vylrswti7e4cq": {
+		"definition": "staff_wielder",
+		"x": 64,
+		"y": -768,
+		"root": true
+	},
+	"xq9asjwgc55x5ww3": {
+		"definition": "two_handed",
+		"x": 64,
+		"y": -640,
+		"root": true
+	},
+	"1r8e0m6dppi35hsy": {
+		"definition": "legendary_spellcaster",
+		"x": 672,
+		"y": 96,
+		"root": true
+	},
+	"hjq19vvnd0oc02ng": {
+		"definition": "ranged",
+		"x": 64,
+		"y": -576,
+		"root": true
 	}
 }

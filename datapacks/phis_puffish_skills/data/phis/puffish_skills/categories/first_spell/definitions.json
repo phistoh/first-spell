@@ -4873,10 +4873,11 @@
       },
       {
         "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "rarity set UNCOMMON",
-          "lock_command": "rarity set COMMON"
-        }
+        "data": { "command": "give @s irons_restrictions:uncommon_upgrade" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_uncommon", "operation": "add" }
       }
     ],
     "metadata": {
@@ -4951,10 +4952,11 @@
       },
       {
         "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "rarity set RARE",
-          "lock_command": "rarity set COMMON"
-        }
+        "data": { "command": "give @s irons_restrictions:rare_upgrade" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_rare", "operation": "add" }
       }
     ],
     "metadata": {
@@ -5119,10 +5121,11 @@
       },
       {
         "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "rarity set EPIC",
-          "lock_command": "rarity set COMMON"
-        }
+        "data": { "command": "give @s irons_restrictions:epic_upgrade" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_epic", "operation": "add" }
       }
     ],
     "metadata": {
@@ -5187,10 +5190,11 @@
       },
       {
         "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "rarity set LEGENDARY",
-          "lock_command": "rarity set COMMON"
-        }
+        "data": { "command": "give @s irons_restrictions:legendary_upgrade" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_legendary", "operation": "add" }
       },
       {
         "type": "puffish_skills:command",
@@ -5265,10 +5269,11 @@
       },
       {
         "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "rarity set UNCOMMON",
-          "lock_command": "rarity set COMMON"
-        }
+        "data": { "command": "give @s irons_restrictions:uncommon_upgrade" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_uncommon", "operation": "add" }
       }
     ],
     "metadata": {
@@ -5343,10 +5348,11 @@
       },
       {
         "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "rarity set RARE",
-          "lock_command": "rarity set COMMON"
-        }
+        "data": { "command": "give @s irons_restrictions:rare_upgrade" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_rare", "operation": "add" }
       }
     ],
     "metadata": {
@@ -5518,10 +5524,11 @@
       },
       {
         "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "rarity set EPIC",
-          "lock_command": "rarity set COMMON"
-        }
+        "data": { "command": "give @s irons_restrictions:epic_upgrade" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_epic", "operation": "add" }
       }
     ],
     "metadata": {
@@ -5586,10 +5593,11 @@
       },
       {
         "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "rarity set LEGENDARY",
-          "lock_command": "rarity set COMMON"
-        }
+        "data": { "command": "give @s irons_restrictions:legendary_upgrade" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_legendary", "operation": "add" }
       },
       {
         "type": "puffish_skills:command",
@@ -5664,10 +5672,11 @@
       },
       {
         "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "rarity set UNCOMMON",
-          "lock_command": "rarity set COMMON"
-        }
+        "data": { "command": "give @s irons_restrictions:uncommon_upgrade" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_uncommon", "operation": "add" }
       }
     ],
     "metadata": {
@@ -5742,10 +5751,11 @@
       },
       {
         "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "rarity set RARE",
-          "lock_command": "rarity set COMMON"
-        }
+        "data": { "command": "give @s irons_restrictions:rare_upgrade" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_rare", "operation": "add" }
       }
     ],
     "metadata": {
@@ -5917,10 +5927,11 @@
       },
       {
         "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "rarity set EPIC",
-          "lock_command": "rarity set COMMON"
-        }
+        "data": { "command": "give @s irons_restrictions:epic_upgrade" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_epic", "operation": "add" }
       }
     ],
     "metadata": {
@@ -5985,10 +5996,11 @@
       },
       {
         "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "rarity set LEGENDARY",
-          "lock_command": "rarity set COMMON"
-        }
+        "data": { "command": "give @s irons_restrictions:legendary_upgrade" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_legendary", "operation": "add" }
       },
       {
         "type": "puffish_skills:command",
@@ -6063,10 +6075,11 @@
       },
       {
         "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "rarity set UNCOMMON",
-          "lock_command": "rarity set COMMON"
-        }
+        "data": { "command": "give @s irons_restrictions:uncommon_upgrade" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_uncommon", "operation": "add" }
       }
     ],
     "metadata": {
@@ -6141,10 +6154,11 @@
       },
       {
         "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "rarity set RARE",
-          "lock_command": "rarity set COMMON"
-        }
+        "data": { "command": "give @s irons_restrictions:rare_upgrade" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_rare", "operation": "add" }
       }
     ],
     "metadata": {
@@ -6316,10 +6330,11 @@
       },
       {
         "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "rarity set EPIC",
-          "lock_command": "rarity set COMMON"
-        }
+        "data": { "command": "give @s irons_restrictions:epic_upgrade" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_epic", "operation": "add" }
       }
     ],
     "metadata": {
@@ -6384,10 +6399,11 @@
       },
       {
         "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "rarity set LEGENDARY",
-          "lock_command": "rarity set COMMON"
-        }
+        "data": { "command": "give @s irons_restrictions:legendary_upgrade" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_legendary", "operation": "add" }
       },
       {
         "type": "puffish_skills:command",
@@ -6462,10 +6478,11 @@
       },
       {
         "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "rarity set UNCOMMON",
-          "lock_command": "rarity set COMMON"
-        }
+        "data": { "command": "give @s irons_restrictions:uncommon_upgrade" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_uncommon", "operation": "add" }
       }
     ],
     "metadata": {
@@ -6540,10 +6557,11 @@
       },
       {
         "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "rarity set RARE",
-          "lock_command": "rarity set COMMON"
-        }
+        "data": { "command": "give @s irons_restrictions:rare_upgrade" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_rare", "operation": "add" }
       }
     ],
     "metadata": {
@@ -6715,10 +6733,11 @@
       },
       {
         "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "rarity set EPIC",
-          "lock_command": "rarity set COMMON"
-        }
+        "data": { "command": "give @s irons_restrictions:epic_upgrade" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_epic", "operation": "add" }
       }
     ],
     "metadata": {
@@ -6783,10 +6802,11 @@
       },
       {
         "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "rarity set LEGENDARY",
-          "lock_command": "rarity set COMMON"
-        }
+        "data": { "command": "give @s irons_restrictions:legendary_upgrade" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_legendary", "operation": "add" }
       },
       {
         "type": "puffish_skills:command",
@@ -6861,10 +6881,11 @@
       },
       {
         "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "rarity set UNCOMMON",
-          "lock_command": "rarity set COMMON"
-        }
+        "data": { "command": "give @s irons_restrictions:uncommon_upgrade" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_uncommon", "operation": "add" }
       }
     ],
     "metadata": {
@@ -6939,10 +6960,11 @@
       },
       {
         "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "rarity set RARE",
-          "lock_command": "rarity set COMMON"
-        }
+        "data": { "command": "give @s irons_restrictions:rare_upgrade" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_rare", "operation": "add" }
       }
     ],
     "metadata": {
@@ -7114,10 +7136,11 @@
       },
       {
         "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "rarity set EPIC",
-          "lock_command": "rarity set COMMON"
-        }
+        "data": { "command": "give @s irons_restrictions:epic_upgrade" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_epic", "operation": "add" }
       }
     ],
     "metadata": {
@@ -7182,10 +7205,11 @@
       },
       {
         "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "rarity set LEGENDARY",
-          "lock_command": "rarity set COMMON"
-        }
+        "data": { "command": "give @s irons_restrictions:legendary_upgrade" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_legendary", "operation": "add" }
       },
       {
         "type": "puffish_skills:command",
@@ -7260,10 +7284,11 @@
       },
       {
         "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "rarity set UNCOMMON",
-          "lock_command": "rarity set COMMON"
-        }
+        "data": { "command": "give @s irons_restrictions:uncommon_upgrade" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_uncommon", "operation": "add" }
       }
     ],
     "metadata": {
@@ -7338,10 +7363,11 @@
       },
       {
         "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "rarity set RARE",
-          "lock_command": "rarity set COMMON"
-        }
+        "data": { "command": "give @s irons_restrictions:rare_upgrade" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_rare", "operation": "add" }
       }
     ],
     "metadata": {
@@ -7513,10 +7539,11 @@
       },
       {
         "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "rarity set EPIC",
-          "lock_command": "rarity set COMMON"
-        }
+        "data": { "command": "give @s irons_restrictions:epic_upgrade" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_epic", "operation": "add" }
       }
     ],
     "metadata": {
@@ -7581,10 +7608,11 @@
       },
       {
         "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "rarity set LEGENDARY",
-          "lock_command": "rarity set COMMON"
-        }
+        "data": { "command": "give @s irons_restrictions:legendary_upgrade" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_legendary", "operation": "add" }
       },
       {
         "type": "puffish_skills:command",
@@ -7659,10 +7687,11 @@
       },
       {
         "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "rarity set UNCOMMON",
-          "lock_command": "rarity set COMMON"
-        }
+        "data": { "command": "give @s irons_restrictions:uncommon_upgrade" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_uncommon", "operation": "add" }
       }
     ],
     "metadata": {
@@ -7737,10 +7766,11 @@
       },
       {
         "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "rarity set RARE",
-          "lock_command": "rarity set COMMON"
-        }
+        "data": { "command": "give @s irons_restrictions:rare_upgrade" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_rare", "operation": "add" }
       }
     ],
     "metadata": {
@@ -7912,10 +7942,11 @@
       },
       {
         "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "rarity set EPIC",
-          "lock_command": "rarity set COMMON"
-        }
+        "data": { "command": "give @s irons_restrictions:epic_upgrade" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_epic", "operation": "add" }
       }
     ],
     "metadata": {
@@ -7980,10 +8011,11 @@
       },
       {
         "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "rarity set LEGENDARY",
-          "lock_command": "rarity set COMMON"
-        }
+        "data": { "command": "give @s irons_restrictions:legendary_upgrade" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_legendary", "operation": "add" }
       },
       {
         "type": "puffish_skills:command",
@@ -8058,10 +8090,11 @@
       },
       {
         "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "rarity set UNCOMMON",
-          "lock_command": "rarity set COMMON"
-        }
+        "data": { "command": "give @s irons_restrictions:uncommon_upgrade" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_uncommon", "operation": "add" }
       }
     ],
     "metadata": {
@@ -8136,10 +8169,11 @@
       },
       {
         "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "rarity set RARE",
-          "lock_command": "rarity set COMMON"
-        }
+        "data": { "command": "give @s irons_restrictions:rare_upgrade" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_rare", "operation": "add" }
       }
     ],
     "metadata": {
@@ -8311,10 +8345,11 @@
       },
       {
         "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "rarity set EPIC",
-          "lock_command": "rarity set COMMON"
-        }
+        "data": { "command": "give @s irons_restrictions:epic_upgrade" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_epic", "operation": "add" }
       }
     ],
     "metadata": {
@@ -8379,10 +8414,11 @@
       },
       {
         "type": "puffish_skills:command",
-        "data": {
-          "unlock_command": "rarity set LEGENDARY",
-          "lock_command": "rarity set COMMON"
-        }
+        "data": { "command": "give @s irons_restrictions:legendary_upgrade" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_legendary", "operation": "add" }
       },
       {
         "type": "puffish_skills:command",
@@ -10398,6 +10434,370 @@
         "data": {
           "tag": "phis.unarmored"
         }
+      }
+    ]
+  },
+  "comment_4": {
+    "title": " ================================================================================ PATCH 1.7 BELOW ================================================================================",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
+      }
+    },
+    "size": 2,
+    "description": "Do not implement",
+    "required_spent_points": 99,
+    "rewards": [
+      {
+        "type": "puffish_skills:command",
+        "data": { "command": "playsound minecraft:ui.button.click" }
+      }
+    ],
+    "metadata": {
+      "icon": "g5x2usnqsenpe63o"
+    }
+  },
+  "versatile": {
+    "title": "The Axe, the Sword, the Wind and a Wolf",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/skill_icons/major/versatile_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/versatile_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/versatile_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/versatile_locked.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
+      }
+    },
+    "size": 2,
+    "description": [
+      "",
+      {
+        "text": "When dual-wielding two different types of melee weapons, you gain "
+      },
+      {
+        "text": "25%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "attack speed",
+        "color": "dark_green"
+      },
+      {
+        "text": "."
+      },
+      { "text": "\n\nRequires level 5.", "color": "dark_gray" }
+    ],
+    "required_spent_points": 5,
+    "rewards": [
+      {
+        "type": "puffish_skills:command",
+        "data": { "command": "playsound minecraft:ui.button.click" }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "phis.versatile"
+        }
+      }
+    ]
+  },
+  "miners_wisdom": {
+    "title": "Cave In",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/skill_icons/major/miners_wisdom_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/miners_wisdom_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/miners_wisdom_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/miners_wisdom_locked.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
+      }
+    },
+    "size": 2,
+    "description": [
+      "",
+      {
+        "text": "When wieding a weapon in your main hand and a light source in your off hand you gain"
+      },
+      {
+        "text": "25%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "mining efficiency",
+        "color": "dark_green"
+      },
+      {
+        "text": " and "
+      },
+      {
+        "text": "25%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "attack damage",
+        "color": "dark_green"
+      },
+      {
+        "text": "."
+      },
+      { "text": "\n\nRequires level 9.", "color": "dark_gray" }
+    ],
+    "required_spent_points": 9,
+    "rewards": [
+      {
+        "type": "puffish_skills:command",
+        "data": { "command": "playsound minecraft:ui.button.click" }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "phis.miners_wisdom"
+        }
+      }
+    ]
+  },
+  "staff_wielder": {
+    "title": "Sorcerer's Land",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/skill_icons/major/staff_wielder_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/staff_wielder_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/staff_wielder_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/staff_wielder_locked.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
+      }
+    },
+    "size": 2,
+    "description": [
+      "",
+      {
+        "text": "When wielding a staff you gain "
+      },
+      {
+        "text": "4",
+        "color": "dark_blue"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "armor points",
+        "color": "dark_green"
+      },
+      {
+        "text": "."
+      },
+      { "text": "\n\nRequires level 7.", "color": "dark_gray" }
+    ],
+    "required_spent_points": 7,
+    "rewards": [
+      {
+        "type": "puffish_skills:command",
+        "data": { "command": "playsound minecraft:ui.button.click" }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "phis.staff_wielder"
+        }
+      }
+    ]
+  },
+  "two_handed": {
+    "title": "Solitary Warrior",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/skill_icons/major/two_handed_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/two_handed_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/two_handed_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/two_handed_locked.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
+      }
+    },
+    "size": 2,
+    "description": [
+      "",
+      {
+        "text": "When wielding a two-handed weapon you gain "
+      },
+      {
+        "text": "25%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "armor shred",
+        "color": "dark_green"
+      },
+      {
+        "text": "."
+      },
+      { "text": "\n\nRequires level 11.", "color": "dark_gray" }
+    ],
+    "required_spent_points": 11,
+    "rewards": [
+      {
+        "type": "puffish_skills:command",
+        "data": { "command": "playsound minecraft:ui.button.click" }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "phis.staff_wielder"
+        }
+      }
+    ]
+  },
+  "ranged": {
+    "title": "The Hunter's Claw",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/skill_icons/major/ranged_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/ranged_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/ranged_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/ranged_locked.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
+      }
+    },
+    "size": 2,
+    "description": [
+      "",
+      {
+        "text": "When wielding a ranged weapon you gain "
+      },
+      {
+        "text": "25%",
+        "color": "dark_blue"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "movement speed",
+        "color": "dark_green"
+      },
+      {
+        "text": "."
+      },
+      { "text": "\n\nRequires level 13.", "color": "dark_gray" }
+    ],
+    "required_spent_points": 13,
+    "rewards": [
+      {
+        "type": "puffish_skills:command",
+        "data": { "command": "playsound minecraft:ui.button.click" }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "phis.ranged"
+        }
+      }
+    ]
+  },
+  "legendary_spellcaster": {
+    "title": "What Magic Is, What Are the Parts Thereof, and How the Professors Thereof Must Be Qualified",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/skill_icons/major/legendary_spellcaster_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/legendary_spellcaster_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/legendary_spellcaster_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/legendary_spellcaster_locked.png",
+        "excluded": "phis:textures/gui/skill_icons/major/legendary_spellcaster_excluded.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
+      }
+    },
+    "size": 2,
+    "description": [
+      "",
+      {
+        "text": "You unlock "
+      },
+      {
+        "text": "Legendary",
+        "color": "light_purple"
+      },
+      {
+        "text": " spells."
+      },
+      {
+        "text": " [...]",
+        "italic": true,
+        "color": "dark_gray"
+      },
+      { "text": "\n\nRequires level 34.", "color": "dark_gray" }
+    ],
+    "extra_description": "'Unlocking' means that you are able to put spells of the respective rarity in your spell book—if you have learned them.",
+    "required_spent_points": 34,
+    "rewards": [
+      {
+        "type": "puffish_skills:command",
+        "data": { "command": "playsound minecraft:ui.button.click" }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": { "command": "give @s irons_restrictions:legendary_upgrade" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_legendary", "operation": "add" }
       }
     ]
   }
