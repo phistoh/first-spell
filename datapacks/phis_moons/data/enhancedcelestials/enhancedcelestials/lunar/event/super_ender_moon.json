@@ -1,0 +1,188 @@
+{
+  "anvil_cost_amplifier": 1.0,
+  "beacon_radius_amplifier": 1.0,
+  "xp_amplifier": 1.0,
+  "client_settings": {
+    "color_settings": {
+      "moon_texture_color": "800080",
+      "sky_light_color": "800080"
+    },
+    "moon_size": 40.0,
+    "moon_texture_location": "minecraft:textures/environment/moon_phases.png"
+  },
+  "dimension_chances": {
+    "minecraft:overworld": {
+      "chance": 0.05,
+      "min_number_of_nights_between": 4,
+      "valid_moon_phases": [0]
+    }
+  },
+  "drops": {
+    "drop_enhancer": {}
+  },
+  "mob_settings": {
+    "blocks_sleeping": {
+      "type": "corgilib:any"
+    },
+    "lunar_spawn_settings": {
+      "force_surface_spawning": true,
+      "mob_spawn_settings": {
+        "spawn_costs": {},
+        "spawners": {
+          "ambient": [],
+          "axolotls": [],
+          "creature": [],
+          "misc": [],
+          "monster": [
+            {
+              "type": "minecraft:enderman",
+              "weight": 600,
+              "minCount": 4,
+              "maxCount": 4
+            },
+            {
+              "type": "endermanoverhaul:badlands_enderman",
+              "weight": 400,
+              "minCount": 4,
+              "maxCount": 4
+            },
+            {
+              "type": "endermanoverhaul:cave_enderman",
+              "weight": 400,
+              "minCount": 4,
+              "maxCount": 4
+            },
+            {
+              "type": "endermanoverhaul:crimson_forest_enderman",
+              "weight": 400,
+              "minCount": 4,
+              "maxCount": 4
+            },
+            {
+              "type": "endermanoverhaul:dark_oak_enderman",
+              "weight": 400,
+              "minCount": 4,
+              "maxCount": 4
+            },
+            {
+              "type": "endermanoverhaul:desert_enderman",
+              "weight": 400,
+              "minCount": 4,
+              "maxCount": 4
+            },
+            {
+              "type": "endermanoverhaul:end_enderman",
+              "weight": 400,
+              "minCount": 4,
+              "maxCount": 4
+            },
+            {
+              "type": "endermanoverhaul:end_islands_enderman",
+              "weight": 400,
+              "minCount": 4,
+              "maxCount": 4
+            },
+            {
+              "type": "endermanoverhaul:flower_fields_enderman",
+              "weight": 400,
+              "minCount": 4,
+              "maxCount": 4
+            },
+            {
+              "type": "endermanoverhaul:ice_spikes_enderman",
+              "weight": 400,
+              "minCount": 4,
+              "maxCount": 4
+            },
+            {
+              "type": "endermanoverhaul:mushroom_fields_enderman",
+              "weight": 400,
+              "minCount": 4,
+              "maxCount": 4
+            },
+            {
+              "type": "endermanoverhaul:nether_wastes_enderman",
+              "weight": 400,
+              "minCount": 4,
+              "maxCount": 4
+            },
+            {
+              "type": "endermanoverhaul:coral_enderman",
+              "weight": 400,
+              "minCount": 4,
+              "maxCount": 4
+            },
+            {
+              "type": "endermanoverhaul:savanna_enderman",
+              "weight": 400,
+              "minCount": 4,
+              "maxCount": 4
+            },
+            {
+              "type": "endermanoverhaul:snowy_enderman",
+              "weight": 400,
+              "minCount": 4,
+              "maxCount": 4
+            },
+            {
+              "type": "endermanoverhaul:soulsand_valley_enderman",
+              "weight": 400,
+              "minCount": 4,
+              "maxCount": 4
+            },
+            {
+              "type": "endermanoverhaul:swamp_enderman",
+              "weight": 400,
+              "minCount": 4,
+              "maxCount": 4
+            },
+            {
+              "type": "endermanoverhaul:warped_forest_enderman",
+              "weight": 400,
+              "minCount": 4,
+              "maxCount": 4
+            },
+            {
+              "type": "endermanoverhaul:windswept_hills_enderman",
+              "weight": 400,
+              "minCount": 4,
+              "maxCount": 4
+            }
+          ],
+          "underground_water_creature": [],
+          "water_ambient": [],
+          "water_creature": []
+        }
+      },
+      "slimes_spawn_everywhere": false,
+      "use_biome_spawn_settings": true
+    },
+    "mob_effects": [],
+    "spawn_category_multiplier": {
+      "monster": 2.25
+    }
+  },
+  "text_components": {
+    "end_notification": {
+      "component": {
+        "key": "enhancedcelestials.notification.super_ender_moon.set"
+      },
+      "type": "CHAT"
+    },
+    "name": {
+      "key": "enhancedcelestials.name.super_ender_moon",
+      "style": {
+        "color": "light_purple"
+      }
+    },
+    "start_notification": {
+      "component": {
+        "key": "enhancedcelestials.notification.super_ender_moon.rise",
+        "style": {
+          "color": "light_purple"
+        }
+      },
+      "type": "CHAT"
+    }
+  }
+}

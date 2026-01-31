@@ -199,7 +199,13 @@ ServerEvents.tags("item", (event) => {
     event.add("phis:plushies", `plushie_buddies:${plush}`);
   }
 
-  event.add("c:tools/ranged_weapon", "simplemusket:musket")
+  event.add("c:tools/ranged_weapon", "simplemusket:musket");
+
+  // Tag for Enhanced Celestials
+  event.add("phis:magic_drops", "irons_spellbooks:arcane_essence");
+  event.add("phis:magic_drops", "irons_restrictions:manuscript");
+  event.add("phis:magic_drops", "irons_spellbooks:scroll");
+  event.add("phis:magic_drops", "#irons_spellbooks:school_focus");
 });
 
 ServerEvents.tags("block", (event) => {

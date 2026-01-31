@@ -1,0 +1,84 @@
+{
+  "anvil_cost_amplifier": 1.0,
+  "beacon_radius_amplifier": 1.0,
+  "xp_amplifier": 1.0,
+  "client_settings": {
+    "color_settings": {
+      "moon_texture_color": "0B6623",
+      "sky_light_color": "0B6623"
+    },
+    "moon_size": 20.0,
+    "moon_texture_location": "phis:textures/environment/moon_phases.png"
+  },
+  "dimension_chances": {
+    "minecraft:overworld": {
+      "chance": 0.05,
+      "min_number_of_nights_between": 4,
+      "valid_moon_phases": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  },
+  "drops": {
+    "drop_enhancer": {}
+  },
+  "mob_settings": {
+    "blocks_sleeping": {
+      "type": "corgilib:any"
+    },
+    "lunar_spawn_settings": {
+      "force_surface_spawning": true,
+      "mob_spawn_settings": {
+        "spawn_costs": {},
+        "spawners": {
+          "ambient": [],
+          "axolotls": [],
+          "creature": [],
+          "misc": [],
+          "monster": [
+            {
+              "type": "minecraft:slime",
+              "weight": 500,
+              "minCount": 4,
+              "maxCount": 4
+            },
+            {
+              "type": "minecraft:magma_cube",
+              "weight": 100,
+              "minCount": 1,
+              "maxCount": 2
+            }
+          ],
+          "underground_water_creature": [],
+          "water_ambient": [],
+          "water_creature": []
+        }
+      },
+      "slimes_spawn_everywhere": true,
+      "use_biome_spawn_settings": true
+    },
+    "mob_effects": [],
+    "spawn_category_multiplier": {}
+  },
+  "text_components": {
+    "end_notification": {
+      "component": {
+        "key": "enhancedcelestials.notification.slime_moon.set"
+      },
+      "type": "CHAT"
+    },
+    "name": {
+      "key": "enhancedcelestials.name.slime_moon",
+      "style": {
+        "color": "dark_green"
+      }
+    },
+    "start_notification": {
+      "component": {
+        "key": "enhancedcelestials.notification.slime_moon.rise",
+        "style": {
+          "color": "dark_green"
+        }
+      },
+      "type": "CHAT"
+    }
+  }
+}

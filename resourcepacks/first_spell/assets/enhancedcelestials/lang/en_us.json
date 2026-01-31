@@ -1,0 +1,22 @@
+{
+    "enhancedcelestials.notification.ender_moon.rise": "The \"Ender Moon\" rises... Endermen spawn more frequently.",
+    "enhancedcelestials.notification.ender_moon.set": "The \"Ender Moon\" sets...",
+    "enhancedcelestials.name.ender_moon": "Ender Moon",
+    "enhancedcelestials.notification.super_ender_moon.rise": "The \"Super Ender Moon\" rises... Endermen overtake the world.",
+    "enhancedcelestials.notification.super_ender_moon.set": "The \"Super Ender Moon\" sets...",
+    "enhancedcelestials.name.super_ender_moon": "Super Ender Moon",
+
+    "enhancedcelestials.notification.occult_moon.rise": "The \"Occult Moon\" rises... Watch out for nefarious magic users.",
+    "enhancedcelestials.notification.occult_moon.set": "The \"Occult Moon\" sets...",
+    "enhancedcelestials.name.occult_moon": "Occult Moon",
+    "enhancedcelestials.notification.super_occult_moon.rise": "The \"Super Occult Moon\" rises... Watch out for nefarious magic users.",
+    "enhancedcelestials.notification.super_occult_moon.set": "The \"Super Occult Moon\" sets...",
+    "enhancedcelestials.name.super_occult_moon": "Super Occult Moon",
+
+    "enhancedcelestials.notification.slime_moon.rise": "The \"Slime Moon\" rises... *squish*",
+    "enhancedcelestials.notification.slime_moon.set": "The \"Slime Moon\" sets...",
+    "enhancedcelestials.name.slime_moon": "Slime Moon",
+    "enhancedcelestials.notification.super_slime_moon.rise": "The \"Super Slime Moon\" rises... *squishysquish*",
+    "enhancedcelestials.notification.super_slime_moon.set": "The \"Super Slime Moon\" sets...",
+    "enhancedcelestials.name.super_slime_moon": "Super Slime Moon"
+}

@@ -1,0 +1,110 @@
+{
+  "anvil_cost_amplifier": 1.0,
+  "beacon_radius_amplifier": 1.0,
+  "xp_amplifier": 1.0,
+  "client_settings": {
+    "color_settings": {
+      "moon_texture_color": "4B1664",
+      "sky_light_color": "4B1664"
+    },
+    "moon_size": 20.0,
+    "moon_texture_location": "minecraft:textures/environment/moon_phases.png"
+  },
+  "dimension_chances": {
+    "minecraft:overworld": {
+      "chance": 0.05,
+      "min_number_of_nights_between": 4,
+      "valid_moon_phases": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  },
+  "drops": {
+    "drop_enhancer": {
+      "#phis:magic_drops": 2.0
+    }
+  },
+  "mob_settings": {
+    "blocks_sleeping": {
+      "type": "corgilib:any"
+    },
+    "lunar_spawn_settings": {
+      "force_surface_spawning": true,
+      "mob_spawn_settings": {
+        "spawn_costs": {},
+        "spawners": {
+          "ambient": [],
+          "axolotls": [],
+          "creature": [],
+          "misc": [],
+          "monster": [
+            {
+              "type": "minecraft:illusioner",
+              "weight": 300,
+              "minCount": 4,
+              "maxCount": 4
+            },
+            {
+              "type": "minecraft:witch",
+              "weight": 600,
+              "minCount": 4,
+              "maxCount": 4
+            },
+            {
+              "type": "irons_spellbooks:archevoker",
+              "weight": 10,
+              "minCount": 4,
+              "maxCount": 4
+            },
+            {
+              "type": "irons_spellbooks:cryomancer",
+              "weight": 20,
+              "minCount": 4,
+              "maxCount": 4
+            },
+            {
+              "type": "irons_spellbooks:necromancer",
+              "weight": 50,
+              "minCount": 4,
+              "maxCount": 4
+            },
+            {
+              "type": "irons_spellbooks:pyromancer",
+              "weight": 20,
+              "minCount": 4,
+              "maxCount": 4
+            }
+          ],
+          "underground_water_creature": [],
+          "water_ambient": [],
+          "water_creature": []
+        }
+      },
+      "slimes_spawn_everywhere": false,
+      "use_biome_spawn_settings": true
+    },
+    "mob_effects": [],
+    "spawn_category_multiplier": {}
+  },
+  "text_components": {
+    "end_notification": {
+      "component": {
+        "key": "enhancedcelestials.notification.occult_moon.set"
+      },
+      "type": "CHAT"
+    },
+    "name": {
+      "key": "enhancedcelestials.name.occult_moon",
+      "style": {
+        "color": "dark_purple"
+      }
+    },
+    "start_notification": {
+      "component": {
+        "key": "enhancedcelestials.notification.occult_moon.rise",
+        "style": {
+          "color": "dark_purple"
+        }
+      },
+      "type": "CHAT"
+    }
+  }
+}

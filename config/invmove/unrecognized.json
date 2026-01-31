@@ -30,7 +30,8 @@
     "team.creative.creativecore.common.gui.integration.ContainerScreenIntegration": true,
     "com.relimer.ironsrestrictions.gui.SchoolResearchScreen": true,
     "io.redspace.ironsspellbooks.gui.inscription_table.InscriptionTableScreen": true,
-    "dev.latvian.mods.kubejs.client.KubeJSErrorScreen": true
+    "dev.latvian.mods.kubejs.client.KubeJSErrorScreen": true,
+    "net.minecraft.client.gui.screens.packs.PackSelectionScreen": true
   },
   "hideBackground": {
     "com.cobblemon.mod.common.client.gui.summary.Summary": true,
