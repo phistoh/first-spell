@@ -5,12 +5,47 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.7] - 2026-01-31
+
+### Added
+
+- The following mods:
+  - **Xaero's Worldmap**
+  - **Xaero's Minimap**
+  - **Maplink**
+  - **Windy**
+  - **Plushie Buddies**
+  - **Carry On**
+  - **Item Zoom**
+- **CR - Biome Expanded Spawn** datapack
+- New skills (for different combat styles)
+- More celestial events
+
+### Fixed
+
+- Loot probabilities
+
+### Changed
+
+- Updated **Cobblemon** from `1.7.1` to `1.7.2`
+- Updated **Complete Cobblemon Collection with Legends** from `1.7` to `2.0`
+- Updated **Item Descriptions** from `2.5.4` to `2.7`
+- Updated **Just Colored Lighting** from `0.4.6` to `0.5.1`
+- Skills for spell rarities now give *Upgrade* items instead of using commands
+
+### Removed
+
+- **Polytone** and dependent resouce packs
+- **Map Atlases** mod
+- **Clumps** mod
+
+
 ## [1.6] - 2026-01-24
 
 ### Added
 
 - Skill to create spell foci from health
-- Recipe to transmute spell foic to foci of different schools
+- Recipe to transmute spell foci to foci of different schools
 - Skills to boost different weapon types
 - Skill to boost unarmored gameplay
 - Recipe to create *Dragonskin*
