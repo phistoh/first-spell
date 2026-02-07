@@ -32,7 +32,8 @@
     "io.redspace.ironsspellbooks.gui.inscription_table.InscriptionTableScreen": true,
     "dev.latvian.mods.kubejs.client.KubeJSErrorScreen": true,
     "net.minecraft.client.gui.screens.packs.PackSelectionScreen": true,
-    "dev.yurisuika.raised.client.gui.screens.RaisedScreen": true
+    "dev.yurisuika.raised.client.gui.screens.RaisedScreen": true,
+    "com.necro.fireworkcapsules.common.gui.CapsuleStationScreen": true
   },
   "hideBackground": {
     "com.cobblemon.mod.common.client.gui.summary.Summary": true,
@@ -49,6 +50,7 @@
     "lain.mods.cos.impl.client.gui.GuiCosArmorInventory": true,
     "net.blay09.mods.hardcorerevival.client.KnockoutScreen": true,
     "com.relimer.ironsrestrictions.gui.SchoolResearchScreen": true,
-    "io.redspace.ironsspellbooks.gui.inscription_table.InscriptionTableScreen": true
+    "io.redspace.ironsspellbooks.gui.inscription_table.InscriptionTableScreen": true,
+    "com.necro.fireworkcapsules.common.gui.CapsuleStationScreen": true
   }
 }
