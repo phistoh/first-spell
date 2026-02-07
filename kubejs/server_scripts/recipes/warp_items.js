@@ -3,7 +3,7 @@ ServerEvents.recipes((event) => {
   event.shapeless("3x waystones:return_scroll", [
     "3x minecraft:paper",
     "#phis:ink",
-  ]);
+  ]).id("kubejs:return_scroll");
 
   event.replaceInput(
     { id: "waystones:blank_scroll" },

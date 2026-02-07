@@ -121,7 +121,7 @@ AStages.addRestrictionForRecipe(
   "phis/crafting_return_scroll",
   "phis_stage_return_scroll",
   "minecraft:crafting",
-  "waystones:return_scroll",
+  "kubejs:return_scroll",
 );
 
 AStages.addRestrictionForRecipe(
