@@ -301,7 +301,7 @@
 	},
 	"64bcbfkzt6zd68h0": {
 		"definition": "shorter_effects",
-		"x": 64,
+		"x": 128,
 		"y": 64,
 		"root": false
 	},
@@ -319,7 +319,7 @@
 	},
 	"38cnu9xxqff9x9e5": {
 		"definition": "extra_roll",
-		"x": 64,
+		"x": 128,
 		"y": -96,
 		"root": false
 	},
@@ -481,25 +481,25 @@
 	},
 	"4oduupvhnrbe9s8d": {
 		"definition": "dodge_chance",
-		"x": 64,
+		"x": 128,
 		"y": -224,
 		"root": false
 	},
 	"ng01w7re88g8v10m": {
 		"definition": "melee_resistance",
-		"x": 64,
+		"x": 128,
 		"y": -480,
 		"root": true
 	},
 	"21w51ne8n6ccfswg": {
 		"definition": "ranged_resistance",
-		"x": 96,
+		"x": 160,
 		"y": -352,
 		"root": false
 	},
 	"3u6vl6efdkbogi61": {
 		"definition": "magic_resistance",
-		"x": 32,
+		"x": 96,
 		"y": -352,
 		"root": false
 	},
@@ -511,391 +511,391 @@
 	},
 	"sz6t2iqbpinl3awa": {
 		"definition": "warrior_1",
-		"x": 160,
+		"x": 224,
 		"y": -928,
 		"root": true
 	},
 	"qjkennkk6ywbtull": {
 		"definition": "warrior_2",
-		"x": 160,
+		"x": 224,
 		"y": -736,
 		"root": false
 	},
 	"t6q4f35dwccn3dyy": {
 		"definition": "warrior_3",
-		"x": 160,
+		"x": 224,
 		"y": -512,
 		"root": false
 	},
 	"4mdjihsif2189dkt": {
 		"definition": "warrior_4",
-		"x": 160,
+		"x": 224,
 		"y": -256,
 		"root": false
 	},
 	"3szess1i8on5676l": {
 		"definition": "warrior_5",
-		"x": 160,
+		"x": 224,
 		"y": 32,
 		"root": false
 	},
 	"bowxlb7nhw3z4j0y": {
 		"definition": "assassin_1",
-		"x": 224,
+		"x": 288,
 		"y": -928,
 		"root": true
 	},
 	"sueb5pdjr0ntent1": {
 		"definition": "assassin_2",
-		"x": 224,
+		"x": 288,
 		"y": -736,
 		"root": false
 	},
 	"7k3l2n38qxfwx2lb": {
 		"definition": "assassin_3",
-		"x": 224,
+		"x": 288,
 		"y": -512,
 		"root": false
 	},
 	"y7ysw3qsi2jz4agp": {
 		"definition": "assassin_4",
-		"x": 224,
+		"x": 288,
 		"y": -256,
 		"root": false
 	},
 	"s7fl01i1bglr86fm": {
 		"definition": "assassin_5",
-		"x": 224,
+		"x": 288,
 		"y": 32,
 		"root": false
 	},
 	"sutmlztnz9mtxl61": {
 		"definition": "knight_1",
-		"x": 288,
+		"x": 352,
 		"y": -928,
 		"root": true
 	},
 	"utbwp7418j1khuuh": {
 		"definition": "knight_2",
-		"x": 288,
+		"x": 352,
 		"y": -736,
 		"root": false
 	},
 	"mxdbukzmd6239ag0": {
 		"definition": "knight_3",
-		"x": 288,
+		"x": 352,
 		"y": -512,
 		"root": false
 	},
 	"qvvua8xb2shc8ht5": {
 		"definition": "knight_4",
-		"x": 288,
+		"x": 352,
 		"y": -256,
 		"root": false
 	},
 	"0omy9c9d790i57ru": {
 		"definition": "knight_5",
-		"x": 288,
+		"x": 352,
 		"y": 32,
 		"root": false
 	},
 	"lxumhflkr6qp2wlh": {
 		"definition": "hunter_1",
-		"x": 352,
+		"x": 416,
 		"y": -928,
 		"root": true
 	},
 	"h8ti2y98x3170sbn": {
 		"definition": "hunter_2",
-		"x": 352,
+		"x": 416,
 		"y": -736,
 		"root": false
 	},
 	"ucvajr3naldkfaoq": {
 		"definition": "hunter_3",
-		"x": 352,
+		"x": 416,
 		"y": -512,
 		"root": false
 	},
 	"mxfcfna87gbssdqf": {
 		"definition": "hunter_4",
-		"x": 352,
+		"x": 416,
 		"y": -256,
 		"root": false
 	},
 	"iq2d33u7c8x4ij2e": {
 		"definition": "hunter_5",
-		"x": 352,
+		"x": 416,
 		"y": 32,
 		"root": false
 	},
 	"n2ux6b47qfesrvi5": {
 		"definition": "fire_mage_1",
-		"x": 416,
+		"x": 480,
 		"y": -928,
 		"root": true
 	},
 	"6z5gtvxmh5y7qr9i": {
 		"definition": "fire_mage_2",
-		"x": 416,
+		"x": 480,
 		"y": -736,
 		"root": false
 	},
 	"syj8tifh4yjj24rw": {
 		"definition": "fire_mage_3",
-		"x": 416,
+		"x": 480,
 		"y": -512,
 		"root": false
 	},
 	"iplh8ss04wx8lv89": {
 		"definition": "fire_mage_4",
-		"x": 416,
+		"x": 480,
 		"y": -256,
 		"root": false
 	},
 	"t5mz27776vda07md": {
 		"definition": "fire_mage_5",
-		"x": 416,
+		"x": 480,
 		"y": 32,
 		"root": false
 	},
 	"45s0xacehtwknvfi": {
 		"definition": "ice_mage_1",
-		"x": 480,
+		"x": 544,
 		"y": -928,
 		"root": true
 	},
 	"kbykb17lt1u20cgy": {
 		"definition": "ice_mage_2",
-		"x": 480,
+		"x": 544,
 		"y": -736,
 		"root": false
 	},
 	"e4er7rm6krl9biee": {
 		"definition": "ice_mage_3",
-		"x": 480,
+		"x": 544,
 		"y": -512,
 		"root": false
 	},
 	"gwej2bmxopi04l2c": {
 		"definition": "ice_mage_4",
-		"x": 480,
+		"x": 544,
 		"y": -256,
 		"root": false
 	},
 	"3ucnl1ppcz1sh8ra": {
 		"definition": "ice_mage_5",
-		"x": 480,
+		"x": 544,
 		"y": 32,
 		"root": false
 	},
 	"vil0pc5ny3s81pcl": {
 		"definition": "lightning_mage_1",
-		"x": 544,
+		"x": 608,
 		"y": -928,
 		"root": true
 	},
 	"b47p14iel8kcm0zn": {
 		"definition": "lightning_mage_2",
-		"x": 544,
+		"x": 608,
 		"y": -736,
 		"root": false
 	},
 	"if02b1spx8tzs19d": {
 		"definition": "lightning_mage_3",
-		"x": 544,
+		"x": 608,
 		"y": -512,
 		"root": false
 	},
 	"grwi8bq0exaj6ooh": {
 		"definition": "lightning_mage_4",
-		"x": 544,
+		"x": 608,
 		"y": -256,
 		"root": false
 	},
 	"bamx71x7ah3dex32": {
 		"definition": "lightning_mage_5",
-		"x": 544,
+		"x": 608,
 		"y": 32,
 		"root": false
 	},
 	"bjpahf5irvbfdabs": {
 		"definition": "holy_mage_1",
-		"x": 608,
+		"x": 672,
 		"y": -928,
 		"root": true
 	},
 	"1nh9heuno5s1rvts": {
 		"definition": "holy_mage_2",
-		"x": 608,
+		"x": 672,
 		"y": -736,
 		"root": false
 	},
 	"1f209waoiwla328r": {
 		"definition": "holy_mage_3",
-		"x": 608,
+		"x": 672,
 		"y": -512,
 		"root": false
 	},
 	"9o2qj26zw009utmj": {
 		"definition": "holy_mage_4",
-		"x": 608,
+		"x": 672,
 		"y": -256,
 		"root": false
 	},
 	"4u4yeidsvcd766w8": {
 		"definition": "holy_mage_5",
-		"x": 608,
+		"x": 672,
 		"y": 32,
 		"root": false
 	},
 	"gt0onl9j67eso2ng": {
 		"definition": "ender_mage_1",
-		"x": 672,
+		"x": 736,
 		"y": -928,
 		"root": true
 	},
 	"j6axn4xyp5fqq55o": {
 		"definition": "ender_mage_2",
-		"x": 672,
+		"x": 736,
 		"y": -736,
 		"root": false
 	},
 	"00mudavyjfi3oq4o": {
 		"definition": "ender_mage_3",
-		"x": 672,
+		"x": 736,
 		"y": -512,
 		"root": false
 	},
 	"2x8s63k0we9yxorj": {
 		"definition": "ender_mage_4",
-		"x": 672,
+		"x": 736,
 		"y": -256,
 		"root": false
 	},
 	"bu5hra6qlrhuszne": {
 		"definition": "ender_mage_5",
-		"x": 672,
+		"x": 736,
 		"y": 32,
 		"root": false
 	},
 	"p7jcsetoxnt9jjxe": {
 		"definition": "blood_mage_1",
-		"x": 736,
+		"x": 800,
 		"y": -928,
 		"root": true
 	},
 	"70vjhlhl0k8pllas": {
 		"definition": "blood_mage_2",
-		"x": 736,
+		"x": 800,
 		"y": -736,
 		"root": false
 	},
 	"1dqll22v84ow0840": {
 		"definition": "blood_mage_3",
-		"x": 736,
+		"x": 800,
 		"y": -512,
 		"root": false
 	},
 	"zt896v8oesk7txfd": {
 		"definition": "blood_mage_4",
-		"x": 736,
+		"x": 800,
 		"y": -256,
 		"root": false
 	},
 	"9glyrh53la703hu2": {
 		"definition": "blood_mage_5",
-		"x": 736,
+		"x": 800,
 		"y": 32,
 		"root": false
 	},
 	"i8d7di1kc3wu954m": {
 		"definition": "evocation_mage_1",
-		"x": 800,
+		"x": 864,
 		"y": -928,
 		"root": true
 	},
 	"4mmlgr8u93z6w1hm": {
 		"definition": "evocation_mage_2",
-		"x": 800,
+		"x": 864,
 		"y": -736,
 		"root": false
 	},
 	"smipokmqiv62yqgm": {
 		"definition": "evocation_mage_3",
-		"x": 800,
+		"x": 864,
 		"y": -512,
 		"root": false
 	},
 	"jn69sg0bfp3xytyd": {
 		"definition": "evocation_mage_4",
-		"x": 800,
+		"x": 864,
 		"y": -256,
 		"root": false
 	},
 	"ail7xonbeir4d41s": {
 		"definition": "evocation_mage_5",
-		"x": 800,
+		"x": 864,
 		"y": 32,
 		"root": false
 	},
 	"oipd3hkndbzijolc": {
 		"definition": "nature_mage_1",
-		"x": 864,
+		"x": 928,
 		"y": -928,
 		"root": true
 	},
 	"tvnykvwxqip0znzc": {
 		"definition": "nature_mage_2",
-		"x": 864,
+		"x": 928,
 		"y": -736,
 		"root": false
 	},
 	"mjehdqlc1k02dlma": {
 		"definition": "nature_mage_3",
-		"x": 864,
+		"x": 928,
 		"y": -512,
 		"root": false
 	},
 	"ejmrt5pz3rmrjbis": {
 		"definition": "nature_mage_4",
-		"x": 864,
+		"x": 928,
 		"y": -256,
 		"root": false
 	},
 	"yrnk4i1ot072d6hc": {
 		"definition": "nature_mage_5",
-		"x": 864,
+		"x": 928,
 		"y": 32,
 		"root": false
 	},
 	"yx5nflxuq90vnc6g": {
 		"definition": "sound_mage_1",
-		"x": 928,
+		"x": 992,
 		"y": -928,
 		"root": true
 	},
 	"mh4mf3zk7o8l4spw": {
 		"definition": "sound_mage_2",
-		"x": 928,
+		"x": 992,
 		"y": -736,
 		"root": false
 	},
 	"5kl3zmi9bldy8bu3": {
 		"definition": "sound_mage_3",
-		"x": 928,
+		"x": 992,
 		"y": -512,
 		"root": false
 	},
 	"byjbo6cmmag70ifj": {
 		"definition": "sound_mage_4",
-		"x": 928,
+		"x": 992,
 		"y": -256,
 		"root": false
 	},
 	"5symh4h47st5pdml": {
 		"definition": "sound_mage_5",
-		"x": 928,
+		"x": 992,
 		"y": 32,
 		"root": false
 	},
@@ -967,38 +967,50 @@
 	},
 	"wvftulr8yqc05243": {
 		"definition": "versatile",
-		"x": 64,
+		"x": 128,
 		"y": -832,
 		"root": true
 	},
 	"ea8chvlk14412tb8": {
 		"definition": "miners_wisdom",
-		"x": 64,
+		"x": 128,
 		"y": -704,
 		"root": true
 	},
 	"le6vylrswti7e4cq": {
 		"definition": "staff_wielder",
-		"x": 64,
+		"x": 128,
 		"y": -768,
 		"root": true
 	},
 	"xq9asjwgc55x5ww3": {
 		"definition": "two_handed",
-		"x": 64,
+		"x": 128,
 		"y": -640,
 		"root": true
 	},
 	"1r8e0m6dppi35hsy": {
 		"definition": "legendary_spellcaster",
-		"x": 672,
+		"x": 736,
 		"y": 96,
 		"root": true
 	},
 	"hjq19vvnd0oc02ng": {
 		"definition": "ranged",
-		"x": 64,
+		"x": 128,
 		"y": -576,
 		"root": true
+	},
+	"csd88dyr2noc2oxl": {
+		"definition": "ability_capsule",
+		"x": 64,
+		"y": -640,
+		"root": false
+	},
+	"mv58bv5lwqxlemht": {
+		"definition": "ability_patch",
+		"x": 64,
+		"y": 96,
+		"root": false
 	}
 }

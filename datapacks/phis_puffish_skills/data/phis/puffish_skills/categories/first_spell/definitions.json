@@ -4109,7 +4109,7 @@
         "color": "dark_blue"
       },
       {
-        "text": ". In Addition, you are"
+        "text": ". In Addition, you are "
       },
       {
         "text": "less visible to enemies",
@@ -10541,7 +10541,7 @@
     "description": [
       "",
       {
-        "text": "When wieding a weapon in your main hand and a light source in your off hand you gain"
+        "text": "When wieding a light source in your off hand you gain "
       },
       {
         "text": "25%",
@@ -10856,14 +10856,14 @@
     }
   },
   "ability_capsule": {
-    "title": "[NYI]",
+    "title": "Invert the Inverted Cross",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/skill_icons/major/tool_tier_2_unlocked.png",
-        "available": "phis:textures/gui/skill_icons/major/tool_tier_2_locked.png",
-        "affordable": "phis:textures/gui/skill_icons/major/tool_tier_2_available.png",
-        "locked": "phis:textures/gui/skill_icons/major/tool_tier_2_locked.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/ability_capsule_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/ability_capsule_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/ability_capsule_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/ability_capsule_locked.png"
       }
     },
     "icon": {
@@ -10876,7 +10876,7 @@
     "description": [
       "",
       {
-        "text": "You are able to craft and use "
+        "text": "You are able to craft "
       },
       {
         "text": "Ability Capsules",
@@ -10886,9 +10886,9 @@
       {
         "text": "."
       },
-      { "text": "\n\nRequires level 5.", "color": "dark_gray" }
+      { "text": "\n\nRequires level 11.", "color": "dark_gray" }
     ],
-    "required_spent_points": 5,
+    "required_spent_points": 11,
     "rewards": [
       {
         "type": "puffish_skills:command",
@@ -10904,14 +10904,14 @@
     ]
   },
   "ability_patch": {
-    "title": "[NYI]",
+    "title": "The Central Fires of Secret Memory",
     "frame": {
       "type": "texture",
       "data": {
-        "unlocked": "phis:textures/gui/skill_icons/major/tool_tier_2_unlocked.png",
-        "available": "phis:textures/gui/skill_icons/major/tool_tier_2_locked.png",
-        "affordable": "phis:textures/gui/skill_icons/major/tool_tier_2_available.png",
-        "locked": "phis:textures/gui/skill_icons/major/tool_tier_2_locked.png"
+        "unlocked": "phis:textures/gui/skill_icons/major/ability_patch_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/ability_patch_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/ability_patch_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/ability_patch_locked.png"
       }
     },
     "icon": {
@@ -10924,7 +10924,7 @@
     "description": [
       "",
       {
-        "text": "You are able to craft and use "
+        "text": "You are able to craft "
       },
       {
         "text": "Ability Patches",
@@ -10934,9 +10934,9 @@
       {
         "text": "."
       },
-      { "text": "\n\nRequires level 5.", "color": "dark_gray" }
+      { "text": "\n\nRequires level 34.", "color": "dark_gray" }
     ],
-    "required_spent_points": 5,
+    "required_spent_points": 34,
     "rewards": [
       {
         "type": "puffish_skills:command",
