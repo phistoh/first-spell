@@ -1,0 +1,7 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"irons_restrictions:manuscript","components":{"irons_restrictions:school_component":"familiarslib:sound"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"alshanex_familiars:pet_bed"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"alshanex_familiars:pandora_box"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"alshanex_familiars:illusionist_shard"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

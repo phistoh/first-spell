@@ -31,7 +31,8 @@
     "com.relimer.ironsrestrictions.gui.SchoolResearchScreen": true,
     "io.redspace.ironsspellbooks.gui.inscription_table.InscriptionTableScreen": true,
     "dev.latvian.mods.kubejs.client.KubeJSErrorScreen": true,
-    "net.minecraft.client.gui.screens.packs.PackSelectionScreen": true
+    "net.minecraft.client.gui.screens.packs.PackSelectionScreen": true,
+    "dev.yurisuika.raised.client.gui.screens.RaisedScreen": true
   },
   "hideBackground": {
     "com.cobblemon.mod.common.client.gui.summary.Summary": true,

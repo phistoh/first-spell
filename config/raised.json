@@ -1,5 +1,16 @@
 {
   "layers": {
+    "alshanex_familiars:monocle_overlay": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "alshanex_familiars:monocle_overlay"
+    },
     "artifacts:artifact_cooldowns": {
       "displacement": {
         "x": 0,
