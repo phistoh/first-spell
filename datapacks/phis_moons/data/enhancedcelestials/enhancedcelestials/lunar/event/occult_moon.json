@@ -12,8 +12,8 @@
   },
   "dimension_chances": {
     "minecraft:overworld": {
-      "chance": 0.05,
-      "min_number_of_nights_between": 4,
+      "chance": 0.01,
+      "min_number_of_nights_between": 30,
       "valid_moon_phases": [0, 1, 2, 3, 4, 5, 6, 7]
     }
   },
@@ -45,12 +45,6 @@
             {
               "type": "minecraft:witch",
               "weight": 600,
-              "minCount": 4,
-              "maxCount": 4
-            },
-            {
-              "type": "irons_spellbooks:archevoker",
-              "weight": 10,
               "minCount": 4,
               "maxCount": 4
             },
