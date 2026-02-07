@@ -519,27 +519,9 @@ AStages.addRestrictionForRecipe(
   "cobblemon:ability_capsule",
 );
 
-AStages.addRestrictionForItem(
-  "phis/use_ability_capsule",
-  "phis_stage_ability_capsule",
-  "cobblemon:ability_capsule",
-)
-  .setCanBeStoredInInventory(true)
-  .setCanBeStoredInContainers(true)
-  .setCanPickedUp(true);
-
 AStages.addRestrictionForRecipe(
   "phis/crafting_ability_patch",
   "phis_stage_ability_patch",
   "minecraft:crafting",
   "cobblemon:ability_patch",
 );
-
-AStages.addRestrictionForItem(
-  "phis/use_ability_patch",
-  "phis_stage_ability_patch",
-  "cobblemon:ability_patch",
-)
-  .setCanBeStoredInInventory(true)
-  .setCanBeStoredInContainers(true)
-  .setCanPickedUp(true);
