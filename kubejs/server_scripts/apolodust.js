@@ -3,10 +3,15 @@ const apolodust = {
     '16x irons_spellbooks:arcane_essence[custom_name=\'{"text":"Apolodust","color":"aqua"}\']',
     "kubejs:potion_of_unlearning",
   ],
+  1.8: [
+    '16x irons_spellbooks:arcane_essence[custom_name=\'{"text":"Apolodust","color":"aqua"}\']',
+    "kubejs:potion_of_unlearning",
+  ],
 };
 
 const messages = {
   1.7: "§6§lAnnouncement§r: First Spell updated to §l1.7§r. Some skills were changed, so enjoy the free [§ePotion of Unlearning§r] and some [§bArcane Essence§r] as compensation.",
+  1.8: "§6§lAnnouncement§r: First Spell updated to §l1.8§r. Some skills were changed, so enjoy the free [§ePotion of Unlearning§r] and some [§bArcane Essence§r] as compensation.",
 };
 
 PlayerEvents.loggedIn((event) => {

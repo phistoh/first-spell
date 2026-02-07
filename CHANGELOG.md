@@ -5,6 +5,35 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.8] - 2026-02-07
+
+### Added
+
+- The following mods:
+  - **Reconnectible Chains**
+  - **Cobblemon Battle Extras**
+  - **Cobblemon Firework Capsules**
+  - **Cobbreeding**
+- New skills (to craft unobtainable **Cobblemon** items: *Ability Capsule* and *Ability Patch*)
+
+### Fixed
+
+- Some celestial events were to common
+- *Return scroll* is now only usable with skill
+
+### Changed
+
+- Updated **Alshanex's Familiars** from `3.0` to `3.8`
+- Updated **FamiliarsLib** from `1.0` to `1.5`
+- Updated **Irons Spells 'n Spellbooks Restrictions** from `5.0.7` to `5.0.8`
+- Updated **Irons Spells 'n Spellbooks** from `3.14.4` to `3.15.2`
+- Updated **Spice of Life: Valheim Reforged** from `1.1.3` to `1.1.4`
+- Some loot tables now contain unobtainable **Cobblemon** items: *Ability Capsule* and *Ability Patch*
+
+### Removed
+
+
+
 ## [1.7] - 2026-01-31
 
 ### Added
