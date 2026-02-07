@@ -56,7 +56,8 @@
     "moresnifferflowers:tater": ["irons_spellbooks:spider_aspect"],
     "moresnifferflowers:grain": ["moresnifferflowers:gluing_touch"],
     "moresnifferflowers:beat": ["friendsandfoes:reach"],
-    "moresnifferflowers:nether_wart": ["netherdepthsupgrade:lava_vision"]
+    "moresnifferflowers:nether_wart": ["netherdepthsupgrade:lava_vision"],
+    "cobblemon:automaton": ["minecraft:weaving"]
   },
 
   // Controls potion effect level based on number of matching armor pieces

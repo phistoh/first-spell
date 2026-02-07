@@ -1,5 +1,9 @@
 [
   {"version":1},
+  {"ingredient":{"id":"minecraft:potion","components":{"minecraft:potion_contents":{"potion":"apothic_attributes:strong_vitality"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:potion","components":{"minecraft:potion_contents":{"potion":"apothic_attributes:flying"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:potion","components":{"minecraft:potion_contents":{"potion":"deeperdarker:sculk_affinity"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon:automaton_armor_trim_smithing_template"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"cobblemon:ability_patch"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"cobblemon:ability_capsule"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"deeperdarker:soul_crystal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
@@ -27,7 +31,6 @@
   {"ingredient":{"id":"cobblemon:tumblestone_cluster"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"cobblemon:fire_gem"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"cobblemon:relic_coin"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"cobblemon:automaton_armor_trim_smithing_template"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"irons_spellbooks:upgrade_orb"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"irons_spellbooks:fire_upgrade_orb"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"endermanoverhaul:soul_pearl"},"type":"item_stack","bookmarkType":"INGREDIENT"},

@@ -27,6 +27,7 @@ ServerEvents.recipes((event) => {
     "moresnifferflowers:grain_armor_trim_smithing_template_from_trim_crafting",
     "moresnifferflowers:beat_armor_trim_smithing_template_from_trim_crafting",
     "moresnifferflowers:nether_wart_armor_trim_smithing_template_from_trim_crafting",
+    "cobblemon:automaton_armor_trim_smithing_template",
   ];
   for (const trim_duplication_id of trim_duplication_ids) {
     event.remove({ id: trim_duplication_id });
