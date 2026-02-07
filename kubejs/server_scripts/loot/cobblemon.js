@@ -23,7 +23,7 @@ LootJS.lootTables((event) => {
     "trial_chambers/reward_ominous_rare"
   ];
 
-  for (const chest of chests) {
+  for (const chest of chests_patch) {
     event.getLootTable(`minecraft:chests/${chest}`).createPool((pool) => {
       pool
         .rolls([0, 1])
