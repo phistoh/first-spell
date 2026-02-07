@@ -10793,11 +10793,161 @@
       },
       {
         "type": "puffish_skills:command",
+        "data": { "command": "give @s irons_restrictions:uncommon_upgrade" }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": { "command": "give @s irons_restrictions:rare_upgrade" }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": { "command": "give @s irons_restrictions:epic_upgrade" }
+      },
+      {
+        "type": "puffish_skills:command",
         "data": { "command": "give @s irons_restrictions:legendary_upgrade" }
       },
       {
         "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_uncommon", "operation": "add" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_rare", "operation": "add" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": { "stage": "phis_stage_spells_epic", "operation": "add" }
+      },
+      {
+        "type": "astages:stage_reward",
         "data": { "stage": "phis_stage_spells_legendary", "operation": "add" }
+      }
+    ]
+  },
+  "comment_5": {
+    "title": " ================================================================================ PATCH 1.8 BELOW ================================================================================",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/unlocked.png",
+        "available": "phis:textures/gui/available.png",
+        "locked": "phis:textures/gui/locked.png",
+        "excluded": "phis:textures/gui/excluded.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
+      }
+    },
+    "size": 2,
+    "description": "Do not implement",
+    "required_spent_points": 99,
+    "rewards": [
+      {
+        "type": "puffish_skills:command",
+        "data": { "command": "playsound minecraft:ui.button.click" }
+      }
+    ],
+    "metadata": {
+      "icon": "g5x2usnqsenpe63o"
+    }
+  },
+  "ability_capsule": {
+    "title": "[NYI]",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/skill_icons/major/tool_tier_2_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/tool_tier_2_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/tool_tier_2_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/tool_tier_2_locked.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
+      }
+    },
+    "size": 2,
+    "description": [
+      "",
+      {
+        "text": "You are able to craft and use "
+      },
+      {
+        "text": "Ability Capsules",
+        "italic": true,
+        "color": "dark_aqua"
+      },
+      {
+        "text": "."
+      },
+      { "text": "\n\nRequires level 5.", "color": "dark_gray" }
+    ],
+    "required_spent_points": 5,
+    "rewards": [
+      {
+        "type": "puffish_skills:command",
+        "data": { "command": "playsound minecraft:ui.button.click" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": {
+          "stage": "phis_stage_ability_capsule",
+          "operation": "add"
+        }
+      }
+    ]
+  },
+  "ability_patch": {
+    "title": "[NYI]",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "phis:textures/gui/skill_icons/major/tool_tier_2_unlocked.png",
+        "available": "phis:textures/gui/skill_icons/major/tool_tier_2_locked.png",
+        "affordable": "phis:textures/gui/skill_icons/major/tool_tier_2_available.png",
+        "locked": "phis:textures/gui/skill_icons/major/tool_tier_2_locked.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "phis:textures/gui/skill_icons/transparent.png"
+      }
+    },
+    "size": 2,
+    "description": [
+      "",
+      {
+        "text": "You are able to craft and use "
+      },
+      {
+        "text": "Ability Patches",
+        "italic": true,
+        "color": "dark_aqua"
+      },
+      {
+        "text": "."
+      },
+      { "text": "\n\nRequires level 5.", "color": "dark_gray" }
+    ],
+    "required_spent_points": 5,
+    "rewards": [
+      {
+        "type": "puffish_skills:command",
+        "data": { "command": "playsound minecraft:ui.button.click" }
+      },
+      {
+        "type": "astages:stage_reward",
+        "data": {
+          "stage": "phis_stage_ability_patch",
+          "operation": "add"
+        }
       }
     ]
   }
