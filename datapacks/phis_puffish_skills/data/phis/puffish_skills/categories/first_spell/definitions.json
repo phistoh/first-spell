@@ -1871,8 +1871,7 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "unlock_command": "curios add elytra @s 1",
-          "lock_command": "curios remove elytra @s 1"
+          "command": "curios add elytra @s 1"
         }
       }
     ],
@@ -1921,8 +1920,7 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "unlock_command": "curios add ring @s 1",
-          "lock_command": "curios remove ring @s 1"
+          "command": "curios add ring @s 1"
         }
       }
     ],

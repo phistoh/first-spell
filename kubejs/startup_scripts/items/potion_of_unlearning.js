@@ -6,7 +6,7 @@ StartupEvents.registry("item", (event) => {
     .tooltip("Drinking this lets you reassign your skills.")
     .texture("phis:item/potion_of_unlearning")
     .useAnimation("drink")
-    .useDuration((itemstack) => 64)
+    .useDuration((itemstack) => 48)
     .use((level, player, hand) => true)
     .finishUsing((itemstack, level, entity) => {
       itemstack.shrink(1);
@@ -29,6 +29,9 @@ StartupEvents.registry("item", (event) => {
         entity.server.runCommandSilent(`astages remove_all ${player_name}`);
 
         entity.server.runCommandSilent(`execute as ${player_name} run rarity set COMMON`);
+        
+        entity.server.runCommandSilent(`curios set elytra ${player_name} 0`);
+        entity.server.runCommandSilent(`curios set ring ${player_name} 2`);
       }
       return itemstack;
     });
