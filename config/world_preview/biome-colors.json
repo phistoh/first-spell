@@ -1,1 +1,572 @@
-{}
+{
+  "biomesoplenty:shrubland": {
+    "r": 16,
+    "g": 239,
+    "b": 20,
+    "cave": false
+  },
+  "infinity:slime_plains": {
+    "r": 10,
+    "g": 13,
+    "b": 124,
+    "cave": false
+  },
+  "biomesoplenty:volcanic_plains": {
+    "r": 229,
+    "g": 189,
+    "b": 117,
+    "cave": false
+  },
+  "biomesoplenty:end_reef": {
+    "r": 118,
+    "g": 12,
+    "b": 16,
+    "cave": false
+  },
+  "biomesoplenty:lavender_field": {
+    "r": 126,
+    "g": 47,
+    "b": 53,
+    "cave": false
+  },
+  "biomesoplenty:mystic_grove": {
+    "r": 155,
+    "g": 153,
+    "b": 79,
+    "cave": false
+  },
+  "biomesoplenty:floodplain": {
+    "r": 102,
+    "g": 143,
+    "b": 176,
+    "cave": false
+  },
+  "biomesoplenty:moor": {
+    "r": 194,
+    "g": 36,
+    "b": 161,
+    "cave": false
+  },
+  "biomesoplenty:ominous_woods": {
+    "r": 216,
+    "g": 61,
+    "b": 207,
+    "cave": false
+  },
+  "biomesoplenty:tundra": {
+    "r": 230,
+    "g": 94,
+    "b": 40,
+    "cave": false
+  },
+  "infinity:library": {
+    "r": 246,
+    "g": 104,
+    "b": 45,
+    "cave": false
+  },
+  "infinity:content": {
+    "r": 41,
+    "g": 26,
+    "b": 245,
+    "cave": false
+  },
+  "infinity:random_forest": {
+    "r": 131,
+    "g": 17,
+    "b": 163,
+    "cave": false
+  },
+  "infinity:sponge": {
+    "r": 85,
+    "g": 129,
+    "b": 165,
+    "cave": false
+  },
+  "biomesoplenty:jacaranda_glade": {
+    "r": 214,
+    "g": 112,
+    "b": 160,
+    "cave": false
+  },
+  "infinity:colors": {
+    "r": 165,
+    "g": 6,
+    "b": 15,
+    "cave": false
+  },
+  "biomesoplenty:rainforest": {
+    "r": 62,
+    "g": 69,
+    "b": 225,
+    "cave": false
+  },
+  "biomesoplenty:mediterranean_forest": {
+    "r": 52,
+    "g": 46,
+    "b": 69,
+    "cave": false
+  },
+  "infinity:classic": {
+    "r": 14,
+    "g": 84,
+    "b": 255,
+    "cave": false
+  },
+  "biomesoplenty:visceral_heap": {
+    "r": 175,
+    "g": 253,
+    "b": 165,
+    "cave": false
+  },
+  "biomesoplenty:end_wilds": {
+    "r": 151,
+    "g": 218,
+    "b": 123,
+    "cave": false
+  },
+  "biomesoplenty:crystalline_chasm": {
+    "r": 9,
+    "g": 57,
+    "b": 73,
+    "cave": false
+  },
+  "biomesoplenty:aspen_glade": {
+    "r": 156,
+    "g": 180,
+    "b": 218,
+    "cave": false
+  },
+  "biomesoplenty:prairie": {
+    "r": 72,
+    "g": 197,
+    "b": 204,
+    "cave": false
+  },
+  "biomesoplenty:bayou": {
+    "r": 178,
+    "g": 238,
+    "b": 147,
+    "cave": false
+  },
+  "deeperdarker:blooming_caverns": {
+    "r": 213,
+    "g": 138,
+    "b": 85,
+    "cave": false
+  },
+  "infinity:nexus": {
+    "r": 159,
+    "g": 39,
+    "b": 121,
+    "cave": false
+  },
+  "infinity:missing": {
+    "r": 68,
+    "g": 29,
+    "b": 215,
+    "cave": false
+  },
+  "biomesoplenty:snowy_fir_clearing": {
+    "r": 2,
+    "g": 233,
+    "b": 210,
+    "cave": false
+  },
+  "biomesoplenty:pasture": {
+    "r": 2,
+    "g": 189,
+    "b": 146,
+    "cave": false
+  },
+  "biomesoplenty:muskeg": {
+    "r": 181,
+    "g": 4,
+    "b": 7,
+    "cave": false
+  },
+  "biomesoplenty:bog": {
+    "r": 228,
+    "g": 199,
+    "b": 197,
+    "cave": false
+  },
+  "biomesoplenty:rocky_rainforest": {
+    "r": 158,
+    "g": 158,
+    "b": 225,
+    "cave": false
+  },
+  "infinity:pride": {
+    "r": 165,
+    "g": 182,
+    "b": 158,
+    "cave": false
+  },
+  "biomesoplenty:maple_woods": {
+    "r": 109,
+    "g": 241,
+    "b": 146,
+    "cave": false
+  },
+  "biomesoplenty:glowing_grotto": {
+    "r": 241,
+    "g": 181,
+    "b": 102,
+    "cave": true
+  },
+  "biomesoplenty:gravel_beach": {
+    "r": 81,
+    "g": 231,
+    "b": 216,
+    "cave": false
+  },
+  "biomesoplenty:grassland": {
+    "r": 143,
+    "g": 8,
+    "b": 143,
+    "cave": false
+  },
+  "biomesoplenty:jade_cliffs": {
+    "r": 65,
+    "g": 210,
+    "b": 206,
+    "cave": false
+  },
+  "biomesoplenty:dryland": {
+    "r": 222,
+    "g": 229,
+    "b": 123,
+    "cave": false
+  },
+  "biomesoplenty:snowblossom_grove": {
+    "r": 160,
+    "g": 0,
+    "b": 176,
+    "cave": false
+  },
+  "biomesoplenty:old_growth_woodland": {
+    "r": 172,
+    "g": 164,
+    "b": 60,
+    "cave": false
+  },
+  "biomesoplenty:dead_forest": {
+    "r": 91,
+    "g": 197,
+    "b": 89,
+    "cave": false
+  },
+  "biomesoplenty:erupting_inferno": {
+    "r": 82,
+    "g": 42,
+    "b": 200,
+    "cave": false
+  },
+  "biomesoplenty:cold_desert": {
+    "r": 60,
+    "g": 177,
+    "b": 166,
+    "cave": false
+  },
+  "biomesoplenty:old_growth_dead_forest": {
+    "r": 158,
+    "g": 140,
+    "b": 17,
+    "cave": false
+  },
+  "infinity:ant": {
+    "r": 101,
+    "g": 77,
+    "b": 87,
+    "cave": false
+  },
+  "biomesoplenty:fir_clearing": {
+    "r": 8,
+    "g": 7,
+    "b": 50,
+    "cave": false
+  },
+  "biomesoplenty:volcano": {
+    "r": 70,
+    "g": 176,
+    "b": 48,
+    "cave": false
+  },
+  "biomesoplenty:redwood_forest": {
+    "r": 99,
+    "g": 93,
+    "b": 47,
+    "cave": false
+  },
+  "biomesoplenty:coniferous_forest": {
+    "r": 187,
+    "g": 135,
+    "b": 1,
+    "cave": false
+  },
+  "biomesoplenty:dune_beach": {
+    "r": 98,
+    "g": 127,
+    "b": 231,
+    "cave": false
+  },
+  "vanillabackport:pale_garden": {
+    "r": 37,
+    "g": 172,
+    "b": 85,
+    "cave": false
+  },
+  "biomesoplenty:tropics": {
+    "r": 239,
+    "g": 92,
+    "b": 240,
+    "cave": false
+  },
+  "biomesoplenty:hot_springs": {
+    "r": 36,
+    "g": 94,
+    "b": 188,
+    "cave": false
+  },
+  "biomesoplenty:wasteland": {
+    "r": 51,
+    "g": 51,
+    "b": 15,
+    "cave": false
+  },
+  "infinity:end": {
+    "r": 251,
+    "g": 212,
+    "b": 67,
+    "cave": false
+  },
+  "gardens_of_the_dead:whistling_woods": {
+    "r": 25,
+    "g": 16,
+    "b": 30,
+    "cave": false
+  },
+  "deeperdarker:overcast_columns": {
+    "r": 227,
+    "g": 96,
+    "b": 151,
+    "cave": false
+  },
+  "infinity:terminal": {
+    "r": 45,
+    "g": 88,
+    "b": 153,
+    "cave": false
+  },
+  "biomesoplenty:lush_desert": {
+    "r": 113,
+    "g": 136,
+    "b": 197,
+    "cave": false
+  },
+  "biomesoplenty:overgrown_greens": {
+    "r": 0,
+    "g": 76,
+    "b": 105,
+    "cave": false
+  },
+  "biomesoplenty:orchard": {
+    "r": 144,
+    "g": 177,
+    "b": 33,
+    "cave": false
+  },
+  "biomesoplenty:seasonal_forest": {
+    "r": 242,
+    "g": 219,
+    "b": 2,
+    "cave": false
+  },
+  "infinity:chaos": {
+    "r": 117,
+    "g": 50,
+    "b": 67,
+    "cave": false
+  },
+  "infinity:chess": {
+    "r": 11,
+    "g": 56,
+    "b": 41,
+    "cave": false
+  },
+  "biomesoplenty:wetland": {
+    "r": 115,
+    "g": 83,
+    "b": 222,
+    "cave": false
+  },
+  "biomesoplenty:auroral_garden": {
+    "r": 95,
+    "g": 78,
+    "b": 255,
+    "cave": false
+  },
+  "biomesoplenty:woodland": {
+    "r": 96,
+    "g": 132,
+    "b": 68,
+    "cave": false
+  },
+  "biomesoplenty:lush_savanna": {
+    "r": 128,
+    "g": 156,
+    "b": 79,
+    "cave": false
+  },
+  "biomesoplenty:crag": {
+    "r": 110,
+    "g": 123,
+    "b": 135,
+    "cave": false
+  },
+  "biomesoplenty:snowy_coniferous_forest": {
+    "r": 190,
+    "g": 29,
+    "b": 205,
+    "cave": false
+  },
+  "terrablender:deferred_placeholder": {
+    "r": 250,
+    "g": 240,
+    "b": 234,
+    "cave": false
+  },
+  "infinity:isolation": {
+    "r": 211,
+    "g": 197,
+    "b": 86,
+    "cave": false
+  },
+  "biomesoplenty:highland": {
+    "r": 27,
+    "g": 48,
+    "b": 137,
+    "cave": false
+  },
+  "biomesoplenty:fungal_jungle": {
+    "r": 212,
+    "g": 36,
+    "b": 149,
+    "cave": false
+  },
+  "biomesoplenty:forested_field": {
+    "r": 134,
+    "g": 85,
+    "b": 174,
+    "cave": false
+  },
+  "biomesoplenty:undergrowth": {
+    "r": 169,
+    "g": 241,
+    "b": 107,
+    "cave": false
+  },
+  "biomesoplenty:field": {
+    "r": 69,
+    "g": 62,
+    "b": 21,
+    "cave": false
+  },
+  "biomesoplenty:spider_nest": {
+    "r": 112,
+    "g": 93,
+    "b": 155,
+    "cave": true
+  },
+  "biomesoplenty:end_corruption": {
+    "r": 195,
+    "g": 84,
+    "b": 196,
+    "cave": false
+  },
+  "infinity:perfection": {
+    "r": 209,
+    "g": 37,
+    "b": 22,
+    "cave": false
+  },
+  "deeperdarker:echoing_forest": {
+    "r": 202,
+    "g": 210,
+    "b": 3,
+    "cave": false
+  },
+  "infinity:custom": {
+    "r": 192,
+    "g": 98,
+    "b": 95,
+    "cave": false
+  },
+  "biomesoplenty:wasteland_steppe": {
+    "r": 57,
+    "g": 87,
+    "b": 176,
+    "cave": false
+  },
+  "biomesoplenty:snowy_maple_woods": {
+    "r": 5,
+    "g": 137,
+    "b": 61,
+    "cave": false
+  },
+  "biomesoplenty:marsh": {
+    "r": 146,
+    "g": 21,
+    "b": 82,
+    "cave": false
+  },
+  "biomesoplenty:origin_valley": {
+    "r": 121,
+    "g": 125,
+    "b": 47,
+    "cave": false
+  },
+  "deeperdarker:deeplands": {
+    "r": 236,
+    "g": 148,
+    "b": 246,
+    "cave": false
+  },
+  "biomesoplenty:wintry_origin_valley": {
+    "r": 215,
+    "g": 147,
+    "b": 201,
+    "cave": false
+  },
+  "biomesoplenty:rocky_shrubland": {
+    "r": 248,
+    "g": 176,
+    "b": 93,
+    "cave": false
+  },
+  "biomesoplenty:withered_abyss": {
+    "r": 30,
+    "g": 118,
+    "b": 102,
+    "cave": false
+  },
+  "biomesoplenty:scrubland": {
+    "r": 8,
+    "g": 118,
+    "b": 223,
+    "cave": false
+  },
+  "gardens_of_the_dead:soulblight_forest": {
+    "r": 21,
+    "g": 65,
+    "b": 114,
+    "cave": false
+  },
+  "biomesoplenty:pumpkin_patch": {
+    "r": 103,
+    "g": 205,
+    "b": 77,
+    "cave": false
+  }
+}

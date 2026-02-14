@@ -33,7 +33,8 @@
     "dev.latvian.mods.kubejs.client.KubeJSErrorScreen": true,
     "net.minecraft.client.gui.screens.packs.PackSelectionScreen": true,
     "dev.yurisuika.raised.client.gui.screens.RaisedScreen": true,
-    "com.necro.fireworkcapsules.common.gui.CapsuleStationScreen": true
+    "com.necro.fireworkcapsules.common.gui.CapsuleStationScreen": true,
+    "xaero.common.gui.GuiMinimapMain": true
   },
   "hideBackground": {
     "com.cobblemon.mod.common.client.gui.summary.Summary": true,

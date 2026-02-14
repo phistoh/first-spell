@@ -13,6 +13,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ritual to create an *Unbreakable Catalyst*
 - Recipes to "downgrade" ink
 - Added **Completionist's Index** mod
+- Added **MoogsEndStructure** and **Moog's Structure Lib** mod
+- Added **Enditions** mod
 
 ### Fixed
 
