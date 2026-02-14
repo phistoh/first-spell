@@ -42,6 +42,8 @@ ServerEvents.recipes((event) => {
 
   event.remove({ id: "unbreakablecatalyst:unbreakable_catalyst" });
 
+  event.remove({ id: "cobblemon:master_ball" });
+
   // double recipes
   event.remove({ id: "vanillabackport:saddle" });
   event.remove({ id: "leafscopperbackport:copper_nugget_recipe" });
