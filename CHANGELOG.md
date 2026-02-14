@@ -26,6 +26,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Recipe to craft a *Master Ball* ist now a ritual
 - Updated **Cobblemon Fight or Flight** from `0.10.5` to `0.10.6`
+- Updated **Supplementaries Squared** from `1.21-1.2.14` to `1.21-1.2.17`
+- Updated **Moonlight Lib** from `1.21-2.25.3` to `1.21-2.29.16`
 
 ### Removed
 
