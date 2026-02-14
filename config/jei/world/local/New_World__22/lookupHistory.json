@@ -1,5 +1,6 @@
 [
   {"version":1},
+  {"ingredient":{"id":"minecraft:stone_axe"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"irons_restrictions:unfinished_manuscript"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"irons_restrictions:manuscript","components":{"irons_restrictions:school_component":"irons_spellbooks:nature"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"irons_restrictions:manuscript","components":{"irons_restrictions:school_component":"irons_spellbooks:evocation"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
