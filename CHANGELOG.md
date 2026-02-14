@@ -5,6 +5,28 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.9] - 2026-02-14
+
+### Added
+
+- Datapack to disable *Endermen* picking up blocks (except *Pumpkins* and *Melons*)
+- Ritual to create an *Unbreakable Catalyst*
+- Recipes to "downgrade" ink
+- Added **Completionist's Index** mod
+
+### Fixed
+
+- *Automaton Trim* now has a proper effect
+- *Elytra curio slot* and *extra ring curio slot* now don't drop their contents on login
+- *Manuscript* transmutation now correctly uses foci
+
+### Changed
+
+- Recipe to craft a *Master Ball* ist now a ritual
+- Updated **Cobblemon Fight or Flight** from `0.10.5` to `0.10.6`
+
+### Removed
+
 ## [1.8] - 2026-02-07
 
 ### Added
