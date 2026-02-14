@@ -1,5 +1,7 @@
 [
   {"version":1},
+  {"ingredient":{"id":"irons_spellbooks:uncommon_ink"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_spellbooks:common_ink"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"cobblemon:master_ball"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"alshanex_familiars:ritual_core"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:potion","components":{"minecraft:potion_contents":{"potion":"apothic_attributes:strong_vitality"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},

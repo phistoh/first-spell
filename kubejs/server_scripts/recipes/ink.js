@@ -20,4 +20,32 @@ ServerEvents.recipes((event) => {
     "minecraft:feather",
     "minecraft:glass_bottle",
   ]);
+  
+  event.shapeless("3x irons_spellbooks:common_ink", [
+    "irons_spellbooks:uncommon_ink",
+    'minecraft:potion[potion_contents={potion:"water"}]',
+    'minecraft:potion[potion_contents={potion:"water"}]',
+    'minecraft:potion[potion_contents={potion:"water"}]'
+  ]);
+  
+  event.shapeless("3x irons_spellbooks:uncommon_ink", [
+    "irons_spellbooks:rare_ink",
+    'minecraft:potion[potion_contents={potion:"water"}]',
+    'minecraft:potion[potion_contents={potion:"water"}]',
+    'minecraft:potion[potion_contents={potion:"water"}]'
+  ]);
+  
+  event.shapeless("3x irons_spellbooks:rare_ink", [
+    "irons_spellbooks:epic_ink",
+    'minecraft:potion[potion_contents={potion:"water"}]',
+    'minecraft:potion[potion_contents={potion:"water"}]',
+    'minecraft:potion[potion_contents={potion:"water"}]'
+  ]);
+  
+  event.shapeless("3x irons_spellbooks:epic_ink", [
+    "irons_spellbooks:legendary_ink",
+    'minecraft:potion[potion_contents={potion:"water"}]',
+    'minecraft:potion[potion_contents={potion:"water"}]',
+    'minecraft:potion[potion_contents={potion:"water"}]'
+  ]);
 });
