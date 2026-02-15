@@ -106,7 +106,7 @@ LootJS.modifiers((event) => {
   ];
   for (const magic_mob of magic_mobs) {
     event.addTableModifier(magic_mobs).pool((pool) => {
-      pool.addEntry(LootEntry.reference("phis:manuscripts").randomChance(0.1));
+      pool.addEntry(LootEntry.reference("phis:manuscripts").killedByPlayer().randomChance(0.1));
     });
   }
 });
